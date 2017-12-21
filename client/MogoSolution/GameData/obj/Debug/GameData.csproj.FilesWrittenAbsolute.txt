@@ -1,0 +1,4 @@
+/Users/nic1207/ahzs-client/Assets/Scripts/libs/GameData.dll.mdb
+/Users/nic1207/ahzs-client/Assets/Scripts/libs/GameData.dll
+/Users/nic1207/ahzs-client/MogoSolution/GameData/obj/Debug/GameData.dll
+/Users/nic1207/ahzs-client/MogoSolution/GameData/obj/Debug/GameData.dll.mdb

@@ -1,0 +1,17 @@
+﻿<Properties StartupItem="GameData.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="UIMapData.cs">
+    <Files>
+      <File FileName="GameData.cs" Line="299" Column="29" />
+      <File FileName="CameraAnimData.cs" Line="1" Column="1" />
+      <File FileName="WingData.cs" Line="1" Column="1" />
+      <File FileName="MapUIMappingData.cs" Line="1" Column="1" />
+      <File FileName="MapData.cs" Line="1" Column="1" />
+      <File FileName="UIMapData.cs" Line="27" Column="47" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
