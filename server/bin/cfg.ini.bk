@@ -1,0 +1,103 @@
+####################################
+############# Database #############
+####################################
+[db]
+host = 127.0.0.1
+user=root
+port=3306
+db=card
+passwd=123456
+[log_db]
+host = 127.0.0.1
+user=root
+port=3306
+db=collector
+passwd=123456
+[redis]
+port=6379
+database_id = 1
+####################################
+############ IP LOCK ###############
+####################################
+[clients]
+trusted=127.0.0.1,192.168.200.1,192.168.200.102
+can_accepted_clients=127.0.0.1,192.168.200.1,192.168.200.102
+
+
+####################################
+###### Server configuration ########
+####################################
+[server_all]
+server_count= 7
+
+# Login server
+[server_1]
+type = loginapp
+ip = 192.168.200.102
+port = 8001
+
+# Base application manager
+[server_2]
+type = cwmd 
+ip = 192.168.200.102
+port = 8002 
+
+# Database manager
+[server_3]
+type = dbmgr
+ip = 192.168.200.102
+port = 8003
+
+# Date manager
+[server_4]
+type = timerd 
+ip = 192.168.200.102
+port = 8004
+
+# Logger
+[server_5]
+type = logapp 
+ip = 192.168.200.102
+port = 8005
+
+# Base application
+[server_6]
+type = baseapp
+ip = 192.168.200.102
+port = 8006
+
+# Mobile application
+[server_7]
+type = cellapp
+ip = 192.168.200.102
+port = 8007
+
+# Client;
+#[server_8]
+#type = crossclient
+#ip = 192.168.200.102
+#port = 8008
+
+#server
+#[server_8]
+#type = crossserver
+#ip = 192.168.200.102
+#port = 8008
+
+
+###########################
+###### Just path shit######
+###########################
+[init]
+def_path=/root/server/scripts/entity_defs
+log_path=./log
+lua_path=/root/server/scripts/
+rpt_path=/root/server/scripts/
+
+################################
+###### Just some extra shit#####
+################################
+[params]
+max_online_count = 100
+max_observer_count = 10
+max_follower_count = 20

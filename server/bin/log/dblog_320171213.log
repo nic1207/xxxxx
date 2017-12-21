@@ -1,0 +1,742 @@
+11:23:02.796358  [DEBUG   ][CWorldDbmgr::init()]a=1
+11:23:02.813270  [WARNING ][init_cfg]warning:missed section:server_8
+11:23:02.813339  [WARNING ][init_cfg]warning:missed section:server_9
+11:23:02.813357  [WARNING ][init_cfg]warning:missed section:server_10
+11:23:02.813372  [WARNING ][init_cfg]warning:missed section:server_11
+11:23:02.813387  [WARNING ][init_cfg]warning:missed section:server_12
+11:23:02.813401  [WARNING ][init_cfg]warning:missed section:server_13
+11:23:02.813415  [WARNING ][init_cfg]warning:missed section:server_14
+11:23:02.813429  [WARNING ][init_cfg]warning:missed section:server_15
+11:23:02.813444  [WARNING ][init_cfg]warning:missed section:server_16
+11:23:02.813458  [WARNING ][init_cfg]warning:missed section:server_17
+11:23:02.813472  [WARNING ][init_cfg]warning:missed section:server_18
+11:23:02.813486  [WARNING ][init_cfg]warning:missed section:server_19
+11:23:02.813500  [WARNING ][init_cfg]warning:missed section:server_20
+11:23:02.813514  [WARNING ][init_cfg]warning:missed section:server_21
+11:23:02.813528  [WARNING ][init_cfg]warning:missed section:server_22
+11:23:02.813542  [WARNING ][init_cfg]warning:missed section:server_23
+11:23:02.813556  [WARNING ][init_cfg]warning:missed section:server_24
+11:23:02.813570  [WARNING ][init_cfg]warning:missed section:server_25
+11:23:02.813584  [WARNING ][init_cfg]warning:missed section:server_26
+11:23:02.813598  [WARNING ][init_cfg]warning:missed section:server_27
+11:23:02.813612  [WARNING ][init_cfg]warning:missed section:server_28
+11:23:02.813626  [WARNING ][init_cfg]warning:missed section:server_29
+11:23:02.813892  [DEBUG   ][CDefParser::init]==========
+11:23:02.950641  [DEBUG   ][CDefParser::init]m_EntityDefMd5 = e5a2d6e9b88cff1622d5b58a25f71496
+11:23:02.950914  [DEBUG   ][CDefParser::init]==========
+11:23:03.086868  [DEBUG   ][CDefParser::init]m_EntityDefMd5 = e5a2d6e9b88cff1622d5b58a25f71496
+11:23:03.087078  [INFO    ][world::initNextEntityId]init_id=50331648
+11:23:03.087524  [DEBUG   ][CEpollServer::AddFdAndMb]serverName=
+11:23:03.101398  [DEBUG   ][CEpollServer::addFdAndMb]fd=4;fd_type=1;addr=;port=8003;authz=0
+11:23:03.101847  [DEBUG   ][start_server]:8003,success.
+11:23:03.102057  [DEBUG   ][CEpollServer::addFdAndMb]fd=10;fd_type=2;addr=192.168.1.102;port=8001;authz=0
+11:23:03.102089  [DEBUG   ][try_to_connect_mailbox]server=192.168.1.102;port=8001
+11:23:03.102146  [DEBUG   ][CEpollServer::addFdAndMb]fd=11;fd_type=2;addr=192.168.1.102;port=8002;authz=0
+11:23:03.102168  [DEBUG   ][try_to_connect_mailbox]server=192.168.1.102;port=8002
+11:23:03.102219  [DEBUG   ][CEpollServer::addFdAndMb]fd=12;fd_type=2;addr=192.168.1.102;port=8004;authz=0
+11:23:03.102241  [DEBUG   ][try_to_connect_mailbox]server=192.168.1.102;port=8004
+11:23:03.102373  [DEBUG   ][CEpollServer::addFdAndMb]fd=13;fd_type=2;addr=192.168.1.102;port=8005;authz=0
+11:23:03.102400  [DEBUG   ][try_to_connect_mailbox]server=192.168.1.102;port=8005
+11:23:03.102729  [DEBUG   ][CEpollServer::addFdAndMb]fd=14;fd_type=2;addr=192.168.1.102;port=8006;authz=0
+11:23:03.102768  [DEBUG   ][try_to_connect_mailbox]server=192.168.1.102;port=8006
+11:23:03.102819  [DEBUG   ][CEpollServer::addFdAndMb]fd=15;fd_type=2;addr=192.168.1.102;port=8007;authz=0
+11:23:03.102839  [DEBUG   ][try_to_connect_mailbox]server=192.168.1.102;port=8007
+11:23:03.109527  [INFO    ][redis_connect]SELECT 1
+11:23:03.109755  [INFO    ][redis_connect]SELECT 1
+11:23:03.110015  [INFO    ][redis_connect]SELECT 1
+11:23:03.110381  [INFO    ][redis_connect]SELECT 1
+11:24:06.223707  [INFO    ][connect_2_mb]connect 192.168.1.102:8001 error:110,Connection timed out
+11:24:06.223834  [DEBUG   ][CEpollServer::removeFd]fd=10;fd_type=2;addr=192.168.1.102;port=8001
+11:24:06.227226  [WARNING ][CEpollServer::addFdAndMb_err]desc=old_fd_mb;fd=10
+11:24:06.227285  [DEBUG   ][CEpollServer::addFdAndMb]fd=10;fd_type=2;addr=192.168.1.102;port=8001;authz=0
+11:24:06.227309  [INFO    ][connect_2_mb]connect 192.168.1.102:8002 error:110,Connection timed out
+11:24:06.227326  [DEBUG   ][CEpollServer::removeFd]fd=11;fd_type=2;addr=192.168.1.102;port=8002
+11:24:06.227432  [WARNING ][CEpollServer::addFdAndMb_err]desc=old_fd_mb;fd=11
+11:24:06.227471  [DEBUG   ][CEpollServer::addFdAndMb]fd=11;fd_type=2;addr=192.168.1.102;port=8002;authz=0
+11:24:06.227483  [INFO    ][connect_2_mb]connect 192.168.1.102:8004 error:110,Connection timed out
+11:24:06.227491  [DEBUG   ][CEpollServer::removeFd]fd=12;fd_type=2;addr=192.168.1.102;port=8004
+11:24:06.227625  [WARNING ][CEpollServer::addFdAndMb_err]desc=old_fd_mb;fd=12
+11:24:06.227673  [DEBUG   ][CEpollServer::addFdAndMb]fd=12;fd_type=2;addr=192.168.1.102;port=8004;authz=0
+11:24:06.227697  [INFO    ][connect_2_mb]connect 192.168.1.102:8005 error:110,Connection timed out
+11:24:06.227711  [DEBUG   ][CEpollServer::removeFd]fd=13;fd_type=2;addr=192.168.1.102;port=8005
+11:24:06.227851  [WARNING ][CEpollServer::addFdAndMb_err]desc=old_fd_mb;fd=13
+11:24:06.227878  [DEBUG   ][CEpollServer::addFdAndMb]fd=13;fd_type=2;addr=192.168.1.102;port=8005;authz=0
+11:24:06.227926  [INFO    ][connect_2_mb]connect 192.168.1.102:8006 error:110,Connection timed out
+11:24:06.227940  [DEBUG   ][CEpollServer::removeFd]fd=14;fd_type=2;addr=192.168.1.102;port=8006
+11:24:06.228042  [WARNING ][CEpollServer::addFdAndMb_err]desc=old_fd_mb;fd=14
+11:24:06.228244  [DEBUG   ][CEpollServer::addFdAndMb]fd=14;fd_type=2;addr=192.168.1.102;port=8006;authz=0
+11:24:06.228264  [INFO    ][connect_2_mb]connect 192.168.1.102:8007 error:110,Connection timed out
+11:24:06.228278  [DEBUG   ][CEpollServer::removeFd]fd=15;fd_type=2;addr=192.168.1.102;port=8007
+11:24:06.228500  [WARNING ][CEpollServer::addFdAndMb_err]desc=old_fd_mb;fd=15
+11:24:06.228524  [DEBUG   ][CEpollServer::addFdAndMb]fd=15;fd_type=2;addr=192.168.1.102;port=8007;authz=0
+11:25:09.328464  [INFO    ][connect_2_mb]connect 192.168.1.102:8001 error:110,Connection timed out
+11:25:09.328661  [DEBUG   ][CEpollServer::removeFd]fd=10;fd_type=2;addr=192.168.1.102;port=8001
+11:25:09.328857  [WARNING ][CEpollServer::addFdAndMb_err]desc=old_fd_mb;fd=10
+11:25:09.328883  [DEBUG   ][CEpollServer::addFdAndMb]fd=10;fd_type=2;addr=192.168.1.102;port=8001;authz=0
+11:25:09.328896  [INFO    ][connect_2_mb]connect 192.168.1.102:8002 error:110,Connection timed out
+11:25:09.328904  [DEBUG   ][CEpollServer::removeFd]fd=11;fd_type=2;addr=192.168.1.102;port=8002
+11:25:09.329014  [WARNING ][CEpollServer::addFdAndMb_err]desc=old_fd_mb;fd=11
+11:25:09.329042  [DEBUG   ][CEpollServer::addFdAndMb]fd=11;fd_type=2;addr=192.168.1.102;port=8002;authz=0
+11:25:09.392832  [INFO    ][connect_2_mb]connect 192.168.1.102:8004 error:110,Connection timed out
+11:25:09.392862  [DEBUG   ][CEpollServer::removeFd]fd=12;fd_type=2;addr=192.168.1.102;port=8004
+11:25:09.392964  [WARNING ][CEpollServer::addFdAndMb_err]desc=old_fd_mb;fd=12
+11:25:09.392989  [DEBUG   ][CEpollServer::addFdAndMb]fd=12;fd_type=2;addr=192.168.1.102;port=8004;authz=0
+11:25:09.393001  [INFO    ][connect_2_mb]connect 192.168.1.102:8005 error:110,Connection timed out
+11:25:09.393010  [DEBUG   ][CEpollServer::removeFd]fd=13;fd_type=2;addr=192.168.1.102;port=8005
+11:25:09.393101  [WARNING ][CEpollServer::addFdAndMb_err]desc=old_fd_mb;fd=13
+11:25:09.393125  [DEBUG   ][CEpollServer::addFdAndMb]fd=13;fd_type=2;addr=192.168.1.102;port=8005;authz=0
+11:25:09.393136  [INFO    ][connect_2_mb]connect 192.168.1.102:8006 error:110,Connection timed out
+11:25:09.393145  [DEBUG   ][CEpollServer::removeFd]fd=14;fd_type=2;addr=192.168.1.102;port=8006
+11:25:09.393234  [WARNING ][CEpollServer::addFdAndMb_err]desc=old_fd_mb;fd=14
+11:25:09.393258  [DEBUG   ][CEpollServer::addFdAndMb]fd=14;fd_type=2;addr=192.168.1.102;port=8006;authz=0
+11:25:09.393269  [INFO    ][connect_2_mb]connect 192.168.1.102:8007 error:110,Connection timed out
+11:25:09.393278  [DEBUG   ][CEpollServer::removeFd]fd=15;fd_type=2;addr=192.168.1.102;port=8007
+11:25:09.393366  [WARNING ][CEpollServer::addFdAndMb_err]desc=old_fd_mb;fd=15
+11:25:09.393389  [DEBUG   ][CEpollServer::addFdAndMb]fd=15;fd_type=2;addr=192.168.1.102;port=8007;authz=0
+11:26:12.432107  [INFO    ][connect_2_mb]connect 192.168.1.102:8001 error:110,Connection timed out
+11:26:12.432165  [DEBUG   ][CEpollServer::removeFd]fd=10;fd_type=2;addr=192.168.1.102;port=8001
+11:26:12.432387  [WARNING ][CEpollServer::addFdAndMb_err]desc=old_fd_mb;fd=10
+11:26:12.432416  [DEBUG   ][CEpollServer::addFdAndMb]fd=10;fd_type=2;addr=192.168.1.102;port=8001;authz=0
+11:26:12.432427  [INFO    ][connect_2_mb]connect 192.168.1.102:8002 error:110,Connection timed out
+11:26:12.432434  [DEBUG   ][CEpollServer::removeFd]fd=11;fd_type=2;addr=192.168.1.102;port=8002
+11:26:12.432523  [WARNING ][CEpollServer::addFdAndMb_err]desc=old_fd_mb;fd=11
+11:26:12.432654  [DEBUG   ][CEpollServer::addFdAndMb]fd=11;fd_type=2;addr=192.168.1.102;port=8002;authz=0
+11:26:12.496962  [INFO    ][connect_2_mb]connect 192.168.1.102:8004 error:110,Connection timed out
+11:26:12.496987  [DEBUG   ][CEpollServer::removeFd]fd=12;fd_type=2;addr=192.168.1.102;port=8004
+11:26:12.497074  [WARNING ][CEpollServer::addFdAndMb_err]desc=old_fd_mb;fd=12
+11:26:12.497095  [DEBUG   ][CEpollServer::addFdAndMb]fd=12;fd_type=2;addr=192.168.1.102;port=8004;authz=0
+11:26:12.497105  [INFO    ][connect_2_mb]connect 192.168.1.102:8005 error:110,Connection timed out
+11:26:12.497112  [DEBUG   ][CEpollServer::removeFd]fd=13;fd_type=2;addr=192.168.1.102;port=8005
+11:26:12.497192  [WARNING ][CEpollServer::addFdAndMb_err]desc=old_fd_mb;fd=13
+11:26:12.497217  [DEBUG   ][CEpollServer::addFdAndMb]fd=13;fd_type=2;addr=192.168.1.102;port=8005;authz=0
+11:26:12.497227  [INFO    ][connect_2_mb]connect 192.168.1.102:8006 error:110,Connection timed out
+11:26:12.497234  [DEBUG   ][CEpollServer::removeFd]fd=14;fd_type=2;addr=192.168.1.102;port=8006
+11:26:12.497349  [WARNING ][CEpollServer::addFdAndMb_err]desc=old_fd_mb;fd=14
+11:26:12.497388  [DEBUG   ][CEpollServer::addFdAndMb]fd=14;fd_type=2;addr=192.168.1.102;port=8006;authz=0
+11:26:12.497397  [INFO    ][connect_2_mb]connect 192.168.1.102:8007 error:110,Connection timed out
+11:26:12.497404  [DEBUG   ][CEpollServer::removeFd]fd=15;fd_type=2;addr=192.168.1.102;port=8007
+11:26:12.497485  [WARNING ][CEpollServer::addFdAndMb_err]desc=old_fd_mb;fd=15
+11:26:12.497506  [DEBUG   ][CEpollServer::addFdAndMb]fd=15;fd_type=2;addr=192.168.1.102;port=8007;authz=0
+11:27:15.536704  [INFO    ][connect_2_mb]connect 192.168.1.102:8001 error:110,Connection timed out
+11:27:15.536795  [DEBUG   ][CEpollServer::removeFd]fd=10;fd_type=2;addr=192.168.1.102;port=8001
+11:27:15.537073  [WARNING ][CEpollServer::addFdAndMb_err]desc=old_fd_mb;fd=10
+11:27:15.537141  [DEBUG   ][CEpollServer::addFdAndMb]fd=10;fd_type=2;addr=192.168.1.102;port=8001;authz=0
+11:27:15.537164  [INFO    ][connect_2_mb]connect 192.168.1.102:8002 error:110,Connection timed out
+11:27:15.537179  [DEBUG   ][CEpollServer::removeFd]fd=11;fd_type=2;addr=192.168.1.102;port=8002
+11:27:15.537361  [WARNING ][CEpollServer::addFdAndMb_err]desc=old_fd_mb;fd=11
+11:27:15.537406  [DEBUG   ][CEpollServer::addFdAndMb]fd=11;fd_type=2;addr=192.168.1.102;port=8002;authz=0
+11:27:15.600876  [INFO    ][connect_2_mb]connect 192.168.1.102:8004 error:110,Connection timed out
+11:27:15.600901  [DEBUG   ][CEpollServer::removeFd]fd=12;fd_type=2;addr=192.168.1.102;port=8004
+11:27:15.600989  [WARNING ][CEpollServer::addFdAndMb_err]desc=old_fd_mb;fd=12
+11:27:15.601014  [DEBUG   ][CEpollServer::addFdAndMb]fd=12;fd_type=2;addr=192.168.1.102;port=8004;authz=0
+11:27:15.601031  [INFO    ][connect_2_mb]connect 192.168.1.102:8005 error:110,Connection timed out
+11:27:15.601045  [DEBUG   ][CEpollServer::removeFd]fd=13;fd_type=2;addr=192.168.1.102;port=8005
+11:27:15.601193  [WARNING ][CEpollServer::addFdAndMb_err]desc=old_fd_mb;fd=13
+11:27:15.601228  [DEBUG   ][CEpollServer::addFdAndMb]fd=13;fd_type=2;addr=192.168.1.102;port=8005;authz=0
+11:27:15.601247  [INFO    ][connect_2_mb]connect 192.168.1.102:8006 error:110,Connection timed out
+11:27:15.601260  [DEBUG   ][CEpollServer::removeFd]fd=14;fd_type=2;addr=192.168.1.102;port=8006
+11:27:15.601444  [WARNING ][CEpollServer::addFdAndMb_err]desc=old_fd_mb;fd=14
+11:27:15.601584  [DEBUG   ][CEpollServer::addFdAndMb]fd=14;fd_type=2;addr=192.168.1.102;port=8006;authz=0
+11:27:15.601612  [INFO    ][connect_2_mb]connect 192.168.1.102:8007 error:110,Connection timed out
+11:27:15.601635  [DEBUG   ][CEpollServer::removeFd]fd=15;fd_type=2;addr=192.168.1.102;port=8007
+11:27:15.601742  [WARNING ][CEpollServer::addFdAndMb_err]desc=old_fd_mb;fd=15
+11:27:15.601767  [DEBUG   ][CEpollServer::addFdAndMb]fd=15;fd_type=2;addr=192.168.1.102;port=8007;authz=0
+11:28:18.639684  [INFO    ][connect_2_mb]connect 192.168.1.102:8001 error:110,Connection timed out
+11:28:18.639749  [DEBUG   ][CEpollServer::removeFd]fd=10;fd_type=2;addr=192.168.1.102;port=8001
+11:28:18.639961  [WARNING ][CEpollServer::addFdAndMb_err]desc=old_fd_mb;fd=10
+11:28:18.639986  [DEBUG   ][CEpollServer::addFdAndMb]fd=10;fd_type=2;addr=192.168.1.102;port=8001;authz=0
+11:28:18.639997  [INFO    ][connect_2_mb]connect 192.168.1.102:8002 error:110,Connection timed out
+11:28:18.640005  [DEBUG   ][CEpollServer::removeFd]fd=11;fd_type=2;addr=192.168.1.102;port=8002
+11:28:18.640093  [WARNING ][CEpollServer::addFdAndMb_err]desc=old_fd_mb;fd=11
+11:28:18.640115  [DEBUG   ][CEpollServer::addFdAndMb]fd=11;fd_type=2;addr=192.168.1.102;port=8002;authz=0
+11:28:18.704621  [INFO    ][connect_2_mb]connect 192.168.1.102:8004 error:110,Connection timed out
+11:28:18.704657  [DEBUG   ][CEpollServer::removeFd]fd=12;fd_type=2;addr=192.168.1.102;port=8004
+11:28:18.704801  [WARNING ][CEpollServer::addFdAndMb_err]desc=old_fd_mb;fd=12
+11:28:18.704820  [DEBUG   ][CEpollServer::addFdAndMb]fd=12;fd_type=2;addr=192.168.1.102;port=8004;authz=0
+11:28:18.704831  [INFO    ][connect_2_mb]connect 192.168.1.102:8005 error:110,Connection timed out
+11:28:18.704838  [DEBUG   ][CEpollServer::removeFd]fd=13;fd_type=2;addr=192.168.1.102;port=8005
+11:28:18.704907  [WARNING ][CEpollServer::addFdAndMb_err]desc=old_fd_mb;fd=13
+11:28:18.704929  [DEBUG   ][CEpollServer::addFdAndMb]fd=13;fd_type=2;addr=192.168.1.102;port=8005;authz=0
+11:28:18.704938  [INFO    ][connect_2_mb]connect 192.168.1.102:8006 error:110,Connection timed out
+11:28:18.704946  [DEBUG   ][CEpollServer::removeFd]fd=14;fd_type=2;addr=192.168.1.102;port=8006
+11:28:18.705036  [WARNING ][CEpollServer::addFdAndMb_err]desc=old_fd_mb;fd=14
+11:28:18.705220  [DEBUG   ][CEpollServer::addFdAndMb]fd=14;fd_type=2;addr=192.168.1.102;port=8006;authz=0
+11:28:18.705252  [INFO    ][connect_2_mb]connect 192.168.1.102:8007 error:110,Connection timed out
+11:28:18.705267  [DEBUG   ][CEpollServer::removeFd]fd=15;fd_type=2;addr=192.168.1.102;port=8007
+11:28:18.705376  [WARNING ][CEpollServer::addFdAndMb_err]desc=old_fd_mb;fd=15
+11:28:18.705398  [DEBUG   ][CEpollServer::addFdAndMb]fd=15;fd_type=2;addr=192.168.1.102;port=8007;authz=0
+11:29:21.744684  [INFO    ][connect_2_mb]connect 192.168.1.102:8001 error:110,Connection timed out
+11:29:21.744746  [DEBUG   ][CEpollServer::removeFd]fd=10;fd_type=2;addr=192.168.1.102;port=8001
+11:29:21.744889  [WARNING ][CEpollServer::addFdAndMb_err]desc=old_fd_mb;fd=10
+11:29:21.744913  [DEBUG   ][CEpollServer::addFdAndMb]fd=10;fd_type=2;addr=192.168.1.102;port=8001;authz=0
+11:29:21.744925  [INFO    ][connect_2_mb]connect 192.168.1.102:8002 error:110,Connection timed out
+11:29:21.744933  [DEBUG   ][CEpollServer::removeFd]fd=11;fd_type=2;addr=192.168.1.102;port=8002
+11:29:21.745004  [WARNING ][CEpollServer::addFdAndMb_err]desc=old_fd_mb;fd=11
+11:29:21.745077  [DEBUG   ][CEpollServer::addFdAndMb]fd=11;fd_type=2;addr=192.168.1.102;port=8002;authz=0
+11:29:21.809200  [INFO    ][connect_2_mb]connect 192.168.1.102:8004 error:110,Connection timed out
+11:29:21.809229  [DEBUG   ][CEpollServer::removeFd]fd=12;fd_type=2;addr=192.168.1.102;port=8004
+11:29:21.809331  [WARNING ][CEpollServer::addFdAndMb_err]desc=old_fd_mb;fd=12
+11:29:21.809359  [DEBUG   ][CEpollServer::addFdAndMb]fd=12;fd_type=2;addr=192.168.1.102;port=8004;authz=0
+11:29:21.809371  [INFO    ][connect_2_mb]connect 192.168.1.102:8005 error:110,Connection timed out
+11:29:21.809380  [DEBUG   ][CEpollServer::removeFd]fd=13;fd_type=2;addr=192.168.1.102;port=8005
+11:29:21.809520  [WARNING ][CEpollServer::addFdAndMb_err]desc=old_fd_mb;fd=13
+11:29:21.809548  [DEBUG   ][CEpollServer::addFdAndMb]fd=13;fd_type=2;addr=192.168.1.102;port=8005;authz=0
+11:29:21.809568  [INFO    ][connect_2_mb]connect 192.168.1.102:8006 error:110,Connection timed out
+11:29:21.809578  [DEBUG   ][CEpollServer::removeFd]fd=14;fd_type=2;addr=192.168.1.102;port=8006
+11:29:21.809707  [WARNING ][CEpollServer::addFdAndMb_err]desc=old_fd_mb;fd=14
+11:29:21.809734  [DEBUG   ][CEpollServer::addFdAndMb]fd=14;fd_type=2;addr=192.168.1.102;port=8006;authz=0
+11:29:21.809745  [INFO    ][connect_2_mb]connect 192.168.1.102:8007 error:110,Connection timed out
+11:29:21.809754  [DEBUG   ][CEpollServer::removeFd]fd=15;fd_type=2;addr=192.168.1.102;port=8007
+11:29:21.809841  [WARNING ][CEpollServer::addFdAndMb_err]desc=old_fd_mb;fd=15
+11:29:21.809900  [DEBUG   ][CEpollServer::addFdAndMb]fd=15;fd_type=2;addr=192.168.1.102;port=8007;authz=0
+11:30:24.847737  [INFO    ][connect_2_mb]connect 192.168.1.102:8001 error:110,Connection timed out
+11:30:24.847805  [DEBUG   ][CEpollServer::removeFd]fd=10;fd_type=2;addr=192.168.1.102;port=8001
+11:30:24.847976  [WARNING ][CEpollServer::addFdAndMb_err]desc=old_fd_mb;fd=10
+11:30:24.848002  [DEBUG   ][CEpollServer::addFdAndMb]fd=10;fd_type=2;addr=192.168.1.102;port=8001;authz=0
+11:30:24.848014  [INFO    ][connect_2_mb]connect 192.168.1.102:8002 error:110,Connection timed out
+11:30:24.848022  [DEBUG   ][CEpollServer::removeFd]fd=11;fd_type=2;addr=192.168.1.102;port=8002
+11:30:24.848135  [WARNING ][CEpollServer::addFdAndMb_err]desc=old_fd_mb;fd=11
+11:30:24.848158  [DEBUG   ][CEpollServer::addFdAndMb]fd=11;fd_type=2;addr=192.168.1.102;port=8002;authz=0
+11:30:24.913103  [INFO    ][connect_2_mb]connect 192.168.1.102:8004 error:110,Connection timed out
+11:30:24.913141  [DEBUG   ][CEpollServer::removeFd]fd=12;fd_type=2;addr=192.168.1.102;port=8004
+11:30:24.913262  [WARNING ][CEpollServer::addFdAndMb_err]desc=old_fd_mb;fd=12
+11:30:24.913286  [DEBUG   ][CEpollServer::addFdAndMb]fd=12;fd_type=2;addr=192.168.1.102;port=8004;authz=0
+11:30:24.913297  [INFO    ][connect_2_mb]connect 192.168.1.102:8005 error:110,Connection timed out
+11:30:24.913306  [DEBUG   ][CEpollServer::removeFd]fd=13;fd_type=2;addr=192.168.1.102;port=8005
+11:30:24.913377  [WARNING ][CEpollServer::addFdAndMb_err]desc=old_fd_mb;fd=13
+11:30:24.913399  [DEBUG   ][CEpollServer::addFdAndMb]fd=13;fd_type=2;addr=192.168.1.102;port=8005;authz=0
+11:30:24.913409  [INFO    ][connect_2_mb]connect 192.168.1.102:8006 error:110,Connection timed out
+11:30:24.913416  [DEBUG   ][CEpollServer::removeFd]fd=14;fd_type=2;addr=192.168.1.102;port=8006
+11:30:24.913484  [WARNING ][CEpollServer::addFdAndMb_err]desc=old_fd_mb;fd=14
+11:30:24.913506  [DEBUG   ][CEpollServer::addFdAndMb]fd=14;fd_type=2;addr=192.168.1.102;port=8006;authz=0
+11:30:24.913516  [INFO    ][connect_2_mb]connect 192.168.1.102:8007 error:110,Connection timed out
+11:30:24.913523  [DEBUG   ][CEpollServer::removeFd]fd=15;fd_type=2;addr=192.168.1.102;port=8007
+11:30:24.913590  [WARNING ][CEpollServer::addFdAndMb_err]desc=old_fd_mb;fd=15
+11:30:24.913611  [DEBUG   ][CEpollServer::addFdAndMb]fd=15;fd_type=2;addr=192.168.1.102;port=8007;authz=0
+11:31:27.952319  [INFO    ][connect_2_mb]connect 192.168.1.102:8001 error:110,Connection timed out
+11:31:27.952426  [DEBUG   ][CEpollServer::removeFd]fd=10;fd_type=2;addr=192.168.1.102;port=8001
+11:31:27.952682  [WARNING ][CEpollServer::addFdAndMb_err]desc=old_fd_mb;fd=10
+11:31:27.952728  [DEBUG   ][CEpollServer::addFdAndMb]fd=10;fd_type=2;addr=192.168.1.102;port=8001;authz=0
+11:31:27.952757  [INFO    ][connect_2_mb]connect 192.168.1.102:8002 error:110,Connection timed out
+11:31:27.952780  [DEBUG   ][CEpollServer::removeFd]fd=11;fd_type=2;addr=192.168.1.102;port=8002
+11:31:27.953041  [WARNING ][CEpollServer::addFdAndMb_err]desc=old_fd_mb;fd=11
+11:31:27.953088  [DEBUG   ][CEpollServer::addFdAndMb]fd=11;fd_type=2;addr=192.168.1.102;port=8002;authz=0
+11:31:28.016578  [INFO    ][connect_2_mb]connect 192.168.1.102:8004 error:110,Connection timed out
+11:31:28.016604  [DEBUG   ][CEpollServer::removeFd]fd=12;fd_type=2;addr=192.168.1.102;port=8004
+11:31:28.016680  [WARNING ][CEpollServer::addFdAndMb_err]desc=old_fd_mb;fd=12
+11:31:28.016702  [DEBUG   ][CEpollServer::addFdAndMb]fd=12;fd_type=2;addr=192.168.1.102;port=8004;authz=0
+11:31:28.016721  [INFO    ][connect_2_mb]connect 192.168.1.102:8005 error:110,Connection timed out
+11:31:28.016729  [DEBUG   ][CEpollServer::removeFd]fd=13;fd_type=2;addr=192.168.1.102;port=8005
+11:31:28.016796  [WARNING ][CEpollServer::addFdAndMb_err]desc=old_fd_mb;fd=13
+11:31:28.016819  [DEBUG   ][CEpollServer::addFdAndMb]fd=13;fd_type=2;addr=192.168.1.102;port=8005;authz=0
+11:31:28.016828  [INFO    ][connect_2_mb]connect 192.168.1.102:8006 error:110,Connection timed out
+11:31:28.016836  [DEBUG   ][CEpollServer::removeFd]fd=14;fd_type=2;addr=192.168.1.102;port=8006
+11:31:28.016902  [WARNING ][CEpollServer::addFdAndMb_err]desc=old_fd_mb;fd=14
+11:31:28.016923  [DEBUG   ][CEpollServer::addFdAndMb]fd=14;fd_type=2;addr=192.168.1.102;port=8006;authz=0
+11:31:28.016932  [INFO    ][connect_2_mb]connect 192.168.1.102:8007 error:110,Connection timed out
+11:31:28.016939  [DEBUG   ][CEpollServer::removeFd]fd=15;fd_type=2;addr=192.168.1.102;port=8007
+11:31:28.017005  [WARNING ][CEpollServer::addFdAndMb_err]desc=old_fd_mb;fd=15
+11:31:28.017026  [DEBUG   ][CEpollServer::addFdAndMb]fd=15;fd_type=2;addr=192.168.1.102;port=8007;authz=0
+11:32:31.055944  [INFO    ][connect_2_mb]connect 192.168.1.102:8001 error:110,Connection timed out
+11:32:31.056009  [DEBUG   ][CEpollServer::removeFd]fd=10;fd_type=2;addr=192.168.1.102;port=8001
+11:32:31.056220  [WARNING ][CEpollServer::addFdAndMb_err]desc=old_fd_mb;fd=10
+11:32:31.056245  [DEBUG   ][CEpollServer::addFdAndMb]fd=10;fd_type=2;addr=192.168.1.102;port=8001;authz=0
+11:32:31.056257  [INFO    ][connect_2_mb]connect 192.168.1.102:8002 error:110,Connection timed out
+11:32:31.056264  [DEBUG   ][CEpollServer::removeFd]fd=11;fd_type=2;addr=192.168.1.102;port=8002
+11:32:31.056380  [WARNING ][CEpollServer::addFdAndMb_err]desc=old_fd_mb;fd=11
+11:32:31.056422  [DEBUG   ][CEpollServer::addFdAndMb]fd=11;fd_type=2;addr=192.168.1.102;port=8002;authz=0
+11:32:31.121688  [INFO    ][connect_2_mb]connect 192.168.1.102:8004 error:110,Connection timed out
+11:32:31.121717  [DEBUG   ][CEpollServer::removeFd]fd=12;fd_type=2;addr=192.168.1.102;port=8004
+11:32:31.121951  [WARNING ][CEpollServer::addFdAndMb_err]desc=old_fd_mb;fd=12
+11:32:31.121977  [DEBUG   ][CEpollServer::addFdAndMb]fd=12;fd_type=2;addr=192.168.1.102;port=8004;authz=0
+11:32:31.122033  [INFO    ][connect_2_mb]connect 192.168.1.102:8005 error:110,Connection timed out
+11:32:31.122086  [DEBUG   ][CEpollServer::removeFd]fd=13;fd_type=2;addr=192.168.1.102;port=8005
+11:32:31.122363  [WARNING ][CEpollServer::addFdAndMb_err]desc=old_fd_mb;fd=13
+11:32:31.122392  [DEBUG   ][CEpollServer::addFdAndMb]fd=13;fd_type=2;addr=192.168.1.102;port=8005;authz=0
+11:32:31.122405  [INFO    ][connect_2_mb]connect 192.168.1.102:8006 error:110,Connection timed out
+11:32:31.122416  [DEBUG   ][CEpollServer::removeFd]fd=14;fd_type=2;addr=192.168.1.102;port=8006
+11:32:31.122504  [WARNING ][CEpollServer::addFdAndMb_err]desc=old_fd_mb;fd=14
+11:32:31.122526  [DEBUG   ][CEpollServer::addFdAndMb]fd=14;fd_type=2;addr=192.168.1.102;port=8006;authz=0
+11:32:31.122536  [INFO    ][connect_2_mb]connect 192.168.1.102:8007 error:110,Connection timed out
+11:32:31.122544  [DEBUG   ][CEpollServer::removeFd]fd=15;fd_type=2;addr=192.168.1.102;port=8007
+11:32:31.122622  [WARNING ][CEpollServer::addFdAndMb_err]desc=old_fd_mb;fd=15
+11:32:31.122643  [DEBUG   ][CEpollServer::addFdAndMb]fd=15;fd_type=2;addr=192.168.1.102;port=8007;authz=0
+11:33:34.162522  [INFO    ][connect_2_mb]connect 192.168.1.102:8001 error:110,Connection timed out
+11:33:34.162584  [DEBUG   ][CEpollServer::removeFd]fd=10;fd_type=2;addr=192.168.1.102;port=8001
+11:33:34.162715  [WARNING ][CEpollServer::addFdAndMb_err]desc=old_fd_mb;fd=10
+11:33:34.162827  [DEBUG   ][CEpollServer::addFdAndMb]fd=10;fd_type=2;addr=192.168.1.102;port=8001;authz=0
+11:33:34.162840  [INFO    ][connect_2_mb]connect 192.168.1.102:8002 error:110,Connection timed out
+11:33:34.162848  [DEBUG   ][CEpollServer::removeFd]fd=11;fd_type=2;addr=192.168.1.102;port=8002
+11:33:34.162940  [WARNING ][CEpollServer::addFdAndMb_err]desc=old_fd_mb;fd=11
+11:33:34.162972  [DEBUG   ][CEpollServer::addFdAndMb]fd=11;fd_type=2;addr=192.168.1.102;port=8002;authz=0
+11:33:34.224605  [INFO    ][connect_2_mb]connect 192.168.1.102:8004 error:110,Connection timed out
+11:33:34.224632  [DEBUG   ][CEpollServer::removeFd]fd=12;fd_type=2;addr=192.168.1.102;port=8004
+11:33:34.224708  [WARNING ][CEpollServer::addFdAndMb_err]desc=old_fd_mb;fd=12
+11:33:34.224730  [DEBUG   ][CEpollServer::addFdAndMb]fd=12;fd_type=2;addr=192.168.1.102;port=8004;authz=0
+11:33:34.224740  [INFO    ][connect_2_mb]connect 192.168.1.102:8005 error:110,Connection timed out
+11:33:34.224748  [DEBUG   ][CEpollServer::removeFd]fd=13;fd_type=2;addr=192.168.1.102;port=8005
+11:33:34.224816  [WARNING ][CEpollServer::addFdAndMb_err]desc=old_fd_mb;fd=13
+11:33:34.224839  [DEBUG   ][CEpollServer::addFdAndMb]fd=13;fd_type=2;addr=192.168.1.102;port=8005;authz=0
+11:33:34.224848  [INFO    ][connect_2_mb]connect 192.168.1.102:8006 error:110,Connection timed out
+11:33:34.224855  [DEBUG   ][CEpollServer::removeFd]fd=14;fd_type=2;addr=192.168.1.102;port=8006
+11:33:34.224922  [WARNING ][CEpollServer::addFdAndMb_err]desc=old_fd_mb;fd=14
+11:33:34.224943  [DEBUG   ][CEpollServer::addFdAndMb]fd=14;fd_type=2;addr=192.168.1.102;port=8006;authz=0
+11:33:34.224951  [INFO    ][connect_2_mb]connect 192.168.1.102:8007 error:110,Connection timed out
+11:33:34.224958  [DEBUG   ][CEpollServer::removeFd]fd=15;fd_type=2;addr=192.168.1.102;port=8007
+11:33:34.225024  [WARNING ][CEpollServer::addFdAndMb_err]desc=old_fd_mb;fd=15
+11:33:34.225046  [DEBUG   ][CEpollServer::addFdAndMb]fd=15;fd_type=2;addr=192.168.1.102;port=8007;authz=0
+11:34:37.327786  [INFO    ][connect_2_mb]connect 192.168.1.102:8001 error:110,Connection timed out
+11:34:37.327850  [DEBUG   ][CEpollServer::removeFd]fd=10;fd_type=2;addr=192.168.1.102;port=8001
+11:34:37.327998  [WARNING ][CEpollServer::addFdAndMb_err]desc=old_fd_mb;fd=10
+11:34:37.328024  [DEBUG   ][CEpollServer::addFdAndMb]fd=10;fd_type=2;addr=192.168.1.102;port=8001;authz=0
+11:34:37.328036  [INFO    ][connect_2_mb]connect 192.168.1.102:8002 error:110,Connection timed out
+11:34:37.328043  [DEBUG   ][CEpollServer::removeFd]fd=11;fd_type=2;addr=192.168.1.102;port=8002
+11:34:37.328132  [WARNING ][CEpollServer::addFdAndMb_err]desc=old_fd_mb;fd=11
+11:34:37.328158  [DEBUG   ][CEpollServer::addFdAndMb]fd=11;fd_type=2;addr=192.168.1.102;port=8002;authz=0
+11:34:37.328211  [INFO    ][connect_2_mb]connect 192.168.1.102:8004 error:110,Connection timed out
+11:34:37.328225  [DEBUG   ][CEpollServer::removeFd]fd=12;fd_type=2;addr=192.168.1.102;port=8004
+11:34:37.328425  [WARNING ][CEpollServer::addFdAndMb_err]desc=old_fd_mb;fd=12
+11:34:37.328467  [DEBUG   ][CEpollServer::addFdAndMb]fd=12;fd_type=2;addr=192.168.1.102;port=8004;authz=0
+11:34:37.328536  [INFO    ][connect_2_mb]connect 192.168.1.102:8005 error:110,Connection timed out
+11:34:37.328545  [DEBUG   ][CEpollServer::removeFd]fd=13;fd_type=2;addr=192.168.1.102;port=8005
+11:34:37.328634  [WARNING ][CEpollServer::addFdAndMb_err]desc=old_fd_mb;fd=13
+11:34:37.328684  [DEBUG   ][CEpollServer::addFdAndMb]fd=13;fd_type=2;addr=192.168.1.102;port=8005;authz=0
+11:34:37.328699  [INFO    ][connect_2_mb]connect 192.168.1.102:8006 error:110,Connection timed out
+11:34:37.328706  [DEBUG   ][CEpollServer::removeFd]fd=14;fd_type=2;addr=192.168.1.102;port=8006
+11:34:37.328820  [WARNING ][CEpollServer::addFdAndMb_err]desc=old_fd_mb;fd=14
+11:34:37.328843  [DEBUG   ][CEpollServer::addFdAndMb]fd=14;fd_type=2;addr=192.168.1.102;port=8006;authz=0
+11:34:37.328852  [INFO    ][connect_2_mb]connect 192.168.1.102:8007 error:110,Connection timed out
+11:34:37.328890  [DEBUG   ][CEpollServer::removeFd]fd=15;fd_type=2;addr=192.168.1.102;port=8007
+11:34:37.329001  [WARNING ][CEpollServer::addFdAndMb_err]desc=old_fd_mb;fd=15
+11:34:37.329032  [DEBUG   ][CEpollServer::addFdAndMb]fd=15;fd_type=2;addr=192.168.1.102;port=8007;authz=0
+11:35:40.432030  [INFO    ][connect_2_mb]connect 192.168.1.102:8001 error:110,Connection timed out
+11:35:40.432096  [DEBUG   ][CEpollServer::removeFd]fd=10;fd_type=2;addr=192.168.1.102;port=8001
+11:35:40.432386  [WARNING ][CEpollServer::addFdAndMb_err]desc=old_fd_mb;fd=10
+11:35:40.432411  [DEBUG   ][CEpollServer::addFdAndMb]fd=10;fd_type=2;addr=192.168.1.102;port=8001;authz=0
+11:35:40.432422  [INFO    ][connect_2_mb]connect 192.168.1.102:8002 error:110,Connection timed out
+11:35:40.432429  [DEBUG   ][CEpollServer::removeFd]fd=11;fd_type=2;addr=192.168.1.102;port=8002
+11:35:40.432519  [WARNING ][CEpollServer::addFdAndMb_err]desc=old_fd_mb;fd=11
+11:35:40.432540  [DEBUG   ][CEpollServer::addFdAndMb]fd=11;fd_type=2;addr=192.168.1.102;port=8002;authz=0
+11:35:40.432550  [INFO    ][connect_2_mb]connect 192.168.1.102:8004 error:110,Connection timed out
+11:35:40.432557  [DEBUG   ][CEpollServer::removeFd]fd=12;fd_type=2;addr=192.168.1.102;port=8004
+11:35:40.432653  [WARNING ][CEpollServer::addFdAndMb_err]desc=old_fd_mb;fd=12
+11:35:40.432711  [DEBUG   ][CEpollServer::addFdAndMb]fd=12;fd_type=2;addr=192.168.1.102;port=8004;authz=0
+11:35:40.432849  [INFO    ][connect_2_mb]connect 192.168.1.102:8005 error:110,Connection timed out
+11:35:40.432863  [DEBUG   ][CEpollServer::removeFd]fd=13;fd_type=2;addr=192.168.1.102;port=8005
+11:35:40.433024  [WARNING ][CEpollServer::addFdAndMb_err]desc=old_fd_mb;fd=13
+11:35:40.433057  [DEBUG   ][CEpollServer::addFdAndMb]fd=13;fd_type=2;addr=192.168.1.102;port=8005;authz=0
+11:35:40.433070  [INFO    ][connect_2_mb]connect 192.168.1.102:8006 error:110,Connection timed out
+11:35:40.433078  [DEBUG   ][CEpollServer::removeFd]fd=14;fd_type=2;addr=192.168.1.102;port=8006
+11:35:40.433183  [WARNING ][CEpollServer::addFdAndMb_err]desc=old_fd_mb;fd=14
+11:35:40.433202  [DEBUG   ][CEpollServer::addFdAndMb]fd=14;fd_type=2;addr=192.168.1.102;port=8006;authz=0
+11:35:40.433212  [INFO    ][connect_2_mb]connect 192.168.1.102:8007 error:110,Connection timed out
+11:35:40.433219  [DEBUG   ][CEpollServer::removeFd]fd=15;fd_type=2;addr=192.168.1.102;port=8007
+11:35:40.433312  [WARNING ][CEpollServer::addFdAndMb_err]desc=old_fd_mb;fd=15
+11:35:40.433369  [DEBUG   ][CEpollServer::addFdAndMb]fd=15;fd_type=2;addr=192.168.1.102;port=8007;authz=0
+11:36:43.537001  [INFO    ][connect_2_mb]connect 192.168.1.102:8001 error:110,Connection timed out
+11:36:43.537031  [DEBUG   ][CEpollServer::removeFd]fd=10;fd_type=2;addr=192.168.1.102;port=8001
+11:36:43.537106  [WARNING ][CEpollServer::addFdAndMb_err]desc=old_fd_mb;fd=10
+11:36:43.537132  [DEBUG   ][CEpollServer::addFdAndMb]fd=10;fd_type=2;addr=192.168.1.102;port=8001;authz=0
+11:36:43.537142  [INFO    ][connect_2_mb]connect 192.168.1.102:8002 error:110,Connection timed out
+11:36:43.537150  [DEBUG   ][CEpollServer::removeFd]fd=11;fd_type=2;addr=192.168.1.102;port=8002
+11:36:43.537218  [WARNING ][CEpollServer::addFdAndMb_err]desc=old_fd_mb;fd=11
+11:36:43.537240  [DEBUG   ][CEpollServer::addFdAndMb]fd=11;fd_type=2;addr=192.168.1.102;port=8002;authz=0
+11:36:43.537250  [INFO    ][connect_2_mb]connect 192.168.1.102:8004 error:110,Connection timed out
+11:36:43.537257  [DEBUG   ][CEpollServer::removeFd]fd=12;fd_type=2;addr=192.168.1.102;port=8004
+11:36:43.537335  [WARNING ][CEpollServer::addFdAndMb_err]desc=old_fd_mb;fd=12
+11:36:43.537362  [DEBUG   ][CEpollServer::addFdAndMb]fd=12;fd_type=2;addr=192.168.1.102;port=8004;authz=0
+11:36:43.537380  [INFO    ][connect_2_mb]connect 192.168.1.102:8005 error:110,Connection timed out
+11:36:43.537393  [DEBUG   ][CEpollServer::removeFd]fd=13;fd_type=2;addr=192.168.1.102;port=8005
+11:36:43.537637  [WARNING ][CEpollServer::addFdAndMb_err]desc=old_fd_mb;fd=13
+11:36:43.537670  [DEBUG   ][CEpollServer::addFdAndMb]fd=13;fd_type=2;addr=192.168.1.102;port=8005;authz=0
+11:36:43.537686  [INFO    ][connect_2_mb]connect 192.168.1.102:8006 error:110,Connection timed out
+11:36:43.537694  [DEBUG   ][CEpollServer::removeFd]fd=14;fd_type=2;addr=192.168.1.102;port=8006
+11:36:43.537776  [WARNING ][CEpollServer::addFdAndMb_err]desc=old_fd_mb;fd=14
+11:36:43.537800  [DEBUG   ][CEpollServer::addFdAndMb]fd=14;fd_type=2;addr=192.168.1.102;port=8006;authz=0
+11:36:43.537840  [INFO    ][connect_2_mb]connect 192.168.1.102:8007 error:110,Connection timed out
+11:36:43.537867  [DEBUG   ][CEpollServer::removeFd]fd=15;fd_type=2;addr=192.168.1.102;port=8007
+11:36:43.537973  [WARNING ][CEpollServer::addFdAndMb_err]desc=old_fd_mb;fd=15
+11:36:43.537995  [DEBUG   ][CEpollServer::addFdAndMb]fd=15;fd_type=2;addr=192.168.1.102;port=8007;authz=0
+11:37:46.639756  [INFO    ][connect_2_mb]connect 192.168.1.102:8001 error:110,Connection timed out
+11:37:46.639827  [DEBUG   ][CEpollServer::removeFd]fd=10;fd_type=2;addr=192.168.1.102;port=8001
+11:37:46.640034  [WARNING ][CEpollServer::addFdAndMb_err]desc=old_fd_mb;fd=10
+11:37:46.640076  [DEBUG   ][CEpollServer::addFdAndMb]fd=10;fd_type=2;addr=192.168.1.102;port=8001;authz=0
+11:37:46.640091  [INFO    ][connect_2_mb]connect 192.168.1.102:8002 error:110,Connection timed out
+11:37:46.640101  [DEBUG   ][CEpollServer::removeFd]fd=11;fd_type=2;addr=192.168.1.102;port=8002
+11:37:46.640219  [WARNING ][CEpollServer::addFdAndMb_err]desc=old_fd_mb;fd=11
+11:37:46.640246  [DEBUG   ][CEpollServer::addFdAndMb]fd=11;fd_type=2;addr=192.168.1.102;port=8002;authz=0
+11:37:46.640258  [INFO    ][connect_2_mb]connect 192.168.1.102:8004 error:110,Connection timed out
+11:37:46.640267  [DEBUG   ][CEpollServer::removeFd]fd=12;fd_type=2;addr=192.168.1.102;port=8004
+11:37:46.640362  [WARNING ][CEpollServer::addFdAndMb_err]desc=old_fd_mb;fd=12
+11:37:46.640390  [DEBUG   ][CEpollServer::addFdAndMb]fd=12;fd_type=2;addr=192.168.1.102;port=8004;authz=0
+11:37:46.640408  [INFO    ][connect_2_mb]connect 192.168.1.102:8005 error:110,Connection timed out
+11:37:46.640422  [DEBUG   ][CEpollServer::removeFd]fd=13;fd_type=2;addr=192.168.1.102;port=8005
+11:37:46.640514  [WARNING ][CEpollServer::addFdAndMb_err]desc=old_fd_mb;fd=13
+11:37:46.640537  [DEBUG   ][CEpollServer::addFdAndMb]fd=13;fd_type=2;addr=192.168.1.102;port=8005;authz=0
+11:37:46.640548  [INFO    ][connect_2_mb]connect 192.168.1.102:8006 error:110,Connection timed out
+11:37:46.640557  [DEBUG   ][CEpollServer::removeFd]fd=14;fd_type=2;addr=192.168.1.102;port=8006
+11:37:46.640647  [WARNING ][CEpollServer::addFdAndMb_err]desc=old_fd_mb;fd=14
+11:37:46.640672  [DEBUG   ][CEpollServer::addFdAndMb]fd=14;fd_type=2;addr=192.168.1.102;port=8006;authz=0
+11:37:46.640684  [INFO    ][connect_2_mb]connect 192.168.1.102:8007 error:110,Connection timed out
+11:37:46.640693  [DEBUG   ][CEpollServer::removeFd]fd=15;fd_type=2;addr=192.168.1.102;port=8007
+11:37:46.640784  [WARNING ][CEpollServer::addFdAndMb_err]desc=old_fd_mb;fd=15
+11:37:46.640807  [DEBUG   ][CEpollServer::addFdAndMb]fd=15;fd_type=2;addr=192.168.1.102;port=8007;authz=0
+11:38:49.744744  [INFO    ][connect_2_mb]connect 192.168.1.102:8001 error:110,Connection timed out
+11:38:49.744773  [DEBUG   ][CEpollServer::removeFd]fd=10;fd_type=2;addr=192.168.1.102;port=8001
+11:38:49.744861  [WARNING ][CEpollServer::addFdAndMb_err]desc=old_fd_mb;fd=10
+11:38:49.744884  [DEBUG   ][CEpollServer::addFdAndMb]fd=10;fd_type=2;addr=192.168.1.102;port=8001;authz=0
+11:38:49.744895  [INFO    ][connect_2_mb]connect 192.168.1.102:8002 error:110,Connection timed out
+11:38:49.744902  [DEBUG   ][CEpollServer::removeFd]fd=11;fd_type=2;addr=192.168.1.102;port=8002
+11:38:49.744980  [WARNING ][CEpollServer::addFdAndMb_err]desc=old_fd_mb;fd=11
+11:38:49.745003  [DEBUG   ][CEpollServer::addFdAndMb]fd=11;fd_type=2;addr=192.168.1.102;port=8002;authz=0
+11:38:49.745013  [INFO    ][connect_2_mb]connect 192.168.1.102:8004 error:110,Connection timed out
+11:38:49.745020  [DEBUG   ][CEpollServer::removeFd]fd=12;fd_type=2;addr=192.168.1.102;port=8004
+11:38:49.745150  [WARNING ][CEpollServer::addFdAndMb_err]desc=old_fd_mb;fd=12
+11:38:49.745173  [DEBUG   ][CEpollServer::addFdAndMb]fd=12;fd_type=2;addr=192.168.1.102;port=8004;authz=0
+11:38:49.745183  [INFO    ][connect_2_mb]connect 192.168.1.102:8005 error:110,Connection timed out
+11:38:49.745218  [DEBUG   ][CEpollServer::removeFd]fd=13;fd_type=2;addr=192.168.1.102;port=8005
+11:38:49.745286  [WARNING ][CEpollServer::addFdAndMb_err]desc=old_fd_mb;fd=13
+11:38:49.745392  [DEBUG   ][CEpollServer::addFdAndMb]fd=13;fd_type=2;addr=192.168.1.102;port=8005;authz=0
+11:38:49.745418  [INFO    ][connect_2_mb]connect 192.168.1.102:8006 error:110,Connection timed out
+11:38:49.745444  [DEBUG   ][CEpollServer::removeFd]fd=14;fd_type=2;addr=192.168.1.102;port=8006
+11:38:49.745539  [WARNING ][CEpollServer::addFdAndMb_err]desc=old_fd_mb;fd=14
+11:38:49.745560  [DEBUG   ][CEpollServer::addFdAndMb]fd=14;fd_type=2;addr=192.168.1.102;port=8006;authz=0
+11:38:49.745569  [INFO    ][connect_2_mb]connect 192.168.1.102:8007 error:110,Connection timed out
+11:38:49.745575  [DEBUG   ][CEpollServer::removeFd]fd=15;fd_type=2;addr=192.168.1.102;port=8007
+11:38:49.745654  [WARNING ][CEpollServer::addFdAndMb_err]desc=old_fd_mb;fd=15
+11:38:49.745674  [DEBUG   ][CEpollServer::addFdAndMb]fd=15;fd_type=2;addr=192.168.1.102;port=8007;authz=0
+11:39:52.849507  [INFO    ][connect_2_mb]connect 192.168.1.102:8001 error:110,Connection timed out
+11:39:52.849571  [DEBUG   ][CEpollServer::removeFd]fd=10;fd_type=2;addr=192.168.1.102;port=8001
+11:39:52.849848  [WARNING ][CEpollServer::addFdAndMb_err]desc=old_fd_mb;fd=10
+11:39:52.849876  [DEBUG   ][CEpollServer::addFdAndMb]fd=10;fd_type=2;addr=192.168.1.102;port=8001;authz=0
+11:39:52.849981  [INFO    ][connect_2_mb]connect 192.168.1.102:8002 error:110,Connection timed out
+11:39:52.849999  [DEBUG   ][CEpollServer::removeFd]fd=11;fd_type=2;addr=192.168.1.102;port=8002
+11:39:52.850264  [WARNING ][CEpollServer::addFdAndMb_err]desc=old_fd_mb;fd=11
+11:39:52.850291  [DEBUG   ][CEpollServer::addFdAndMb]fd=11;fd_type=2;addr=192.168.1.102;port=8002;authz=0
+11:39:52.850302  [INFO    ][connect_2_mb]connect 192.168.1.102:8004 error:110,Connection timed out
+11:39:52.850310  [DEBUG   ][CEpollServer::removeFd]fd=12;fd_type=2;addr=192.168.1.102;port=8004
+11:39:52.850386  [WARNING ][CEpollServer::addFdAndMb_err]desc=old_fd_mb;fd=12
+11:39:52.850409  [DEBUG   ][CEpollServer::addFdAndMb]fd=12;fd_type=2;addr=192.168.1.102;port=8004;authz=0
+11:39:52.850419  [INFO    ][connect_2_mb]connect 192.168.1.102:8005 error:110,Connection timed out
+11:39:52.850427  [DEBUG   ][CEpollServer::removeFd]fd=13;fd_type=2;addr=192.168.1.102;port=8005
+11:39:52.850495  [WARNING ][CEpollServer::addFdAndMb_err]desc=old_fd_mb;fd=13
+11:39:52.850524  [DEBUG   ][CEpollServer::addFdAndMb]fd=13;fd_type=2;addr=192.168.1.102;port=8005;authz=0
+11:39:52.850545  [INFO    ][connect_2_mb]connect 192.168.1.102:8006 error:110,Connection timed out
+11:39:52.850559  [DEBUG   ][CEpollServer::removeFd]fd=14;fd_type=2;addr=192.168.1.102;port=8006
+11:39:52.850701  [WARNING ][CEpollServer::addFdAndMb_err]desc=old_fd_mb;fd=14
+11:39:52.850721  [DEBUG   ][CEpollServer::addFdAndMb]fd=14;fd_type=2;addr=192.168.1.102;port=8006;authz=0
+11:39:52.850731  [INFO    ][connect_2_mb]connect 192.168.1.102:8007 error:110,Connection timed out
+11:39:52.850738  [DEBUG   ][CEpollServer::removeFd]fd=15;fd_type=2;addr=192.168.1.102;port=8007
+11:39:52.850811  [WARNING ][CEpollServer::addFdAndMb_err]desc=old_fd_mb;fd=15
+11:39:52.850835  [DEBUG   ][CEpollServer::addFdAndMb]fd=15;fd_type=2;addr=192.168.1.102;port=8007;authz=0
+11:40:55.952779  [INFO    ][connect_2_mb]connect 192.168.1.102:8001 error:110,Connection timed out
+11:40:55.952806  [DEBUG   ][CEpollServer::removeFd]fd=10;fd_type=2;addr=192.168.1.102;port=8001
+11:40:55.952924  [WARNING ][CEpollServer::addFdAndMb_err]desc=old_fd_mb;fd=10
+11:40:55.952946  [DEBUG   ][CEpollServer::addFdAndMb]fd=10;fd_type=2;addr=192.168.1.102;port=8001;authz=0
+11:40:55.952957  [INFO    ][connect_2_mb]connect 192.168.1.102:8002 error:110,Connection timed out
+11:40:55.952964  [DEBUG   ][CEpollServer::removeFd]fd=11;fd_type=2;addr=192.168.1.102;port=8002
+11:40:55.953033  [WARNING ][CEpollServer::addFdAndMb_err]desc=old_fd_mb;fd=11
+11:40:55.953055  [DEBUG   ][CEpollServer::addFdAndMb]fd=11;fd_type=2;addr=192.168.1.102;port=8002;authz=0
+11:40:55.953065  [INFO    ][connect_2_mb]connect 192.168.1.102:8004 error:110,Connection timed out
+11:40:55.953073  [DEBUG   ][CEpollServer::removeFd]fd=12;fd_type=2;addr=192.168.1.102;port=8004
+11:40:55.953139  [WARNING ][CEpollServer::addFdAndMb_err]desc=old_fd_mb;fd=12
+11:40:55.953160  [DEBUG   ][CEpollServer::addFdAndMb]fd=12;fd_type=2;addr=192.168.1.102;port=8004;authz=0
+11:40:55.953177  [INFO    ][connect_2_mb]connect 192.168.1.102:8005 error:110,Connection timed out
+11:40:55.953185  [DEBUG   ][CEpollServer::removeFd]fd=13;fd_type=2;addr=192.168.1.102;port=8005
+11:40:55.953252  [WARNING ][CEpollServer::addFdAndMb_err]desc=old_fd_mb;fd=13
+11:40:55.953274  [DEBUG   ][CEpollServer::addFdAndMb]fd=13;fd_type=2;addr=192.168.1.102;port=8005;authz=0
+11:40:55.953283  [INFO    ][connect_2_mb]connect 192.168.1.102:8006 error:110,Connection timed out
+11:40:55.953290  [DEBUG   ][CEpollServer::removeFd]fd=14;fd_type=2;addr=192.168.1.102;port=8006
+11:40:55.953364  [WARNING ][CEpollServer::addFdAndMb_err]desc=old_fd_mb;fd=14
+11:40:55.953426  [DEBUG   ][CEpollServer::addFdAndMb]fd=14;fd_type=2;addr=192.168.1.102;port=8006;authz=0
+11:40:55.953450  [INFO    ][connect_2_mb]connect 192.168.1.102:8007 error:110,Connection timed out
+11:40:55.953465  [DEBUG   ][CEpollServer::removeFd]fd=15;fd_type=2;addr=192.168.1.102;port=8007
+11:40:55.953651  [WARNING ][CEpollServer::addFdAndMb_err]desc=old_fd_mb;fd=15
+11:40:55.953690  [DEBUG   ][CEpollServer::addFdAndMb]fd=15;fd_type=2;addr=192.168.1.102;port=8007;authz=0
+11:41:59.056719  [INFO    ][connect_2_mb]connect 192.168.1.102:8001 error:110,Connection timed out
+11:41:59.056814  [DEBUG   ][CEpollServer::removeFd]fd=10;fd_type=2;addr=192.168.1.102;port=8001
+11:41:59.057006  [WARNING ][CEpollServer::addFdAndMb_err]desc=old_fd_mb;fd=10
+11:41:59.057038  [DEBUG   ][CEpollServer::addFdAndMb]fd=10;fd_type=2;addr=192.168.1.102;port=8001;authz=0
+11:41:59.057055  [INFO    ][connect_2_mb]connect 192.168.1.102:8002 error:110,Connection timed out
+11:41:59.057064  [DEBUG   ][CEpollServer::removeFd]fd=11;fd_type=2;addr=192.168.1.102;port=8002
+11:41:59.057149  [WARNING ][CEpollServer::addFdAndMb_err]desc=old_fd_mb;fd=11
+11:41:59.057172  [DEBUG   ][CEpollServer::addFdAndMb]fd=11;fd_type=2;addr=192.168.1.102;port=8002;authz=0
+11:41:59.057182  [INFO    ][connect_2_mb]connect 192.168.1.102:8004 error:110,Connection timed out
+11:41:59.057189  [DEBUG   ][CEpollServer::removeFd]fd=12;fd_type=2;addr=192.168.1.102;port=8004
+11:41:59.057295  [WARNING ][CEpollServer::addFdAndMb_err]desc=old_fd_mb;fd=12
+11:41:59.057319  [DEBUG   ][CEpollServer::addFdAndMb]fd=12;fd_type=2;addr=192.168.1.102;port=8004;authz=0
+11:41:59.057330  [INFO    ][connect_2_mb]connect 192.168.1.102:8005 error:110,Connection timed out
+11:41:59.057341  [DEBUG   ][CEpollServer::removeFd]fd=13;fd_type=2;addr=192.168.1.102;port=8005
+11:41:59.057485  [WARNING ][CEpollServer::addFdAndMb_err]desc=old_fd_mb;fd=13
+11:41:59.057523  [DEBUG   ][CEpollServer::addFdAndMb]fd=13;fd_type=2;addr=192.168.1.102;port=8005;authz=0
+11:41:59.057540  [INFO    ][connect_2_mb]connect 192.168.1.102:8006 error:110,Connection timed out
+11:41:59.057549  [DEBUG   ][CEpollServer::removeFd]fd=14;fd_type=2;addr=192.168.1.102;port=8006
+11:41:59.057621  [WARNING ][CEpollServer::addFdAndMb_err]desc=old_fd_mb;fd=14
+11:41:59.057644  [DEBUG   ][CEpollServer::addFdAndMb]fd=14;fd_type=2;addr=192.168.1.102;port=8006;authz=0
+11:41:59.057655  [INFO    ][connect_2_mb]connect 192.168.1.102:8007 error:110,Connection timed out
+11:41:59.057662  [DEBUG   ][CEpollServer::removeFd]fd=15;fd_type=2;addr=192.168.1.102;port=8007
+11:41:59.057729  [WARNING ][CEpollServer::addFdAndMb_err]desc=old_fd_mb;fd=15
+11:41:59.057750  [DEBUG   ][CEpollServer::addFdAndMb]fd=15;fd_type=2;addr=192.168.1.102;port=8007;authz=0
+11:43:02.161385  [INFO    ][connect_2_mb]connect 192.168.1.102:8001 error:110,Connection timed out
+11:43:02.161429  [DEBUG   ][CEpollServer::removeFd]fd=10;fd_type=2;addr=192.168.1.102;port=8001
+11:43:02.161579  [WARNING ][CEpollServer::addFdAndMb_err]desc=old_fd_mb;fd=10
+11:43:02.161625  [DEBUG   ][CEpollServer::addFdAndMb]fd=10;fd_type=2;addr=192.168.1.102;port=8001;authz=0
+11:43:02.161645  [INFO    ][connect_2_mb]connect 192.168.1.102:8002 error:110,Connection timed out
+11:43:02.161663  [DEBUG   ][CEpollServer::removeFd]fd=11;fd_type=2;addr=192.168.1.102;port=8002
+11:43:02.161801  [WARNING ][CEpollServer::addFdAndMb_err]desc=old_fd_mb;fd=11
+11:43:02.161852  [DEBUG   ][CEpollServer::addFdAndMb]fd=11;fd_type=2;addr=192.168.1.102;port=8002;authz=0
+11:43:02.161869  [INFO    ][connect_2_mb]connect 192.168.1.102:8004 error:110,Connection timed out
+11:43:02.161881  [DEBUG   ][CEpollServer::removeFd]fd=12;fd_type=2;addr=192.168.1.102;port=8004
+11:43:02.162021  [WARNING ][CEpollServer::addFdAndMb_err]desc=old_fd_mb;fd=12
+11:43:02.162057  [DEBUG   ][CEpollServer::addFdAndMb]fd=12;fd_type=2;addr=192.168.1.102;port=8004;authz=0
+11:43:02.162073  [INFO    ][connect_2_mb]connect 192.168.1.102:8005 error:110,Connection timed out
+11:43:02.162085  [DEBUG   ][CEpollServer::removeFd]fd=13;fd_type=2;addr=192.168.1.102;port=8005
+11:43:02.162334  [WARNING ][CEpollServer::addFdAndMb_err]desc=old_fd_mb;fd=13
+11:43:02.162372  [DEBUG   ][CEpollServer::addFdAndMb]fd=13;fd_type=2;addr=192.168.1.102;port=8005;authz=0
+11:43:02.162388  [INFO    ][connect_2_mb]connect 192.168.1.102:8006 error:110,Connection timed out
+11:43:02.162401  [DEBUG   ][CEpollServer::removeFd]fd=14;fd_type=2;addr=192.168.1.102;port=8006
+11:43:02.162543  [WARNING ][CEpollServer::addFdAndMb_err]desc=old_fd_mb;fd=14
+11:43:02.162580  [DEBUG   ][CEpollServer::addFdAndMb]fd=14;fd_type=2;addr=192.168.1.102;port=8006;authz=0
+11:43:02.162596  [INFO    ][connect_2_mb]connect 192.168.1.102:8007 error:110,Connection timed out
+11:43:02.162618  [DEBUG   ][CEpollServer::removeFd]fd=15;fd_type=2;addr=192.168.1.102;port=8007
+11:43:02.162727  [WARNING ][CEpollServer::addFdAndMb_err]desc=old_fd_mb;fd=15
+11:43:02.162757  [DEBUG   ][CEpollServer::addFdAndMb]fd=15;fd_type=2;addr=192.168.1.102;port=8007;authz=0
+11:44:05.264765  [INFO    ][connect_2_mb]connect 192.168.1.102:8001 error:110,Connection timed out
+11:44:05.264793  [DEBUG   ][CEpollServer::removeFd]fd=10;fd_type=2;addr=192.168.1.102;port=8001
+11:44:05.264874  [WARNING ][CEpollServer::addFdAndMb_err]desc=old_fd_mb;fd=10
+11:44:05.264895  [DEBUG   ][CEpollServer::addFdAndMb]fd=10;fd_type=2;addr=192.168.1.102;port=8001;authz=0
+11:44:05.264906  [INFO    ][connect_2_mb]connect 192.168.1.102:8002 error:110,Connection timed out
+11:44:05.264913  [DEBUG   ][CEpollServer::removeFd]fd=11;fd_type=2;addr=192.168.1.102;port=8002
+11:44:05.264988  [WARNING ][CEpollServer::addFdAndMb_err]desc=old_fd_mb;fd=11
+11:44:05.265008  [DEBUG   ][CEpollServer::addFdAndMb]fd=11;fd_type=2;addr=192.168.1.102;port=8002;authz=0
+11:44:05.265017  [INFO    ][connect_2_mb]connect 192.168.1.102:8004 error:110,Connection timed out
+11:44:05.265025  [DEBUG   ][CEpollServer::removeFd]fd=12;fd_type=2;addr=192.168.1.102;port=8004
+11:44:05.265098  [WARNING ][CEpollServer::addFdAndMb_err]desc=old_fd_mb;fd=12
+11:44:05.265118  [DEBUG   ][CEpollServer::addFdAndMb]fd=12;fd_type=2;addr=192.168.1.102;port=8004;authz=0
+11:44:05.265127  [INFO    ][connect_2_mb]connect 192.168.1.102:8005 error:110,Connection timed out
+11:44:05.265134  [DEBUG   ][CEpollServer::removeFd]fd=13;fd_type=2;addr=192.168.1.102;port=8005
+11:44:05.265208  [WARNING ][CEpollServer::addFdAndMb_err]desc=old_fd_mb;fd=13
+11:44:05.265227  [DEBUG   ][CEpollServer::addFdAndMb]fd=13;fd_type=2;addr=192.168.1.102;port=8005;authz=0
+11:44:05.265236  [INFO    ][connect_2_mb]connect 192.168.1.102:8006 error:110,Connection timed out
+11:44:05.265243  [DEBUG   ][CEpollServer::removeFd]fd=14;fd_type=2;addr=192.168.1.102;port=8006
+11:44:05.265315  [WARNING ][CEpollServer::addFdAndMb_err]desc=old_fd_mb;fd=14
+11:44:05.265365  [DEBUG   ][CEpollServer::addFdAndMb]fd=14;fd_type=2;addr=192.168.1.102;port=8006;authz=0
+11:44:05.265374  [INFO    ][connect_2_mb]connect 192.168.1.102:8007 error:110,Connection timed out
+11:44:05.265382  [DEBUG   ][CEpollServer::removeFd]fd=15;fd_type=2;addr=192.168.1.102;port=8007
+11:44:05.265454  [WARNING ][CEpollServer::addFdAndMb_err]desc=old_fd_mb;fd=15
+11:44:05.265473  [DEBUG   ][CEpollServer::addFdAndMb]fd=15;fd_type=2;addr=192.168.1.102;port=8007;authz=0
+11:45:08.369038  [INFO    ][connect_2_mb]connect 192.168.1.102:8001 error:110,Connection timed out
+11:45:08.369066  [DEBUG   ][CEpollServer::removeFd]fd=10;fd_type=2;addr=192.168.1.102;port=8001
+11:45:08.369256  [WARNING ][CEpollServer::addFdAndMb_err]desc=old_fd_mb;fd=10
+11:45:08.369277  [DEBUG   ][CEpollServer::addFdAndMb]fd=10;fd_type=2;addr=192.168.1.102;port=8001;authz=0
+11:45:08.369287  [INFO    ][connect_2_mb]connect 192.168.1.102:8002 error:110,Connection timed out
+11:45:08.369295  [DEBUG   ][CEpollServer::removeFd]fd=11;fd_type=2;addr=192.168.1.102;port=8002
+11:45:08.369374  [WARNING ][CEpollServer::addFdAndMb_err]desc=old_fd_mb;fd=11
+11:45:08.369397  [DEBUG   ][CEpollServer::addFdAndMb]fd=11;fd_type=2;addr=192.168.1.102;port=8002;authz=0
+11:45:08.369406  [INFO    ][connect_2_mb]connect 192.168.1.102:8004 error:110,Connection timed out
+11:45:08.369414  [DEBUG   ][CEpollServer::removeFd]fd=12;fd_type=2;addr=192.168.1.102;port=8004
+11:45:08.369491  [WARNING ][CEpollServer::addFdAndMb_err]desc=old_fd_mb;fd=12
+11:45:08.369512  [DEBUG   ][CEpollServer::addFdAndMb]fd=12;fd_type=2;addr=192.168.1.102;port=8004;authz=0
+11:45:08.369521  [INFO    ][connect_2_mb]connect 192.168.1.102:8005 error:110,Connection timed out
+11:45:08.369528  [DEBUG   ][CEpollServer::removeFd]fd=13;fd_type=2;addr=192.168.1.102;port=8005
+11:45:08.369605  [WARNING ][CEpollServer::addFdAndMb_err]desc=old_fd_mb;fd=13
+11:45:08.369625  [DEBUG   ][CEpollServer::addFdAndMb]fd=13;fd_type=2;addr=192.168.1.102;port=8005;authz=0
+11:45:08.369633  [INFO    ][connect_2_mb]connect 192.168.1.102:8006 error:110,Connection timed out
+11:45:08.369640  [DEBUG   ][CEpollServer::removeFd]fd=14;fd_type=2;addr=192.168.1.102;port=8006
+11:45:08.369716  [WARNING ][CEpollServer::addFdAndMb_err]desc=old_fd_mb;fd=14
+11:45:08.369735  [DEBUG   ][CEpollServer::addFdAndMb]fd=14;fd_type=2;addr=192.168.1.102;port=8006;authz=0
+11:45:08.369744  [INFO    ][connect_2_mb]connect 192.168.1.102:8007 error:110,Connection timed out
+11:45:08.369751  [DEBUG   ][CEpollServer::removeFd]fd=15;fd_type=2;addr=192.168.1.102;port=8007
+11:45:08.369910  [WARNING ][CEpollServer::addFdAndMb_err]desc=old_fd_mb;fd=15
+11:45:08.369938  [DEBUG   ][CEpollServer::addFdAndMb]fd=15;fd_type=2;addr=192.168.1.102;port=8007;authz=0
+11:46:11.473315  [INFO    ][connect_2_mb]connect 192.168.1.102:8001 error:110,Connection timed out
+11:46:11.473349  [DEBUG   ][CEpollServer::removeFd]fd=10;fd_type=2;addr=192.168.1.102;port=8001
+11:46:11.473466  [WARNING ][CEpollServer::addFdAndMb_err]desc=old_fd_mb;fd=10
+11:46:11.473495  [DEBUG   ][CEpollServer::addFdAndMb]fd=10;fd_type=2;addr=192.168.1.102;port=8001;authz=0
+11:46:11.473508  [INFO    ][connect_2_mb]connect 192.168.1.102:8002 error:110,Connection timed out
+11:46:11.473517  [DEBUG   ][CEpollServer::removeFd]fd=11;fd_type=2;addr=192.168.1.102;port=8002
+11:46:11.473615  [WARNING ][CEpollServer::addFdAndMb_err]desc=old_fd_mb;fd=11
+11:46:11.473649  [DEBUG   ][CEpollServer::addFdAndMb]fd=11;fd_type=2;addr=192.168.1.102;port=8002;authz=0
+11:46:11.473659  [INFO    ][connect_2_mb]connect 192.168.1.102:8004 error:110,Connection timed out
+11:46:11.473666  [DEBUG   ][CEpollServer::removeFd]fd=12;fd_type=2;addr=192.168.1.102;port=8004
+11:46:11.473811  [WARNING ][CEpollServer::addFdAndMb_err]desc=old_fd_mb;fd=12
+11:46:11.473841  [DEBUG   ][CEpollServer::addFdAndMb]fd=12;fd_type=2;addr=192.168.1.102;port=8004;authz=0
+11:46:11.473854  [INFO    ][connect_2_mb]connect 192.168.1.102:8005 error:110,Connection timed out
+11:46:11.473868  [DEBUG   ][CEpollServer::removeFd]fd=13;fd_type=2;addr=192.168.1.102;port=8005
+11:46:11.473995  [WARNING ][CEpollServer::addFdAndMb_err]desc=old_fd_mb;fd=13
+11:46:11.474053  [DEBUG   ][CEpollServer::addFdAndMb]fd=13;fd_type=2;addr=192.168.1.102;port=8005;authz=0
+11:46:11.474067  [INFO    ][connect_2_mb]connect 192.168.1.102:8006 error:110,Connection timed out
+11:46:11.474075  [DEBUG   ][CEpollServer::removeFd]fd=14;fd_type=2;addr=192.168.1.102;port=8006
+11:46:11.474210  [WARNING ][CEpollServer::addFdAndMb_err]desc=old_fd_mb;fd=14
+11:46:11.474244  [DEBUG   ][CEpollServer::addFdAndMb]fd=14;fd_type=2;addr=192.168.1.102;port=8006;authz=0
+11:46:11.474262  [INFO    ][connect_2_mb]connect 192.168.1.102:8007 error:110,Connection timed out
+11:46:11.474287  [DEBUG   ][CEpollServer::removeFd]fd=15;fd_type=2;addr=192.168.1.102;port=8007
+11:46:11.474387  [WARNING ][CEpollServer::addFdAndMb_err]desc=old_fd_mb;fd=15
+11:46:11.474409  [DEBUG   ][CEpollServer::addFdAndMb]fd=15;fd_type=2;addr=192.168.1.102;port=8007;authz=0
+11:47:06.128581  [DEBUG   ][CWorldDbmgr::init()]a=1
+11:47:06.128948  [WARNING ][init_cfg]warning:missed section:server_8
+11:47:06.128977  [WARNING ][init_cfg]warning:missed section:server_9
+11:47:06.128995  [WARNING ][init_cfg]warning:missed section:server_10
+11:47:06.129011  [WARNING ][init_cfg]warning:missed section:server_11
+11:47:06.129027  [WARNING ][init_cfg]warning:missed section:server_12
+11:47:06.129042  [WARNING ][init_cfg]warning:missed section:server_13
+11:47:06.129058  [WARNING ][init_cfg]warning:missed section:server_14
+11:47:06.129073  [WARNING ][init_cfg]warning:missed section:server_15
+11:47:06.129088  [WARNING ][init_cfg]warning:missed section:server_16
+11:47:06.129104  [WARNING ][init_cfg]warning:missed section:server_17
+11:47:06.129119  [WARNING ][init_cfg]warning:missed section:server_18
+11:47:06.129134  [WARNING ][init_cfg]warning:missed section:server_19
+11:47:06.129149  [WARNING ][init_cfg]warning:missed section:server_20
+11:47:06.129165  [WARNING ][init_cfg]warning:missed section:server_21
+11:47:06.129180  [WARNING ][init_cfg]warning:missed section:server_22
+11:47:06.129195  [WARNING ][init_cfg]warning:missed section:server_23
+11:47:06.129210  [WARNING ][init_cfg]warning:missed section:server_24
+11:47:06.129226  [WARNING ][init_cfg]warning:missed section:server_25
+11:47:06.129241  [WARNING ][init_cfg]warning:missed section:server_26
+11:47:06.129256  [WARNING ][init_cfg]warning:missed section:server_27
+11:47:06.129271  [WARNING ][init_cfg]warning:missed section:server_28
+11:47:06.129287  [WARNING ][init_cfg]warning:missed section:server_29
+11:47:06.129600  [DEBUG   ][CDefParser::init]==========
+11:47:06.251270  [DEBUG   ][CDefParser::init]m_EntityDefMd5 = e5a2d6e9b88cff1622d5b58a25f71496
+11:47:06.251464  [DEBUG   ][CDefParser::init]==========
+11:47:06.325240  [DEBUG   ][CDefParser::init]m_EntityDefMd5 = e5a2d6e9b88cff1622d5b58a25f71496
+11:47:06.325328  [INFO    ][world::initNextEntityId]init_id=50331648
+11:47:06.325466  [DEBUG   ][CEpollServer::AddFdAndMb]serverName=
+11:47:06.325489  [DEBUG   ][CEpollServer::addFdAndMb]fd=4;fd_type=1;addr=;port=8003;authz=0
+11:47:06.325498  [DEBUG   ][start_server]:8003,success.
+11:47:06.340153  [INFO    ][redis_connect]SELECT 1
+11:47:06.340818  [INFO    ][redis_connect]SELECT 1
+11:47:06.340855  [INFO    ][redis_connect]SELECT 1
+11:47:06.340875  [DEBUG   ][CEpollServer::addFdAndMb]fd=6;fd_type=2;addr=192.168.1.102;port=8001;authz=0
+11:47:06.340886  [DEBUG   ][try_to_connect_mailbox]server=192.168.1.102;port=8001
+11:47:06.346634  [DEBUG   ][CEpollServer::addFdAndMb]fd=14;fd_type=2;addr=192.168.1.102;port=8002;authz=0
+11:47:06.346679  [DEBUG   ][try_to_connect_mailbox]server=192.168.1.102;port=8002
+11:47:06.346808  [DEBUG   ][CEpollServer::addFdAndMb]fd=15;fd_type=2;addr=192.168.1.102;port=8004;authz=0
+11:47:06.346833  [DEBUG   ][try_to_connect_mailbox]server=192.168.1.102;port=8004
+11:47:06.346905  [DEBUG   ][CEpollServer::addFdAndMb]fd=16;fd_type=2;addr=192.168.1.102;port=8005;authz=0
+11:47:06.346929  [DEBUG   ][try_to_connect_mailbox]server=192.168.1.102;port=8005
+11:47:06.347006  [DEBUG   ][CEpollServer::addFdAndMb]fd=17;fd_type=2;addr=192.168.1.102;port=8006;authz=0
+11:47:06.347029  [DEBUG   ][try_to_connect_mailbox]server=192.168.1.102;port=8006
+11:47:06.347099  [DEBUG   ][CEpollServer::addFdAndMb]fd=18;fd_type=2;addr=192.168.1.102;port=8007;authz=0
+11:47:06.347156  [DEBUG   ][try_to_connect_mailbox]server=192.168.1.102;port=8007
+11:47:06.347367  [INFO    ][redis_connect]SELECT 1
+11:48:09.487717  [INFO    ][connect_2_mb]connect 192.168.1.102:8001 error:110,Connection timed out
+11:48:09.487945  [DEBUG   ][CEpollServer::removeFd]fd=6;fd_type=2;addr=192.168.1.102;port=8001
+11:48:09.488171  [WARNING ][CEpollServer::addFdAndMb_err]desc=old_fd_mb;fd=6
+11:48:09.488256  [DEBUG   ][CEpollServer::addFdAndMb]fd=6;fd_type=2;addr=192.168.1.102;port=8001;authz=0
+11:48:09.488300  [INFO    ][connect_2_mb]connect 192.168.1.102:8002 error:110,Connection timed out
+11:48:09.488317  [DEBUG   ][CEpollServer::removeFd]fd=14;fd_type=2;addr=192.168.1.102;port=8002
+11:48:09.488511  [WARNING ][CEpollServer::addFdAndMb_err]desc=old_fd_mb;fd=14
+11:48:09.488552  [DEBUG   ][CEpollServer::addFdAndMb]fd=14;fd_type=2;addr=192.168.1.102;port=8002;authz=0
+11:48:09.488584  [INFO    ][connect_2_mb]connect 192.168.1.102:8004 error:110,Connection timed out
+11:48:09.488641  [DEBUG   ][CEpollServer::removeFd]fd=15;fd_type=2;addr=192.168.1.102;port=8004
+11:48:09.488769  [WARNING ][CEpollServer::addFdAndMb_err]desc=old_fd_mb;fd=15
+11:48:09.488808  [DEBUG   ][CEpollServer::addFdAndMb]fd=15;fd_type=2;addr=192.168.1.102;port=8004;authz=0
+11:48:09.488826  [INFO    ][connect_2_mb]connect 192.168.1.102:8005 error:110,Connection timed out
+11:48:09.488839  [DEBUG   ][CEpollServer::removeFd]fd=16;fd_type=2;addr=192.168.1.102;port=8005
+11:48:09.488956  [WARNING ][CEpollServer::addFdAndMb_err]desc=old_fd_mb;fd=16
+11:48:09.488993  [DEBUG   ][CEpollServer::addFdAndMb]fd=16;fd_type=2;addr=192.168.1.102;port=8005;authz=0
+11:48:09.489009  [INFO    ][connect_2_mb]connect 192.168.1.102:8006 error:110,Connection timed out
+11:48:09.489022  [DEBUG   ][CEpollServer::removeFd]fd=17;fd_type=2;addr=192.168.1.102;port=8006
+11:48:09.489139  [WARNING ][CEpollServer::addFdAndMb_err]desc=old_fd_mb;fd=17
+11:48:09.489211  [DEBUG   ][CEpollServer::addFdAndMb]fd=17;fd_type=2;addr=192.168.1.102;port=8006;authz=0
+11:48:09.489238  [INFO    ][connect_2_mb]connect 192.168.1.102:8007 error:110,Connection timed out
+11:48:09.489296  [DEBUG   ][CEpollServer::removeFd]fd=18;fd_type=2;addr=192.168.1.102;port=8007
+11:48:09.489426  [WARNING ][CEpollServer::addFdAndMb_err]desc=old_fd_mb;fd=18
+11:48:09.489463  [DEBUG   ][CEpollServer::addFdAndMb]fd=18;fd_type=2;addr=192.168.1.102;port=8007;authz=0
+11:49:12.591923  [INFO    ][connect_2_mb]connect 192.168.1.102:8001 error:110,Connection timed out
+11:49:12.592027  [DEBUG   ][CEpollServer::removeFd]fd=6;fd_type=2;addr=192.168.1.102;port=8001
+11:49:12.592177  [WARNING ][CEpollServer::addFdAndMb_err]desc=old_fd_mb;fd=6
+11:49:12.592204  [DEBUG   ][CEpollServer::addFdAndMb]fd=6;fd_type=2;addr=192.168.1.102;port=8001;authz=0
+11:49:12.592217  [INFO    ][connect_2_mb]connect 192.168.1.102:8002 error:110,Connection timed out
+11:49:12.592226  [DEBUG   ][CEpollServer::removeFd]fd=14;fd_type=2;addr=192.168.1.102;port=8002
+11:49:12.592394  [WARNING ][CEpollServer::addFdAndMb_err]desc=old_fd_mb;fd=14
+11:49:12.592420  [DEBUG   ][CEpollServer::addFdAndMb]fd=14;fd_type=2;addr=192.168.1.102;port=8002;authz=0
+11:49:12.592431  [INFO    ][connect_2_mb]connect 192.168.1.102:8004 error:110,Connection timed out
+11:49:12.592439  [DEBUG   ][CEpollServer::removeFd]fd=15;fd_type=2;addr=192.168.1.102;port=8004
+11:49:12.592535  [WARNING ][CEpollServer::addFdAndMb_err]desc=old_fd_mb;fd=15
+11:49:12.592560  [DEBUG   ][CEpollServer::addFdAndMb]fd=15;fd_type=2;addr=192.168.1.102;port=8004;authz=0
+11:49:12.592576  [INFO    ][connect_2_mb]connect 192.168.1.102:8005 error:110,Connection timed out
+11:49:12.592646  [DEBUG   ][CEpollServer::removeFd]fd=16;fd_type=2;addr=192.168.1.102;port=8005
+11:49:12.592792  [WARNING ][CEpollServer::addFdAndMb_err]desc=old_fd_mb;fd=16
+11:49:12.592816  [DEBUG   ][CEpollServer::addFdAndMb]fd=16;fd_type=2;addr=192.168.1.102;port=8005;authz=0
+11:49:12.592828  [INFO    ][connect_2_mb]connect 192.168.1.102:8006 error:110,Connection timed out
+11:49:12.592836  [DEBUG   ][CEpollServer::removeFd]fd=17;fd_type=2;addr=192.168.1.102;port=8006
+11:49:12.592926  [WARNING ][CEpollServer::addFdAndMb_err]desc=old_fd_mb;fd=17
+11:49:12.592947  [DEBUG   ][CEpollServer::addFdAndMb]fd=17;fd_type=2;addr=192.168.1.102;port=8006;authz=0
+11:49:12.592958  [INFO    ][connect_2_mb]connect 192.168.1.102:8007 error:110,Connection timed out
+11:49:12.592966  [DEBUG   ][CEpollServer::removeFd]fd=18;fd_type=2;addr=192.168.1.102;port=8007
+11:49:12.593046  [WARNING ][CEpollServer::addFdAndMb_err]desc=old_fd_mb;fd=18
+11:49:12.593079  [DEBUG   ][CEpollServer::addFdAndMb]fd=18;fd_type=2;addr=192.168.1.102;port=8007;authz=0
+11:50:15.695866  [INFO    ][connect_2_mb]connect 192.168.1.102:8001 error:110,Connection timed out
+11:50:15.695940  [DEBUG   ][CEpollServer::removeFd]fd=6;fd_type=2;addr=192.168.1.102;port=8001
+11:50:15.696157  [WARNING ][CEpollServer::addFdAndMb_err]desc=old_fd_mb;fd=6
+11:50:15.696188  [DEBUG   ][CEpollServer::addFdAndMb]fd=6;fd_type=2;addr=192.168.1.102;port=8001;authz=0
+11:50:15.696202  [INFO    ][connect_2_mb]connect 192.168.1.102:8002 error:110,Connection timed out
+11:50:15.696212  [DEBUG   ][CEpollServer::removeFd]fd=14;fd_type=2;addr=192.168.1.102;port=8002
+11:50:15.696318  [WARNING ][CEpollServer::addFdAndMb_err]desc=old_fd_mb;fd=14
+11:50:15.696350  [DEBUG   ][CEpollServer::addFdAndMb]fd=14;fd_type=2;addr=192.168.1.102;port=8002;authz=0
+11:50:15.696366  [INFO    ][connect_2_mb]connect 192.168.1.102:8004 error:110,Connection timed out
+11:50:15.696376  [DEBUG   ][CEpollServer::removeFd]fd=15;fd_type=2;addr=192.168.1.102;port=8004
+11:50:15.696525  [WARNING ][CEpollServer::addFdAndMb_err]desc=old_fd_mb;fd=15
+11:50:15.696552  [DEBUG   ][CEpollServer::addFdAndMb]fd=15;fd_type=2;addr=192.168.1.102;port=8004;authz=0
+11:50:15.696564  [INFO    ][connect_2_mb]connect 192.168.1.102:8005 error:110,Connection timed out
+11:50:15.696573  [DEBUG   ][CEpollServer::removeFd]fd=16;fd_type=2;addr=192.168.1.102;port=8005
+11:50:15.696670  [WARNING ][CEpollServer::addFdAndMb_err]desc=old_fd_mb;fd=16
+11:50:15.696695  [DEBUG   ][CEpollServer::addFdAndMb]fd=16;fd_type=2;addr=192.168.1.102;port=8005;authz=0
+11:50:15.696707  [INFO    ][connect_2_mb]connect 192.168.1.102:8006 error:110,Connection timed out
+11:50:15.696718  [DEBUG   ][CEpollServer::removeFd]fd=17;fd_type=2;addr=192.168.1.102;port=8006
+11:50:15.696863  [WARNING ][CEpollServer::addFdAndMb_err]desc=old_fd_mb;fd=17
+11:50:15.696891  [DEBUG   ][CEpollServer::addFdAndMb]fd=17;fd_type=2;addr=192.168.1.102;port=8006;authz=0
+11:50:15.696904  [INFO    ][connect_2_mb]connect 192.168.1.102:8007 error:110,Connection timed out
+11:50:15.696914  [DEBUG   ][CEpollServer::removeFd]fd=18;fd_type=2;addr=192.168.1.102;port=8007
+11:50:15.696996  [WARNING ][CEpollServer::addFdAndMb_err]desc=old_fd_mb;fd=18
+11:50:15.697077  [DEBUG   ][CEpollServer::addFdAndMb]fd=18;fd_type=2;addr=192.168.1.102;port=8007;authz=0
+11:51:18.800633  [INFO    ][connect_2_mb]connect 192.168.1.102:8001 error:110,Connection timed out
+11:51:18.800701  [DEBUG   ][CEpollServer::removeFd]fd=6;fd_type=2;addr=192.168.1.102;port=8001
+11:51:18.800897  [WARNING ][CEpollServer::addFdAndMb_err]desc=old_fd_mb;fd=6
+11:51:18.800962  [DEBUG   ][CEpollServer::addFdAndMb]fd=6;fd_type=2;addr=192.168.1.102;port=8001;authz=0
+11:51:18.800976  [INFO    ][connect_2_mb]connect 192.168.1.102:8002 error:110,Connection timed out
+11:51:18.800986  [DEBUG   ][CEpollServer::removeFd]fd=14;fd_type=2;addr=192.168.1.102;port=8002
+11:51:18.801097  [WARNING ][CEpollServer::addFdAndMb_err]desc=old_fd_mb;fd=14
+11:51:18.801124  [DEBUG   ][CEpollServer::addFdAndMb]fd=14;fd_type=2;addr=192.168.1.102;port=8002;authz=0
+11:51:18.801136  [INFO    ][connect_2_mb]connect 192.168.1.102:8004 error:110,Connection timed out
+11:51:18.801145  [DEBUG   ][CEpollServer::removeFd]fd=15;fd_type=2;addr=192.168.1.102;port=8004
+11:51:18.801287  [WARNING ][CEpollServer::addFdAndMb_err]desc=old_fd_mb;fd=15
+11:51:18.801314  [DEBUG   ][CEpollServer::addFdAndMb]fd=15;fd_type=2;addr=192.168.1.102;port=8004;authz=0
+11:51:18.801327  [INFO    ][connect_2_mb]connect 192.168.1.102:8005 error:110,Connection timed out
+11:51:18.801336  [DEBUG   ][CEpollServer::removeFd]fd=16;fd_type=2;addr=192.168.1.102;port=8005
+11:51:18.801464  [WARNING ][CEpollServer::addFdAndMb_err]desc=old_fd_mb;fd=16
+11:51:18.801494  [DEBUG   ][CEpollServer::addFdAndMb]fd=16;fd_type=2;addr=192.168.1.102;port=8005;authz=0
+11:51:18.801509  [INFO    ][connect_2_mb]connect 192.168.1.102:8006 error:110,Connection timed out
+11:51:18.801518  [DEBUG   ][CEpollServer::removeFd]fd=17;fd_type=2;addr=192.168.1.102;port=8006
+11:51:18.801737  [WARNING ][CEpollServer::addFdAndMb_err]desc=old_fd_mb;fd=17
+11:51:18.801765  [DEBUG   ][CEpollServer::addFdAndMb]fd=17;fd_type=2;addr=192.168.1.102;port=8006;authz=0
+11:51:18.801777  [INFO    ][connect_2_mb]connect 192.168.1.102:8007 error:110,Connection timed out
+11:51:18.801785  [DEBUG   ][CEpollServer::removeFd]fd=18;fd_type=2;addr=192.168.1.102;port=8007
+11:51:18.801936  [WARNING ][CEpollServer::addFdAndMb_err]desc=old_fd_mb;fd=18
+11:51:18.802113  [DEBUG   ][CEpollServer::addFdAndMb]fd=18;fd_type=2;addr=192.168.1.102;port=8007;authz=0
+11:52:21.903916  [INFO    ][connect_2_mb]connect 192.168.1.102:8001 error:110,Connection timed out
+11:52:21.903978  [DEBUG   ][CEpollServer::removeFd]fd=6;fd_type=2;addr=192.168.1.102;port=8001
+11:52:21.904266  [WARNING ][CEpollServer::addFdAndMb_err]desc=old_fd_mb;fd=6
+11:52:21.904357  [DEBUG   ][CEpollServer::addFdAndMb]fd=6;fd_type=2;addr=192.168.1.102;port=8001;authz=0
+11:52:21.904390  [INFO    ][connect_2_mb]connect 192.168.1.102:8002 error:110,Connection timed out
+11:52:21.904405  [DEBUG   ][CEpollServer::removeFd]fd=14;fd_type=2;addr=192.168.1.102;port=8002
+11:52:21.904554  [WARNING ][CEpollServer::addFdAndMb_err]desc=old_fd_mb;fd=14
+11:52:21.904581  [DEBUG   ][CEpollServer::addFdAndMb]fd=14;fd_type=2;addr=192.168.1.102;port=8002;authz=0
+11:52:21.904594  [INFO    ][connect_2_mb]connect 192.168.1.102:8004 error:110,Connection timed out
+11:52:21.904603  [DEBUG   ][CEpollServer::removeFd]fd=15;fd_type=2;addr=192.168.1.102;port=8004
+11:52:21.904727  [WARNING ][CEpollServer::addFdAndMb_err]desc=old_fd_mb;fd=15
+11:52:21.904750  [DEBUG   ][CEpollServer::addFdAndMb]fd=15;fd_type=2;addr=192.168.1.102;port=8004;authz=0
+11:52:21.904761  [INFO    ][connect_2_mb]connect 192.168.1.102:8005 error:110,Connection timed out
+11:52:21.904769  [DEBUG   ][CEpollServer::removeFd]fd=16;fd_type=2;addr=192.168.1.102;port=8005
+11:52:21.904858  [WARNING ][CEpollServer::addFdAndMb_err]desc=old_fd_mb;fd=16
+11:52:21.904879  [DEBUG   ][CEpollServer::addFdAndMb]fd=16;fd_type=2;addr=192.168.1.102;port=8005;authz=0
+11:52:21.904889  [INFO    ][connect_2_mb]connect 192.168.1.102:8006 error:110,Connection timed out
+11:52:21.904897  [DEBUG   ][CEpollServer::removeFd]fd=17;fd_type=2;addr=192.168.1.102;port=8006
+11:52:21.905152  [WARNING ][CEpollServer::addFdAndMb_err]desc=old_fd_mb;fd=17
+11:52:21.905183  [DEBUG   ][CEpollServer::addFdAndMb]fd=17;fd_type=2;addr=192.168.1.102;port=8006;authz=0
+11:52:21.905201  [INFO    ][connect_2_mb]connect 192.168.1.102:8007 error:110,Connection timed out
+11:52:21.905210  [DEBUG   ][CEpollServer::removeFd]fd=18;fd_type=2;addr=192.168.1.102;port=8007
+11:52:21.905282  [WARNING ][CEpollServer::addFdAndMb_err]desc=old_fd_mb;fd=18
+11:52:21.905305  [DEBUG   ][CEpollServer::addFdAndMb]fd=18;fd_type=2;addr=192.168.1.102;port=8007;authz=0

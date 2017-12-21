@@ -1,0 +1,2071 @@
+21:36:09.855099  [INFO    ][CWorldBase::init()]
+21:36:09.855620  [WARNING ][init_cfg]warning:missed section:server_8
+21:36:09.855660  [WARNING ][init_cfg]warning:missed section:server_9
+21:36:09.855680  [WARNING ][init_cfg]warning:missed section:server_10
+21:36:09.855698  [WARNING ][init_cfg]warning:missed section:server_11
+21:36:09.855715  [WARNING ][init_cfg]warning:missed section:server_12
+21:36:09.855733  [WARNING ][init_cfg]warning:missed section:server_13
+21:36:09.855750  [WARNING ][init_cfg]warning:missed section:server_14
+21:36:09.855767  [WARNING ][init_cfg]warning:missed section:server_15
+21:36:09.855784  [WARNING ][init_cfg]warning:missed section:server_16
+21:36:09.855801  [WARNING ][init_cfg]warning:missed section:server_17
+21:36:09.855818  [WARNING ][init_cfg]warning:missed section:server_18
+21:36:09.855835  [WARNING ][init_cfg]warning:missed section:server_19
+21:36:09.855852  [WARNING ][init_cfg]warning:missed section:server_20
+21:36:09.855869  [WARNING ][init_cfg]warning:missed section:server_21
+21:36:09.855886  [WARNING ][init_cfg]warning:missed section:server_22
+21:36:09.855904  [WARNING ][init_cfg]warning:missed section:server_23
+21:36:09.855921  [WARNING ][init_cfg]warning:missed section:server_24
+21:36:09.855938  [WARNING ][init_cfg]warning:missed section:server_25
+21:36:09.855955  [WARNING ][init_cfg]warning:missed section:server_26
+21:36:09.855972  [WARNING ][init_cfg]warning:missed section:server_27
+21:36:09.855989  [WARNING ][init_cfg]warning:missed section:server_28
+21:36:09.856006  [WARNING ][init_cfg]warning:missed section:server_29
+21:36:09.856268  [DEBUG   ][CDefParser::init]==========
+21:36:09.963611  [DEBUG   ][CDefParser::init]m_EntityDefMd5 = e5a2d6e9b88cff1622d5b58a25f71496
+21:36:10.006440  [SCRIPT  ][INFO][add_all_lua_path]begin=====================================================
+21:36:10.006479  [SCRIPT  ][INFO][package.path]/usr/local/share/lua/5.2/?.lua;/usr/local/share/lua/5.2/?/init.lua;/usr/local/lib/lua/5.2/?.lua;/usr/local/lib/lua/5.2/?/init.lua;./?.lua;/root/server/scripts//base/?.lua;/root/server/scripts//base/?.luac
+21:36:10.006489  [SCRIPT  ][INFO][G_LUA_ROOTPATH]/root/server/scripts/
+21:36:10.006546  [SCRIPT  ][INFO][package.path]/usr/local/share/lua/5.2/?.lua;/usr/local/share/lua/5.2/?/init.lua;/usr/local/lib/lua/5.2/?.lua;/usr/local/lib/lua/5.2/?/init.lua;./?.lua;/root/server/scripts//base/?.lua;/root/server/scripts//base/?.luac;/root/server/scripts//common/?.lua;/root/server/scripts//common/?.luac;/root/server/scripts//common/data/?.lua;/root/server/scripts//common/data/?.luac;/root/server/scripts//base/mgr/?.lua;/root/server/scripts//base/mgr/?.luac;/root/server/scripts//test/?.lua;/root/server/scripts//test/?.luac;/root/server/scripts//base/SubSystem/?.lua;/root/server/scripts//base/SubSystem/?.luac;/root/server/scripts//base/SubSystem/GM/?.lua;/root/server/scripts//base/SubSystem/GM/?.luac;/root/server/scripts//base/SpaceLoader/?.lua;/root/server/scripts//base/SpaceLoader/?.luac;/root/server/scripts//lualibs/?.lua;/root/server/scripts//lualibs/?.luac
+21:36:10.006557  [SCRIPT  ][INFO][add_all_lua_path]end=======================================================
+21:36:11.326988  [INFO    ][read_bm]bm_loaded,map=50003;file=/root/server/scripts//data/blockmap/test.bm
+21:36:11.327832  [INFO    ][read_bm]bm_loaded,map=10601;file=/root/server/scripts//data/blockmap/test.bm
+21:36:11.328128  [INFO    ][read_bm]bm_loaded,map=10602;file=/root/server/scripts//data/blockmap/test.bm
+21:36:11.328265  [INFO    ][read_bm]bm_loaded,map=22222;file=/root/server/scripts//data/blockmap/test.bm
+21:36:11.328576  [INFO    ][read_bm]bm_loaded,map=40002;file=/root/server/scripts//data/blockmap/test.bm
+21:36:11.328910  [INFO    ][read_bm]bm_loaded,map=40006;file=/root/server/scripts//data/blockmap/test.bm
+21:36:11.329108  [INFO    ][read_bm]bm_loaded,map=10606;file=/root/server/scripts//data/blockmap/test.bm
+21:36:11.329384  [INFO    ][read_bm]bm_loaded,map=10607;file=/root/server/scripts//data/blockmap/test.bm
+21:36:11.329548  [INFO    ][read_bm]bm_loaded,map=10100;file=/root/server/scripts//data/blockmap/test.bm
+21:36:11.329896  [INFO    ][read_bm]bm_loaded,map=10101;file=/root/server/scripts//data/blockmap/test.bm
+21:36:11.330303  [INFO    ][read_bm]bm_loaded,map=10102;file=/root/server/scripts//data/blockmap/test.bm
+21:36:11.330478  [INFO    ][read_bm]bm_loaded,map=10103;file=/root/server/scripts//data/blockmap/test.bm
+21:36:11.330772  [INFO    ][read_bm]bm_loaded,map=10104;file=/root/server/scripts//data/blockmap/test.bm
+21:36:11.330970  [INFO    ][read_bm]bm_loaded,map=10105;file=/root/server/scripts//data/blockmap/test.bm
+21:36:11.331130  [INFO    ][read_bm]bm_loaded,map=10106;file=/root/server/scripts//data/blockmap/test.bm
+21:36:11.331407  [INFO    ][read_bm]bm_loaded,map=10107;file=/root/server/scripts//data/blockmap/test.bm
+21:36:11.331760  [INFO    ][read_bm]bm_loaded,map=10108;file=/root/server/scripts//data/blockmap/test.bm
+21:36:11.331889  [INFO    ][read_bm]bm_loaded,map=10109;file=/root/server/scripts//data/blockmap/test.bm
+21:36:11.332004  [INFO    ][read_bm]bm_loaded,map=30001;file=/root/server/scripts//data/blockmap/test.bm
+21:36:11.332031  [SCRIPT  ][DEBUG][load_space_data]map_id=50000;spaceName=nil
+21:36:11.332297  [INFO    ][read_bm]bm_loaded,map=10501;file=/root/server/scripts//data/blockmap/test.bm
+21:36:11.332525  [INFO    ][read_bm]bm_loaded,map=10502;file=/root/server/scripts//data/blockmap/test.bm
+21:36:11.332829  [INFO    ][read_bm]bm_loaded,map=10503;file=/root/server/scripts//data/blockmap/test.bm
+21:36:11.333075  [INFO    ][read_bm]bm_loaded,map=10504;file=/root/server/scripts//data/blockmap/test.bm
+21:36:11.333312  [INFO    ][read_bm]bm_loaded,map=10505;file=/root/server/scripts//data/blockmap/test.bm
+21:36:11.333474  [INFO    ][read_bm]bm_loaded,map=10506;file=/root/server/scripts//data/blockmap/test.bm
+21:36:11.333765  [INFO    ][read_bm]bm_loaded,map=10507;file=/root/server/scripts//data/blockmap/test.bm
+21:36:11.334010  [INFO    ][read_bm]bm_loaded,map=10508;file=/root/server/scripts//data/blockmap/test.bm
+21:36:11.334317  [INFO    ][read_bm]bm_loaded,map=40003;file=/root/server/scripts//data/blockmap/test.bm
+21:36:11.334649  [INFO    ][read_bm]bm_loaded,map=40007;file=/root/server/scripts//data/blockmap/test.bm
+21:36:11.334764  [INFO    ][read_bm]bm_loaded,map=20006;file=/root/server/scripts//data/blockmap/test.bm
+21:36:11.334783  [SCRIPT  ][DEBUG][load_space_data]map_id=10004;spaceName=nil
+21:36:11.334874  [INFO    ][read_bm]bm_loaded,map=20010;file=/root/server/scripts//data/blockmap/test.bm
+21:36:11.334980  [INFO    ][read_bm]bm_loaded,map=20012;file=/root/server/scripts//data/blockmap/test.bm
+21:36:11.335302  [INFO    ][read_bm]bm_loaded,map=911;file=/root/server/scripts//data/blockmap/test.bm
+21:36:11.335941  [INFO    ][read_bm]bm_loaded,map=10401;file=/root/server/scripts//data/blockmap/test.bm
+21:36:11.336480  [INFO    ][read_bm]bm_loaded,map=10402;file=/root/server/scripts//data/blockmap/test.bm
+21:36:11.336958  [INFO    ][read_bm]bm_loaded,map=10403;file=/root/server/scripts//data/blockmap/test.bm
+21:36:11.337480  [INFO    ][read_bm]bm_loaded,map=10404;file=/root/server/scripts//data/blockmap/test.bm
+21:36:11.339062  [INFO    ][read_bm]bm_loaded,map=42000;file=/root/server/scripts//data/blockmap/test.bm
+21:36:11.339464  [INFO    ][read_bm]bm_loaded,map=10406;file=/root/server/scripts//data/blockmap/test.bm
+21:36:11.339990  [INFO    ][read_bm]bm_loaded,map=10407;file=/root/server/scripts//data/blockmap/test.bm
+21:36:11.340476  [INFO    ][read_bm]bm_loaded,map=10408;file=/root/server/scripts//data/blockmap/test.bm
+21:36:11.340844  [INFO    ][read_bm]bm_loaded,map=41000;file=/root/server/scripts//data/blockmap/test.bm
+21:36:11.341348  [INFO    ][read_bm]bm_loaded,map=10604;file=/root/server/scripts//data/blockmap/test.bm
+21:36:11.341588  [INFO    ][read_bm]bm_loaded,map=22221;file=/root/server/scripts//data/blockmap/test.bm
+21:36:11.346136  [INFO    ][read_bm]bm_loaded,map=30002;file=/root/server/scripts//data/blockmap/test.bm
+21:36:11.346550  [INFO    ][read_bm]bm_loaded,map=40004;file=/root/server/scripts//data/blockmap/test.bm
+21:36:11.346907  [INFO    ][read_bm]bm_loaded,map=40008;file=/root/server/scripts//data/blockmap/test.bm
+21:36:11.347127  [INFO    ][read_bm]bm_loaded,map=10603;file=/root/server/scripts//data/blockmap/test.bm
+21:36:11.347149  [SCRIPT  ][DEBUG][load_space_data]map_id=913;spaceName=nil
+21:36:11.347162  [SCRIPT  ][DEBUG][load_space_data]map_id=10003;spaceName=nil
+21:36:11.347248  [INFO    ][read_bm]bm_loaded,map=20003;file=/root/server/scripts//data/blockmap/test.bm
+21:36:11.347411  [INFO    ][read_bm]bm_loaded,map=31000;file=/root/server/scripts//data/blockmap/test.bm
+21:36:11.347673  [INFO    ][read_bm]bm_loaded,map=10609;file=/root/server/scripts//data/blockmap/test.bm
+21:36:11.347694  [SCRIPT  ][DEBUG][load_space_data]map_id=10002;spaceName=nil
+21:36:11.347704  [SCRIPT  ][DEBUG][load_space_data]map_id=914;spaceName=nil
+21:36:11.347898  [INFO    ][read_bm]bm_loaded,map=10509;file=/root/server/scripts//data/blockmap/test.bm
+21:36:11.347988  [INFO    ][read_bm]bm_loaded,map=20001;file=/root/server/scripts//data/blockmap/test.bm
+21:36:11.348269  [INFO    ][read_bm]bm_loaded,map=10608;file=/root/server/scripts//data/blockmap/test.bm
+21:36:11.348358  [INFO    ][read_bm]bm_loaded,map=20002;file=/root/server/scripts//data/blockmap/test.bm
+21:36:11.348695  [INFO    ][read_bm]bm_loaded,map=10301;file=/root/server/scripts//data/blockmap/test.bm
+21:36:11.348971  [INFO    ][read_bm]bm_loaded,map=10302;file=/root/server/scripts//data/blockmap/test.bm
+21:36:11.349167  [INFO    ][read_bm]bm_loaded,map=10303;file=/root/server/scripts//data/blockmap/test.bm
+21:36:11.349433  [INFO    ][read_bm]bm_loaded,map=10304;file=/root/server/scripts//data/blockmap/test.bm
+21:36:11.349746  [INFO    ][read_bm]bm_loaded,map=10305;file=/root/server/scripts//data/blockmap/test.bm
+21:36:11.349885  [INFO    ][read_bm]bm_loaded,map=10306;file=/root/server/scripts//data/blockmap/test.bm
+21:36:11.350149  [INFO    ][read_bm]bm_loaded,map=10307;file=/root/server/scripts//data/blockmap/test.bm
+21:36:11.350490  [INFO    ][read_bm]bm_loaded,map=10308;file=/root/server/scripts//data/blockmap/test.bm
+21:36:11.350657  [INFO    ][read_bm]bm_loaded,map=10309;file=/root/server/scripts//data/blockmap/test.bm
+21:36:11.350923  [INFO    ][read_bm]bm_loaded,map=50002;file=/root/server/scripts//data/blockmap/test.bm
+21:36:11.351020  [INFO    ][read_bm]bm_loaded,map=20008;file=/root/server/scripts//data/blockmap/test.bm
+21:36:11.351113  [INFO    ][read_bm]bm_loaded,map=20005;file=/root/server/scripts//data/blockmap/test.bm
+21:36:11.351886  [INFO    ][read_bm]bm_loaded,map=912;file=/root/server/scripts//data/blockmap/test.bm
+21:36:11.352402  [INFO    ][read_bm]bm_loaded,map=10702;file=/root/server/scripts//data/blockmap/test.bm
+21:36:11.352934  [INFO    ][read_bm]bm_loaded,map=10405;file=/root/server/scripts//data/blockmap/test.bm
+21:36:11.353295  [INFO    ][read_bm]bm_loaded,map=10409;file=/root/server/scripts//data/blockmap/test.bm
+21:36:11.353453  [INFO    ][read_bm]bm_loaded,map=20004;file=/root/server/scripts//data/blockmap/test.bm
+21:36:11.354071  [INFO    ][read_bm]bm_loaded,map=40001;file=/root/server/scripts//data/blockmap/test.bm
+21:36:11.354684  [INFO    ][read_bm]bm_loaded,map=40005;file=/root/server/scripts//data/blockmap/test.bm
+21:36:11.355262  [INFO    ][read_bm]bm_loaded,map=40009;file=/root/server/scripts//data/blockmap/test.bm
+21:36:11.355432  [INFO    ][read_bm]bm_loaded,map=20007;file=/root/server/scripts//data/blockmap/test.bm
+21:36:11.355598  [INFO    ][read_bm]bm_loaded,map=20009;file=/root/server/scripts//data/blockmap/test.bm
+21:36:11.356196  [INFO    ][read_bm]bm_loaded,map=10704;file=/root/server/scripts//data/blockmap/test.bm
+21:36:11.356821  [INFO    ][read_bm]bm_loaded,map=10705;file=/root/server/scripts//data/blockmap/test.bm
+21:36:11.357334  [INFO    ][read_bm]bm_loaded,map=10706;file=/root/server/scripts//data/blockmap/test.bm
+21:36:11.357367  [SCRIPT  ][DEBUG][load_space_data]map_id=10001;spaceName=nil
+21:36:11.357911  [INFO    ][read_bm]bm_loaded,map=10703;file=/root/server/scripts//data/blockmap/test.bm
+21:36:11.358344  [INFO    ][read_bm]bm_loaded,map=10201;file=/root/server/scripts//data/blockmap/test.bm
+21:36:11.358984  [INFO    ][read_bm]bm_loaded,map=10202;file=/root/server/scripts//data/blockmap/test.bm
+21:36:11.359429  [INFO    ][read_bm]bm_loaded,map=10203;file=/root/server/scripts//data/blockmap/test.bm
+21:36:11.360048  [INFO    ][read_bm]bm_loaded,map=10204;file=/root/server/scripts//data/blockmap/test.bm
+21:36:11.360575  [INFO    ][read_bm]bm_loaded,map=10205;file=/root/server/scripts//data/blockmap/test.bm
+21:36:11.360895  [INFO    ][read_bm]bm_loaded,map=10206;file=/root/server/scripts//data/blockmap/test.bm
+21:36:11.361400  [INFO    ][read_bm]bm_loaded,map=10207;file=/root/server/scripts//data/blockmap/test.bm
+21:36:11.361984  [INFO    ][read_bm]bm_loaded,map=10208;file=/root/server/scripts//data/blockmap/test.bm
+21:36:11.362471  [INFO    ][read_bm]bm_loaded,map=10209;file=/root/server/scripts//data/blockmap/test.bm
+21:36:11.362990  [INFO    ][read_bm]bm_loaded,map=10605;file=/root/server/scripts//data/blockmap/test.bm
+21:36:11.363168  [INFO    ][read_bm]bm_loaded,map=20011;file=/root/server/scripts//data/blockmap/test.bm
+21:36:11.363699  [INFO    ][read_bm]bm_loaded,map=10701;file=/root/server/scripts//data/blockmap/test.bm
+21:36:11.364215  [INFO    ][read_bm]bm_loaded,map=50001;file=/root/server/scripts//data/blockmap/test.bm
+21:36:12.818264  [SCRIPT  ][DEBUG][WBConfig:initData]WBConfig={s010SHOW_TOP_N=5,s013BossHpSynMode=1,s024HP_SELF_DECREASE_PERCENT=1,s008WB_TIMES={12=30},s013SAVE_PER_TIME=300,s013PRE_OPEN_TIME=5,s009HP_CHANGE=1,s012SEC_PER_WEEK=604800,s012WDAY_REFRESH=2,s011SPAWN_POINT=99,s012SYN_INTERVEL=5,s006SPACES={1=40001,2=40002,3=40003,4=40004,5=40005,6=40006,7=40007,8=40008,9=40009},s017HOUR_WEEK_REFRESH=0,s007HP_LEFT=10,s012SUMMON_LIMIT=30,s003LVS={1=20,2=25,3=30,4=35,5=40,6=45,7=50,8=55,9=60},s025HP_SELF_DECREASE_INTERVAL=1,s011SYN_HP_TIME=5000,s010SUMMON_MOD=1,s011BossBasicHp=200000000,s013SAVE_INTERVEL=300,s013WorldBossTime=1800}
+21:36:12.818587  [SCRIPT  ][DEBUG][GuildDataMgr:initGragonData]data={}
+21:36:12.818735  [SCRIPT  ][DEBUG][GuildDataMgr:initGuildSkill]data={}
+21:36:13.006564  [SCRIPT  ][DEBUG][FumoData:initData]
+21:36:13.423192  [INFO    ][world::initNextEntityId]init_id=100663296
+21:36:13.423295  [DEBUG   ][CEpollServer::AddFdAndMb]serverName=
+21:36:13.423315  [DEBUG   ][CEpollServer::addFdAndMb]fd=4;fd_type=1;addr=;port=8006;authz=0
+21:36:13.423324  [DEBUG   ][start_server]:8006,success.
+21:36:13.423444  [DEBUG   ][CEpollServer::addFdAndMb]fd=6;fd_type=2;addr=192.168.200.102;port=8001;authz=0
+21:36:13.423468  [DEBUG   ][try_to_connect_mailbox]server=192.168.200.102;port=8001
+21:36:13.423566  [DEBUG   ][CEpollServer::addFdAndMb]fd=7;fd_type=2;addr=192.168.200.102;port=8002;authz=0
+21:36:13.423588  [DEBUG   ][try_to_connect_mailbox]server=192.168.200.102;port=8002
+21:36:13.423667  [DEBUG   ][CEpollServer::addFdAndMb]fd=8;fd_type=2;addr=192.168.200.102;port=8003;authz=0
+21:36:13.423688  [DEBUG   ][try_to_connect_mailbox]server=192.168.200.102;port=8003
+21:36:13.423861  [DEBUG   ][CEpollServer::addFdAndMb]fd=9;fd_type=2;addr=192.168.200.102;port=8004;authz=0
+21:36:13.423877  [DEBUG   ][try_to_connect_mailbox]server=192.168.200.102;port=8004
+21:36:13.423952  [DEBUG   ][CEpollServer::addFdAndMb]fd=10;fd_type=2;addr=192.168.200.102;port=8005;authz=0
+21:36:13.423973  [DEBUG   ][try_to_connect_mailbox]server=192.168.200.102;port=8005
+21:36:13.424059  [DEBUG   ][CEpollServer::addFdAndMb]fd=11;fd_type=2;addr=192.168.200.102;port=8007;authz=0
+21:36:13.424081  [DEBUG   ][try_to_connect_mailbox]server=192.168.200.102;port=8007
+21:36:13.424092  [SCRIPT  ][INFO][init.onServerReady]
+21:36:13.424205  [SCRIPT  ][INFO][GameMgr:__ctor__]
+21:36:13.424295  [INFO    ][connected_2_mb]mb fd = 6 connected severName = 192.168.200.102, port = 8001,
+21:36:13.424308  [INFO    ][connected_2_mb]mb fd = 7 connected severName = 192.168.200.102, port = 8002,
+21:36:13.424316  [INFO    ][connected_2_mb]mb fd = 8 connected severName = 192.168.200.102, port = 8003,
+21:36:13.424323  [INFO    ][connected_2_mb]mb fd = 9 connected severName = 192.168.200.102, port = 8004,
+21:36:13.424331  [INFO    ][connected_2_mb]mb fd = 10 connected severName = 192.168.200.102, port = 8005,
+21:36:13.424374  [INFO    ][connected_2_mb]mb fd = 11 connected severName = 192.168.200.102, port = 8007,
+21:36:14.035822  [INFO    ][new_connection]connected from 192.168.200.102:46344, assigned socket is:12
+21:36:14.035895  [DEBUG   ][CEpollServer::AddFdAndMb]serverName=192.168.200.102
+21:36:14.035922  [DEBUG   ][CEpollServer::AddFdAndMb]client_trusted, serverName=192.168.200.102
+21:36:14.035947  [DEBUG   ][CEpollServer::addFdAndMb]fd=12;fd_type=3;addr=192.168.200.102;port=46344;authz=15
+21:36:14.035989  [INFO    ][new_connection]connected from 192.168.200.102:46345, assigned socket is:13
+21:36:14.036016  [DEBUG   ][CEpollServer::AddFdAndMb]serverName=192.168.200.102
+21:36:14.036035  [DEBUG   ][CEpollServer::AddFdAndMb]client_trusted, serverName=192.168.200.102
+21:36:14.036053  [DEBUG   ][CEpollServer::addFdAndMb]fd=13;fd_type=3;addr=192.168.200.102;port=46345;authz=15
+21:36:14.036083  [INFO    ][new_connection]connected from 192.168.200.102:46351, assigned socket is:14
+21:36:14.036106  [DEBUG   ][CEpollServer::AddFdAndMb]serverName=192.168.200.102
+21:36:14.036124  [DEBUG   ][CEpollServer::AddFdAndMb]client_trusted, serverName=192.168.200.102
+21:36:14.036143  [DEBUG   ][CEpollServer::addFdAndMb]fd=14;fd_type=3;addr=192.168.200.102;port=46351;authz=15
+21:36:14.036171  [INFO    ][new_connection]connected from 192.168.200.102:46353, assigned socket is:15
+21:36:14.036195  [DEBUG   ][CEpollServer::AddFdAndMb]serverName=192.168.200.102
+21:36:14.036212  [DEBUG   ][CEpollServer::AddFdAndMb]client_trusted, serverName=192.168.200.102
+21:36:14.036231  [DEBUG   ][CEpollServer::addFdAndMb]fd=15;fd_type=3;addr=192.168.200.102;port=46353;authz=15
+21:36:14.037027  [SCRIPT  ][INFO][GameMgr:on_registered]
+21:36:14.037163  [INFO    ][SetBaseData]key=GAME_START_TIME;value=1425645374;type=4
+21:36:14.037214  [SCRIPT  ][DEBUG][global_data.onBaseData]key=GAME_START_TIME;value=1425645374
+21:36:14.038055  [SCRIPT  ][INFO][OfflineMgr:__ctor__]========
+21:36:14.039113  [SCRIPT  ][INFO][OfflineMgr:on_registered]
+21:36:14.039183  [SCRIPT  ][INFO][OfflineMgr:onSelectResp]avatar_loaded=0
+21:36:14.039275  [SCRIPT  ][DEBUG][OfflineMgr:onSelectResp]addTimer Clean
+21:36:14.039363  [SCRIPT  ][INFO][GameMgr:OnMgrLoaded]mgr_name = OfflineMgr
+21:36:14.039403  [SCRIPT  ][INFO][GameMgr:OnMgrLoaded]mgr_name = OfflineMgr loaded.
+21:36:14.041891  [SCRIPT  ][INFO][MapMgr:__ctor__]
+21:36:14.044885  [SCRIPT  ][DEBUG][MapMgr:__ctor__]SpaceLoaderCount={50003={},10601={},10602={},10603={},40002={},40006={},10606={},10607={},10100={},10609={},10102={},10103={},10104={},10105={},10106={},10107={},10108={},10109={},30001={},50000={},10501={},10502={},10503={},10504={},10505={},10506={},10507={},10508={},10509={},10002={},10003={},10004={},20010={},20012={},911={},10401={},10402={},10403={},10404={},42000={},10406={},10407={},10408={},41000={},50001={},22221={},10701={},40004={},40008={},20011={},10605={},10608={},914={},31000={},20002={},40003={},10604={},10303={},30002={},20008={},912={},10301={},10302={},913={},10304={},10305={},10306={},10307={},10308={},10309={},50002={},10703={},10001={},20004={},40001={},40005={},40009={},20007={},20001={},20003={},20005={},10702={},20009={},10704={},10705={},10706={},10409={},10405={},10201={},10202={},10203={},10204={},10205={},10206={},10207={},10208={},10209={},20006={},40007={},10101={},22222={}};BusySpecialMapPool={50003={},10601={},10602={},10603
+21:36:14.045223  [SCRIPT  ][INFO][UserMgr:__ctor__]
+21:36:14.045441  [SCRIPT  ][DEBUG][MailMgr:__ctor__]
+21:36:14.045526  [SCRIPT  ][INFO][NameMgr:__ctor__]========
+21:36:14.045620  [SCRIPT  ][INFO][Collector:__ctor__]
+21:36:14.045706  [SCRIPT  ][DEBUG][OblivionGateMgr:__ctor__]
+21:36:14.046100  [SCRIPT  ][DEBUG][GuildMgr:__ctor__]
+21:36:14.046217  [SCRIPT  ][INFO][EventMgr:__ctor__]
+21:36:14.046293  [SCRIPT  ][DEBUG][MissionMgr:__ctor__]
+21:36:14.046433  [SCRIPT  ][DEBUG][ActivityMgr:__ctor__]
+21:36:14.046511  [SCRIPT  ][DEBUG][FlyDragonMgr:__ctor__]
+21:36:14.046575  [SCRIPT  ][INFO][mgr_compensate:__ctor__]
+21:36:14.052704  [INFO    ][CEntityParent::lWriteToDB]etype=36;id=100663310;dbid=0;ref=12
+21:36:14.053261  [SCRIPT  ][INFO][ChargeMgr:__ctor__]
+21:36:14.053342  [INFO    ][CEntityParent::lWriteToDB]etype=37;id=100663311;dbid=0;ref=13
+21:36:14.053415  [SCRIPT  ][DEBUG][DefensePvPMgr:__ctor__]
+21:36:14.055636  [SCRIPT  ][INFO][MapMgr:on_registered]
+21:36:14.055713  [SCRIPT  ][INFO][MapMgr:LoadAllSpace]
+21:36:14.073455  [SCRIPT  ][INFO][UserMgr:on_registered]
+21:36:14.073730  [SCRIPT  ][DEBUG][RegisterGloballyCB]MailMgr
+21:36:14.073952  [SCRIPT  ][DEBUG][NameMgr:__ctor__]RegisterCallback
+21:36:14.073993  [SCRIPT  ][DEBUG][NameMgr:OnRegistered]
+21:36:14.074011  [SCRIPT  ][DEBUG][NameDataMgr:initData]
+21:36:14.295006  [SCRIPT  ][DEBUG][NameDataMgr:initData]over.
+21:36:14.295212  [SCRIPT  ][INFO][Collector:on_registered]
+21:36:14.295310  [SCRIPT  ][DEBUG][OblivionGateMgr:OnRegistered]
+21:36:14.295373  [SCRIPT  ][DEBUG][RegisterGloballyCB]
+21:36:14.295441  [SCRIPT  ][DEBUG][GuildMgr:OnRegistered]
+21:36:14.295544  [SCRIPT  ][INFO][EventMgr:on_registered]
+21:36:14.306786  [SCRIPT  ][DEBUG][RegisterGloballyCB]
+21:36:14.306926  [SCRIPT  ][DEBUG][FlyDragonMgr:OnRegistered]
+21:36:14.306960  [SCRIPT  ][DEBUG][DefensePvPMgr:OnRegistered]
+21:36:14.306990  [SCRIPT  ][INFO][GameMgr:OnMgrLoaded]mgr_name = NameMgr
+21:36:14.307020  [SCRIPT  ][INFO][GameMgr:OnMgrLoaded]mgr_name = Collector
+21:36:14.307044  [SCRIPT  ][INFO][GameMgr:OnMgrLoaded]mgr_name = OblivionGateMgr
+21:36:14.307067  [SCRIPT  ][INFO][GameMgr:OnMgrLoaded]mgr_name = EventMgr
+21:36:14.307089  [SCRIPT  ][INFO][GameMgr:OnMgrLoaded]mgr_name = ActivityMgr
+21:36:14.307110  [SCRIPT  ][INFO][GameMgr:OnMgrLoaded]mgr_name = FlyDragonMgr
+21:36:14.307132  [SCRIPT  ][INFO][GameMgr:OnMgrLoaded]mgr_name = DefensePvPMgr
+21:36:14.310458  [INFO    ][SelectEntityCallback]entity type=26;type2=ArenaMgr;dbid=4294967296
+21:36:14.310511  [SCRIPT  ][INFO][ArenaMgr:__ctor__]
+21:36:14.310557  [INFO    ][SelectEntityCallback]entity type=29;type2=GlobalDataMgr;dbid=4294967296
+21:36:14.310587  [SCRIPT  ][DEBUG][GlobalDataMgr:__ctor__]
+21:36:14.310627  [INFO    ][SelectEntityCallback]entity type=22;type2=WorldBossMgr;dbid=4294967296
+21:36:14.310673  [SCRIPT  ][INFO][WorldBossMgr:__ctor__]
+21:36:14.310707  [INFO    ][SelectEntityCallback]entity type=40;type2=RouletteMgr;dbid=4294967296
+21:36:14.310729  [SCRIPT  ][INFO][RouletteMgr:__ctor__]
+21:36:14.310829  [DEBUG   ][CWorldBase::InsertEntityCallback]eid=100663310;newid=76;ref=12;pszDbErr=
+21:36:14.310856  [SCRIPT  ][INFO][create_mgr_compensate_success]
+21:36:14.310877  [DEBUG   ][CWorldBase::InsertEntityCallback]eid=100663311;newid=76;ref=13;pszDbErr=
+21:36:14.310890  [SCRIPT  ][INFO][create_ChargeMgr_success]
+21:36:14.367501  [SCRIPT  ][DEBUG][GlobalDataMgr:on_registered]
+21:36:14.367602  [SCRIPT  ][DEBUG][WorldBossMgr:on_registered]1
+21:36:14.367651  [SCRIPT  ][DEBUG][BossHpMgr:new]
+21:36:14.367675  [SCRIPT  ][DEBUG][WorldBossMgr:on_registered]2
+21:36:14.367700  [SCRIPT  ][DEBUG][WorldBossMgr:EnableWBActivity]
+21:36:14.367808  [SCRIPT  ][DEBUG][WorldBossMgr:Init]addTimer 11
+21:36:14.367843  [SCRIPT  ][DEBUG][WorldBossMgr:Init]addTimer 5
+21:36:14.367876  [SCRIPT  ][INFO][RouletteMgr:OnRegistered]
+21:36:14.367926  [SCRIPT  ][INFO][ChargeMgr:OnRegistered]
+21:36:14.367971  [SCRIPT  ][INFO][GameMgr:OnMgrLoaded]mgr_name = GlobalDataMgr
+21:36:14.367999  [INFO    ][SetBaseData]key=forbidden_ips;value={};type=1
+21:36:14.368019  [INFO    ][SetBaseData]key=forbidden_accounts;value={};type=1
+21:36:14.368038  [SCRIPT  ][INFO][GameMgr:OnMgrLoaded]mgr_name = RouletteMgr
+21:36:14.370001  [DEBUG   ][CWorldBase::TableSelectCallback]eid=100663300
+21:36:14.370031  [DEBUG   ][CWorldBase::TableSelectCallback]strCallBackFunc=onAvatarSelectCountResp;strEntity=Avatar;nFieldNum=1
+21:36:14.370054  [DEBUG   ][CWorldBase::TableSelectCallback end]size=1
+21:36:14.370095  [DEBUG   ][CWorldBase::TableSelectCallback]eid=100663301
+21:36:14.370107  [DEBUG   ][CWorldBase::TableSelectCallback]strCallBackFunc=OnPublicLoad;strEntity=mail_public;nFieldNum=12
+21:36:14.370128  [DEBUG   ][CWorldBase::TableSelectCallback end]size=1
+21:36:14.370166  [SCRIPT  ][INFO][Guild.onEntitiesLoaded]count=0
+21:36:14.370192  [SCRIPT  ][INFO][MissionRecord.onEntitiesLoaded]count=0
+21:36:14.370219  [SCRIPT  ][INFO][GameMgr:OnMgrLoaded]mgr_name = UserMgr
+21:36:14.370246  [SCRIPT  ][INFO][GameMgr:OnMgrLoaded]mgr_name = MailMgr
+21:36:14.370270  [SCRIPT  ][INFO][GuildMgr:OnGuildsLoaded]count=0
+21:36:14.370300  [SCRIPT  ][INFO][MissionMgr:OnMissionRecordLoaded]count=0
+21:36:14.370328  [SCRIPT  ][INFO][GameMgr:OnMgrLoaded]mgr_name = GuildMgr
+21:36:14.370351  [SCRIPT  ][INFO][GameMgr:OnMgrLoaded]mgr_name = MissionMgr
+21:36:14.420520  [SCRIPT  ][INFO][ArenaData.onEntitiesLoaded]count=0
+21:36:14.420576  [SCRIPT  ][INFO][WorldBossData.onEntitiesLoaded]count=0
+21:36:14.420602  [DEBUG   ][CWorldBase::TableSelectCallback]eid=100663310
+21:36:14.420617  [DEBUG   ][CWorldBase::TableSelectCallback]strCallBackFunc=OnLoad;strEntity=last_server_account;nFieldNum=3
+21:36:14.420634  [DEBUG   ][CWorldBase::TableSelectCallback end]size=1
+21:36:14.420679  [SCRIPT  ][DEBUG][ChargeMgr:onTblSelectResp]
+21:36:14.420702  [SCRIPT  ][INFO][ChargeMgr:onTblSelectResp]rec_loaded=0
+21:36:14.420733  [SCRIPT  ][DEBUG][ArenaMgr:SetArenaDataCount]max=0;loaded=0
+21:36:14.420803  [SCRIPT  ][DEBUG][ArenaMgr:on_arenadata_loaded]
+21:36:14.420836  [SCRIPT  ][DEBUG][ArenaMgr:on_arenadata_loaded]day timer start sec = 8626
+21:36:14.420867  [SCRIPT  ][DEBUG][ArenaMgr:on_arenadata_loaded]week timer start sec = 181426
+21:36:14.420956  [SCRIPT  ][INFO][GameMgr:OnMgrLoaded]mgr_name = mgr_compensate
+21:36:14.420985  [SCRIPT  ][INFO][GameMgr:OnMgrLoaded]mgr_name = ChargeMgr
+21:36:14.421007  [SCRIPT  ][INFO][GameMgr:OnMgrLoaded]mgr_name = ArenaMgr
+21:36:14.421027  [SCRIPT  ][INFO][GameMgr:OnMgrLoaded]mgr_name = WorldBossMgr
+21:36:14.521718  [INFO    ][new_connection]connected from 192.168.200.102:46357, assigned socket is:16
+21:36:14.521747  [DEBUG   ][CEpollServer::AddFdAndMb]serverName=192.168.200.102
+21:36:14.521804  [DEBUG   ][CEpollServer::AddFdAndMb]client_trusted, serverName=192.168.200.102
+21:36:14.521822  [DEBUG   ][CEpollServer::addFdAndMb]fd=16;fd_type=3;addr=192.168.200.102;port=46357;authz=15
+21:36:17.021818  [INFO    ][new_connection]connected from 192.168.200.102:46362, assigned socket is:17
+21:36:17.021963  [DEBUG   ][CEpollServer::AddFdAndMb]serverName=192.168.200.102
+21:36:17.021998  [DEBUG   ][CEpollServer::AddFdAndMb]client_trusted, serverName=192.168.200.102
+21:36:17.022025  [DEBUG   ][CEpollServer::addFdAndMb]fd=17;fd_type=3;addr=192.168.200.102;port=46362;authz=15
+21:36:17.118269  [SCRIPT  ][INFO][MapMgr._STATE_MAP_LOADED]
+21:36:17.118365  [SCRIPT  ][INFO][GameMgr:OnMgrLoaded]mgr_name = MapMgr
+21:36:17.118390  [SCRIPT  ][INFO][GameMgr.all_mgrs_loaded]
+21:36:17.118407  [SCRIPT  ][DEBUG][GameMgr:_initMgr]
+21:36:17.118425  [SCRIPT  ][DEBUG][GameMgr:_initMgr]
+21:36:17.118440  [SCRIPT  ][DEBUG][GameMgr:_initMgr]
+21:36:17.118456  [SCRIPT  ][DEBUG][GameMgr:_initMgr]
+21:36:17.118471  [SCRIPT  ][DEBUG][GameMgr:_initMgr]
+21:36:17.118485  [SCRIPT  ][DEBUG][GameMgr:_initMgr]
+21:36:17.118498  [SCRIPT  ][DEBUG][GameMgr:_initMgr]
+21:36:17.118520  [SCRIPT  ][DEBUG][FlyDragonMgr:Init]
+21:36:17.118566  [SCRIPT  ][DEBUG][GuildMgr:Init]self.guilds={}
+21:36:17.118621  [SCRIPT  ][DEBUG][WorldBossMgr:ResetPerDay]time = 1425645377
+21:36:17.118684  [SCRIPT  ][DEBUG][WorldBossMgr:ResetPerWeek]time = 1425645377
+21:36:17.118814  [SCRIPT  ][DEBUG][NameMgr:Init]
+21:36:17.118856  [SCRIPT  ][DEBUG][UserMgr:FlyDragonMgrGetPlayerCount]AllPlayersCount=0
+21:36:17.118910  [SCRIPT  ][DEBUG][GameMgr:OnInited]GuildMgr
+21:36:17.118938  [SCRIPT  ][DEBUG][GameMgr:OnInited]WorldBossMgr
+21:36:17.118959  [SCRIPT  ][DEBUG][GameMgr:OnInited]UserMgr
+21:36:17.118997  [SCRIPT  ][DEBUG][UserMgr:RefreshRefFightReq]time = 1425645377
+21:36:17.119040  [SCRIPT  ][DEBUG][GameMgr:OnInited]ArenaMgr
+21:36:17.119063  [SCRIPT  ][DEBUG][GameMgr:OnInited]RouletteMgr
+21:36:17.119086  [SCRIPT  ][DEBUG][FlyDragonMgr:OnInited]UserCount=0
+21:36:17.119129  [SCRIPT  ][DEBUG][GameMgr:OnInited]FlyDragonMgr
+21:36:17.170658  [DEBUG   ][CWorldBase::TableSelectCallback]eid=100663302
+21:36:17.170774  [DEBUG   ][CWorldBase::TableSelectCallback]strCallBackFunc=onAvatarSelectResp;strEntity=Avatar;nFieldNum=2
+21:36:17.170829  [DEBUG   ][CWorldBase::TableSelectCallback end]size=1
+21:36:17.170889  [SCRIPT  ][DEBUG][NameMgr:OnInited]
+21:36:17.858786  [SCRIPT  ][DEBUG][NameDataMgr:InitByDB]571828
+21:36:17.900399  [SCRIPT  ][DEBUG][GameMgr:OnInited]NameMgr
+21:36:17.900469  [SCRIPT  ][INFO][GameMgr.all_mgrs_inited]
+21:36:24.120780  [INFO    ][SetBaseData]key=4;value={1=3,2=1009006,3={1=30}};type=1
+21:37:01.609322  [INFO    ][SelectEntityCallback]entity type=1;type2=Account;dbid=4294967296
+21:37:01.609421  [SCRIPT  ][DEBUG][Account.__ctor__]id=50331653;name=1111@test
+21:37:01.609445  [DEBUG   ][CEntityBase::lNotifyClientToAttach]---------- lNotifyClientToAttach ------id=50331653;Account=1111@test
+21:37:01.609487  [DEBUG   ][CEntityBase::lNotifyClientToAttach]---------- MSGID_LOGINAPP_NOTIFY_CLIENT_TO_ATTACH ------pszAccount=1111@test; MailboxId=6; key.c_str()=d7f04debd93562ca25cf3ec132f89c7c
+21:46:21.821607  [INFO    ][CEntityParent::lWriteToDB]etype=26;id=50331649;dbid=0;ref=0
+21:46:21.821726  [INFO    ][CEntityParent::WriteToRedis db]etype=26;id=50331649;dbid=0
+21:46:21.821807  [INFO    ][CEntityParent::lWriteToDB]etype=29;id=50331651;dbid=0;ref=0
+21:46:21.821858  [INFO    ][CEntityParent::WriteToRedis db]etype=29;id=50331651;dbid=0
+21:46:21.821920  [INFO    ][CEntityParent::lWriteToDB]etype=22;id=50331650;dbid=0;ref=0
+21:46:21.821938  [INFO    ][CEntityParent::WriteToRedis db]etype=22;id=50331650;dbid=0
+22:01:09.527200  [INFO    ][on_fd_closed]fd=12
+22:01:09.527244  [WARNING ][CWorldBase::OnFdClosed no fd]fd=12
+22:01:09.527262  [DEBUG   ][CEpollServer::removeFd]fd=12;fd_type=3;addr=192.168.200.102;port=46344
+22:01:09.527299  [INFO    ][on_fd_closed]fd=6
+22:01:09.527314  [WARNING ][CWorldBase::OnFdClosed no fd]fd=6
+22:01:09.527325  [DEBUG   ][CEpollServer::removeFd]fd=6;fd_type=2;addr=192.168.200.102;port=8001
+22:01:09.527364  [WARNING ][CEpollServer::addFdAndMb_err]desc=old_fd_mb;fd=6
+22:01:09.527377  [DEBUG   ][CEpollServer::addFdAndMb]fd=6;fd_type=2;addr=192.168.200.102;port=8001;authz=0
+22:01:09.527416  [WARNING ][CMailBox::sendAll error]mb=1;10_-1,111;Connection refused
+22:01:09.527430  [INFO    ][on_fd_closed]fd=6
+22:01:09.527438  [WARNING ][CWorldBase::OnFdClosed no fd]fd=6
+22:01:09.527453  [DEBUG   ][CEpollServer::removeFd]fd=6;fd_type=2;addr=192.168.200.102;port=8001
+22:01:09.588541  [INFO    ][on_fd_closed]fd=13
+22:01:09.588600  [WARNING ][CWorldBase::OnFdClosed no fd]fd=13
+22:01:09.588626  [DEBUG   ][CEpollServer::removeFd]fd=13;fd_type=3;addr=192.168.200.102;port=46345
+22:01:09.590597  [INFO    ][on_fd_closed]fd=8
+22:01:09.590644  [WARNING ][CWorldBase::OnFdClosed no fd]fd=8
+22:01:09.590669  [DEBUG   ][CEpollServer::removeFd]fd=8;fd_type=2;addr=192.168.200.102;port=8003
+22:01:09.590736  [DEBUG   ][CEpollServer::addFdAndMb]fd=6;fd_type=2;addr=192.168.200.102;port=8003;authz=0
+22:01:09.590776  [WARNING ][handle_message_err]failed, 111,'Connection refused'
+22:01:09.590799  [INFO    ][on_fd_closed]fd=6
+22:01:09.590814  [WARNING ][CWorldBase::OnFdClosed no fd]fd=6
+22:01:09.590830  [DEBUG   ][CEpollServer::removeFd]fd=6;fd_type=2;addr=192.168.200.102;port=8003
+22:01:09.602601  [INFO    ][on_fd_closed]fd=15
+22:01:09.602645  [WARNING ][CWorldBase::OnFdClosed no fd]fd=15
+22:01:09.602673  [DEBUG   ][CEpollServer::removeFd]fd=15;fd_type=3;addr=192.168.200.102;port=46353
+22:01:09.602733  [INFO    ][on_fd_closed]fd=7
+22:01:09.602762  [WARNING ][CWorldBase::OnFdClosed no fd]fd=7
+22:01:09.602783  [DEBUG   ][CEpollServer::removeFd]fd=7;fd_type=2;addr=192.168.200.102;port=8002
+22:01:09.602845  [DEBUG   ][CEpollServer::addFdAndMb]fd=6;fd_type=2;addr=192.168.200.102;port=8002;authz=0
+22:01:09.602892  [WARNING ][handle_message_err]failed, 111,'Connection refused'
+22:01:09.602920  [INFO    ][on_fd_closed]fd=6
+22:01:09.602936  [WARNING ][CWorldBase::OnFdClosed no fd]fd=6
+22:01:09.603030  [DEBUG   ][CEpollServer::removeFd]fd=6;fd_type=2;addr=192.168.200.102;port=8002
+22:01:09.627419  [INFO    ][on_fd_closed]fd=16
+22:01:09.627490  [WARNING ][CWorldBase::OnFdClosed no fd]fd=16
+22:01:09.627519  [DEBUG   ][CEpollServer::removeFd]fd=16;fd_type=3;addr=192.168.200.102;port=46357
+22:01:09.628115  [INFO    ][on_fd_closed]fd=9
+22:01:09.628150  [WARNING ][CWorldBase::OnFdClosed no fd]fd=9
+22:01:09.628169  [DEBUG   ][CEpollServer::removeFd]fd=9;fd_type=2;addr=192.168.200.102;port=8004
+22:01:09.628228  [DEBUG   ][CEpollServer::addFdAndMb]fd=6;fd_type=2;addr=192.168.200.102;port=8004;authz=0
+22:01:09.628264  [WARNING ][handle_message_err]failed, 111,'Connection refused'
+22:01:09.628288  [INFO    ][on_fd_closed]fd=6
+22:01:09.628304  [WARNING ][CWorldBase::OnFdClosed no fd]fd=6
+22:01:09.628321  [DEBUG   ][CEpollServer::removeFd]fd=6;fd_type=2;addr=192.168.200.102;port=8004
+22:01:09.644147  [INFO    ][on_fd_closed]fd=14
+22:01:09.644214  [WARNING ][CWorldBase::OnFdClosed no fd]fd=14
+22:01:09.644238  [DEBUG   ][CEpollServer::removeFd]fd=14;fd_type=3;addr=192.168.200.102;port=46351
+22:01:09.644300  [INFO    ][on_fd_closed]fd=10
+22:01:09.644325  [WARNING ][CWorldBase::OnFdClosed no fd]fd=10
+22:01:09.644341  [DEBUG   ][CEpollServer::removeFd]fd=10;fd_type=2;addr=192.168.200.102;port=8005
+22:01:09.644405  [DEBUG   ][CEpollServer::addFdAndMb]fd=6;fd_type=2;addr=192.168.200.102;port=8005;authz=0
+22:01:09.644445  [WARNING ][handle_message_err]failed, 111,'Connection refused'
+22:01:09.644470  [INFO    ][on_fd_closed]fd=6
+22:01:09.644485  [WARNING ][CWorldBase::OnFdClosed no fd]fd=6
+22:01:09.644500  [DEBUG   ][CEpollServer::removeFd]fd=6;fd_type=2;addr=192.168.200.102;port=8005
+22:03:07.666921  [INFO    ][CWorldBase::init()]
+22:03:07.667682  [WARNING ][init_cfg]warning:missed section:server_8
+22:03:07.667740  [WARNING ][init_cfg]warning:missed section:server_9
+22:03:07.667794  [WARNING ][init_cfg]warning:missed section:server_10
+22:03:07.667835  [WARNING ][init_cfg]warning:missed section:server_11
+22:03:07.667869  [WARNING ][init_cfg]warning:missed section:server_12
+22:03:07.667924  [WARNING ][init_cfg]warning:missed section:server_13
+22:03:07.667956  [WARNING ][init_cfg]warning:missed section:server_14
+22:03:07.667989  [WARNING ][init_cfg]warning:missed section:server_15
+22:03:07.668038  [WARNING ][init_cfg]warning:missed section:server_16
+22:03:07.668169  [WARNING ][init_cfg]warning:missed section:server_17
+22:03:07.668210  [WARNING ][init_cfg]warning:missed section:server_18
+22:03:07.668241  [WARNING ][init_cfg]warning:missed section:server_19
+22:03:07.668272  [WARNING ][init_cfg]warning:missed section:server_20
+22:03:07.668302  [WARNING ][init_cfg]warning:missed section:server_21
+22:03:07.668338  [WARNING ][init_cfg]warning:missed section:server_22
+22:03:07.668373  [WARNING ][init_cfg]warning:missed section:server_23
+22:03:07.668408  [WARNING ][init_cfg]warning:missed section:server_24
+22:03:07.668444  [WARNING ][init_cfg]warning:missed section:server_25
+22:03:07.668475  [WARNING ][init_cfg]warning:missed section:server_26
+22:03:07.668510  [WARNING ][init_cfg]warning:missed section:server_27
+22:03:07.668544  [WARNING ][init_cfg]warning:missed section:server_28
+22:03:07.668576  [WARNING ][init_cfg]warning:missed section:server_29
+22:03:07.668887  [DEBUG   ][CDefParser::init]==========
+22:03:07.777704  [DEBUG   ][CDefParser::init]m_EntityDefMd5 = e5a2d6e9b88cff1622d5b58a25f71496
+22:03:07.778904  [SCRIPT  ][INFO][add_all_lua_path]begin=====================================================
+22:03:07.778951  [SCRIPT  ][INFO][package.path]/usr/local/share/lua/5.2/?.lua;/usr/local/share/lua/5.2/?/init.lua;/usr/local/lib/lua/5.2/?.lua;/usr/local/lib/lua/5.2/?/init.lua;./?.lua;/root/server/scripts//base/?.lua;/root/server/scripts//base/?.luac
+22:03:07.778970  [SCRIPT  ][INFO][G_LUA_ROOTPATH]/root/server/scripts/
+22:03:07.779123  [SCRIPT  ][INFO][package.path]/usr/local/share/lua/5.2/?.lua;/usr/local/share/lua/5.2/?/init.lua;/usr/local/lib/lua/5.2/?.lua;/usr/local/lib/lua/5.2/?/init.lua;./?.lua;/root/server/scripts//base/?.lua;/root/server/scripts//base/?.luac;/root/server/scripts//common/?.lua;/root/server/scripts//common/?.luac;/root/server/scripts//common/data/?.lua;/root/server/scripts//common/data/?.luac;/root/server/scripts//base/mgr/?.lua;/root/server/scripts//base/mgr/?.luac;/root/server/scripts//test/?.lua;/root/server/scripts//test/?.luac;/root/server/scripts//base/SubSystem/?.lua;/root/server/scripts//base/SubSystem/?.luac;/root/server/scripts//base/SubSystem/GM/?.lua;/root/server/scripts//base/SubSystem/GM/?.luac;/root/server/scripts//base/SpaceLoader/?.lua;/root/server/scripts//base/SpaceLoader/?.luac;/root/server/scripts//lualibs/?.lua;/root/server/scripts//lualibs/?.luac
+22:03:07.779309  [SCRIPT  ][INFO][add_all_lua_path]end=======================================================
+22:03:08.073962  [INFO    ][read_bm]bm_loaded,map=50003;file=/root/server/scripts//data/blockmap/test.bm
+22:03:08.074555  [INFO    ][read_bm]bm_loaded,map=10601;file=/root/server/scripts//data/blockmap/test.bm
+22:03:08.075080  [INFO    ][read_bm]bm_loaded,map=10602;file=/root/server/scripts//data/blockmap/test.bm
+22:03:08.075431  [INFO    ][read_bm]bm_loaded,map=10603;file=/root/server/scripts//data/blockmap/test.bm
+22:03:08.075999  [INFO    ][read_bm]bm_loaded,map=40002;file=/root/server/scripts//data/blockmap/test.bm
+22:03:08.076591  [INFO    ][read_bm]bm_loaded,map=40006;file=/root/server/scripts//data/blockmap/test.bm
+22:03:08.076947  [INFO    ][read_bm]bm_loaded,map=10606;file=/root/server/scripts//data/blockmap/test.bm
+22:03:08.077477  [INFO    ][read_bm]bm_loaded,map=10607;file=/root/server/scripts//data/blockmap/test.bm
+22:03:08.077756  [INFO    ][read_bm]bm_loaded,map=10100;file=/root/server/scripts//data/blockmap/test.bm
+22:03:08.078237  [INFO    ][read_bm]bm_loaded,map=10609;file=/root/server/scripts//data/blockmap/test.bm
+22:03:08.079008  [INFO    ][read_bm]bm_loaded,map=10102;file=/root/server/scripts//data/blockmap/test.bm
+22:03:08.079334  [INFO    ][read_bm]bm_loaded,map=10103;file=/root/server/scripts//data/blockmap/test.bm
+22:03:08.079752  [INFO    ][read_bm]bm_loaded,map=10104;file=/root/server/scripts//data/blockmap/test.bm
+22:03:08.080122  [INFO    ][read_bm]bm_loaded,map=10105;file=/root/server/scripts//data/blockmap/test.bm
+22:03:08.080404  [INFO    ][read_bm]bm_loaded,map=10106;file=/root/server/scripts//data/blockmap/test.bm
+22:03:08.080905  [INFO    ][read_bm]bm_loaded,map=10107;file=/root/server/scripts//data/blockmap/test.bm
+22:03:08.081501  [INFO    ][read_bm]bm_loaded,map=10108;file=/root/server/scripts//data/blockmap/test.bm
+22:03:08.081725  [INFO    ][read_bm]bm_loaded,map=10109;file=/root/server/scripts//data/blockmap/test.bm
+22:03:08.081922  [INFO    ][read_bm]bm_loaded,map=30001;file=/root/server/scripts//data/blockmap/test.bm
+22:03:08.081959  [SCRIPT  ][DEBUG][load_space_data]map_id=50000;spaceName=nil
+22:03:08.082494  [INFO    ][read_bm]bm_loaded,map=10501;file=/root/server/scripts//data/blockmap/test.bm
+22:03:08.082920  [INFO    ][read_bm]bm_loaded,map=10502;file=/root/server/scripts//data/blockmap/test.bm
+22:03:08.083437  [INFO    ][read_bm]bm_loaded,map=10503;file=/root/server/scripts//data/blockmap/test.bm
+22:03:08.083881  [INFO    ][read_bm]bm_loaded,map=10504;file=/root/server/scripts//data/blockmap/test.bm
+22:03:08.084720  [INFO    ][read_bm]bm_loaded,map=10505;file=/root/server/scripts//data/blockmap/test.bm
+22:03:08.085063  [INFO    ][read_bm]bm_loaded,map=10506;file=/root/server/scripts//data/blockmap/test.bm
+22:03:08.085908  [INFO    ][read_bm]bm_loaded,map=10507;file=/root/server/scripts//data/blockmap/test.bm
+22:03:08.087397  [INFO    ][read_bm]bm_loaded,map=10508;file=/root/server/scripts//data/blockmap/test.bm
+22:03:08.087618  [INFO    ][read_bm]bm_loaded,map=20002;file=/root/server/scripts//data/blockmap/test.bm
+22:03:08.088592  [INFO    ][read_bm]bm_loaded,map=40007;file=/root/server/scripts//data/blockmap/test.bm
+22:03:08.088782  [INFO    ][read_bm]bm_loaded,map=20006;file=/root/server/scripts//data/blockmap/test.bm
+22:03:08.088932  [INFO    ][read_bm]bm_loaded,map=20008;file=/root/server/scripts//data/blockmap/test.bm
+22:03:08.089345  [INFO    ][read_bm]bm_loaded,map=20010;file=/root/server/scripts//data/blockmap/test.bm
+22:03:08.089562  [INFO    ][read_bm]bm_loaded,map=20012;file=/root/server/scripts//data/blockmap/test.bm
+22:03:08.090093  [INFO    ][read_bm]bm_loaded,map=911;file=/root/server/scripts//data/blockmap/test.bm
+22:03:08.090665  [INFO    ][read_bm]bm_loaded,map=10401;file=/root/server/scripts//data/blockmap/test.bm
+22:03:08.091207  [INFO    ][read_bm]bm_loaded,map=10402;file=/root/server/scripts//data/blockmap/test.bm
+22:03:08.091435  [INFO    ][read_bm]bm_loaded,map=10403;file=/root/server/scripts//data/blockmap/test.bm
+22:03:08.091724  [INFO    ][read_bm]bm_loaded,map=10404;file=/root/server/scripts//data/blockmap/test.bm
+22:03:08.092018  [INFO    ][read_bm]bm_loaded,map=50001;file=/root/server/scripts//data/blockmap/test.bm
+22:03:08.092266  [INFO    ][read_bm]bm_loaded,map=10406;file=/root/server/scripts//data/blockmap/test.bm
+22:03:08.092549  [INFO    ][read_bm]bm_loaded,map=10407;file=/root/server/scripts//data/blockmap/test.bm
+22:03:08.092823  [INFO    ][read_bm]bm_loaded,map=10408;file=/root/server/scripts//data/blockmap/test.bm
+22:03:08.093021  [INFO    ][read_bm]bm_loaded,map=10409;file=/root/server/scripts//data/blockmap/test.bm
+22:03:08.093433  [INFO    ][read_bm]bm_loaded,map=10704;file=/root/server/scripts//data/blockmap/test.bm
+22:03:08.093596  [INFO    ][read_bm]bm_loaded,map=22221;file=/root/server/scripts//data/blockmap/test.bm
+22:03:08.093888  [INFO    ][read_bm]bm_loaded,map=10702;file=/root/server/scripts//data/blockmap/test.bm
+22:03:08.094285  [INFO    ][read_bm]bm_loaded,map=40004;file=/root/server/scripts//data/blockmap/test.bm
+22:03:08.094621  [INFO    ][read_bm]bm_loaded,map=40008;file=/root/server/scripts//data/blockmap/test.bm
+22:03:08.094929  [INFO    ][read_bm]bm_loaded,map=40003;file=/root/server/scripts//data/blockmap/test.bm
+22:03:08.095173  [INFO    ][read_bm]bm_loaded,map=10509;file=/root/server/scripts//data/blockmap/test.bm
+22:03:08.095313  [INFO    ][read_bm]bm_loaded,map=22222;file=/root/server/scripts//data/blockmap/test.bm
+22:03:08.095333  [SCRIPT  ][DEBUG][load_space_data]map_id=10003;spaceName=nil
+22:03:08.095490  [INFO    ][read_bm]bm_loaded,map=31000;file=/root/server/scripts//data/blockmap/test.bm
+22:03:08.095511  [SCRIPT  ][DEBUG][load_space_data]map_id=10004;spaceName=nil
+22:03:08.095735  [INFO    ][read_bm]bm_loaded,map=41000;file=/root/server/scripts//data/blockmap/test.bm
+22:03:08.096432  [INFO    ][read_bm]bm_loaded,map=912;file=/root/server/scripts//data/blockmap/test.bm
+22:03:08.096803  [INFO    ][read_bm]bm_loaded,map=10604;file=/root/server/scripts//data/blockmap/test.bm
+22:03:08.097116  [INFO    ][read_bm]bm_loaded,map=10101;file=/root/server/scripts//data/blockmap/test.bm
+22:03:08.097414  [INFO    ][read_bm]bm_loaded,map=10608;file=/root/server/scripts//data/blockmap/test.bm
+22:03:08.097702  [INFO    ][read_bm]bm_loaded,map=10701;file=/root/server/scripts//data/blockmap/test.bm
+22:03:08.098024  [INFO    ][read_bm]bm_loaded,map=10301;file=/root/server/scripts//data/blockmap/test.bm
+22:03:08.098380  [INFO    ][read_bm]bm_loaded,map=10302;file=/root/server/scripts//data/blockmap/test.bm
+22:03:08.098575  [INFO    ][read_bm]bm_loaded,map=10303;file=/root/server/scripts//data/blockmap/test.bm
+22:03:08.098849  [INFO    ][read_bm]bm_loaded,map=10304;file=/root/server/scripts//data/blockmap/test.bm
+22:03:08.099239  [INFO    ][read_bm]bm_loaded,map=10305;file=/root/server/scripts//data/blockmap/test.bm
+22:03:08.099460  [INFO    ][read_bm]bm_loaded,map=10306;file=/root/server/scripts//data/blockmap/test.bm
+22:03:08.099964  [INFO    ][read_bm]bm_loaded,map=10307;file=/root/server/scripts//data/blockmap/test.bm
+22:03:08.100553  [INFO    ][read_bm]bm_loaded,map=10308;file=/root/server/scripts//data/blockmap/test.bm
+22:03:08.100781  [INFO    ][read_bm]bm_loaded,map=10309;file=/root/server/scripts//data/blockmap/test.bm
+22:03:08.101589  [INFO    ][read_bm]bm_loaded,map=50002;file=/root/server/scripts//data/blockmap/test.bm
+22:03:08.101702  [INFO    ][read_bm]bm_loaded,map=20003;file=/root/server/scripts//data/blockmap/test.bm
+22:03:08.101725  [SCRIPT  ][DEBUG][load_space_data]map_id=914;spaceName=nil
+22:03:08.101840  [INFO    ][read_bm]bm_loaded,map=20005;file=/root/server/scripts//data/blockmap/test.bm
+22:03:08.102207  [INFO    ][read_bm]bm_loaded,map=10405;file=/root/server/scripts//data/blockmap/test.bm
+22:03:08.102316  [INFO    ][read_bm]bm_loaded,map=20009;file=/root/server/scripts//data/blockmap/test.bm
+22:03:08.106469  [INFO    ][read_bm]bm_loaded,map=30002;file=/root/server/scripts//data/blockmap/test.bm
+22:03:08.106673  [INFO    ][read_bm]bm_loaded,map=20004;file=/root/server/scripts//data/blockmap/test.bm
+22:03:08.107577  [INFO    ][read_bm]bm_loaded,map=40001;file=/root/server/scripts//data/blockmap/test.bm
+22:03:08.108208  [INFO    ][read_bm]bm_loaded,map=40005;file=/root/server/scripts//data/blockmap/test.bm
+22:03:08.108781  [INFO    ][read_bm]bm_loaded,map=40009;file=/root/server/scripts//data/blockmap/test.bm
+22:03:08.108962  [INFO    ][read_bm]bm_loaded,map=20007;file=/root/server/scripts//data/blockmap/test.bm
+22:03:08.109480  [INFO    ][read_bm]bm_loaded,map=10703;file=/root/server/scripts//data/blockmap/test.bm
+22:03:08.109663  [INFO    ][read_bm]bm_loaded,map=20011;file=/root/server/scripts//data/blockmap/test.bm
+22:03:08.110298  [INFO    ][read_bm]bm_loaded,map=10705;file=/root/server/scripts//data/blockmap/test.bm
+22:03:08.110811  [INFO    ][read_bm]bm_loaded,map=10706;file=/root/server/scripts//data/blockmap/test.bm
+22:03:08.110843  [SCRIPT  ][DEBUG][load_space_data]map_id=10001;spaceName=nil
+22:03:08.110990  [INFO    ][read_bm]bm_loaded,map=20001;file=/root/server/scripts//data/blockmap/test.bm
+22:03:08.111443  [INFO    ][read_bm]bm_loaded,map=10201;file=/root/server/scripts//data/blockmap/test.bm
+22:03:08.111932  [INFO    ][read_bm]bm_loaded,map=10202;file=/root/server/scripts//data/blockmap/test.bm
+22:03:08.112321  [INFO    ][read_bm]bm_loaded,map=10203;file=/root/server/scripts//data/blockmap/test.bm
+22:03:08.112900  [INFO    ][read_bm]bm_loaded,map=10204;file=/root/server/scripts//data/blockmap/test.bm
+22:03:08.113458  [INFO    ][read_bm]bm_loaded,map=10205;file=/root/server/scripts//data/blockmap/test.bm
+22:03:08.113753  [INFO    ][read_bm]bm_loaded,map=10206;file=/root/server/scripts//data/blockmap/test.bm
+22:03:08.114286  [INFO    ][read_bm]bm_loaded,map=10207;file=/root/server/scripts//data/blockmap/test.bm
+22:03:08.114751  [INFO    ][read_bm]bm_loaded,map=10208;file=/root/server/scripts//data/blockmap/test.bm
+22:03:08.115246  [INFO    ][read_bm]bm_loaded,map=10209;file=/root/server/scripts//data/blockmap/test.bm
+22:03:08.116756  [INFO    ][read_bm]bm_loaded,map=42000;file=/root/server/scripts//data/blockmap/test.bm
+22:03:08.117297  [INFO    ][read_bm]bm_loaded,map=10605;file=/root/server/scripts//data/blockmap/test.bm
+22:03:08.117331  [SCRIPT  ][DEBUG][load_space_data]map_id=10002;spaceName=nil
+22:03:08.117351  [SCRIPT  ][DEBUG][load_space_data]map_id=913;spaceName=nil
+22:03:09.474810  [SCRIPT  ][DEBUG][WBConfig:initData]WBConfig={s010SHOW_TOP_N=5,s011SYN_HP_TIME=5000,s012SUMMON_LIMIT=30,s012SEC_PER_WEEK=604800,s008WB_TIMES={12=30},s009HP_CHANGE=1,s013PRE_OPEN_TIME=5,s025HP_SELF_DECREASE_INTERVAL=1,s024HP_SELF_DECREASE_PERCENT=1,s012WDAY_REFRESH=2,s006SPACES={1=40001,2=40002,3=40003,4=40004,5=40005,6=40006,7=40007,8=40008,9=40009},s012SYN_INTERVEL=5,s013WorldBossTime=1800,s003LVS={1=20,2=25,3=30,4=35,5=40,6=45,7=50,8=55,9=60},s011SPAWN_POINT=99,s013BossHpSynMode=1,s017HOUR_WEEK_REFRESH=0,s011BossBasicHp=200000000,s013SAVE_PER_TIME=300,s013SAVE_INTERVEL=300,s007HP_LEFT=10,s010SUMMON_MOD=1}
+22:03:09.475152  [SCRIPT  ][DEBUG][GuildDataMgr:initGragonData]data={}
+22:03:09.475279  [SCRIPT  ][DEBUG][GuildDataMgr:initGuildSkill]data={}
+22:03:09.968847  [SCRIPT  ][DEBUG][FumoData:initData]
+22:03:10.203732  [INFO    ][world::initNextEntityId]init_id=100663296
+22:03:10.203838  [DEBUG   ][CEpollServer::AddFdAndMb]serverName=
+22:03:10.203860  [DEBUG   ][CEpollServer::addFdAndMb]fd=6;fd_type=1;addr=;port=8006;authz=0
+22:03:10.203869  [DEBUG   ][start_server]:8006,success.
+22:03:10.203974  [DEBUG   ][CEpollServer::addFdAndMb]fd=8;fd_type=2;addr=192.168.200.102;port=8001;authz=0
+22:03:10.204006  [DEBUG   ][try_to_connect_mailbox]server=192.168.200.102;port=8001
+22:03:10.204080  [DEBUG   ][CEpollServer::addFdAndMb]fd=9;fd_type=2;addr=192.168.200.102;port=8002;authz=0
+22:03:10.204101  [DEBUG   ][try_to_connect_mailbox]server=192.168.200.102;port=8002
+22:03:10.204465  [DEBUG   ][CEpollServer::addFdAndMb]fd=10;fd_type=2;addr=192.168.200.102;port=8003;authz=0
+22:03:10.204490  [DEBUG   ][try_to_connect_mailbox]server=192.168.200.102;port=8003
+22:03:10.204562  [DEBUG   ][CEpollServer::addFdAndMb]fd=11;fd_type=2;addr=192.168.200.102;port=8004;authz=0
+22:03:10.204583  [DEBUG   ][try_to_connect_mailbox]server=192.168.200.102;port=8004
+22:03:10.204648  [DEBUG   ][CEpollServer::addFdAndMb]fd=12;fd_type=2;addr=192.168.200.102;port=8005;authz=0
+22:03:10.204669  [DEBUG   ][try_to_connect_mailbox]server=192.168.200.102;port=8005
+22:03:10.204718  [DEBUG   ][CEpollServer::addFdAndMb]fd=13;fd_type=2;addr=192.168.200.102;port=8007;authz=0
+22:03:10.204733  [DEBUG   ][try_to_connect_mailbox]server=192.168.200.102;port=8007
+22:03:10.204745  [SCRIPT  ][INFO][init.onServerReady]
+22:03:10.204805  [SCRIPT  ][INFO][GameMgr:__ctor__]
+22:03:10.204851  [INFO    ][connected_2_mb]mb fd = 8 connected severName = 192.168.200.102, port = 8001,
+22:03:10.204863  [INFO    ][connected_2_mb]mb fd = 9 connected severName = 192.168.200.102, port = 8002,
+22:03:10.204871  [INFO    ][connected_2_mb]mb fd = 10 connected severName = 192.168.200.102, port = 8003,
+22:03:10.204879  [INFO    ][connected_2_mb]mb fd = 11 connected severName = 192.168.200.102, port = 8004,
+22:03:10.204887  [INFO    ][connected_2_mb]mb fd = 12 connected severName = 192.168.200.102, port = 8005,
+22:03:10.204894  [INFO    ][connected_2_mb]mb fd = 13 connected severName = 192.168.200.102, port = 8007,
+22:03:12.038845  [INFO    ][new_connection]connected from 192.168.200.102:46444, assigned socket is:14
+22:03:12.038879  [DEBUG   ][CEpollServer::AddFdAndMb]serverName=192.168.200.102
+22:03:12.038891  [DEBUG   ][CEpollServer::AddFdAndMb]client_trusted, serverName=192.168.200.102
+22:03:12.039451  [DEBUG   ][CEpollServer::addFdAndMb]fd=14;fd_type=3;addr=192.168.200.102;port=46444;authz=15
+22:03:12.039486  [INFO    ][new_connection]connected from 192.168.200.102:46445, assigned socket is:15
+22:03:12.039570  [DEBUG   ][CEpollServer::AddFdAndMb]serverName=192.168.200.102
+22:03:12.039580  [DEBUG   ][CEpollServer::AddFdAndMb]client_trusted, serverName=192.168.200.102
+22:03:12.039589  [DEBUG   ][CEpollServer::addFdAndMb]fd=15;fd_type=3;addr=192.168.200.102;port=46445;authz=15
+22:03:12.039793  [SCRIPT  ][INFO][GameMgr:on_registered]
+22:03:12.039852  [INFO    ][SetBaseData]key=GAME_START_TIME;value=1425646992;type=4
+22:03:12.039875  [SCRIPT  ][DEBUG][global_data.onBaseData]key=GAME_START_TIME;value=1425646992
+22:03:12.039967  [INFO    ][new_connection]connected from 192.168.200.102:46450, assigned socket is:16
+22:03:12.039991  [DEBUG   ][CEpollServer::AddFdAndMb]serverName=192.168.200.102
+22:03:12.040001  [DEBUG   ][CEpollServer::AddFdAndMb]client_trusted, serverName=192.168.200.102
+22:03:12.040010  [DEBUG   ][CEpollServer::addFdAndMb]fd=16;fd_type=3;addr=192.168.200.102;port=46450;authz=15
+22:03:12.040025  [INFO    ][new_connection]connected from 192.168.200.102:46453, assigned socket is:17
+22:03:12.040036  [DEBUG   ][CEpollServer::AddFdAndMb]serverName=192.168.200.102
+22:03:12.040043  [DEBUG   ][CEpollServer::AddFdAndMb]client_trusted, serverName=192.168.200.102
+22:03:12.040051  [DEBUG   ][CEpollServer::addFdAndMb]fd=17;fd_type=3;addr=192.168.200.102;port=46453;authz=15
+22:03:12.040107  [SCRIPT  ][INFO][OfflineMgr:__ctor__]========
+22:03:12.091453  [SCRIPT  ][INFO][OfflineMgr:on_registered]
+22:03:12.091543  [SCRIPT  ][INFO][OfflineMgr:onSelectResp]avatar_loaded=0
+22:03:12.091625  [SCRIPT  ][DEBUG][OfflineMgr:onSelectResp]addTimer Clean
+22:03:12.091690  [SCRIPT  ][INFO][GameMgr:OnMgrLoaded]mgr_name = OfflineMgr
+22:03:12.091708  [SCRIPT  ][INFO][GameMgr:OnMgrLoaded]mgr_name = OfflineMgr loaded.
+22:03:12.093125  [INFO    ][new_connection]connected from 192.168.200.102:46457, assigned socket is:18
+22:03:12.093162  [DEBUG   ][CEpollServer::AddFdAndMb]serverName=192.168.200.102
+22:03:12.093441  [DEBUG   ][CEpollServer::AddFdAndMb]client_trusted, serverName=192.168.200.102
+22:03:12.093454  [DEBUG   ][CEpollServer::addFdAndMb]fd=18;fd_type=3;addr=192.168.200.102;port=46457;authz=15
+22:03:12.102065  [SCRIPT  ][INFO][MapMgr:__ctor__]
+22:03:12.103254  [SCRIPT  ][DEBUG][MapMgr:__ctor__]SpaceLoaderCount={50003={},10601={},10602={},22222={},40002={},40006={},10606={},10607={},10100={},10609={},10102={},10103={},10104={},10105={},10106={},10107={},10108={},10109={},30001={},50000={},10501={},10502={},10503={},10504={},10505={},10506={},10507={},10508={},40003={},40007={},10003={},20008={},20010={},20012={},911={},10401={},10402={},10403={},10404={},50001={},10406={},10407={},10408={},41000={},913={},22221={},10002={},40004={},40008={},10605={},42000={},10603={},20002={},31000={},10101={},10608={},10409={},20006={},914={},20005={},10405={},10301={},10302={},10303={},10304={},10305={},10306={},10307={},10308={},10309={},50002={},20001={},10001={},40005={},40009={},20011={},10703={},20007={},40001={},20003={},10701={},10702={},20009={},10704={},10705={},10706={},20004={},30002={},10201={},10202={},10203={},10204={},10205={},10206={},10207={},10208={},10209={},10604={},912={},10004={},10509={}};BusySpecialMapPool={50003={},10601={},10602={},22222
+22:03:12.103413  [SCRIPT  ][INFO][UserMgr:__ctor__]
+22:03:12.103466  [SCRIPT  ][DEBUG][MailMgr:__ctor__]
+22:03:12.103499  [SCRIPT  ][INFO][NameMgr:__ctor__]========
+22:03:12.103542  [SCRIPT  ][INFO][Collector:__ctor__]
+22:03:12.103581  [SCRIPT  ][DEBUG][OblivionGateMgr:__ctor__]
+22:03:12.103644  [SCRIPT  ][DEBUG][GuildMgr:__ctor__]
+22:03:12.103684  [SCRIPT  ][INFO][EventMgr:__ctor__]
+22:03:12.103716  [SCRIPT  ][DEBUG][MissionMgr:__ctor__]
+22:03:12.103755  [SCRIPT  ][DEBUG][ActivityMgr:__ctor__]
+22:03:12.103814  [SCRIPT  ][DEBUG][FlyDragonMgr:__ctor__]
+22:03:12.103851  [SCRIPT  ][INFO][mgr_compensate:__ctor__]
+22:03:12.104323  [INFO    ][CEntityParent::lWriteToDB]etype=36;id=100663310;dbid=0;ref=12
+22:03:12.104375  [SCRIPT  ][INFO][ChargeMgr:__ctor__]
+22:03:12.104398  [INFO    ][CEntityParent::lWriteToDB]etype=37;id=100663311;dbid=0;ref=13
+22:03:12.104428  [SCRIPT  ][DEBUG][DefensePvPMgr:__ctor__]
+22:03:12.105484  [SCRIPT  ][INFO][MapMgr:on_registered]
+22:03:12.105512  [SCRIPT  ][INFO][MapMgr:LoadAllSpace]
+22:03:12.110441  [SCRIPT  ][INFO][UserMgr:on_registered]
+22:03:12.110533  [SCRIPT  ][DEBUG][RegisterGloballyCB]MailMgr
+22:03:12.110586  [SCRIPT  ][DEBUG][NameMgr:__ctor__]RegisterCallback
+22:03:12.110604  [SCRIPT  ][DEBUG][NameMgr:OnRegistered]
+22:03:12.110614  [SCRIPT  ][DEBUG][NameDataMgr:initData]
+22:03:12.136219  [SCRIPT  ][DEBUG][NameDataMgr:initData]over.
+22:03:12.136412  [SCRIPT  ][INFO][Collector:on_registered]
+22:03:12.136494  [SCRIPT  ][DEBUG][OblivionGateMgr:OnRegistered]
+22:03:12.136539  [SCRIPT  ][DEBUG][RegisterGloballyCB]
+22:03:12.136587  [SCRIPT  ][DEBUG][GuildMgr:OnRegistered]
+22:03:12.136666  [SCRIPT  ][INFO][EventMgr:on_registered]
+22:03:12.137278  [SCRIPT  ][DEBUG][RegisterGloballyCB]
+22:03:12.137464  [SCRIPT  ][DEBUG][FlyDragonMgr:OnRegistered]
+22:03:12.137523  [SCRIPT  ][DEBUG][DefensePvPMgr:OnRegistered]
+22:03:12.137573  [SCRIPT  ][INFO][GameMgr:OnMgrLoaded]mgr_name = NameMgr
+22:03:12.137621  [SCRIPT  ][INFO][GameMgr:OnMgrLoaded]mgr_name = Collector
+22:03:12.137669  [SCRIPT  ][INFO][GameMgr:OnMgrLoaded]mgr_name = OblivionGateMgr
+22:03:12.137712  [SCRIPT  ][INFO][GameMgr:OnMgrLoaded]mgr_name = EventMgr
+22:03:12.138046  [SCRIPT  ][INFO][GameMgr:OnMgrLoaded]mgr_name = ActivityMgr
+22:03:12.138114  [SCRIPT  ][INFO][GameMgr:OnMgrLoaded]mgr_name = FlyDragonMgr
+22:03:12.138161  [SCRIPT  ][INFO][GameMgr:OnMgrLoaded]mgr_name = DefensePvPMgr
+22:03:12.209065  [INFO    ][SelectEntityCallback]entity type=26;type2=ArenaMgr;dbid=4294967296
+22:03:12.209161  [SCRIPT  ][INFO][ArenaMgr:__ctor__]
+22:03:12.209242  [INFO    ][SelectEntityCallback]entity type=22;type2=WorldBossMgr;dbid=4294967296
+22:03:12.209300  [SCRIPT  ][INFO][WorldBossMgr:__ctor__]
+22:03:12.209350  [INFO    ][SelectEntityCallback]entity type=40;type2=RouletteMgr;dbid=4294967296
+22:03:12.209376  [SCRIPT  ][INFO][RouletteMgr:__ctor__]
+22:03:12.209413  [INFO    ][SelectEntityCallback]entity type=29;type2=GlobalDataMgr;dbid=4294967296
+22:03:12.209439  [SCRIPT  ][DEBUG][GlobalDataMgr:__ctor__]
+22:03:12.209476  [DEBUG   ][CWorldBase::TableSelectCallback]eid=100663301
+22:03:12.209489  [DEBUG   ][CWorldBase::TableSelectCallback]strCallBackFunc=OnPublicLoad;strEntity=mail_public;nFieldNum=12
+22:03:12.209514  [DEBUG   ][CWorldBase::TableSelectCallback end]size=1
+22:03:12.209545  [DEBUG   ][CWorldBase::TableSelectCallback]eid=100663300
+22:03:12.209556  [DEBUG   ][CWorldBase::TableSelectCallback]strCallBackFunc=onAvatarSelectCountResp;strEntity=Avatar;nFieldNum=1
+22:03:12.209571  [DEBUG   ][CWorldBase::TableSelectCallback end]size=1
+22:03:12.209608  [SCRIPT  ][INFO][MissionRecord.onEntitiesLoaded]count=0
+22:03:12.209634  [SCRIPT  ][INFO][Guild.onEntitiesLoaded]count=0
+22:03:12.209655  [DEBUG   ][CWorldBase::InsertEntityCallback]eid=100663311;newid=77;ref=13;pszDbErr=
+22:03:12.209669  [SCRIPT  ][INFO][create_ChargeMgr_success]
+22:03:12.209689  [DEBUG   ][CWorldBase::InsertEntityCallback]eid=100663310;newid=77;ref=12;pszDbErr=
+22:03:12.209702  [SCRIPT  ][INFO][create_mgr_compensate_success]
+22:03:12.209730  [SCRIPT  ][INFO][GameMgr:OnMgrLoaded]mgr_name = MailMgr
+22:03:12.209758  [SCRIPT  ][INFO][GameMgr:OnMgrLoaded]mgr_name = UserMgr
+22:03:12.209784  [SCRIPT  ][INFO][MissionMgr:OnMissionRecordLoaded]count=0
+22:03:12.209815  [SCRIPT  ][INFO][GuildMgr:OnGuildsLoaded]count=0
+22:03:12.209844  [SCRIPT  ][INFO][GameMgr:OnMgrLoaded]mgr_name = MissionMgr
+22:03:12.209868  [SCRIPT  ][INFO][GameMgr:OnMgrLoaded]mgr_name = GuildMgr
+22:03:12.215489  [SCRIPT  ][DEBUG][WorldBossMgr:on_registered]1
+22:03:12.215557  [SCRIPT  ][DEBUG][BossHpMgr:new]
+22:03:12.215583  [SCRIPT  ][DEBUG][WorldBossMgr:on_registered]2
+22:03:12.215609  [SCRIPT  ][DEBUG][WorldBossMgr:EnableWBActivity]
+22:03:12.215698  [SCRIPT  ][DEBUG][WorldBossMgr:Init]addTimer 11
+22:03:12.215728  [SCRIPT  ][DEBUG][WorldBossMgr:Init]addTimer 5
+22:03:12.215874  [SCRIPT  ][INFO][RouletteMgr:OnRegistered]
+22:03:12.215924  [SCRIPT  ][INFO][GameMgr:OnMgrLoaded]mgr_name = RouletteMgr
+22:03:12.216013  [SCRIPT  ][DEBUG][GlobalDataMgr:on_registered]
+22:03:12.216079  [SCRIPT  ][INFO][GameMgr:OnMgrLoaded]mgr_name = GlobalDataMgr
+22:03:12.216106  [INFO    ][SetBaseData]key=forbidden_ips;value={};type=1
+22:03:12.216128  [INFO    ][SetBaseData]key=forbidden_accounts;value={};type=1
+22:03:12.216244  [SCRIPT  ][INFO][ChargeMgr:OnRegistered]
+22:03:12.267553  [SCRIPT  ][INFO][ArenaData.onEntitiesLoaded]count=0
+22:03:12.267630  [SCRIPT  ][INFO][WorldBossData.onEntitiesLoaded]count=0
+22:03:12.267710  [SCRIPT  ][DEBUG][ChargeMgr:onTblSelectResp]
+22:03:12.267753  [SCRIPT  ][INFO][ChargeMgr:onTblSelectResp]rec_loaded=0
+22:03:12.267796  [DEBUG   ][CWorldBase::TableSelectCallback]eid=100663310
+22:03:12.267818  [DEBUG   ][CWorldBase::TableSelectCallback]strCallBackFunc=OnLoad;strEntity=last_server_account;nFieldNum=3
+22:03:12.267843  [DEBUG   ][CWorldBase::TableSelectCallback end]size=1
+22:03:12.267904  [SCRIPT  ][DEBUG][ArenaMgr:SetArenaDataCount]max=0;loaded=0
+22:03:12.267946  [SCRIPT  ][DEBUG][ArenaMgr:on_arenadata_loaded]
+22:03:12.267984  [SCRIPT  ][DEBUG][ArenaMgr:on_arenadata_loaded]day timer start sec = 7008
+22:03:12.268040  [SCRIPT  ][DEBUG][ArenaMgr:on_arenadata_loaded]week timer start sec = 179808
+22:03:12.268217  [SCRIPT  ][INFO][GameMgr:OnMgrLoaded]mgr_name = ChargeMgr
+22:03:12.268321  [SCRIPT  ][INFO][GameMgr:OnMgrLoaded]mgr_name = mgr_compensate
+22:03:12.268385  [SCRIPT  ][INFO][GameMgr:OnMgrLoaded]mgr_name = ArenaMgr
+22:03:12.268434  [SCRIPT  ][INFO][GameMgr:OnMgrLoaded]mgr_name = WorldBossMgr
+22:03:14.055682  [INFO    ][new_connection]connected from 192.168.200.102:46462, assigned socket is:19
+22:03:14.055724  [DEBUG   ][CEpollServer::AddFdAndMb]serverName=192.168.200.102
+22:03:14.055737  [DEBUG   ][CEpollServer::AddFdAndMb]client_trusted, serverName=192.168.200.102
+22:03:14.055751  [DEBUG   ][CEpollServer::addFdAndMb]fd=19;fd_type=3;addr=192.168.200.102;port=46462;authz=15
+22:03:14.144894  [SCRIPT  ][INFO][MapMgr._STATE_MAP_LOADED]
+22:03:14.144990  [SCRIPT  ][INFO][GameMgr:OnMgrLoaded]mgr_name = MapMgr
+22:03:14.145012  [SCRIPT  ][INFO][GameMgr.all_mgrs_loaded]
+22:03:14.145029  [SCRIPT  ][DEBUG][GameMgr:_initMgr]
+22:03:14.145045  [SCRIPT  ][DEBUG][GameMgr:_initMgr]
+22:03:14.145059  [SCRIPT  ][DEBUG][GameMgr:_initMgr]
+22:03:14.145075  [SCRIPT  ][DEBUG][GameMgr:_initMgr]
+22:03:14.145089  [SCRIPT  ][DEBUG][GameMgr:_initMgr]
+22:03:14.145105  [SCRIPT  ][DEBUG][GameMgr:_initMgr]
+22:03:14.145118  [SCRIPT  ][DEBUG][GameMgr:_initMgr]
+22:03:14.145240  [SCRIPT  ][DEBUG][GuildMgr:Init]self.guilds={}
+22:03:14.145306  [SCRIPT  ][DEBUG][NameMgr:Init]
+22:03:14.145341  [SCRIPT  ][DEBUG][FlyDragonMgr:Init]
+22:03:14.145367  [SCRIPT  ][DEBUG][GameMgr:OnInited]ArenaMgr
+22:03:14.145391  [SCRIPT  ][DEBUG][GameMgr:OnInited]RouletteMgr
+22:03:14.145411  [SCRIPT  ][DEBUG][GameMgr:OnInited]WorldBossMgr
+22:03:14.145431  [SCRIPT  ][DEBUG][GameMgr:OnInited]GuildMgr
+22:03:14.145450  [SCRIPT  ][DEBUG][GameMgr:OnInited]UserMgr
+22:03:14.145474  [SCRIPT  ][DEBUG][UserMgr:FlyDragonMgrGetPlayerCount]AllPlayersCount=0
+22:03:14.145499  [SCRIPT  ][DEBUG][FlyDragonMgr:OnInited]UserCount=0
+22:03:14.145530  [SCRIPT  ][DEBUG][GameMgr:OnInited]FlyDragonMgr
+22:03:14.196717  [DEBUG   ][CWorldBase::TableSelectCallback]eid=100663302
+22:03:14.196771  [DEBUG   ][CWorldBase::TableSelectCallback]strCallBackFunc=onAvatarSelectResp;strEntity=Avatar;nFieldNum=2
+22:03:14.196808  [DEBUG   ][CWorldBase::TableSelectCallback end]size=1
+22:03:14.196850  [SCRIPT  ][DEBUG][NameMgr:OnInited]
+22:03:14.897119  [SCRIPT  ][DEBUG][NameDataMgr:InitByDB]571828
+22:03:14.909695  [SCRIPT  ][DEBUG][GameMgr:OnInited]NameMgr
+22:03:14.909767  [SCRIPT  ][INFO][GameMgr.all_mgrs_inited]
+22:03:22.177029  [INFO    ][SetBaseData]key=4;value={1=3,2=1009006,3={1=30}};type=1
+22:11:30.849024  [INFO    ][SelectEntityCallback]entity type=1;type2=Account;dbid=4294967297
+22:11:30.849143  [SCRIPT  ][DEBUG][Account.__ctor__]id=50331653;name=111111@test
+22:11:30.849169  [DEBUG   ][CEntityBase::lNotifyClientToAttach]---------- lNotifyClientToAttach ------id=50331653;Account=111111@test
+22:11:30.849228  [DEBUG   ][CEntityBase::lNotifyClientToAttach]---------- MSGID_LOGINAPP_NOTIFY_CLIENT_TO_ATTACH ------pszAccount=111111@test; MailboxId=6; key.c_str()=36e8ed02f903db09cafd783188777b61
+22:11:31.110972  [INFO    ][new_connection]connected from 192.168.200.1:54257, assigned socket is:4
+22:11:31.111056  [DEBUG   ][CEpollServer::AddFdAndMb]serverName=192.168.200.1
+22:11:31.111077  [DEBUG   ][CEpollServer::AddFdAndMb]client_trusted, serverName=192.168.200.1
+22:11:31.111095  [DEBUG   ][CEpollServer::addFdAndMb]fd=4;fd_type=3;addr=192.168.200.1;port=54257;authz=15
+22:11:31.139012  [DEBUG   ][CEntityBase::GiveClient]m_id=50331653;nRef=2093
+22:11:31.139095  [DEBUG   ][CEntityBase::GiveClient]s_clientReLoginKey=906c5a4c19cb0e1c53d45457e7532273;m_id=50331653
+22:11:31.139111  [DEBUG   ][CEntityBase::PickleClientToPluto]m_etype=1;m_id=50331653;m_dbid=1
+22:11:31.139185  [SCRIPT  ][DEBUG][Account:onClientGetBase]dbid="4294967297";IP=192.168.200.1
+22:11:31.439040  [SCRIPT  ][DEBUG][Account:SetProgress]name=111111@test;platAccount=1111@test;OldProgress=0;NewProgress=100
+22:11:31.439102  [SCRIPT  ][INFO][Account:SetProgress]name=111111@test;platAccount=1111@test;progress=0
+22:11:33.870382  [SCRIPT  ][DEBUG][Account:SetProgress]name=111111@test;platAccount=1111@test;OldProgress=100;NewProgress=200
+22:11:33.870456  [SCRIPT  ][INFO][Account:SetProgress]name=111111@test;platAccount=1111@test;progress=100
+22:11:39.470564  [SCRIPT  ][DEBUG][Account:SetProgress]name=111111@test;platAccount=1111@test;OldProgress=200;NewProgress=300
+22:11:39.470635  [SCRIPT  ][INFO][Account:SetProgress]name=111111@test;platAccount=1111@test;progress=200
+22:11:46.270684  [SCRIPT  ][DEBUG][Account:SetProgress]name=111111@test;platAccount=1111@test;OldProgress=300;NewProgress=300
+22:11:49.471189  [SCRIPT  ][DEBUG][Account:SetProgress]name=111111@test;platAccount=1111@test;OldProgress=300;NewProgress=300
+22:11:54.175102  [SCRIPT  ][DEBUG][Account:SetProgress]name=111111@test;platAccount=1111@test;OldProgress=300;NewProgress=400
+22:11:54.175170  [SCRIPT  ][INFO][Account:SetProgress]name=111111@test;platAccount=1111@test;progress=300
+22:11:54.175861  [SCRIPT  ][INFO][Avatar:AddEnergy]dbid="0";name=;energy=0;addEnergy=0;reason=57
+22:11:54.175931  [SCRIPT  ][DEBUG][FlyDragonSystem:IsLevelLimit]fly dragon level limit dbid="0";name=;level=0
+22:11:54.175993  [SCRIPT  ][DEBUG][Avatar:initData]dbid="0";id=100665313
+22:11:54.176144  [SCRIPT  ][DEBUG][Avatar:ResetVipState]dbid="0";name=吃惊的水蜜桃
+22:11:54.176207  [SCRIPT  ][DEBUG][]stack: {currentline=940 name=print_stack short_src=/root/server/scripts//common/lua_util.lua}
+22:11:54.176241  [SCRIPT  ][DEBUG][]stack: {currentline=958 name=traceback short_src=/root/server/scripts//common/lua_util.lua}
+22:11:54.176274  [SCRIPT  ][DEBUG][]stack: {currentline=2356 name=ResetVipState short_src=/root/server/scripts//base/Avatar.lua}
+22:11:54.176314  [SCRIPT  ][DEBUG][]stack: {currentline=690 name=init short_src=/root/server/scripts//base/Avatar.lua}
+22:11:54.176348  [SCRIPT  ][DEBUG][]stack: {currentline=486 short_src=/root/server/scripts//base/Account.lua}
+22:11:54.176429  [SCRIPT  ][DEBUG][SpiritSystem:FreshOpenSkill]Data: skillLevel=1, slotNum = 1
+22:11:54.176452  [SCRIPT  ][DEBUG][SpiritSystem:FreshOpenSkill]SlotIndex = 1  Opened!
+22:11:54.176478  [SCRIPT  ][DEBUG][SpiritSystem:FreshOpenSkill]slot = {
+[1]=0,
+}
+22:11:54.176727  [WARNING ][CPluto::resize]msg=12289;old=256;new=4096
+22:11:54.177171  [INFO    ][CEntityParent::lWriteToDB]etype=4;id=100665313;dbid=0;ref=13
+22:11:54.227999  [DEBUG   ][CWorldBase::InsertEntityCallback]eid=100665313;newid=0;ref=13;pszDbErr=
+22:11:54.228080  [SCRIPT  ][INFO][OnAvatarWrited]account=111111@test;avatar=吃惊的水蜜桃;dbid="4294967296",avatar.accountId = 50331653
+22:11:54.228145  [SCRIPT  ][INFO][Account:AddAvatarsInfo],avatarObj.vocation = 1, dbid = "4294967296"
+22:11:54.228253  [SCRIPT  ][DEBUG][Account:AddAvatarsInfo]dbid="4294967296";avatarsInfo={1={1=4294967296,2=s018吃惊的水蜜桃,3=1,4=1,5=0,6=0,7=0,8=0,9=0,10=0,11=0,12=0}}
+22:11:54.228393  [SCRIPT  ][INFO][UpdateAvatar]dbid="4294967296";name=吃惊的水蜜桃;vocation=1;level=1
+22:11:54.228441  [SCRIPT  ][DEBUG][UpdateAvatarsInfo]dbid="4294967296";level=1
+22:11:54.228494  [INFO    ][CEntityParent::lWriteToDB]etype=1;id=50331653;dbid=1;ref=0
+22:11:54.228537  [SCRIPT  ][DEBUG][OnAvatarWrited]account.name=111111@test;avatar.name=吃惊的水蜜桃
+22:11:54.228648  [WARNING ][CPluto::resize]msg=24656;old=256;new=4096
+22:11:54.228706  [SCRIPT  ][DEBUG][UserMgr:PlayerOnLine]PlayerBaseMbStr=;PlayerCellMbStr=;Playerdbid="4294967296";PlayerName=吃惊的水蜜桃;PlayerLevel=1;PlayerVocation=1;PlayerGender=1;PlayerUniondbid="0";PlayerFight=0
+22:11:54.228882  [WARNING ][CPluto::resize]msg=20481;old=256;new=4096
+22:11:54.271074  [SCRIPT  ][DEBUG][Account:StartGameReq]name=111111@test;characterdbid="4294967296"
+22:11:54.271198  [SCRIPT  ][DEBUG][Account:StartGameReq]already has avatar start to SelectMapReq lastAvatar.sceneId=10004;lastAvatar.imap_id=0
+22:11:54.271300  [SCRIPT  ][DEBUG][MapMgr:SelectMapReq]map_id=10004;line=0;dbid="4294967296";name=吃惊的水蜜桃;params={}
+22:11:54.271369  [SCRIPT  ][DEBUG][MapMgr:SelectMapReq 2]map_id=10004;TargetLine=1;dbid="4294967296";name=吃惊的水蜜桃
+22:11:54.271682  [SCRIPT  ][DEBUG][SpaceLoader:SetMapId]mbStr={1=6,2=1,3=50331653};sceneId=10004;line=1;dbid="4294967296";name=吃惊的水蜜桃;params={}
+22:11:54.274990  [SCRIPT  ][DEBUG][Account:SelectMapResp]map_id=10004;imap_id=1;activeAvatarId=100665313;spBaseMb={1=6,2=6,3=100665312};spCellMb={1=7,2=6,3=100665312};dbid="4294967296";params={}
+22:11:54.275102  [DEBUG   ][CEntityBase::GiveClient]m_id=100665313;nRef=2169
+22:11:54.275134  [DEBUG   ][CEntityBase::GiveClient]s_clientReLoginKey=ce7c8e598870661439ec1bf141a1ab57;m_id=100665313
+22:11:54.275144  [DEBUG   ][CEntityBase::PickleClientToPluto]m_etype=4;m_id=100665313;m_dbid=0
+22:11:54.275272  [WARNING ][CPluto::resize]msg=3;old=256;new=4096
+22:11:54.275412  [SCRIPT  ][DEBUG][Avatar.onClientGetBase]dbid="4294967296";id=100665313;name=吃惊的水蜜桃
+22:11:54.275455  [SCRIPT  ][DEBUG][Avatar.onFirstLogin]dbid="4294967296";id=100665313;name=吃惊的水蜜桃
+22:11:54.275681  [WARNING ][CPluto::resize]msg=5;old=256;new=4096
+22:11:54.275731  [SCRIPT  ][DEBUG][Avatar:_create_cell]dbid="4294967296";id=100665313
+22:11:54.275857  [SCRIPT  ][DEBUG][Avatar:SetSpaceLoaderMb]dbid="4294967296";id=100665313;name=吃惊的水蜜桃;sp={1=6,2=6,3=100665312}
+22:11:54.275883  [SCRIPT  ][DEBUG][TowerSystem:OnClientGetBase]dbid="4294967296";name=吃惊的水蜜桃
+22:11:54.275917  [SCRIPT  ][DEBUG][TowerSystem:OnClientGetBase clear fail times]dbid="4294967296";name=吃惊的水蜜桃
+22:11:54.275954  [SCRIPT  ][DEBUG][TowerSystem:OnClientGetBase clear vip sweep times]dbid="4294967296";name=吃惊的水蜜桃
+22:11:54.275989  [SCRIPT  ][DEBUG][TowerSystem:OnClientGetBase clear sweep cd times]dbid="4294967296";name=吃惊的水蜜桃
+22:11:54.276019  [SCRIPT  ][DEBUG][MissionSystem:OnClientGetBase]dbid="4294967296";name=吃惊的水蜜桃
+22:11:54.276050  [SCRIPT  ][DEBUG][MissionSystem:OnClientGetBase clear mission times]dbid="4294967296";name=吃惊的水蜜桃
+22:11:54.276070  [SCRIPT  ][DEBUG][MissionSystem:OnClientGetBase clear mission reset times]dbid="4294967296";name=吃惊的水蜜桃
+22:11:54.276099  [SCRIPT  ][DEBUG][MissionSystem:OnClientGetBase clear mwsy]dbid="4294967296";name=吃惊的水蜜桃;LastMWSYMissionTime=0
+22:11:54.276214  [WARNING ][CPluto::resize]msg=24656;old=256;new=4096
+22:11:54.276306  [WARNING ][CPluto::resize]msg=20481;old=256;new=4096
+22:11:54.276403  [WARNING ][CPluto::resize]msg=20481;old=256;new=4096
+22:11:54.277538  [SCRIPT  ][DEBUG][SpaceLoader:ChangeMapCount]flag=0;map_id=10004_1;count=1
+22:11:54.277611  [SCRIPT  ][DEBUG][Avatar:ChangeScene]dbid="4294967296";id=100665313;sceneId=10004;imap_id=1;map_x=2900;map_y=4500;scene=10004;line=1;x=2900;y=4500
+22:11:54.277800  [SCRIPT  ][DEBUG][MissionSystem:OnChangeScene init_scene]dbid="4294967296";name=吃惊的水蜜桃
+22:11:54.277854  [SCRIPT  ][DEBUG][TowerSystem:OnChangeScene]name=吃惊的水蜜桃;dbid="4294967296";level=1;scene=10004;Items={};Money=0;Exp=0
+22:11:54.277881  [SCRIPT  ][WARNING][TowerSystem:OnChangeScene no report]name=吃惊的水蜜桃;dbid="4294967296";level=1
+22:11:54.277937  [INFO    ][CEntityBase::AddCellMailbox]--------------- MSGID_CELLAPP_PICKLE_AOI_ENTITIES --------id=100665313
+22:11:54.277964  [SCRIPT  ][INFO][Avatar:onGetCell]dbid="4294967296";id=100665313
+22:11:54.278010  [SCRIPT  ][DEBUG][MissionSystem:onGetCell]name=吃惊的水蜜桃;dbid="4294967296";client={1=4,2=4,3=100665313}
+22:11:54.278454  [WARNING ][CPluto::resize]msg=24656;old=256;new=4096
+22:11:54.278727  [SCRIPT  ][DEBUG][GuildMgr:ProcessBaseProperties]MbStr={1=6,2=4,3=100665313};Playerdbid="4294967296";BaseProps={s013extraCritRate=0.03,s007hitRate=1,s006hpBase=242,s023extraAntiTrueStrikeRate=0,s010trueStrike=0,s010attackBase=14,s011baseHitRate=1,s012extraHitRate=0,s003atk=14,s007pvpAnti=0,s003def=18,s004crit=0,s012antiCritRate=0,s017extraAntiCritRate=0,s011antiDefense=0,s015pvpAdditionRate=0,s018antiTrueStrikeRate=0,s015critExtraAttack=0,s016extraDefenceRate=0,s015antiDefenseRate=0,s008critRate=0.03,s016damageReduceRate=0,s002hp=242,s020extraAntiDefenceRate=0,s011defenseBase=18,s019extraTrueStrikeRate=0,s008missRate=0,s014trueStrikeRate=0,s011pvpAddition=0,s011defenceRate=0.00036,s011pvpAntiRate=0}
+22:11:54.278807  [WARNING ][CPluto::resize]msg=24656;old=256;new=4096
+22:11:54.278849  [SCRIPT  ][DEBUG][UserMgr:PlayerOnLine]PlayerBaseMbStr={1=6,2=4,3=100665313};PlayerCellMbStr={1=7,2=4,3=100665313};Playerdbid="4294967296";PlayerName=吃惊的水蜜桃;PlayerLevel=1;PlayerVocation=1;PlayerGender=1;PlayerUniondbid="0";PlayerFight=812
+22:11:54.278877  [SCRIPT  ][DEBUG][UserMgrOnlineCountAdd]PlayerDbid="4294967296";PlayerName=吃惊的水蜜桃;OnlineCount=1
+22:11:54.278971  [SCRIPT  ][DEBUG][GuildMgr:Register]dbid="4294967296";MbStr={1=6,2=4,3=100665313};name=吃惊的水蜜桃;PlayerLevel=1;PlayerFight=812
+22:11:54.279085  [WARNING ][CPluto::resize]msg=28674;old=256;new=4096
+22:11:54.279214  [SCRIPT  ][DEBUG][father.InitDefualt]DoNothing!!!!!!
+22:11:54.279292  [SCRIPT  ][DEBUG][father.InitDefualt]DoNothing!!!!!!
+22:11:54.279355  [SCRIPT  ][DEBUG][father.InitDefualt]DoNothing!!!!!!
+22:11:54.279412  [SCRIPT  ][DEBUG][father.InitDefualt]DoNothing!!!!!!
+22:11:54.279475  [SCRIPT  ][DEBUG][father.InitDefualt]DoNothing!!!!!!
+22:11:54.279536  [SCRIPT  ][DEBUG][father.InitDefualt]DoNothing!!!!!!
+22:11:54.279596  [SCRIPT  ][DEBUG][father.InitDefualt]DoNothing!!!!!!
+22:11:54.279686  [SCRIPT  ][DEBUG][father.InitDefualt]DoNothing!!!!!!
+22:11:54.279763  [SCRIPT  ][DEBUG][father.InitDefualt]DoNothing!!!!!!
+22:11:54.279830  [SCRIPT  ][DEBUG][father.InitDefualt]DoNothing!!!!!!
+22:11:54.279899  [SCRIPT  ][DEBUG][father.InitDefualt]DoNothing!!!!!!
+22:11:54.279971  [SCRIPT  ][DEBUG][father.InitDefualt]DoNothing!!!!!!
+22:11:54.280015  [SCRIPT  ][DEBUG][Avatar:whenLogin temp]cur_day  = 2015-03-06 , last_login = nil 
+22:11:54.280053  [SCRIPT  ][DEBUG][Avatar:whenLogin temp]login_data.days  = 1
+22:11:54.280082  [SCRIPT  ][DEBUG][Avatar:onEnterGame temp]onEnterGame
+22:11:54.280384  [WARNING ][CPluto::resize]msg=24656;old=256;new=4096
+22:11:54.280446  [SCRIPT  ][DEBUG][Avatar:EnterEvents]before delete_timeout_event_on_login :table: 0x3cfcfd0
+22:11:54.280475  [SCRIPT  ][DEBUG][Avatar:delete_timeout_event_on_login TEMP]remove_table={
+}
+22:11:54.280491  [SCRIPT  ][DEBUG][Avatar:EnterEvents]after delete_timeout_event_on_login :table: 0x3cfcfd0
+22:11:54.282256  [WARNING ][CPluto::resize]msg=10;old=256;new=4096
+22:11:54.382679  [DEBUG   ][CWorldBase::TableSelectCallback]eid=100663301
+22:11:54.382728  [DEBUG   ][CWorldBase::TableSelectCallback]strCallBackFunc=OnLoad;strEntity=mail_private;nFieldNum=13
+22:11:54.382760  [DEBUG   ][CWorldBase::TableSelectCallback end]size=1
+22:11:54.471147  [WARNING ][CPluto::resize]msg=5;old=256;new=4096
+22:11:54.471305  [SCRIPT  ][DEBUG][MissionSystem:GetFinishedMissions]dbid="4294967296";name=吃惊的水蜜桃;MissionStars={}
+22:11:54.471361  [SCRIPT  ][DEBUG][GetFinishedMissions]dbid="4294967296";err=0;
+22:11:54.471406  [SCRIPT  ][DEBUG][MissionSystem:GetMissionTimes]dbid="4294967296";name=吃惊的水蜜桃;MissionTimes={}
+22:11:54.471440  [SCRIPT  ][DEBUG][GetMissionTimes]dbid="4294967296";err=0;
+22:11:54.471471  [SCRIPT  ][DEBUG][MissionSystem:GetStarsMission]dbid="4294967296";name=吃惊的水蜜桃
+22:11:54.471505  [SCRIPT  ][DEBUG][GetStarsMission]dbid="4294967296";err=0;
+22:11:54.471678  [SCRIPT  ][DEBUG][UserMgr:QueryInfoByPlayerDbids]MsgId=10;MbStr={1=6,2=4,3=100665313};Format={1=3,2=4,3=5,4=6,5=7,6=8,7=9,8=10}
+22:11:54.606115  [WARNING ][CPluto::resize]msg=5;old=256;new=4096
+22:11:54.606594  [SCRIPT  ][DEBUG][MissionSystem:GotoMission isConsole]dbid=4294967296;name=吃惊的水蜜桃;missionId=10100;difficulty=1;Result={2=0,1={},3=0}
+22:11:54.606676  [SCRIPT  ][DEBUG][EnterMission]dbid="4294967296";err=0;
+22:11:55.603996  [SCRIPT  ][DEBUG][Avatar:SetProgress]dbid=4294967296;name=吃惊的水蜜桃;progress=500
+22:11:55.604077  [SCRIPT  ][DEBUG][Account:SetProgress]name=111111@test;platAccount=1111@test;OldProgress=400;NewProgress=500
+22:11:55.604095  [SCRIPT  ][INFO][Account:SetProgress]name=111111@test;platAccount=1111@test;progress=400
+22:11:57.904837  [SCRIPT  ][DEBUG][Avatar:SetProgress]dbid=4294967296;name=吃惊的水蜜桃;progress=600
+22:11:57.904917  [SCRIPT  ][DEBUG][Account:SetProgress]name=111111@test;platAccount=1111@test;OldProgress=500;NewProgress=600
+22:11:57.904935  [SCRIPT  ][INFO][Account:SetProgress]name=111111@test;platAccount=1111@test;progress=500
+22:12:00.007321  [SCRIPT  ][DEBUG][MailMgr:JewlMailReq]id=0
+22:12:04.508590  [SCRIPT  ][DEBUG][Avatar:SetProgress]dbid=4294967296;name=吃惊的水蜜桃;progress=700
+22:12:04.508678  [SCRIPT  ][DEBUG][Account:SetProgress]name=111111@test;platAccount=1111@test;OldProgress=600;NewProgress=700
+22:12:04.508697  [SCRIPT  ][INFO][Account:SetProgress]name=111111@test;platAccount=1111@test;progress=600
+22:12:15.309210  [SCRIPT  ][DEBUG][Avatar:SetProgress]dbid=4294967296;name=吃惊的水蜜桃;progress=800
+22:12:15.309408  [SCRIPT  ][DEBUG][Account:SetProgress]name=111111@test;platAccount=1111@test;OldProgress=700;NewProgress=800
+22:12:15.309433  [SCRIPT  ][INFO][Account:SetProgress]name=111111@test;platAccount=1111@test;progress=700
+22:12:19.109076  [SCRIPT  ][DEBUG][Avatar:SetProgress]dbid=4294967296;name=吃惊的水蜜桃;progress=900
+22:12:19.109163  [SCRIPT  ][DEBUG][Account:SetProgress]name=111111@test;platAccount=1111@test;OldProgress=800;NewProgress=900
+22:12:19.109182  [SCRIPT  ][INFO][Account:SetProgress]name=111111@test;platAccount=1111@test;progress=800
+22:12:29.509516  [SCRIPT  ][DEBUG][Avatar:SetProgress]dbid=4294967296;name=吃惊的水蜜桃;progress=1000
+22:12:29.509600  [SCRIPT  ][DEBUG][Account:SetProgress]name=111111@test;platAccount=1111@test;OldProgress=900;NewProgress=1000
+22:12:29.509618  [SCRIPT  ][INFO][Account:SetProgress]name=111111@test;platAccount=1111@test;progress=900
+22:12:45.418212  [SCRIPT  ][DEBUG][Avatar:SetProgress]dbid=4294967296;name=吃惊的水蜜桃;progress=1100
+22:12:45.418300  [SCRIPT  ][DEBUG][Account:SetProgress]name=111111@test;platAccount=1111@test;OldProgress=1000;NewProgress=1100
+22:12:45.418319  [SCRIPT  ][INFO][Account:SetProgress]name=111111@test;platAccount=1111@test;progress=1000
+22:12:57.918756  [SCRIPT  ][DEBUG][Avatar:SetProgress]dbid=4294967296;name=吃惊的水蜜桃;progress=900
+22:12:57.918843  [SCRIPT  ][DEBUG][Account:SetProgress]name=111111@test;platAccount=1111@test;OldProgress=1100;NewProgress=900
+22:13:19.678620  [INFO    ][CEntityParent::lWriteToDB]etype=22;id=50331650;dbid=0;ref=0
+22:13:19.678686  [INFO    ][CEntityParent::WriteToRedis db]etype=22;id=50331650;dbid=0
+22:13:19.678727  [INFO    ][CEntityParent::lWriteToDB]etype=29;id=50331651;dbid=0;ref=0
+22:13:19.678738  [INFO    ][CEntityParent::WriteToRedis db]etype=29;id=50331651;dbid=0
+22:13:45.027110  [SCRIPT  ][DEBUG][GoToInitMap]dbid="4294967296";err=0;
+22:13:45.326997  [SCRIPT  ][DEBUG][Avatar:SetProgress]dbid=4294967296;name=吃惊的水蜜桃;progress=1300
+22:13:45.327126  [SCRIPT  ][DEBUG][Account:SetProgress]name=111111@test;platAccount=1111@test;OldProgress=1100;NewProgress=1300
+22:13:45.327160  [SCRIPT  ][INFO][Account:SetProgress]name=111111@test;platAccount=1111@test;progress=1100
+22:13:46.528881  [SCRIPT  ][DEBUG][Avatar:SetProgress]dbid=4294967296;name=吃惊的水蜜桃;progress=1500
+22:13:46.528975  [SCRIPT  ][DEBUG][Account:SetProgress]name=111111@test;platAccount=1111@test;OldProgress=1300;NewProgress=1500
+22:13:46.528996  [SCRIPT  ][INFO][Account:SetProgress]name=111111@test;platAccount=1111@test;progress=1300
+22:13:46.628839  [SCRIPT  ][DEBUG][OblivionGateSystem:OnOblivionGateReq]msg_id=3;dbid="4294967296";name=吃惊的水蜜桃
+22:13:46.628903  [SCRIPT  ][DEBUG][OblivionGateSystem:OnQueryStateReq]
+22:13:46.629021  [SCRIPT  ][DEBUG][FlyDragonSystem:IsLevelLimit]fly dragon level limit dbid="4294967296";name=吃惊的水蜜桃;level=1
+22:13:46.629057  [SCRIPT  ][DEBUG][Avatar:SetProgress]dbid=4294967296;name=吃惊的水蜜桃;progress=1400
+22:13:46.629089  [SCRIPT  ][DEBUG][Account:SetProgress]name=111111@test;platAccount=1111@test;OldProgress=1500;NewProgress=1400
+22:13:46.629144  [SCRIPT  ][DEBUG][MissionSystem:GetMwsyInfo]dbid="4294967296";name=吃惊的水蜜桃;MwsyInfo={}
+22:13:46.629263  [SCRIPT  ][DEBUG][GetMwsyInfo]dbid="4294967296";err=0;
+22:13:46.629371  [SCRIPT  ][DEBUG][OblivionGateMgr:MgrEventDispatch]Execute!
+22:13:46.629409  [SCRIPT  ][DEBUG][OblivionGateMgr:MgrEventDispatch]Transmit!
+22:13:46.629434  [SCRIPT  ][DEBUG][OblivionGateMgr:MgrEventDispatch]Transmit Execute!
+22:13:46.629626  [SCRIPT  ][DEBUG][Avatar:EventDispatch][client]:[OblivionQueryStateResp] Execute!
+22:13:47.729348  [SCRIPT  ][DEBUG][MailMgr:JewlMailReq]id=0
+22:14:10.129990  [SCRIPT  ][DEBUG][Avatar:SetProgress]dbid=4294967296;name=吃惊的水蜜桃;progress=1700
+22:14:10.130103  [SCRIPT  ][DEBUG][Account:SetProgress]name=111111@test;platAccount=1111@test;OldProgress=1500;NewProgress=1700
+22:14:10.130146  [SCRIPT  ][INFO][Account:SetProgress]name=111111@test;platAccount=1111@test;progress=1500
+22:14:10.130259  [SCRIPT  ][DEBUG][Avatar:AddGold]value = 0! reason= 5
+22:14:10.130340  [SCRIPT  ][DEBUG][TaskSystem:TaskComplete]dbid="4294967296";name=吃惊的水蜜桃;mainTaskId=1
+22:14:42.140631  [SCRIPT  ][DEBUG][Avatar:AddGold]value = 0! reason= 5
+22:14:42.140765  [SCRIPT  ][INFO][Avatar:AddItem]before:dbid="4294967296";name=吃惊的水蜜桃;id=1312001;num=1;reason=5
+22:14:42.141574  [SCRIPT  ][INFO][Avatar:AddItem]after:dbid="4294967296";name=吃惊的水蜜桃;id=1312001;num=1;reason=5
+22:14:42.141773  [SCRIPT  ][INFO][Avatar:AddItem]before:dbid="4294967296";name=吃惊的水蜜桃;id=1711011;num=5;reason=5
+22:14:42.142029  [SCRIPT  ][INFO][Avatar:AddItem]after:dbid="4294967296";name=吃惊的水蜜桃;id=1711011;num=5;reason=5
+22:14:42.142184  [SCRIPT  ][DEBUG][TaskSystem:TaskComplete]dbid="4294967296";name=吃惊的水蜜桃;mainTaskId=2
+22:14:51.045353  [SCRIPT  ][DEBUG][InventorySystem:AutoInlayJewels]remove from equip!dbid="4294967296";name=吃惊的水蜜桃;eSlots={};nSlots={};aSlots={}
+22:14:51.045478  [SCRIPT  ][DEBUG][InventorySystem:AutoInlayJewels]inlay jewel!dbid="4294967296";name=吃惊的水蜜桃;newSlots={};aSlots={}
+22:14:51.046617  [WARNING ][CPluto::resize]msg=24656;old=256;new=4096
+22:14:51.046750  [SCRIPT  ][DEBUG][Avatar:ExchangeEquipment]dbid="4294967296";name=吃惊的水蜜桃;typeId=1312001;retCode=0
+22:14:51.046950  [SCRIPT  ][DEBUG][GuildMgr:ProcessBaseProperties]MbStr={1=6,2=4,3=100665313};Playerdbid="4294967296";BaseProps={s013extraCritRate=0.03,s007hitRate=1,s006hpBase=242,s023extraAntiTrueStrikeRate=0,s010trueStrike=0,s010attackBase=17,s011baseHitRate=1,s012extraHitRate=0,s003atk=17,s007pvpAnti=0,s003def=19,s004crit=0,s012antiCritRate=0,s017extraAntiCritRate=0,s011antiDefense=0,s015pvpAdditionRate=0,s018antiTrueStrikeRate=0,s015critExtraAttack=0,s016extraDefenceRate=0,s015antiDefenseRate=0,s008critRate=0.03,s016damageReduceRate=0,s002hp=242,s020extraAntiDefenceRate=0,s011defenseBase=19,s019extraTrueStrikeRate=0,s008missRate=0,s014trueStrikeRate=0,s011pvpAddition=0,s011defenceRate=0.00038,s011pvpAntiRate=0}
+22:14:51.047080  [WARNING ][CPluto::resize]msg=24656;old=256;new=4096
+22:14:51.047332  [WARNING ][CPluto::resize]msg=28674;old=256;new=4096
+22:15:11.645549  [SCRIPT  ][DEBUG][Avatar:SetProgress]dbid=4294967296;name=吃惊的水蜜桃;progress=1800
+22:15:11.645664  [SCRIPT  ][DEBUG][Account:SetProgress]name=111111@test;platAccount=1111@test;OldProgress=1700;NewProgress=1800
+22:15:11.645691  [SCRIPT  ][INFO][Account:SetProgress]name=111111@test;platAccount=1111@test;progress=1700
+22:15:11.645766  [SCRIPT  ][DEBUG][MissionSystem:GetAcquiredMissionBossTreasure]dbid="4294967296";name=吃惊的水蜜桃
+22:15:11.645860  [SCRIPT  ][DEBUG][GetAcquiredMissionBossTreasure]dbid="4294967296";err=0;
+22:15:11.645922  [SCRIPT  ][DEBUG][MissionSystem:GetMissionTreasureRewards]dbid="4294967296";name=吃惊的水蜜桃;MissionTreasureRewards={}
+22:15:11.645976  [SCRIPT  ][DEBUG][GetMissionTreasureRewards]dbid="4294967296";err=0;
+22:15:11.646058  [SCRIPT  ][DEBUG][GetSweepTimes]dbid="4294967296";err=0;
+22:15:11.646378  [SCRIPT  ][DEBUG][MissionSystem:GetResetTimes]dbid="4294967296";name=吃惊的水蜜桃;MissionResetSubTimes=0
+22:15:11.646456  [SCRIPT  ][DEBUG][GetResetTimes]dbid="4294967296";err=0;
+22:15:11.646521  [SCRIPT  ][DEBUG][MissionSystem:GetMwsyInfo]dbid="4294967296";name=吃惊的水蜜桃;MwsyInfo={}
+22:15:11.646570  [SCRIPT  ][DEBUG][GetMwsyInfo]dbid="4294967296";err=0;
+22:15:11.745604  [SCRIPT  ][DEBUG][MissionSystem:GetAcquiredMissionBossTreasure]dbid="4294967296";name=吃惊的水蜜桃
+22:15:11.745721  [SCRIPT  ][DEBUG][GetAcquiredMissionBossTreasure]dbid="4294967296";err=0;
+22:15:11.745772  [SCRIPT  ][DEBUG][MissionSystem:GetMissionTreasureRewards]dbid="4294967296";name=吃惊的水蜜桃;MissionTreasureRewards={}
+22:15:11.745813  [SCRIPT  ][DEBUG][GetMissionTreasureRewards]dbid="4294967296";err=0;
+22:15:11.745875  [SCRIPT  ][DEBUG][GetSweepTimes]dbid="4294967296";err=0;
+22:15:11.745929  [SCRIPT  ][DEBUG][MissionSystem:GetResetTimes]dbid="4294967296";name=吃惊的水蜜桃;MissionResetSubTimes=0
+22:15:11.745967  [SCRIPT  ][DEBUG][GetResetTimes]dbid="4294967296";err=0;
+22:15:13.445652  [SCRIPT  ][DEBUG][GetSweepTimes]dbid="4294967296";err=0;
+22:15:13.445734  [SCRIPT  ][DEBUG][MissionSystem:GetMissionDrops]name=吃惊的水蜜桃;dbid="4294967296";mission=10101
+22:15:13.446011  [SCRIPT  ][DEBUG][GetMissionDrops]dbid="4294967296";err=0;
+22:15:13.446058  [SCRIPT  ][DEBUG][MissionSystem:GetMissionRecord]dbid="4294967296";name=吃惊的水蜜桃;mission=10101;difficulty=1
+22:15:13.446094  [SCRIPT  ][DEBUG][GetMissionRecord]dbid="4294967296";err=0;
+22:15:15.146133  [SCRIPT  ][DEBUG][MissionSystem:GotoMission isConsole]dbid=4294967296;name=吃惊的水蜜桃;missionId=10101;difficulty=1;Result={2=1687,1={1241201=1},3=3100}
+22:15:15.146373  [SCRIPT  ][DEBUG][EnterMission]dbid="4294967296";err=0;
+22:15:15.445651  [SCRIPT  ][DEBUG][Avatar:SetProgress]dbid=4294967296;name=吃惊的水蜜桃;progress=1900
+22:15:15.445730  [SCRIPT  ][DEBUG][Account:SetProgress]name=111111@test;platAccount=1111@test;OldProgress=1800;NewProgress=1900
+22:15:15.445748  [SCRIPT  ][INFO][Account:SetProgress]name=111111@test;platAccount=1111@test;progress=1800
+22:15:17.364097  [SCRIPT  ][DEBUG][Avatar:SetProgress]dbid=4294967296;name=吃惊的水蜜桃;progress=2000
+22:15:17.364185  [SCRIPT  ][DEBUG][Account:SetProgress]name=111111@test;platAccount=1111@test;OldProgress=1900;NewProgress=2000
+22:15:17.364204  [SCRIPT  ][INFO][Account:SetProgress]name=111111@test;platAccount=1111@test;progress=1900
+22:15:19.464931  [SCRIPT  ][DEBUG][MailMgr:JewlMailReq]id=0
+22:15:29.865440  [SCRIPT  ][DEBUG][Avatar:SetProgress]dbid=4294967296;name=吃惊的水蜜桃;progress=2100
+22:15:29.865571  [SCRIPT  ][DEBUG][Account:SetProgress]name=111111@test;platAccount=1111@test;OldProgress=2000;NewProgress=2100
+22:15:29.865604  [SCRIPT  ][INFO][Account:SetProgress]name=111111@test;platAccount=1111@test;progress=2000
+22:16:12.768150  [SCRIPT  ][DEBUG][Avatar:SetProgress]dbid=4294967296;name=吃惊的水蜜桃;progress=2200
+22:16:12.768274  [SCRIPT  ][DEBUG][Account:SetProgress]name=111111@test;platAccount=1111@test;OldProgress=2100;NewProgress=2200
+22:16:12.768297  [SCRIPT  ][INFO][Account:SetProgress]name=111111@test;platAccount=1111@test;progress=2100
+22:16:28.272740  [SCRIPT  ][DEBUG][Avatar:PickDropReq]dropEid=23;dbid="4294967296";name=吃惊的水蜜桃
+22:16:44.273746  [SCRIPT  ][DEBUG][Avatar:SetProgress]dbid=4294967296;name=吃惊的水蜜桃;progress=2300
+22:16:44.273899  [SCRIPT  ][DEBUG][Account:SetProgress]name=111111@test;platAccount=1111@test;OldProgress=2200;NewProgress=2300
+22:16:44.273935  [SCRIPT  ][INFO][Account:SetProgress]name=111111@test;platAccount=1111@test;progress=2200
+22:16:54.774197  [SCRIPT  ][DEBUG][Avatar:SetProgress]dbid=4294967296;name=吃惊的水蜜桃;progress=2400
+22:16:54.774317  [SCRIPT  ][DEBUG][Account:SetProgress]name=111111@test;platAccount=1111@test;OldProgress=2300;NewProgress=2400
+22:16:54.774347  [SCRIPT  ][INFO][Account:SetProgress]name=111111@test;platAccount=1111@test;progress=2300
+22:16:59.677325  [WARNING ][CPluto::resize]msg=12290;old=256;new=4096
+22:16:59.678203  [INFO    ][CEntityParent::lWriteToDB]etype=4;id=100665313;dbid=0;ref=0
+22:16:59.678237  [INFO    ][CEntityParent::WriteToRedis db]etype=4;id=100665313;dbid=0
+22:17:04.474627  [SCRIPT  ][DEBUG][Avatar:PickDropReq]dropEid=24;dbid="4294967296";name=吃惊的水蜜桃
+22:17:15.876928  [SCRIPT  ][DEBUG][Avatar:PickDropReq]dropEid=25;dbid="4294967296";name=吃惊的水蜜桃
+22:17:16.976935  [SCRIPT  ][DEBUG][Avatar:SetProgress]dbid=4294967296;name=吃惊的水蜜桃;progress=2500
+22:17:16.977023  [SCRIPT  ][DEBUG][Account:SetProgress]name=111111@test;platAccount=1111@test;OldProgress=2400;NewProgress=2500
+22:17:16.977051  [SCRIPT  ][INFO][Account:SetProgress]name=111111@test;platAccount=1111@test;progress=2400
+22:17:31.378685  [SCRIPT  ][DEBUG][Avatar:SetProgress]dbid=4294967296;name=吃惊的水蜜桃;progress=2600
+22:17:31.378820  [SCRIPT  ][DEBUG][Account:SetProgress]name=111111@test;platAccount=1111@test;OldProgress=2500;NewProgress=2600
+22:17:31.378848  [SCRIPT  ][INFO][Account:SetProgress]name=111111@test;platAccount=1111@test;progress=2500
+22:17:54.587509  [SCRIPT  ][DEBUG][Avatar:SetProgress]dbid=4294967296;name=吃惊的水蜜桃;progress=2700
+22:17:54.587596  [SCRIPT  ][DEBUG][Account:SetProgress]name=111111@test;platAccount=1111@test;OldProgress=2600;NewProgress=2700
+22:17:54.587614  [SCRIPT  ][INFO][Account:SetProgress]name=111111@test;platAccount=1111@test;progress=2600
+22:17:54.987489  [SCRIPT  ][DEBUG][Avatar:PickDropReq]dropEid=26;dbid="4294967296";name=吃惊的水蜜桃
+22:18:02.087793  [SCRIPT  ][DEBUG][Avatar:SetProgress]dbid=4294967296;name=吃惊的水蜜桃;progress=2800
+22:18:02.087874  [SCRIPT  ][DEBUG][Account:SetProgress]name=111111@test;platAccount=1111@test;OldProgress=2700;NewProgress=2800
+22:18:02.087892  [SCRIPT  ][INFO][Account:SetProgress]name=111111@test;platAccount=1111@test;progress=2700
+22:18:14.688366  [SCRIPT  ][DEBUG][Avatar:PickDropReq]dropEid=27;dbid="4294967296";name=吃惊的水蜜桃
+22:18:20.490611  [SCRIPT  ][DEBUG][Avatar:PickDropReq]dropEid=28;dbid="4294967296";name=吃惊的水蜜桃
+22:18:28.392519  [SCRIPT  ][DEBUG][Avatar:SetProgress]dbid=4294967296;name=吃惊的水蜜桃;progress=2900
+22:18:28.392667  [SCRIPT  ][DEBUG][Account:SetProgress]name=111111@test;platAccount=1111@test;OldProgress=2800;NewProgress=2900
+22:18:28.392696  [SCRIPT  ][INFO][Account:SetProgress]name=111111@test;platAccount=1111@test;progress=2800
+22:18:31.392266  [SCRIPT  ][DEBUG][Avatar:SetProgress]dbid=4294967296;name=吃惊的水蜜桃;progress=3000
+22:18:31.392379  [SCRIPT  ][DEBUG][Account:SetProgress]name=111111@test;platAccount=1111@test;OldProgress=2900;NewProgress=3000
+22:18:31.392405  [SCRIPT  ][INFO][Account:SetProgress]name=111111@test;platAccount=1111@test;progress=2900
+22:19:11.794831  [SCRIPT  ][DEBUG][Avatar:SetProgress]dbid=4294967296;name=吃惊的水蜜桃;progress=3200
+22:19:11.795003  [SCRIPT  ][DEBUG][Account:SetProgress]name=111111@test;platAccount=1111@test;OldProgress=3000;NewProgress=3200
+22:19:11.795062  [SCRIPT  ][INFO][Account:SetProgress]name=111111@test;platAccount=1111@test;progress=3000
+22:19:13.595167  [SCRIPT  ][DEBUG][Avatar:PickDropReq]dropEid=29;dbid="4294967296";name=吃惊的水蜜桃
+22:19:13.895198  [SCRIPT  ][DEBUG][Avatar:PickDropReq]dropEid=31;dbid="4294967296";name=吃惊的水蜜桃
+22:19:13.995111  [SCRIPT  ][DEBUG][Avatar:PickDropReq]dropEid=30;dbid="4294967296";name=吃惊的水蜜桃
+22:19:17.795137  [SCRIPT  ][DEBUG][MissionSystem:UploadComboAndBottle]dbid=4294967296;name=吃惊的水蜜桃;Combo=64;Bottle=0;ReviveTimes=0;ClientResult={1={1241201=1},2=1314,3=3100}
+22:19:17.795260  [SCRIPT  ][INFO][Avatar:AddItem]before:dbid="4294967296";name=吃惊的水蜜桃;id=1241201;num=1;reason=2
+22:19:17.795392  [SCRIPT  ][INFO][Avatar:AddItem]after:dbid="4294967296";name=吃惊的水蜜桃;id=1241201;num=1;reason=2
+22:19:17.795499  [SCRIPT  ][INFO][Avatar:AddGold]dbid="4294967296";name=吃惊的水蜜桃;gold=1314;addGold=1314;reason=15
+22:19:17.795579  [SCRIPT  ][INFO][Avatar:AddExp]dbid="4294967296";name=吃惊的水蜜桃;exp=0;addExp=3100;reason=15
+22:19:17.795751  [SCRIPT  ][INFO][Avatar:AddEnergy]dbid="4294967296";name=吃惊的水蜜桃;energy=310;addEnergy=10;reason=56
+22:19:17.796214  [WARNING ][CPluto::resize]msg=24656;old=256;new=4096
+22:19:17.796854  [SCRIPT  ][INFO][Avatar:AddExp]dbid="4294967296";name=吃惊的水蜜桃;exp=0;addExp=400;reason=15
+22:19:17.796966  [SCRIPT  ][DEBUG][MissionSystem:GetMissionStar]dbid="4294967296";name=吃惊的水蜜桃;mission=10101;difficulty=1;UsedTime=242;HpCount=0;Combos=64
+22:19:17.797004  [SCRIPT  ][DEBUG][MissionSystem:GetMissionStar 1]dbid="4294967296";name=吃惊的水蜜桃;x=7438;y=6263
+22:19:17.797043  [SCRIPT  ][DEBUG][MissionSystem:GetMissionStar]dbid="4294967296";name=吃惊的水蜜桃;mission=10101;difficulty=1;UsedTime=242;HpCount=0;Combos=64;RevivieTimes=0;idealPassTime=180;star=4;point=6263;rank={1=4000,2=6000}
+22:19:17.797134  [SCRIPT  ][DEBUG][MissionSystem:UploadComboAndBottle to client]missionId=10101;difficulty=1;dbid="4294967296";name=吃惊的水蜜桃;level=2;UseTime=242;_Star=4;_Point=6263;fightForce=1322;Combo=64;
+22:19:17.797192  [SCRIPT  ][INFO][MissionSystem:Statistics] 10101 1 "4294967296" 吃惊的水蜜桃 242 6263 1322 64
+22:19:17.797347  [SCRIPT  ][DEBUG][Avatar:AddGold]value = 0! reason= 5
+22:19:17.797397  [SCRIPT  ][DEBUG][TaskSystem:TaskComplete]dbid="4294967296";name=吃惊的水蜜桃;mainTaskId=3
+22:19:17.797495  [SCRIPT  ][INFO][Avatar:AddEnergy]dbid="4294967296";name=吃惊的水蜜桃;energy=295;addEnergy=-15;reason=58
+22:19:17.797518  [SCRIPT  ][DEBUG][MissionSystem:UploadComboAndBottle DeductEnergy]dbid="4294967296";name=吃惊的水蜜桃;missionId=10101;difficulty=1;MissionCfg['energy']=15;energy=295
+22:19:17.797548  [SCRIPT  ][DEBUG][UploadComboAndBottle]dbid="4294967296";err=0;
+22:19:17.797914  [SCRIPT  ][DEBUG][UserMgr:Update]
+22:19:17.798081  [SCRIPT  ][DEBUG][GuildMgr:ProcessBaseProperties]MbStr={1=6,2=4,3=100665313};Playerdbid="4294967296";BaseProps={s013extraCritRate=0.03,s007hitRate=1,s006hpBase=392,s023extraAntiTrueStrikeRate=0,s010trueStrike=0,s010attackBase=27,s011baseHitRate=1,s012extraHitRate=0,s003atk=27,s007pvpAnti=0,s003def=29,s004crit=0,s012antiCritRate=0,s017extraAntiCritRate=0,s011antiDefense=0,s015pvpAdditionRate=0,s018antiTrueStrikeRate=0,s015critExtraAttack=0,s016extraDefenceRate=0,s015antiDefenseRate=0,s008critRate=0.03,s016damageReduceRate=0,s002hp=392,s020extraAntiDefenceRate=0,s011defenseBase=29,s019extraTrueStrikeRate=0,s008missRate=0,s014trueStrikeRate=0,s011pvpAddition=0,s011defenceRate=0.00058,s011pvpAntiRate=0}
+22:19:17.798164  [WARNING ][CPluto::resize]msg=24656;old=256;new=4096
+22:19:17.798306  [WARNING ][CPluto::resize]msg=20481;old=256;new=4096
+22:19:17.798356  [SCRIPT  ][DEBUG][MissionMgr:UpdateMissionRecord]MissionId=10101;Difficulty=1;Playerdbid="4294967296";PlayerName=吃惊的水蜜桃;PlayerVocation=1;PassTime=242;Combo=64;Point=6263
+22:19:17.798417  [SCRIPT  ][DEBUG][MissionRecord:__ctor__]id=100665314
+22:19:17.798445  [SCRIPT  ][DEBUG][MissionRecord:OnCreated]MissionId=10101;Difficulty=1;PlayerDbid="4294967296";PlayerName=吃惊的水蜜桃;PlayerVocation=1;PassTime=242;Combo64;Point=6263
+22:19:17.798500  [INFO    ][CEntityParent::lWriteToDB]etype=19;id=100665314;dbid=0;ref=13
+22:19:17.798681  [WARNING ][CPluto::resize]msg=28674;old=256;new=4096
+22:19:17.895243  [SCRIPT  ][DEBUG][MissionSystem:GetMissionRewards]dbid="4294967296";name=吃惊的水蜜桃
+22:19:17.895340  [SCRIPT  ][DEBUG][GetMissionRewards]dbid="4294967296";err=0;
+22:19:17.902101  [DEBUG   ][CWorldBase::InsertEntityCallback]eid=100665314;newid=0;ref=13;pszDbErr=
+22:19:17.902191  [SCRIPT  ][INFO][OnMissionRecordWritten success]MissionId=10101;Difficulty=1;PlayerDbid=4294967296;PlayerName=吃惊的水蜜桃;PassTime=1425647957;Combo64;Point=6263;dbid=4294967296
+22:19:17.902265  [SCRIPT  ][DEBUG][MissionMgr:RegisterToMission]MissionId=10101;Difficulty=1;PlayerDbid=4294967296;PlayerName=吃惊的水蜜桃;PassTime=242;Combo=64;Point=6263;TimeStamp=1425647957
+22:19:17.902319  [SCRIPT  ][INFO][GameMgr:OnMgrLoaded]mgr_name = MissionMgr
+22:19:17.902343  [SCRIPT  ][INFO][GameMgr.all_mgrs_loaded]
+22:19:35.296928  [SCRIPT  ][DEBUG][MissionSystem:QuitMission]dbid="4294967296";name=吃惊的水蜜桃
+22:19:35.297294  [SCRIPT  ][INFO][Avatar:AddGold]dbid="4294967296";name=吃惊的水蜜桃;gold=3314;addGold=2000;reason=60
+22:19:35.297611  [SCRIPT  ][DEBUG][QuitMission]dbid="4294967296";err=0;
+22:19:35.297697  [SCRIPT  ][DEBUG][MissionSystem:GetFinishedMissions]dbid="4294967296";name=吃惊的水蜜桃;MissionStars={10101={1=4}}
+22:19:35.297754  [SCRIPT  ][DEBUG][GetFinishedMissions]dbid="4294967296";err=0;
+22:19:35.297810  [SCRIPT  ][DEBUG][MissionSystem:GetMissionTimes]dbid="4294967296";name=吃惊的水蜜桃;MissionTimes={10101={1=1}}
+22:19:35.297854  [SCRIPT  ][DEBUG][GetMissionTimes]dbid="4294967296";err=0;
+22:19:35.297892  [SCRIPT  ][DEBUG][MissionSystem:GetStarsMission]dbid="4294967296";name=吃惊的水蜜桃
+22:19:35.297955  [SCRIPT  ][DEBUG][GetStarsMission]dbid="4294967296";err=0;
+22:19:35.597090  [SCRIPT  ][DEBUG][Avatar:SetProgress]dbid=4294967296;name=吃惊的水蜜桃;progress=3400
+22:19:35.597225  [SCRIPT  ][DEBUG][Account:SetProgress]name=111111@test;platAccount=1111@test;OldProgress=3200;NewProgress=3400
+22:19:35.597260  [SCRIPT  ][INFO][Account:SetProgress]name=111111@test;platAccount=1111@test;progress=3200
+22:19:35.997890  [SCRIPT  ][DEBUG][OblivionGateSystem:OnOblivionGateReq]msg_id=3;dbid="4294967296";name=吃惊的水蜜桃
+22:19:35.997979  [SCRIPT  ][DEBUG][OblivionGateSystem:OnQueryStateReq]
+22:19:35.998148  [SCRIPT  ][DEBUG][OblivionGateMgr:MgrEventDispatch]Execute!
+22:19:35.998218  [SCRIPT  ][DEBUG][OblivionGateMgr:MgrEventDispatch]Transmit!
+22:19:35.998259  [SCRIPT  ][DEBUG][OblivionGateMgr:MgrEventDispatch]Transmit Execute!
+22:19:35.998319  [SCRIPT  ][DEBUG][Avatar:EventDispatch][client]:[OblivionQueryStateResp] Execute!
+22:19:36.097827  [SCRIPT  ][DEBUG][FlyDragonSystem:IsLevelLimit]fly dragon level limit dbid="4294967296";name=吃惊的水蜜桃;level=2
+22:19:36.097904  [SCRIPT  ][DEBUG][Avatar:SetProgress]dbid=4294967296;name=吃惊的水蜜桃;progress=3500
+22:19:36.097936  [SCRIPT  ][DEBUG][Account:SetProgress]name=111111@test;platAccount=1111@test;OldProgress=3400;NewProgress=3500
+22:19:36.097951  [SCRIPT  ][INFO][Account:SetProgress]name=111111@test;platAccount=1111@test;progress=3400
+22:19:36.098016  [SCRIPT  ][DEBUG][MissionSystem:GetMwsyInfo]dbid="4294967296";name=吃惊的水蜜桃;MwsyInfo={}
+22:19:36.098063  [SCRIPT  ][DEBUG][GetMwsyInfo]dbid="4294967296";err=0;
+22:19:36.098136  [SCRIPT  ][DEBUG][Avatar:AddGold]value = 0! reason= 5
+22:19:36.098237  [SCRIPT  ][DEBUG][TaskSystem:TaskComplete]dbid="4294967296";name=吃惊的水蜜桃;mainTaskId=4
+22:19:37.998046  [SCRIPT  ][DEBUG][MailMgr:JewlMailReq]id=0
+22:19:50.698506  [SCRIPT  ][INFO][Avatar:AddExp]dbid="4294967296";name=吃惊的水蜜桃;exp=400;addExp=3100;reason=5
+22:19:50.698703  [SCRIPT  ][INFO][Avatar:AddEnergy]dbid="4294967296";name=吃惊的水蜜桃;energy=305;addEnergy=10;reason=56
+22:19:50.699176  [WARNING ][CPluto::resize]msg=24656;old=256;new=4096
+22:19:50.699562  [SCRIPT  ][INFO][Avatar:AddExp]dbid="4294967296";name=吃惊的水蜜桃;exp=0;addExp=710;reason=5
+22:19:50.699617  [SCRIPT  ][INFO][Avatar:AddGold]dbid="4294967296";name=吃惊的水蜜桃;gold=5234;addGold=1920;reason=5
+22:19:50.699708  [SCRIPT  ][DEBUG][TaskSystem:TaskComplete]dbid="4294967296";name=吃惊的水蜜桃;mainTaskId=5
+22:19:50.699770  [SCRIPT  ][DEBUG][UserMgr:Update]
+22:19:50.699906  [SCRIPT  ][DEBUG][GuildMgr:ProcessBaseProperties]MbStr={1=6,2=4,3=100665313};Playerdbid="4294967296";BaseProps={s013extraCritRate=0.03,s007hitRate=1,s006hpBase=542,s023extraAntiTrueStrikeRate=0,s010trueStrike=0,s010attackBase=37,s011baseHitRate=1,s012extraHitRate=0,s003atk=37,s007pvpAnti=0,s003def=39,s004crit=0,s012antiCritRate=0,s017extraAntiCritRate=0,s011antiDefense=0,s015pvpAdditionRate=0,s018antiTrueStrikeRate=0,s015critExtraAttack=0,s016extraDefenceRate=0,s015antiDefenseRate=0,s008critRate=0.03,s016damageReduceRate=0,s002hp=542,s020extraAntiDefenceRate=0,s011defenseBase=39,s019extraTrueStrikeRate=0,s008missRate=0,s014trueStrikeRate=0,s011pvpAddition=0,s011defenceRate=0.00078,s011pvpAntiRate=0}
+22:19:50.699981  [WARNING ][CPluto::resize]msg=24656;old=256;new=4096
+22:19:50.700150  [WARNING ][CPluto::resize]msg=20481;old=256;new=4096
+22:19:50.700347  [WARNING ][CPluto::resize]msg=28674;old=256;new=4096
+22:19:55.200615  [WARNING ][CPluto::resize]msg=5;old=256;new=65536
+22:20:00.999626  [SCRIPT  ][DEBUG][MissionSystem:GetAcquiredMissionBossTreasure]dbid="4294967296";name=吃惊的水蜜桃
+22:20:00.999746  [SCRIPT  ][DEBUG][GetAcquiredMissionBossTreasure]dbid="4294967296";err=0;
+22:20:00.999799  [SCRIPT  ][DEBUG][MissionSystem:GetMissionTreasureRewards]dbid="4294967296";name=吃惊的水蜜桃;MissionTreasureRewards={}
+22:20:00.999839  [SCRIPT  ][DEBUG][GetMissionTreasureRewards]dbid="4294967296";err=0;
+22:20:00.999902  [SCRIPT  ][DEBUG][GetSweepTimes]dbid="4294967296";err=0;
+22:20:00.999958  [SCRIPT  ][DEBUG][MissionSystem:GetResetTimes]dbid="4294967296";name=吃惊的水蜜桃;MissionResetSubTimes=0
+22:20:00.999999  [SCRIPT  ][DEBUG][GetResetTimes]dbid="4294967296";err=0;
+22:20:01.000042  [SCRIPT  ][DEBUG][MissionSystem:GetMwsyInfo]dbid="4294967296";name=吃惊的水蜜桃;MwsyInfo={}
+22:20:01.000076  [SCRIPT  ][DEBUG][GetMwsyInfo]dbid="4294967296";err=0;
+22:20:03.599495  [SCRIPT  ][DEBUG][GetSweepTimes]dbid="4294967296";err=0;
+22:20:03.599700  [SCRIPT  ][DEBUG][MissionSystem:GetMissionDrops]name=吃惊的水蜜桃;dbid="4294967296";mission=10102
+22:20:03.600325  [SCRIPT  ][DEBUG][GetMissionDrops]dbid="4294967296";err=0;
+22:20:03.600416  [SCRIPT  ][DEBUG][MissionSystem:GetMissionRecord]dbid="4294967296";name=吃惊的水蜜桃;mission=10102;difficulty=1
+22:20:03.601775  [SCRIPT  ][DEBUG][GetMissionRecord]dbid="4294967296";err=0;
+22:20:05.899226  [SCRIPT  ][DEBUG][MissionSystem:GetMissionRecord]dbid="4294967296";name=吃惊的水蜜桃;mission=10102;difficulty=1
+22:20:05.899310  [SCRIPT  ][DEBUG][GetMissionRecord]dbid="4294967296";err=0;
+22:20:06.699203  [SCRIPT  ][DEBUG][MissionSystem:GetMissionRecord]dbid="4294967296";name=吃惊的水蜜桃;mission=10102;difficulty=1
+22:20:06.699296  [SCRIPT  ][DEBUG][GetMissionRecord]dbid="4294967296";err=0;
+22:20:07.899858  [SCRIPT  ][DEBUG][MissionSystem:GotoMission isConsole]dbid=4294967296;name=吃惊的水蜜桃;missionId=10102;difficulty=1;Result={2=1982,1={1251201=1},3=3299}
+22:20:07.900043  [SCRIPT  ][DEBUG][EnterMission]dbid="4294967296";err=0;
+22:20:11.925518  [SCRIPT  ][DEBUG][MailMgr:JewlMailReq]id=0
+22:20:35.326353  [SCRIPT  ][DEBUG][Avatar:PickDropReq]dropEid=22;dbid="4294967296";name=吃惊的水蜜桃
+22:20:37.226617  [SCRIPT  ][DEBUG][Avatar:PickDropReq]dropEid=23;dbid="4294967296";name=吃惊的水蜜桃
+22:21:05.935712  [SCRIPT  ][DEBUG][Avatar:PickDropReq]dropEid=24;dbid="4294967296";name=吃惊的水蜜桃
+22:21:07.035761  [SCRIPT  ][DEBUG][Avatar:PickDropReq]dropEid=25;dbid="4294967296";name=吃惊的水蜜桃
+22:21:27.144608  [SCRIPT  ][DEBUG][Avatar:PickDropReq]dropEid=26;dbid="4294967296";name=吃惊的水蜜桃
+22:21:41.045256  [SCRIPT  ][DEBUG][Avatar:PickDropReq]dropEid=28;dbid="4294967296";name=吃惊的水蜜桃
+22:21:41.045355  [SCRIPT  ][DEBUG][Avatar:PickDropReq]dropEid=27;dbid="4294967296";name=吃惊的水蜜桃
+22:21:59.677540  [WARNING ][CPluto::resize]msg=12290;old=256;new=4096
+22:21:59.678375  [INFO    ][CEntityParent::lWriteToDB]etype=4;id=100665313;dbid=0;ref=0
+22:21:59.678406  [INFO    ][CEntityParent::WriteToRedis db]etype=4;id=100665313;dbid=0
+22:22:42.652830  [SCRIPT  ][DEBUG][Avatar:PickDropReq]dropEid=29;dbid="4294967296";name=吃惊的水蜜桃
+22:22:42.752833  [SCRIPT  ][DEBUG][Avatar:PickDropReq]dropEid=30;dbid="4294967296";name=吃惊的水蜜桃
+22:22:42.752929  [SCRIPT  ][DEBUG][Avatar:PickDropReq]dropEid=31;dbid="4294967296";name=吃惊的水蜜桃
+22:22:56.556621  [SCRIPT  ][DEBUG][MissionSystem:UploadComboAndBottle]dbid=4294967296;name=吃惊的水蜜桃;Combo=130;Bottle=0;ReviveTimes=0;ClientResult={1={1251201=1},2=1482,3=3299}
+22:22:56.556731  [SCRIPT  ][INFO][Avatar:AddItem]before:dbid="4294967296";name=吃惊的水蜜桃;id=1251201;num=1;reason=2
+22:22:56.556859  [SCRIPT  ][INFO][Avatar:AddItem]after:dbid="4294967296";name=吃惊的水蜜桃;id=1251201;num=1;reason=2
+22:22:56.556955  [SCRIPT  ][INFO][Avatar:AddGold]dbid="4294967296";name=吃惊的水蜜桃;gold=6716;addGold=1482;reason=15
+22:22:56.557027  [SCRIPT  ][INFO][Avatar:AddExp]dbid="4294967296";name=吃惊的水蜜桃;exp=710;addExp=3299;reason=15
+22:22:56.557188  [SCRIPT  ][INFO][Avatar:AddEnergy]dbid="4294967296";name=吃惊的水蜜桃;energy=315;addEnergy=10;reason=56
+22:22:56.557616  [WARNING ][CPluto::resize]msg=24656;old=256;new=4096
+22:22:56.557959  [SCRIPT  ][INFO][Avatar:AddExp]dbid="4294967296";name=吃惊的水蜜桃;exp=0;addExp=1129;reason=15
+22:22:56.558007  [SCRIPT  ][DEBUG][MissionSystem:GetMissionStar]dbid="4294967296";name=吃惊的水蜜桃;mission=10102;difficulty=1;UsedTime=169;HpCount=0;Combos=130
+22:22:56.558123  [SCRIPT  ][DEBUG][MissionSystem:GetMissionStar 1]dbid="4294967296";name=吃惊的水蜜桃;x=8875;y=7474
+22:22:56.558170  [SCRIPT  ][DEBUG][MissionSystem:GetMissionStar]dbid="4294967296";name=吃惊的水蜜桃;mission=10102;difficulty=1;UsedTime=169;HpCount=0;Combos=130;RevivieTimes=0;idealPassTime=150;star=4;point=7474;rank={1=4000,2=6000}
+22:22:56.558243  [SCRIPT  ][DEBUG][MissionSystem:UploadComboAndBottle to client]missionId=10102;difficulty=1;dbid="4294967296";name=吃惊的水蜜桃;level=4;UseTime=169;_Star=4;_Point=7474;fightForce=2222;Combo=130;
+22:22:56.558263  [SCRIPT  ][INFO][MissionSystem:Statistics] 10102 1 "4294967296" 吃惊的水蜜桃 169 7474 2222 130
+22:22:56.558390  [SCRIPT  ][DEBUG][Avatar:AddGold]value = 0! reason= 5
+22:22:56.558439  [SCRIPT  ][DEBUG][TaskSystem:TaskComplete]dbid="4294967296";name=吃惊的水蜜桃;mainTaskId=6
+22:22:56.558521  [SCRIPT  ][INFO][Avatar:AddEnergy]dbid="4294967296";name=吃惊的水蜜桃;energy=300;addEnergy=-15;reason=58
+22:22:56.558542  [SCRIPT  ][DEBUG][MissionSystem:UploadComboAndBottle DeductEnergy]dbid="4294967296";name=吃惊的水蜜桃;missionId=10102;difficulty=1;MissionCfg['energy']=15;energy=300
+22:22:56.558571  [SCRIPT  ][DEBUG][UploadComboAndBottle]dbid="4294967296";err=0;
+22:22:56.558650  [SCRIPT  ][DEBUG][MissionSystem:GetMissionRewards]dbid="4294967296";name=吃惊的水蜜桃
+22:22:56.558684  [SCRIPT  ][DEBUG][GetMissionRewards]dbid="4294967296";err=0;
+22:22:56.558867  [SCRIPT  ][DEBUG][UserMgr:Update]
+22:22:56.558998  [SCRIPT  ][DEBUG][GuildMgr:ProcessBaseProperties]MbStr={1=6,2=4,3=100665313};Playerdbid="4294967296";BaseProps={s013extraCritRate=0.03,s007hitRate=1,s006hpBase=692,s023extraAntiTrueStrikeRate=0,s010trueStrike=0,s010attackBase=47,s011baseHitRate=1,s012extraHitRate=0,s003atk=47,s007pvpAnti=0,s003def=49,s004crit=0,s012antiCritRate=0,s017extraAntiCritRate=0,s011antiDefense=0,s015pvpAdditionRate=0,s018antiTrueStrikeRate=0,s015critExtraAttack=0,s016extraDefenceRate=0,s015antiDefenseRate=0,s008critRate=0.03,s016damageReduceRate=0,s002hp=692,s020extraAntiDefenceRate=0,s011defenseBase=49,s019extraTrueStrikeRate=0,s008missRate=0,s014trueStrikeRate=0,s011pvpAddition=0,s011defenceRate=0.00098,s011pvpAntiRate=0}
+22:22:56.559088  [WARNING ][CPluto::resize]msg=24656;old=256;new=4096
+22:22:56.559231  [WARNING ][CPluto::resize]msg=20481;old=256;new=4096
+22:22:56.559274  [SCRIPT  ][DEBUG][MissionMgr:UpdateMissionRecord]MissionId=10102;Difficulty=1;Playerdbid="4294967296";PlayerName=吃惊的水蜜桃;PlayerVocation=1;PassTime=169;Combo=130;Point=7474
+22:22:56.559327  [SCRIPT  ][DEBUG][MissionRecord:__ctor__]id=100665315
+22:22:56.559350  [SCRIPT  ][DEBUG][MissionRecord:OnCreated]MissionId=10102;Difficulty=1;PlayerDbid="4294967296";PlayerName=吃惊的水蜜桃;PlayerVocation=1;PassTime=169;Combo130;Point=7474
+22:22:56.559402  [INFO    ][CEntityParent::lWriteToDB]etype=19;id=100665315;dbid=0;ref=13
+22:22:56.559516  [WARNING ][CPluto::resize]msg=28674;old=256;new=4096
+22:22:56.611485  [DEBUG   ][CWorldBase::InsertEntityCallback]eid=100665315;newid=1;ref=13;pszDbErr=
+22:22:56.611566  [SCRIPT  ][INFO][OnMissionRecordWritten success]MissionId=10102;Difficulty=1;PlayerDbid=4294967296;PlayerName=吃惊的水蜜桃;PassTime=1425648176;Combo130;Point=7474;dbid=4294967297
+22:22:56.611641  [SCRIPT  ][DEBUG][MissionMgr:RegisterToMission]MissionId=10102;Difficulty=1;PlayerDbid=4294967296;PlayerName=吃惊的水蜜桃;PassTime=169;Combo=130;Point=7474;TimeStamp=1425648176
+22:22:56.611692  [SCRIPT  ][INFO][GameMgr:OnMgrLoaded]mgr_name = MissionMgr
+22:22:56.611717  [SCRIPT  ][INFO][GameMgr.all_mgrs_loaded]
+22:23:10.357156  [SCRIPT  ][DEBUG][MissionSystem:QuitMission]dbid="4294967296";name=吃惊的水蜜桃
+22:23:10.357444  [SCRIPT  ][INFO][Avatar:AddGold]dbid="4294967296";name=吃惊的水蜜桃;gold=8716;addGold=2000;reason=60
+22:23:10.357630  [SCRIPT  ][DEBUG][QuitMission]dbid="4294967296";err=0;
+22:23:10.357763  [SCRIPT  ][DEBUG][MissionSystem:GetFinishedMissions]dbid="4294967296";name=吃惊的水蜜桃;MissionStars={10101={1=4},10102={1=4}}
+22:23:10.357833  [SCRIPT  ][DEBUG][GetFinishedMissions]dbid="4294967296";err=0;
+22:23:10.357883  [SCRIPT  ][DEBUG][MissionSystem:GetMissionTimes]dbid="4294967296";name=吃惊的水蜜桃;MissionTimes={10101={1=1},10102={1=1}}
+22:23:10.357921  [SCRIPT  ][DEBUG][GetMissionTimes]dbid="4294967296";err=0;
+22:23:10.357952  [SCRIPT  ][DEBUG][MissionSystem:GetStarsMission]dbid="4294967296";name=吃惊的水蜜桃
+22:23:10.357991  [SCRIPT  ][DEBUG][GetStarsMission]dbid="4294967296";err=0;
+22:23:11.092026  [SCRIPT  ][DEBUG][OblivionGateSystem:OnOblivionGateReq]msg_id=3;dbid="4294967296";name=吃惊的水蜜桃
+22:23:11.092086  [SCRIPT  ][DEBUG][OblivionGateSystem:OnQueryStateReq]
+22:23:11.092186  [SCRIPT  ][DEBUG][FlyDragonSystem:IsLevelLimit]fly dragon level limit dbid="4294967296";name=吃惊的水蜜桃;level=4
+22:23:11.092241  [SCRIPT  ][DEBUG][OblivionGateMgr:MgrEventDispatch]Execute!
+22:23:11.092281  [SCRIPT  ][DEBUG][OblivionGateMgr:MgrEventDispatch]Transmit!
+22:23:11.092307  [SCRIPT  ][DEBUG][OblivionGateMgr:MgrEventDispatch]Transmit Execute!
+22:23:11.092357  [SCRIPT  ][DEBUG][Avatar:EventDispatch][client]:[OblivionQueryStateResp] Execute!
+22:23:11.192147  [SCRIPT  ][DEBUG][MissionSystem:GetMwsyInfo]dbid="4294967296";name=吃惊的水蜜桃;MwsyInfo={}
+22:23:11.192238  [SCRIPT  ][DEBUG][GetMwsyInfo]dbid="4294967296";err=0;
+22:23:11.192317  [SCRIPT  ][DEBUG][Avatar:AddGold]value = 0! reason= 5
+22:23:11.192366  [SCRIPT  ][DEBUG][TaskSystem:TaskComplete]dbid="4294967296";name=吃惊的水蜜桃;mainTaskId=7
+22:23:12.692182  [SCRIPT  ][DEBUG][MailMgr:JewlMailReq]id=0
+22:23:33.293168  [SCRIPT  ][DEBUG][Avatar:BodyEnhaUpgReq]position = 10
+22:23:33.293287  [SCRIPT  ][DEBUG][BodyEnhanceSystem:Req]msgId = 8
+22:23:33.293317  [SCRIPT  ][DEBUG][BodyEnhanceSystem:Upgrade]position = 10
+22:23:33.293353  [SCRIPT  ][DEBUG][BodyEnhanceSystem:CanUpgrade]level = 1
+22:23:33.293480  [SCRIPT  ][DEBUG][BodyEnhanceSystem:Upgrade]{s004gold=8000,1711011=5}
+22:23:33.293584  [SCRIPT  ][INFO][Avatar:AddGold]dbid="4294967296";name=吃惊的水蜜桃;gold=716;addGold=-8000;reason=8
+22:23:33.293867  [SCRIPT  ][INFO][Avatar:DelItem]before:dbid="4294967296";name=吃惊的水蜜桃;id=1711011;num=5;reason=8
+22:23:33.294039  [SCRIPT  ][INFO][Avatar:DelItem]after:dbid="4294967296";name=吃惊的水蜜桃;id=1711011;num=5;reason=8
+22:23:33.294755  [WARNING ][CPluto::resize]msg=24656;old=256;new=4096
+22:23:33.294823  [SCRIPT  ][DEBUG][BodyEnhanceSystem:Upgrade]self.ptr.theOwner.body[position] = 1
+22:23:33.295306  [SCRIPT  ][DEBUG][GuildMgr:ProcessBaseProperties]MbStr={1=6,2=4,3=100665313};Playerdbid="4294967296";BaseProps={s013extraCritRate=0.03,s007hitRate=1,s006hpBase=725,s023extraAntiTrueStrikeRate=0,s010trueStrike=0,s010attackBase=49,s011baseHitRate=1,s012extraHitRate=0,s003atk=49,s007pvpAnti=0,s003def=51,s004crit=0,s012antiCritRate=0,s017extraAntiCritRate=0,s011antiDefense=0,s015pvpAdditionRate=0,s018antiTrueStrikeRate=0,s015critExtraAttack=0,s016extraDefenceRate=0,s015antiDefenseRate=0,s008critRate=0.03,s016damageReduceRate=0,s002hp=725,s020extraAntiDefenceRate=0,s011defenseBase=51,s019extraTrueStrikeRate=0,s008missRate=0,s014trueStrikeRate=0,s011pvpAddition=0,s011defenceRate=0.00102,s011pvpAntiRate=0}
+22:23:33.295510  [WARNING ][CPluto::resize]msg=24656;old=256;new=4096
+22:23:33.295843  [WARNING ][CPluto::resize]msg=28674;old=256;new=4096
+22:24:30.163332  [SCRIPT  ][DEBUG][Account:onMultiLogin]dbid="4294967297";name=111111@test
+22:24:30.163561  [DEBUG   ][CEntityBase::lNotifyClientMultiLogin]id=50331653;Account=111111@test
+22:24:30.163601  [SCRIPT  ][DEBUG][Account:onMultiLogin avatar OnMultiLogin]dbid="4294967297";name=111111@test
+22:24:30.216269  [SCRIPT  ][INFO][Account:onDestroy]dbid="4294967297";id=50331653;activeAvatarId=100665313;avatarsInfo={1={1=4294967296,2=s018吃惊的水蜜桃,3=1,4=1,5=1010401,6=1010001,7=0,8=0,9=0,10=0,11=0,12=0}}
+22:24:30.216367  [SCRIPT  ][INFO][UpdateAvatar]dbid="4294967296";name=吃惊的水蜜桃;vocation=1;level=4
+22:24:30.216453  [SCRIPT  ][DEBUG][UpdateAvatarsInfo]dbid="4294967296";level=4
+22:24:30.216662  [SCRIPT  ][DEBUG][quit_if_has_cell]*******************
+22:24:30.216898  [INFO    ][CEntityParent::lWriteToDB]etype=1;id=50331653;dbid=1;ref=0
+22:24:30.217919  [SCRIPT  ][DEBUG][SpaceLoader:ChangeMapCount]flag=1;map_id=10004_1;count=1
+22:24:30.217996  [SCRIPT  ][DEBUG][UnsetStateToBase]dbid="4294967296";name=吃惊的水蜜桃;state=0
+22:24:30.218165  [SCRIPT  ][DEBUG][NormalPlayManager:Reset]MapId=10004_1
+22:24:30.218252  [SCRIPT  ][INFO][Avatar:onLoseCell]dbid="4294967296";id=100665313
+22:24:30.218280  [SCRIPT  ][DEBUG][FriendSystem:Logout]
+22:24:30.218312  [SCRIPT  ][INFO][Avatar:real_quit]dbid="4294967296"
+22:24:30.218448  [WARNING ][CPluto::resize]msg=12290;old=256;new=4096
+22:24:30.219258  [INFO    ][CEntityParent::lWriteToDB]etype=4;id=100665313;dbid=0;ref=0
+22:24:30.219356  [SCRIPT  ][INFO][Avatar:onDestroy]dbid="4294967296";id=100665313
+22:24:30.219440  [WARNING ][CPluto::resize]msg=24656;old=256;new=4096
+22:24:30.219897  [SCRIPT  ][DEBUG][MapMgr:Reset]map_id=10004_1;sceneId=10004;line=1;entityId=100665312
+22:24:30.219989  [SCRIPT  ][DEBUG][UserMgrOnlineCountSub]Playerdbid="4294967296";OnlineCount=0
+22:24:30.220007  [SCRIPT  ][DEBUG][UserMgr:PlayerOffLine]Playerdbid="4294967296";OnlineCount=0
+22:24:30.220032  [SCRIPT  ][DEBUG][ActivityMgr:CampaignLeaveAll]dbid="4294967296"
+22:24:30.220280  [WARNING ][CPluto::resize]msg=20481;old=256;new=4096
+22:24:30.220352  [WARNING ][CMailBox::sendAll error]mb=0;14_-1,104;Connection reset by peer
+22:24:30.220416  [INFO    ][on_fd_closed]fd=4
+22:24:30.220435  [WARNING ][CWorldBase::OnFdClosed no entity]fd=4;eid=100665313
+22:24:30.220478  [DEBUG   ][CEpollServer::removeFd]fd=4;fd_type=3;addr=192.168.200.1;port=54257
+22:24:35.745866  [INFO    ][SelectEntityCallback]entity type=1;type2=Account;dbid=4294967297
+22:24:35.746110  [SCRIPT  ][DEBUG][Account.__ctor__]id=50331654;name=111111@test
+22:24:35.746192  [DEBUG   ][CEntityBase::lNotifyClientToAttach]---------- lNotifyClientToAttach ------id=50331654;Account=111111@test
+22:24:35.746232  [DEBUG   ][CEntityBase::lNotifyClientToAttach]---------- MSGID_LOGINAPP_NOTIFY_CLIENT_TO_ATTACH ------pszAccount=111111@test; MailboxId=6; key.c_str()=43bd3542d7c64e944024af785fff710d
+22:24:36.005462  [INFO    ][new_connection]connected from 192.168.200.1:54301, assigned socket is:4
+22:24:36.005530  [DEBUG   ][CEpollServer::AddFdAndMb]serverName=192.168.200.1
+22:24:36.005544  [DEBUG   ][CEpollServer::AddFdAndMb]client_trusted, serverName=192.168.200.1
+22:24:36.005555  [DEBUG   ][CEpollServer::addFdAndMb]fd=4;fd_type=3;addr=192.168.200.1;port=54301;authz=15
+22:24:36.041660  [DEBUG   ][CEntityBase::GiveClient]m_id=50331654;nRef=2164
+22:24:36.041737  [DEBUG   ][CEntityBase::GiveClient]s_clientReLoginKey=a7e8855d04c0c45444483374427c2cc9;m_id=50331654
+22:24:36.041752  [DEBUG   ][CEntityBase::PickleClientToPluto]m_etype=1;m_id=50331654;m_dbid=1
+22:24:36.041847  [SCRIPT  ][DEBUG][Account:onClientGetBase]dbid="4294967297";IP=192.168.200.1
+22:25:02.398552  [SCRIPT  ][DEBUG][Account:SetProgress]name=111111@test;platAccount=1111@test;OldProgress=3500;NewProgress=300
+22:25:05.380982  [SCRIPT  ][DEBUG][Account:SetProgress]name=111111@test;platAccount=1111@test;OldProgress=3500;NewProgress=300
+22:25:07.981084  [SCRIPT  ][DEBUG][Account:SetProgress]name=111111@test;platAccount=1111@test;OldProgress=3500;NewProgress=300
+22:25:11.481161  [SCRIPT  ][DEBUG][Account:SetProgress]name=111111@test;platAccount=1111@test;OldProgress=3500;NewProgress=300
+22:27:13.292740  [SCRIPT  ][DEBUG][Account:SetProgress]name=111111@test;platAccount=1111@test;OldProgress=3500;NewProgress=300
+22:27:19.792834  [SCRIPT  ][DEBUG][Account:SetProgress]name=111111@test;platAccount=1111@test;OldProgress=3500;NewProgress=300
+22:27:34.798318  [WARNING ][handle_message_err]failed, 104,'Connection reset by peer'
+22:27:34.798421  [INFO    ][on_fd_closed]fd=4
+22:27:34.798457  [INFO    ][CEntityBase::remove_client]id=50331654
+22:27:34.798504  [SCRIPT  ][DEBUG][Account:onClientDeath]dbid="4294967297"
+22:27:34.798560  [DEBUG   ][CWorldBase::OnFdClosed]fd=4;m_id=50331654
+22:27:34.798578  [DEBUG   ][CEpollServer::removeFd]fd=4;fd_type=3;addr=192.168.200.1;port=54301
+22:27:34.850521  [SCRIPT  ][INFO][Account:onDestroy]dbid="4294967297";id=50331654;activeAvatarId=0;avatarsInfo={1={1=4294967296,2=s018吃惊的水蜜桃,3=1,4=4,5=1010401,6=1010001,7=0,8=0,9=0,10=0,11=0,12=0}}
+22:27:34.850600  [INFO    ][CEntityParent::lWriteToDB]etype=1;id=50331654;dbid=1;ref=0
+22:27:40.998604  [INFO    ][SelectEntityCallback]entity type=1;type2=Account;dbid=4294967297
+22:27:40.998719  [SCRIPT  ][DEBUG][Account.__ctor__]id=50331655;name=111111@test
+22:27:40.998745  [DEBUG   ][CEntityBase::lNotifyClientToAttach]---------- lNotifyClientToAttach ------id=50331655;Account=111111@test
+22:27:40.998770  [DEBUG   ][CEntityBase::lNotifyClientToAttach]---------- MSGID_LOGINAPP_NOTIFY_CLIENT_TO_ATTACH ------pszAccount=111111@test; MailboxId=6; key.c_str()=9bbdeeacbf3a43dc9950d354f7ce9037
+22:27:41.232544  [INFO    ][new_connection]connected from 192.168.200.1:54344, assigned socket is:4
+22:27:41.232697  [DEBUG   ][CEpollServer::AddFdAndMb]serverName=192.168.200.1
+22:27:41.232722  [DEBUG   ][CEpollServer::AddFdAndMb]client_trusted, serverName=192.168.200.1
+22:27:41.232734  [DEBUG   ][CEpollServer::addFdAndMb]fd=4;fd_type=3;addr=192.168.200.1;port=54344;authz=15
+22:27:41.295689  [DEBUG   ][CEntityBase::GiveClient]m_id=50331655;nRef=2163
+22:27:41.295766  [DEBUG   ][CEntityBase::GiveClient]s_clientReLoginKey=bfe8ecff1e0ee9cd0ec4660c89156810;m_id=50331655
+22:27:41.295779  [DEBUG   ][CEntityBase::PickleClientToPluto]m_etype=1;m_id=50331655;m_dbid=1
+22:27:41.295878  [SCRIPT  ][DEBUG][Account:onClientGetBase]dbid="4294967297";IP=192.168.200.1
+22:27:51.396138  [SCRIPT  ][DEBUG][Account:DelCharacterReq]characterdbid="4294967296";name=111111@test
+22:27:53.496196  [SCRIPT  ][DEBUG][Account:SetProgress]name=111111@test;platAccount=1111@test;OldProgress=3500;NewProgress=100
+22:27:53.496269  [SCRIPT  ][DEBUG][Account:SetProgress]name=111111@test;platAccount=1111@test;OldProgress=3500;NewProgress=200
+22:27:56.096395  [SCRIPT  ][DEBUG][Account:SetProgress]name=111111@test;platAccount=1111@test;OldProgress=3500;NewProgress=300
+22:28:01.096595  [SCRIPT  ][DEBUG][Account:SetProgress]name=111111@test;platAccount=1111@test;OldProgress=3500;NewProgress=300
+22:28:06.296736  [SCRIPT  ][DEBUG][Account:SetProgress]name=111111@test;platAccount=1111@test;OldProgress=3500;NewProgress=300
+22:28:09.196877  [SCRIPT  ][DEBUG][Account:SetProgress]name=111111@test;platAccount=1111@test;OldProgress=3500;NewProgress=300
+22:28:09.996986  [SCRIPT  ][DEBUG][Account:SetProgress]name=111111@test;platAccount=1111@test;OldProgress=3500;NewProgress=300
+22:28:11.096955  [SCRIPT  ][DEBUG][Account:SetProgress]name=111111@test;platAccount=1111@test;OldProgress=3500;NewProgress=300
+22:28:14.397182  [SCRIPT  ][DEBUG][Account:SetProgress]name=111111@test;platAccount=1111@test;OldProgress=3500;NewProgress=300
+22:28:16.397258  [SCRIPT  ][DEBUG][Account:SetProgress]name=111111@test;platAccount=1111@test;OldProgress=3500;NewProgress=300
+22:28:19.897332  [SCRIPT  ][DEBUG][Account:SetProgress]name=111111@test;platAccount=1111@test;OldProgress=3500;NewProgress=300
+22:28:30.497870  [SCRIPT  ][DEBUG][Account:SetProgress]name=111111@test;platAccount=1111@test;OldProgress=3500;NewProgress=300
+22:28:33.678557  [WARNING ][handle_message_err]failed, 104,'Connection reset by peer'
+22:28:33.678675  [INFO    ][on_fd_closed]fd=4
+22:28:33.678715  [INFO    ][CEntityBase::remove_client]id=50331655
+22:28:33.678754  [SCRIPT  ][DEBUG][Account:onClientDeath]dbid="4294967297"
+22:28:33.678802  [DEBUG   ][CWorldBase::OnFdClosed]fd=4;m_id=50331655
+22:28:33.678819  [DEBUG   ][CEpollServer::removeFd]fd=4;fd_type=3;addr=192.168.200.1;port=54344
+22:28:33.757976  [SCRIPT  ][INFO][Account:onDestroy]dbid="4294967297";id=50331655;activeAvatarId=0;avatarsInfo={}
+22:28:33.758148  [INFO    ][CEntityParent::lWriteToDB]etype=1;id=50331655;dbid=1;ref=0
+22:38:05.884802  [INFO    ][on_fd_closed]fd=17
+22:38:05.884859  [WARNING ][CWorldBase::OnFdClosed no fd]fd=17
+22:38:05.884885  [DEBUG   ][CEpollServer::removeFd]fd=17;fd_type=3;addr=192.168.200.102;port=46453
+22:38:05.885866  [WARNING ][handle_message_err]failed, 104,'Connection reset by peer'
+22:38:05.885910  [INFO    ][on_fd_closed]fd=8
+22:38:05.885928  [WARNING ][CWorldBase::OnFdClosed no fd]fd=8
+22:38:05.885947  [DEBUG   ][CEpollServer::removeFd]fd=8;fd_type=2;addr=192.168.200.102;port=8001
+22:38:05.886002  [DEBUG   ][CEpollServer::addFdAndMb]fd=4;fd_type=2;addr=192.168.200.102;port=8001;authz=0
+22:38:05.886030  [WARNING ][CMailBox::sendAll error]mb=1;10_-1,111;Connection refused
+22:38:05.886048  [INFO    ][on_fd_closed]fd=4
+22:38:05.886060  [WARNING ][CWorldBase::OnFdClosed no fd]fd=4
+22:38:05.886136  [DEBUG   ][CEpollServer::removeFd]fd=4;fd_type=2;addr=192.168.200.102;port=8001
+22:38:05.900074  [INFO    ][on_fd_closed]fd=16
+22:38:05.900224  [WARNING ][CWorldBase::OnFdClosed no fd]fd=16
+22:38:05.900251  [DEBUG   ][CEpollServer::removeFd]fd=16;fd_type=3;addr=192.168.200.102;port=46450
+22:38:05.900319  [INFO    ][on_fd_closed]fd=10
+22:38:05.900344  [WARNING ][CWorldBase::OnFdClosed no fd]fd=10
+22:38:05.900364  [DEBUG   ][CEpollServer::removeFd]fd=10;fd_type=2;addr=192.168.200.102;port=8003
+22:38:05.900440  [DEBUG   ][CEpollServer::addFdAndMb]fd=4;fd_type=2;addr=192.168.200.102;port=8003;authz=0
+22:38:05.900484  [WARNING ][handle_message_err]failed, 111,'Connection refused'
+22:38:05.900510  [INFO    ][on_fd_closed]fd=4
+22:38:05.900525  [WARNING ][CWorldBase::OnFdClosed no fd]fd=4
+22:38:05.900543  [DEBUG   ][CEpollServer::removeFd]fd=4;fd_type=2;addr=192.168.200.102;port=8003
+22:38:05.922562  [INFO    ][on_fd_closed]fd=14
+22:38:05.922611  [WARNING ][CWorldBase::OnFdClosed no fd]fd=14
+22:38:05.922637  [DEBUG   ][CEpollServer::removeFd]fd=14;fd_type=3;addr=192.168.200.102;port=46444
+22:38:05.923237  [INFO    ][on_fd_closed]fd=9
+22:38:05.923271  [WARNING ][CWorldBase::OnFdClosed no fd]fd=9
+22:38:05.923295  [DEBUG   ][CEpollServer::removeFd]fd=9;fd_type=2;addr=192.168.200.102;port=8002
+22:38:05.923350  [DEBUG   ][CEpollServer::addFdAndMb]fd=4;fd_type=2;addr=192.168.200.102;port=8002;authz=0
+22:38:05.923386  [WARNING ][handle_message_err]failed, 111,'Connection refused'
+22:38:05.923408  [INFO    ][on_fd_closed]fd=4
+22:38:05.923424  [WARNING ][CWorldBase::OnFdClosed no fd]fd=4
+22:38:05.923441  [DEBUG   ][CEpollServer::removeFd]fd=4;fd_type=2;addr=192.168.200.102;port=8002
+22:38:05.935205  [INFO    ][on_fd_closed]fd=18
+22:38:05.935335  [WARNING ][CWorldBase::OnFdClosed no fd]fd=18
+22:38:05.935367  [DEBUG   ][CEpollServer::removeFd]fd=18;fd_type=3;addr=192.168.200.102;port=46457
+22:38:05.935427  [INFO    ][on_fd_closed]fd=11
+22:38:05.935453  [WARNING ][CWorldBase::OnFdClosed no fd]fd=11
+22:38:05.935471  [DEBUG   ][CEpollServer::removeFd]fd=11;fd_type=2;addr=192.168.200.102;port=8004
+22:38:06.034233  [DEBUG   ][CEpollServer::addFdAndMb]fd=4;fd_type=2;addr=192.168.200.102;port=8004;authz=0
+22:38:06.034313  [WARNING ][handle_message_err]failed, 111,'Connection refused'
+22:38:06.034340  [INFO    ][on_fd_closed]fd=4
+22:38:06.034355  [WARNING ][CWorldBase::OnFdClosed no fd]fd=4
+22:38:06.034374  [DEBUG   ][CEpollServer::removeFd]fd=4;fd_type=2;addr=192.168.200.102;port=8004
+22:38:06.045071  [INFO    ][on_fd_closed]fd=15
+22:38:06.045197  [WARNING ][CWorldBase::OnFdClosed no fd]fd=15
+22:38:06.045223  [DEBUG   ][CEpollServer::removeFd]fd=15;fd_type=3;addr=192.168.200.102;port=46445
+22:38:06.045276  [INFO    ][on_fd_closed]fd=12
+22:38:06.045298  [WARNING ][CWorldBase::OnFdClosed no fd]fd=12
+22:38:06.045316  [DEBUG   ][CEpollServer::removeFd]fd=12;fd_type=2;addr=192.168.200.102;port=8005
+22:38:06.045377  [DEBUG   ][CEpollServer::addFdAndMb]fd=4;fd_type=2;addr=192.168.200.102;port=8005;authz=0
+22:38:06.045417  [WARNING ][handle_message_err]failed, 111,'Connection refused'
+22:38:06.045440  [INFO    ][on_fd_closed]fd=4
+22:38:06.045453  [WARNING ][CWorldBase::OnFdClosed no fd]fd=4
+22:38:06.045471  [DEBUG   ][CEpollServer::removeFd]fd=4;fd_type=2;addr=192.168.200.102;port=8005
+22:58:06.838639  [INFO    ][CWorldBase::init()]
+22:58:06.874562  [WARNING ][init_cfg]warning:missed section:server_8
+22:58:06.874624  [WARNING ][init_cfg]warning:missed section:server_9
+22:58:06.874687  [WARNING ][init_cfg]warning:missed section:server_10
+22:58:06.874712  [WARNING ][init_cfg]warning:missed section:server_11
+22:58:06.874730  [WARNING ][init_cfg]warning:missed section:server_12
+22:58:06.874747  [WARNING ][init_cfg]warning:missed section:server_13
+22:58:06.874765  [WARNING ][init_cfg]warning:missed section:server_14
+22:58:06.874782  [WARNING ][init_cfg]warning:missed section:server_15
+22:58:06.874799  [WARNING ][init_cfg]warning:missed section:server_16
+22:58:06.874817  [WARNING ][init_cfg]warning:missed section:server_17
+22:58:06.874834  [WARNING ][init_cfg]warning:missed section:server_18
+22:58:06.874851  [WARNING ][init_cfg]warning:missed section:server_19
+22:58:06.874868  [WARNING ][init_cfg]warning:missed section:server_20
+22:58:06.874904  [WARNING ][init_cfg]warning:missed section:server_21
+22:58:06.874929  [WARNING ][init_cfg]warning:missed section:server_22
+22:58:06.874947  [WARNING ][init_cfg]warning:missed section:server_23
+22:58:06.874964  [WARNING ][init_cfg]warning:missed section:server_24
+22:58:06.874981  [WARNING ][init_cfg]warning:missed section:server_25
+22:58:06.874999  [WARNING ][init_cfg]warning:missed section:server_26
+22:58:06.875016  [WARNING ][init_cfg]warning:missed section:server_27
+22:58:06.875033  [WARNING ][init_cfg]warning:missed section:server_28
+22:58:06.875050  [WARNING ][init_cfg]warning:missed section:server_29
+22:58:06.875482  [DEBUG   ][CDefParser::init]==========
+22:58:06.902323  [DEBUG   ][CDefParser::init]m_EntityDefMd5 = e5a2d6e9b88cff1622d5b58a25f71496
+22:58:06.925674  [SCRIPT  ][INFO][add_all_lua_path]begin=====================================================
+22:58:06.925732  [SCRIPT  ][INFO][package.path]/usr/local/share/lua/5.2/?.lua;/usr/local/share/lua/5.2/?/init.lua;/usr/local/lib/lua/5.2/?.lua;/usr/local/lib/lua/5.2/?/init.lua;./?.lua;/root/server/scripts//base/?.lua;/root/server/scripts//base/?.luac
+22:58:06.925743  [SCRIPT  ][INFO][G_LUA_ROOTPATH]/root/server/scripts/
+22:58:06.925829  [SCRIPT  ][INFO][package.path]/usr/local/share/lua/5.2/?.lua;/usr/local/share/lua/5.2/?/init.lua;/usr/local/lib/lua/5.2/?.lua;/usr/local/lib/lua/5.2/?/init.lua;./?.lua;/root/server/scripts//base/?.lua;/root/server/scripts//base/?.luac;/root/server/scripts//common/?.lua;/root/server/scripts//common/?.luac;/root/server/scripts//common/data/?.lua;/root/server/scripts//common/data/?.luac;/root/server/scripts//base/mgr/?.lua;/root/server/scripts//base/mgr/?.luac;/root/server/scripts//test/?.lua;/root/server/scripts//test/?.luac;/root/server/scripts//base/SubSystem/?.lua;/root/server/scripts//base/SubSystem/?.luac;/root/server/scripts//base/SubSystem/GM/?.lua;/root/server/scripts//base/SubSystem/GM/?.luac;/root/server/scripts//base/SpaceLoader/?.lua;/root/server/scripts//base/SpaceLoader/?.luac;/root/server/scripts//lualibs/?.lua;/root/server/scripts//lualibs/?.luac
+22:58:06.925849  [SCRIPT  ][INFO][add_all_lua_path]end=======================================================
+22:58:08.367912  [INFO    ][read_bm]bm_loaded,map=50003;file=/root/server/scripts//data/blockmap/test.bm
+22:58:08.368252  [INFO    ][read_bm]bm_loaded,map=10601;file=/root/server/scripts//data/blockmap/test.bm
+22:58:08.368533  [INFO    ][read_bm]bm_loaded,map=10602;file=/root/server/scripts//data/blockmap/test.bm
+22:58:08.368730  [INFO    ][read_bm]bm_loaded,map=10603;file=/root/server/scripts//data/blockmap/test.bm
+22:58:08.369065  [INFO    ][read_bm]bm_loaded,map=40002;file=/root/server/scripts//data/blockmap/test.bm
+22:58:08.369377  [INFO    ][read_bm]bm_loaded,map=40006;file=/root/server/scripts//data/blockmap/test.bm
+22:58:08.369703  [INFO    ][read_bm]bm_loaded,map=10606;file=/root/server/scripts//data/blockmap/test.bm
+22:58:08.370104  [INFO    ][read_bm]bm_loaded,map=10607;file=/root/server/scripts//data/blockmap/test.bm
+22:58:08.370281  [INFO    ][read_bm]bm_loaded,map=10100;file=/root/server/scripts//data/blockmap/test.bm
+22:58:08.370553  [INFO    ][read_bm]bm_loaded,map=10101;file=/root/server/scripts//data/blockmap/test.bm
+22:58:08.370991  [INFO    ][read_bm]bm_loaded,map=10102;file=/root/server/scripts//data/blockmap/test.bm
+22:58:08.371220  [INFO    ][read_bm]bm_loaded,map=10103;file=/root/server/scripts//data/blockmap/test.bm
+22:58:08.371465  [INFO    ][read_bm]bm_loaded,map=10104;file=/root/server/scripts//data/blockmap/test.bm
+22:58:08.371669  [INFO    ][read_bm]bm_loaded,map=10105;file=/root/server/scripts//data/blockmap/test.bm
+22:58:08.371830  [INFO    ][read_bm]bm_loaded,map=10106;file=/root/server/scripts//data/blockmap/test.bm
+22:58:08.372127  [INFO    ][read_bm]bm_loaded,map=10107;file=/root/server/scripts//data/blockmap/test.bm
+22:58:08.372455  [INFO    ][read_bm]bm_loaded,map=10108;file=/root/server/scripts//data/blockmap/test.bm
+22:58:08.372588  [INFO    ][read_bm]bm_loaded,map=10109;file=/root/server/scripts//data/blockmap/test.bm
+22:58:08.372702  [INFO    ][read_bm]bm_loaded,map=30001;file=/root/server/scripts//data/blockmap/test.bm
+22:58:08.372757  [SCRIPT  ][DEBUG][load_space_data]map_id=50000;spaceName=nil
+22:58:08.373057  [INFO    ][read_bm]bm_loaded,map=10501;file=/root/server/scripts//data/blockmap/test.bm
+22:58:08.373302  [INFO    ][read_bm]bm_loaded,map=10502;file=/root/server/scripts//data/blockmap/test.bm
+22:58:08.373579  [INFO    ][read_bm]bm_loaded,map=10503;file=/root/server/scripts//data/blockmap/test.bm
+22:58:08.373825  [INFO    ][read_bm]bm_loaded,map=10504;file=/root/server/scripts//data/blockmap/test.bm
+22:58:08.374145  [INFO    ][read_bm]bm_loaded,map=10505;file=/root/server/scripts//data/blockmap/test.bm
+22:58:08.374323  [INFO    ][read_bm]bm_loaded,map=10506;file=/root/server/scripts//data/blockmap/test.bm
+22:58:08.374562  [INFO    ][read_bm]bm_loaded,map=10507;file=/root/server/scripts//data/blockmap/test.bm
+22:58:08.374802  [INFO    ][read_bm]bm_loaded,map=10508;file=/root/server/scripts//data/blockmap/test.bm
+22:58:08.375140  [INFO    ][read_bm]bm_loaded,map=40003;file=/root/server/scripts//data/blockmap/test.bm
+22:58:08.375454  [INFO    ][read_bm]bm_loaded,map=40007;file=/root/server/scripts//data/blockmap/test.bm
+22:58:08.375564  [INFO    ][read_bm]bm_loaded,map=20006;file=/root/server/scripts//data/blockmap/test.bm
+22:58:08.375663  [INFO    ][read_bm]bm_loaded,map=20008;file=/root/server/scripts//data/blockmap/test.bm
+22:58:08.375764  [INFO    ][read_bm]bm_loaded,map=20010;file=/root/server/scripts//data/blockmap/test.bm
+22:58:08.375872  [INFO    ][read_bm]bm_loaded,map=20012;file=/root/server/scripts//data/blockmap/test.bm
+22:58:08.376170  [INFO    ][read_bm]bm_loaded,map=911;file=/root/server/scripts//data/blockmap/test.bm
+22:58:08.376478  [INFO    ][read_bm]bm_loaded,map=10401;file=/root/server/scripts//data/blockmap/test.bm
+22:58:08.376751  [INFO    ][read_bm]bm_loaded,map=10402;file=/root/server/scripts//data/blockmap/test.bm
+22:58:08.376975  [INFO    ][read_bm]bm_loaded,map=10403;file=/root/server/scripts//data/blockmap/test.bm
+22:58:08.377254  [INFO    ][read_bm]bm_loaded,map=10404;file=/root/server/scripts//data/blockmap/test.bm
+22:58:08.378106  [INFO    ][read_bm]bm_loaded,map=42000;file=/root/server/scripts//data/blockmap/test.bm
+22:58:08.378336  [INFO    ][read_bm]bm_loaded,map=10406;file=/root/server/scripts//data/blockmap/test.bm
+22:58:08.378606  [INFO    ][read_bm]bm_loaded,map=10407;file=/root/server/scripts//data/blockmap/test.bm
+22:58:08.378869  [INFO    ][read_bm]bm_loaded,map=10408;file=/root/server/scripts//data/blockmap/test.bm
+22:58:08.379114  [INFO    ][read_bm]bm_loaded,map=10409;file=/root/server/scripts//data/blockmap/test.bm
+22:58:08.379137  [SCRIPT  ][DEBUG][load_space_data]map_id=10003;spaceName=nil
+22:58:08.379265  [INFO    ][read_bm]bm_loaded,map=22221;file=/root/server/scripts//data/blockmap/test.bm
+22:58:08.379426  [INFO    ][read_bm]bm_loaded,map=41000;file=/root/server/scripts//data/blockmap/test.bm
+22:58:08.379733  [INFO    ][read_bm]bm_loaded,map=40004;file=/root/server/scripts//data/blockmap/test.bm
+22:58:08.380075  [INFO    ][read_bm]bm_loaded,map=40008;file=/root/server/scripts//data/blockmap/test.bm
+22:58:08.380362  [INFO    ][read_bm]bm_loaded,map=10701;file=/root/server/scripts//data/blockmap/test.bm
+22:58:08.380627  [INFO    ][read_bm]bm_loaded,map=10509;file=/root/server/scripts//data/blockmap/test.bm
+22:58:08.380771  [INFO    ][read_bm]bm_loaded,map=22222;file=/root/server/scripts//data/blockmap/test.bm
+22:58:08.380790  [SCRIPT  ][DEBUG][load_space_data]map_id=10004;spaceName=nil
+22:58:08.380942  [INFO    ][read_bm]bm_loaded,map=31000;file=/root/server/scripts//data/blockmap/test.bm
+22:58:08.380980  [SCRIPT  ][DEBUG][load_space_data]map_id=914;spaceName=nil
+22:58:08.381251  [INFO    ][read_bm]bm_loaded,map=10604;file=/root/server/scripts//data/blockmap/test.bm
+22:58:08.381270  [SCRIPT  ][DEBUG][load_space_data]map_id=913;spaceName=nil
+22:58:08.381543  [INFO    ][read_bm]bm_loaded,map=10605;file=/root/server/scripts//data/blockmap/test.bm
+22:58:08.381855  [INFO    ][read_bm]bm_loaded,map=10704;file=/root/server/scripts//data/blockmap/test.bm
+22:58:08.382230  [INFO    ][read_bm]bm_loaded,map=10608;file=/root/server/scripts//data/blockmap/test.bm
+22:58:08.382340  [INFO    ][read_bm]bm_loaded,map=20007;file=/root/server/scripts//data/blockmap/test.bm
+22:58:08.382656  [INFO    ][read_bm]bm_loaded,map=10301;file=/root/server/scripts//data/blockmap/test.bm
+22:58:08.382932  [INFO    ][read_bm]bm_loaded,map=10302;file=/root/server/scripts//data/blockmap/test.bm
+22:58:08.383149  [INFO    ][read_bm]bm_loaded,map=10303;file=/root/server/scripts//data/blockmap/test.bm
+22:58:08.383426  [INFO    ][read_bm]bm_loaded,map=10304;file=/root/server/scripts//data/blockmap/test.bm
+22:58:08.383695  [INFO    ][read_bm]bm_loaded,map=10305;file=/root/server/scripts//data/blockmap/test.bm
+22:58:08.383826  [INFO    ][read_bm]bm_loaded,map=10306;file=/root/server/scripts//data/blockmap/test.bm
+22:58:08.384115  [INFO    ][read_bm]bm_loaded,map=10307;file=/root/server/scripts//data/blockmap/test.bm
+22:58:08.384462  [INFO    ][read_bm]bm_loaded,map=10308;file=/root/server/scripts//data/blockmap/test.bm
+22:58:08.384614  [INFO    ][read_bm]bm_loaded,map=10309;file=/root/server/scripts//data/blockmap/test.bm
+22:58:08.384858  [INFO    ][read_bm]bm_loaded,map=50002;file=/root/server/scripts//data/blockmap/test.bm
+22:58:08.384877  [SCRIPT  ][DEBUG][load_space_data]map_id=10002;spaceName=nil
+22:58:08.384986  [INFO    ][read_bm]bm_loaded,map=20002;file=/root/server/scripts//data/blockmap/test.bm
+22:58:08.385078  [INFO    ][read_bm]bm_loaded,map=20001;file=/root/server/scripts//data/blockmap/test.bm
+22:58:08.385163  [INFO    ][read_bm]bm_loaded,map=20003;file=/root/server/scripts//data/blockmap/test.bm
+22:58:08.385441  [INFO    ][read_bm]bm_loaded,map=10703;file=/root/server/scripts//data/blockmap/test.bm
+22:58:08.385685  [INFO    ][read_bm]bm_loaded,map=10609;file=/root/server/scripts//data/blockmap/test.bm
+22:58:08.389999  [INFO    ][read_bm]bm_loaded,map=30002;file=/root/server/scripts//data/blockmap/test.bm
+22:58:08.390475  [INFO    ][read_bm]bm_loaded,map=40001;file=/root/server/scripts//data/blockmap/test.bm
+22:58:08.390798  [INFO    ][read_bm]bm_loaded,map=40005;file=/root/server/scripts//data/blockmap/test.bm
+22:58:08.390910  [INFO    ][read_bm]bm_loaded,map=20005;file=/root/server/scripts//data/blockmap/test.bm
+22:58:08.391222  [INFO    ][read_bm]bm_loaded,map=10702;file=/root/server/scripts//data/blockmap/test.bm
+22:58:08.391334  [INFO    ][read_bm]bm_loaded,map=20009;file=/root/server/scripts//data/blockmap/test.bm
+22:58:08.391434  [INFO    ][read_bm]bm_loaded,map=20011;file=/root/server/scripts//data/blockmap/test.bm
+22:58:08.391742  [INFO    ][read_bm]bm_loaded,map=10705;file=/root/server/scripts//data/blockmap/test.bm
+22:58:08.392051  [INFO    ][read_bm]bm_loaded,map=10706;file=/root/server/scripts//data/blockmap/test.bm
+22:58:08.392337  [INFO    ][read_bm]bm_loaded,map=10405;file=/root/server/scripts//data/blockmap/test.bm
+22:58:08.392358  [SCRIPT  ][DEBUG][load_space_data]map_id=10001;spaceName=nil
+22:58:08.392592  [INFO    ][read_bm]bm_loaded,map=10201;file=/root/server/scripts//data/blockmap/test.bm
+22:58:08.392864  [INFO    ][read_bm]bm_loaded,map=10202;file=/root/server/scripts//data/blockmap/test.bm
+22:58:08.393094  [INFO    ][read_bm]bm_loaded,map=10203;file=/root/server/scripts//data/blockmap/test.bm
+22:58:08.393473  [INFO    ][read_bm]bm_loaded,map=10204;file=/root/server/scripts//data/blockmap/test.bm
+22:58:08.393780  [INFO    ][read_bm]bm_loaded,map=10205;file=/root/server/scripts//data/blockmap/test.bm
+22:58:08.393949  [INFO    ][read_bm]bm_loaded,map=10206;file=/root/server/scripts//data/blockmap/test.bm
+22:58:08.394334  [INFO    ][read_bm]bm_loaded,map=10207;file=/root/server/scripts//data/blockmap/test.bm
+22:58:08.394618  [INFO    ][read_bm]bm_loaded,map=10208;file=/root/server/scripts//data/blockmap/test.bm
+22:58:08.394884  [INFO    ][read_bm]bm_loaded,map=10209;file=/root/server/scripts//data/blockmap/test.bm
+22:58:08.395005  [INFO    ][read_bm]bm_loaded,map=20004;file=/root/server/scripts//data/blockmap/test.bm
+22:58:08.395328  [INFO    ][read_bm]bm_loaded,map=40009;file=/root/server/scripts//data/blockmap/test.bm
+22:58:08.395744  [INFO    ][read_bm]bm_loaded,map=912;file=/root/server/scripts//data/blockmap/test.bm
+22:58:08.396063  [INFO    ][read_bm]bm_loaded,map=50001;file=/root/server/scripts//data/blockmap/test.bm
+22:58:09.892181  [SCRIPT  ][DEBUG][WBConfig:initData]WBConfig={s013SAVE_INTERVEL=300,s013SAVE_PER_TIME=300,s012SEC_PER_WEEK=604800,s003LVS={1=20,2=25,3=30,4=35,5=40,6=45,7=50,8=55,9=60},s013PRE_OPEN_TIME=5,s011SPAWN_POINT=99,s017HOUR_WEEK_REFRESH=0,s011BossBasicHp=200000000,s012SUMMON_LIMIT=30,s024HP_SELF_DECREASE_PERCENT=1,s013WorldBossTime=1800,s013BossHpSynMode=1,s008WB_TIMES={12=30},s007HP_LEFT=10,s006SPACES={1=40001,2=40002,3=40003,4=40004,5=40005,6=40006,7=40007,8=40008,9=40009},s010SHOW_TOP_N=5,s011SYN_HP_TIME=5000,s009HP_CHANGE=1,s010SUMMON_MOD=1,s012WDAY_REFRESH=2,s012SYN_INTERVEL=5,s025HP_SELF_DECREASE_INTERVAL=1}
+22:58:09.892514  [SCRIPT  ][DEBUG][GuildDataMgr:initGragonData]data={}
+22:58:09.892636  [SCRIPT  ][DEBUG][GuildDataMgr:initGuildSkill]data={}
+22:58:10.069561  [SCRIPT  ][DEBUG][FumoData:initData]
+22:58:10.476385  [INFO    ][world::initNextEntityId]init_id=100663296
+22:58:10.476533  [DEBUG   ][CEpollServer::AddFdAndMb]serverName=
+22:58:10.476560  [DEBUG   ][CEpollServer::addFdAndMb]fd=6;fd_type=1;addr=;port=8006;authz=0
+22:58:10.476569  [DEBUG   ][start_server]:8006,success.
+22:58:10.476691  [DEBUG   ][CEpollServer::addFdAndMb]fd=8;fd_type=2;addr=192.168.1.102;port=8001;authz=0
+22:58:10.476714  [DEBUG   ][try_to_connect_mailbox]server=192.168.1.102;port=8001
+22:58:10.476891  [DEBUG   ][CEpollServer::addFdAndMb]fd=9;fd_type=2;addr=192.168.1.102;port=8002;authz=0
+22:58:10.476908  [DEBUG   ][try_to_connect_mailbox]server=192.168.1.102;port=8002
+22:58:10.477223  [DEBUG   ][CEpollServer::addFdAndMb]fd=10;fd_type=2;addr=192.168.1.102;port=8003;authz=0
+22:58:10.477248  [DEBUG   ][try_to_connect_mailbox]server=192.168.1.102;port=8003
+22:58:10.477371  [DEBUG   ][CEpollServer::addFdAndMb]fd=11;fd_type=2;addr=192.168.1.102;port=8004;authz=0
+22:58:10.477403  [DEBUG   ][try_to_connect_mailbox]server=192.168.1.102;port=8004
+22:58:10.477604  [DEBUG   ][CEpollServer::addFdAndMb]fd=12;fd_type=2;addr=192.168.1.102;port=8005;authz=0
+22:58:10.477630  [DEBUG   ][try_to_connect_mailbox]server=192.168.1.102;port=8005
+22:58:10.477880  [DEBUG   ][CEpollServer::addFdAndMb]fd=13;fd_type=2;addr=192.168.1.102;port=8007;authz=0
+22:58:10.477916  [DEBUG   ][try_to_connect_mailbox]server=192.168.1.102;port=8007
+22:58:10.477939  [SCRIPT  ][INFO][init.onServerReady]
+22:58:10.478458  [SCRIPT  ][INFO][GameMgr:__ctor__]
+22:58:10.478674  [INFO    ][connected_2_mb]mb fd = 8 connected severName = 192.168.1.102, port = 8001,
+22:58:10.478706  [INFO    ][connected_2_mb]mb fd = 9 connected severName = 192.168.1.102, port = 8002,
+22:58:10.478715  [INFO    ][connected_2_mb]mb fd = 10 connected severName = 192.168.1.102, port = 8003,
+22:58:10.478724  [INFO    ][connected_2_mb]mb fd = 11 connected severName = 192.168.1.102, port = 8004,
+22:58:10.478731  [INFO    ][connected_2_mb]mb fd = 12 connected severName = 192.168.1.102, port = 8005,
+22:58:10.478739  [INFO    ][connected_2_mb]mb fd = 13 connected severName = 192.168.1.102, port = 8007,
+22:58:11.058295  [INFO    ][new_connection]connected from 192.168.1.102:54319, assigned socket is:14
+22:58:11.058372  [DEBUG   ][CEpollServer::AddFdAndMb]serverName=192.168.1.102
+22:58:11.058398  [DEBUG   ][CEpollServer::AddFdAndMb]client_trusted, serverName=192.168.1.102
+22:58:11.058423  [DEBUG   ][CEpollServer::addFdAndMb]fd=14;fd_type=3;addr=192.168.1.102;port=54319;authz=15
+22:58:12.111794  [INFO    ][new_connection]connected from 192.168.1.102:54325, assigned socket is:15
+22:58:12.111857  [DEBUG   ][CEpollServer::AddFdAndMb]serverName=192.168.1.102
+22:58:12.111883  [DEBUG   ][CEpollServer::AddFdAndMb]client_trusted, serverName=192.168.1.102
+22:58:12.111911  [DEBUG   ][CEpollServer::addFdAndMb]fd=15;fd_type=3;addr=192.168.1.102;port=54325;authz=15
+22:58:13.100111  [INFO    ][new_connection]connected from 192.168.1.102:54329, assigned socket is:16
+22:58:13.100220  [DEBUG   ][CEpollServer::AddFdAndMb]serverName=192.168.1.102
+22:58:13.100255  [DEBUG   ][CEpollServer::AddFdAndMb]client_trusted, serverName=192.168.1.102
+22:58:13.100280  [DEBUG   ][CEpollServer::addFdAndMb]fd=16;fd_type=3;addr=192.168.1.102;port=54329;authz=15
+22:58:13.109103  [INFO    ][new_connection]connected from 192.168.1.102:54331, assigned socket is:17
+22:58:13.109197  [DEBUG   ][CEpollServer::AddFdAndMb]serverName=192.168.1.102
+22:58:13.109240  [DEBUG   ][CEpollServer::AddFdAndMb]client_trusted, serverName=192.168.1.102
+22:58:13.109265  [DEBUG   ][CEpollServer::addFdAndMb]fd=17;fd_type=3;addr=192.168.1.102;port=54331;authz=15
+22:58:13.109983  [SCRIPT  ][INFO][GameMgr:on_registered]
+22:58:13.110229  [INFO    ][SetBaseData]key=GAME_START_TIME;value=1425650293;type=4
+22:58:13.110304  [SCRIPT  ][DEBUG][global_data.onBaseData]key=GAME_START_TIME;value=1425650293
+22:58:13.111162  [SCRIPT  ][INFO][OfflineMgr:__ctor__]========
+22:58:13.112278  [SCRIPT  ][INFO][OfflineMgr:on_registered]
+22:58:13.112357  [SCRIPT  ][INFO][OfflineMgr:onSelectResp]avatar_loaded=0
+22:58:13.112452  [SCRIPT  ][DEBUG][OfflineMgr:onSelectResp]addTimer Clean
+22:58:13.112617  [SCRIPT  ][INFO][GameMgr:OnMgrLoaded]mgr_name = OfflineMgr
+22:58:13.112678  [SCRIPT  ][INFO][GameMgr:OnMgrLoaded]mgr_name = OfflineMgr loaded.
+22:58:13.114550  [SCRIPT  ][INFO][MapMgr:__ctor__]
+22:58:13.116553  [SCRIPT  ][DEBUG][MapMgr:__ctor__]SpaceLoaderCount={50003={},10601={},10602={},22222={},40002={},40006={},10606={},10607={},10100={},10101={},10102={},10103={},10104={},10105={},10106={},10107={},10108={},10109={},30001={},50000={},10501={},10502={},10503={},10504={},10505={},10506={},10507={},10508={},40003={},40007={},20006={},20008={},20010={},20012={},911={},10401={},10402={},10403={},10404={},42000={},10406={},10407={},10408={},41000={},50001={},22221={},912={},40004={},40008={},40009={},20004={},10604={},10603={},31000={},10608={},10409={},10303={},10002={},20002={},20003={},10609={},10301={},10302={},913={},10304={},10305={},10306={},10307={},10308={},10309={},50002={},10001={},10405={},40005={},20005={},20011={},20009={},10702={},20001={},914={},10701={},20007={},10703={},10704={},10705={},10706={},40001={},30002={},10201={},10202={},10203={},10204={},10205={},10206={},10207={},10208={},10209={},10605={},10004={},10509={},10003={}};BusySpecialMapPool={50003={},10601={},10602={},22222
+22:58:13.116803  [SCRIPT  ][INFO][UserMgr:__ctor__]
+22:58:13.116924  [SCRIPT  ][DEBUG][MailMgr:__ctor__]
+22:58:13.117000  [SCRIPT  ][INFO][NameMgr:__ctor__]========
+22:58:13.117095  [SCRIPT  ][INFO][Collector:__ctor__]
+22:58:13.117232  [SCRIPT  ][DEBUG][OblivionGateMgr:__ctor__]
+22:58:13.117392  [SCRIPT  ][DEBUG][GuildMgr:__ctor__]
+22:58:13.117495  [SCRIPT  ][INFO][EventMgr:__ctor__]
+22:58:13.117574  [SCRIPT  ][DEBUG][MissionMgr:__ctor__]
+22:58:13.117658  [SCRIPT  ][DEBUG][ActivityMgr:__ctor__]
+22:58:13.117732  [SCRIPT  ][DEBUG][FlyDragonMgr:__ctor__]
+22:58:13.117798  [SCRIPT  ][INFO][mgr_compensate:__ctor__]
+22:58:13.125352  [INFO    ][CEntityParent::lWriteToDB]etype=36;id=100663310;dbid=0;ref=12
+22:58:13.125509  [SCRIPT  ][INFO][ChargeMgr:__ctor__]
+22:58:13.125573  [INFO    ][CEntityParent::lWriteToDB]etype=37;id=100663311;dbid=0;ref=13
+22:58:13.125665  [SCRIPT  ][DEBUG][DefensePvPMgr:__ctor__]
+22:58:13.126753  [INFO    ][SelectEntityCallback]entity type=26;type2=ArenaMgr;dbid=4294967296
+22:58:13.126884  [SCRIPT  ][INFO][ArenaMgr:__ctor__]
+22:58:13.126992  [INFO    ][SelectEntityCallback]entity type=22;type2=WorldBossMgr;dbid=4294967296
+22:58:13.127102  [SCRIPT  ][INFO][WorldBossMgr:__ctor__]
+22:58:13.129287  [SCRIPT  ][INFO][MapMgr:on_registered]
+22:58:13.129360  [SCRIPT  ][INFO][MapMgr:LoadAllSpace]
+22:58:13.141947  [SCRIPT  ][INFO][UserMgr:on_registered]
+22:58:13.143262  [SCRIPT  ][DEBUG][RegisterGloballyCB]MailMgr
+22:58:13.143408  [SCRIPT  ][DEBUG][NameMgr:__ctor__]RegisterCallback
+22:58:13.143450  [SCRIPT  ][DEBUG][NameMgr:OnRegistered]
+22:58:13.143473  [SCRIPT  ][DEBUG][NameDataMgr:initData]
+22:58:13.205465  [SCRIPT  ][DEBUG][NameDataMgr:initData]over.
+22:58:13.205601  [SCRIPT  ][INFO][Collector:on_registered]
+22:58:13.205659  [SCRIPT  ][DEBUG][OblivionGateMgr:OnRegistered]
+22:58:13.205695  [SCRIPT  ][DEBUG][RegisterGloballyCB]
+22:58:13.205735  [SCRIPT  ][DEBUG][GuildMgr:OnRegistered]
+22:58:13.205797  [SCRIPT  ][INFO][EventMgr:on_registered]
+22:58:13.211484  [SCRIPT  ][DEBUG][RegisterGloballyCB]
+22:58:13.211627  [SCRIPT  ][DEBUG][FlyDragonMgr:OnRegistered]
+22:58:13.211661  [SCRIPT  ][DEBUG][DefensePvPMgr:OnRegistered]
+22:58:13.211709  [SCRIPT  ][DEBUG][WorldBossMgr:on_registered]1
+22:58:13.211768  [SCRIPT  ][DEBUG][BossHpMgr:new]
+22:58:13.211795  [SCRIPT  ][DEBUG][WorldBossMgr:on_registered]2
+22:58:13.211820  [SCRIPT  ][DEBUG][WorldBossMgr:EnableWBActivity]
+22:58:13.211899  [SCRIPT  ][DEBUG][WorldBossMgr:Init]addTimer 11
+22:58:13.211927  [SCRIPT  ][DEBUG][WorldBossMgr:Init]addTimer 5
+22:58:13.211960  [SCRIPT  ][INFO][GameMgr:OnMgrLoaded]mgr_name = NameMgr
+22:58:13.211991  [SCRIPT  ][INFO][GameMgr:OnMgrLoaded]mgr_name = Collector
+22:58:13.212016  [SCRIPT  ][INFO][GameMgr:OnMgrLoaded]mgr_name = OblivionGateMgr
+22:58:13.212039  [SCRIPT  ][INFO][GameMgr:OnMgrLoaded]mgr_name = EventMgr
+22:58:13.212062  [SCRIPT  ][INFO][GameMgr:OnMgrLoaded]mgr_name = ActivityMgr
+22:58:13.212084  [SCRIPT  ][INFO][GameMgr:OnMgrLoaded]mgr_name = FlyDragonMgr
+22:58:13.212106  [SCRIPT  ][INFO][GameMgr:OnMgrLoaded]mgr_name = DefensePvPMgr
+22:58:13.213701  [INFO    ][SelectEntityCallback]entity type=29;type2=GlobalDataMgr;dbid=4294967296
+22:58:13.213751  [SCRIPT  ][DEBUG][GlobalDataMgr:__ctor__]
+22:58:13.213798  [INFO    ][SelectEntityCallback]entity type=40;type2=RouletteMgr;dbid=4294967296
+22:58:13.213824  [SCRIPT  ][INFO][RouletteMgr:__ctor__]
+22:58:13.213852  [DEBUG   ][CWorldBase::InsertEntityCallback]eid=100663310;newid=78;ref=12;pszDbErr=
+22:58:13.213867  [SCRIPT  ][INFO][create_mgr_compensate_success]
+22:58:13.213886  [DEBUG   ][CWorldBase::InsertEntityCallback]eid=100663311;newid=78;ref=13;pszDbErr=
+22:58:13.213899  [SCRIPT  ][INFO][create_ChargeMgr_success]
+22:58:13.271315  [SCRIPT  ][DEBUG][GlobalDataMgr:on_registered]
+22:58:13.271411  [SCRIPT  ][INFO][RouletteMgr:OnRegistered]
+22:58:13.271465  [SCRIPT  ][INFO][ChargeMgr:OnRegistered]
+22:58:13.271553  [SCRIPT  ][INFO][GameMgr:OnMgrLoaded]mgr_name = GlobalDataMgr
+22:58:13.271592  [INFO    ][SetBaseData]key=forbidden_ips;value={};type=1
+22:58:13.271613  [INFO    ][SetBaseData]key=forbidden_accounts;value={};type=1
+22:58:13.271632  [SCRIPT  ][INFO][GameMgr:OnMgrLoaded]mgr_name = RouletteMgr
+22:58:13.273437  [DEBUG   ][CWorldBase::TableSelectCallback]eid=100663300
+22:58:13.273468  [DEBUG   ][CWorldBase::TableSelectCallback]strCallBackFunc=onAvatarSelectCountResp;strEntity=Avatar;nFieldNum=1
+22:58:13.273515  [DEBUG   ][CWorldBase::TableSelectCallback end]size=1
+22:58:13.273589  [SCRIPT  ][DEBUG][UserMgr:onAvatarSelectCountResp]rst={1={}};times=1
+22:58:13.273607  [SCRIPT  ][DEBUG][UserMgr:onAvatarSelectCountResp]sql=SELECT `id`, `sm_name`, `sm_accountName`, `sm_gender`, `sm_idol`, `sm_vocation`, `sm_level`, `sm_offlineTime`, `sm_skillBag`, `sm_body`, `sm_arenicGrade`, `sm_equipeds`, `sm_rune`, `sm_friends`, `sm_gm_setting`, `sm_fumoinfo`, `sm_elfAreaTearProg`, `sm_wingBag`  FROM tbl_Avatar ORDER BY `sm_level` DESC LIMIT 0, 1000
+22:58:13.273716  [WARNING ][CPluto::resize]msg=12310;old=256;new=4096
+22:58:13.273748  [DEBUG   ][CWorldBase::TableSelectCallback]eid=100663301
+22:58:13.273760  [DEBUG   ][CWorldBase::TableSelectCallback]strCallBackFunc=OnPublicLoad;strEntity=mail_public;nFieldNum=12
+22:58:13.273782  [DEBUG   ][CWorldBase::TableSelectCallback end]size=1
+22:58:13.273816  [SCRIPT  ][INFO][Guild.onEntitiesLoaded]count=0
+22:58:13.273841  [SCRIPT  ][INFO][ArenaData.onEntitiesLoaded]count=0
+22:58:13.273908  [SCRIPT  ][DEBUG][MissionRecord:__ctor__]id=50331653
+22:58:13.273969  [SCRIPT  ][DEBUG][MissionMgr:RegisterToMission]MissionId=10101;Difficulty=1;PlayerDbid=4294967296;PlayerName=吃惊的水蜜桃;PassTime=242;Combo=64;Point=6263;TimeStamp=1425647957
+22:58:13.274034  [SCRIPT  ][DEBUG][MissionRecord:__ctor__]id=50331654
+22:58:13.274081  [SCRIPT  ][DEBUG][MissionMgr:RegisterToMission]MissionId=10102;Difficulty=1;PlayerDbid=4294967296;PlayerName=吃惊的水蜜桃;PassTime=169;Combo=130;Point=7474;TimeStamp=1425648176
+22:58:13.274113  [SCRIPT  ][INFO][MissionRecord.onEntitiesLoaded]count=2
+22:58:13.274136  [SCRIPT  ][INFO][WorldBossData.onEntitiesLoaded]count=0
+22:58:13.274185  [SCRIPT  ][INFO][GameMgr:OnMgrLoaded]mgr_name = MailMgr
+22:58:13.274221  [SCRIPT  ][INFO][GuildMgr:OnGuildsLoaded]count=0
+22:58:13.274256  [SCRIPT  ][DEBUG][ArenaMgr:SetArenaDataCount]max=0;loaded=0
+22:58:13.274276  [SCRIPT  ][DEBUG][ArenaMgr:on_arenadata_loaded]
+22:58:13.274297  [SCRIPT  ][DEBUG][ArenaMgr:on_arenadata_loaded]day timer start sec = 3707
+22:58:13.274325  [SCRIPT  ][DEBUG][ArenaMgr:on_arenadata_loaded]week timer start sec = 176507
+22:58:13.274354  [SCRIPT  ][INFO][GameMgr:OnMgrLoaded]mgr_name = MissionMgr
+22:58:13.274379  [SCRIPT  ][INFO][GameMgr:OnMgrLoaded]mgr_name = MissionMgr
+22:58:13.274402  [SCRIPT  ][INFO][MissionMgr:OnMissionRecordLoaded]count=2
+22:58:13.274476  [SCRIPT  ][INFO][GameMgr:OnMgrLoaded]mgr_name = GuildMgr
+22:58:13.274500  [SCRIPT  ][INFO][GameMgr:OnMgrLoaded]mgr_name = ArenaMgr
+22:58:13.274522  [SCRIPT  ][INFO][GameMgr:OnMgrLoaded]mgr_name = MissionMgr
+22:58:13.274543  [SCRIPT  ][INFO][GameMgr:OnMgrLoaded]mgr_name = WorldBossMgr
+22:58:13.325042  [SCRIPT  ][DEBUG][ChargeMgr:onTblSelectResp]
+22:58:13.325091  [SCRIPT  ][INFO][ChargeMgr:onTblSelectResp]rec_loaded=0
+22:58:13.325124  [DEBUG   ][CWorldBase::TableSelectCallback]eid=100663310
+22:58:13.325137  [DEBUG   ][CWorldBase::TableSelectCallback]strCallBackFunc=OnLoad;strEntity=last_server_account;nFieldNum=3
+22:58:13.325153  [DEBUG   ][CWorldBase::TableSelectCallback end]size=1
+22:58:13.325210  [DEBUG   ][CWorldBase::TableSelectCallback]eid=100663300
+22:58:13.325224  [DEBUG   ][CWorldBase::TableSelectCallback]strCallBackFunc=onAvatarSelectResp;strEntity=Avatar;nFieldNum=18
+22:58:13.325389  [DEBUG   ][CWorldBase::TableSelectCallback end]size=1
+22:58:13.325481  [SCRIPT  ][INFO][UserMgr:onAvatarSelectResp]AllPlayersCount=1
+22:58:13.337409  [WARNING ][CPluto::resize]msg=12310;old=256;new=4096
+22:58:13.337487  [WARNING ][CPluto::resize]msg=12310;old=256;new=4096
+22:58:13.337518  [WARNING ][CPluto::resize]msg=12310;old=256;new=4096
+22:58:13.337541  [WARNING ][CPluto::resize]msg=12310;old=256;new=4096
+22:58:13.337562  [WARNING ][CPluto::resize]msg=12310;old=256;new=4096
+22:58:13.337584  [WARNING ][CPluto::resize]msg=12310;old=256;new=4096
+22:58:13.337606  [WARNING ][CPluto::resize]msg=12310;old=256;new=4096
+22:58:13.337697  [SCRIPT  ][INFO][GameMgr:OnMgrLoaded]mgr_name = ChargeMgr
+22:58:13.337730  [SCRIPT  ][INFO][GameMgr:OnMgrLoaded]mgr_name = mgr_compensate
+22:58:13.388509  [SCRIPT  ][DEBUG][UserMgr:_init_redis_data]4294967296
+22:58:13.388904  [DEBUG   ][CWorldBase::TableSelectCallback]eid=100663300
+22:58:13.388926  [DEBUG   ][CWorldBase::TableSelectCallback]strCallBackFunc=LoadingLevelRankCallback;strEntity=Avatar;nFieldNum=6
+22:58:13.388999  [DEBUG   ][CWorldBase::TableSelectCallback end]size=1
+22:58:13.389064  [DEBUG   ][CWorldBase::TableSelectCallback]eid=100663300
+22:58:13.389077  [DEBUG   ][CWorldBase::TableSelectCallback]strCallBackFunc=LoadingFightForceRankCallback;strEntity=Avatar;nFieldNum=6
+22:58:13.389139  [DEBUG   ][CWorldBase::TableSelectCallback end]size=1
+22:58:13.389379  [DEBUG   ][CWorldBase::TableSelectCallback]eid=100663300
+22:58:13.389406  [DEBUG   ][CWorldBase::TableSelectCallback]strCallBackFunc=LoadingArenicCreditRankCallback;strEntity=Avatar;nFieldNum=7
+22:58:13.389426  [DEBUG   ][CWorldBase::TableSelectCallback end]size=1
+22:58:13.389452  [DEBUG   ][CWorldBase::TableSelectCallback]eid=100663300
+22:58:13.389463  [DEBUG   ][CWorldBase::TableSelectCallback]strCallBackFunc=LoadingTowerHighestFloorRankCallback;strEntity=Avatar;nFieldNum=7
+22:58:13.389479  [DEBUG   ][CWorldBase::TableSelectCallback end]size=1
+22:58:13.389502  [DEBUG   ][CWorldBase::TableSelectCallback]eid=100663300
+22:58:13.389512  [DEBUG   ][CWorldBase::TableSelectCallback]strCallBackFunc=LoadingMissionSScoresRankCallback;strEntity=Avatar;nFieldNum=7
+22:58:13.389567  [DEBUG   ][CWorldBase::TableSelectCallback end]size=1
+22:58:13.389618  [DEBUG   ][CWorldBase::TableSelectCallback]eid=100663300
+22:58:13.389630  [DEBUG   ][CWorldBase::TableSelectCallback]strCallBackFunc=LoadingArenicScoreRankCallback;strEntity=RankListData;nFieldNum=7
+22:58:13.389647  [DEBUG   ][CWorldBase::TableSelectCallback end]size=1
+22:58:13.389687  [SCRIPT  ][DEBUG][UserMgr:LoadingFFRLToReward]vals={}
+22:58:13.389710  [DEBUG   ][CWorldBase::TableSelectCallback]eid=100663300
+22:58:13.389721  [DEBUG   ][CWorldBase::TableSelectCallback]strCallBackFunc=LoadingSanctuaryRankCallback;strEntity=RankListData;nFieldNum=7
+22:58:13.389736  [DEBUG   ][CWorldBase::TableSelectCallback end]size=1
+22:58:13.389768  [SCRIPT  ][INFO][GameMgr:OnMgrLoaded]mgr_name = UserMgr
+22:58:13.464562  [INFO    ][new_connection]connected from 192.168.1.102:54334, assigned socket is:18
+22:58:13.464647  [DEBUG   ][CEpollServer::AddFdAndMb]serverName=192.168.1.102
+22:58:13.464675  [DEBUG   ][CEpollServer::AddFdAndMb]client_trusted, serverName=192.168.1.102
+22:58:13.464700  [DEBUG   ][CEpollServer::addFdAndMb]fd=18;fd_type=3;addr=192.168.1.102;port=54334;authz=15
+22:58:14.081492  [INFO    ][new_connection]connected from 192.168.1.102:54338, assigned socket is:19
+22:58:14.081587  [DEBUG   ][CEpollServer::AddFdAndMb]serverName=192.168.1.102
+22:58:14.081615  [DEBUG   ][CEpollServer::AddFdAndMb]client_trusted, serverName=192.168.1.102
+22:58:14.081640  [DEBUG   ][CEpollServer::addFdAndMb]fd=19;fd_type=3;addr=192.168.1.102;port=54338;authz=15
+22:58:14.179272  [SCRIPT  ][INFO][MapMgr._STATE_MAP_LOADED]
+22:58:14.179362  [SCRIPT  ][INFO][GameMgr:OnMgrLoaded]mgr_name = MapMgr
+22:58:14.179384  [SCRIPT  ][INFO][GameMgr.all_mgrs_loaded]
+22:58:14.179401  [SCRIPT  ][DEBUG][GameMgr:_initMgr]
+22:58:14.179418  [SCRIPT  ][DEBUG][GameMgr:_initMgr]
+22:58:14.179434  [SCRIPT  ][DEBUG][GameMgr:_initMgr]
+22:58:14.179447  [SCRIPT  ][DEBUG][GameMgr:_initMgr]
+22:58:14.179460  [SCRIPT  ][DEBUG][GameMgr:_initMgr]
+22:58:14.179474  [SCRIPT  ][DEBUG][GameMgr:_initMgr]
+22:58:14.179489  [SCRIPT  ][DEBUG][GameMgr:_initMgr]
+22:58:14.179527  [SCRIPT  ][DEBUG][GuildMgr:Init]self.guilds={}
+22:58:14.179679  [SCRIPT  ][DEBUG][NameMgr:Init]
+22:58:14.179734  [SCRIPT  ][DEBUG][FlyDragonMgr:Init]
+22:58:14.179786  [SCRIPT  ][DEBUG][GameMgr:OnInited]GuildMgr
+22:58:14.179810  [SCRIPT  ][DEBUG][GameMgr:OnInited]ArenaMgr
+22:58:14.179836  [SCRIPT  ][DEBUG][UserMgr:FlyDragonMgrGetPlayerCount]AllPlayersCount=1
+22:58:14.179861  [SCRIPT  ][DEBUG][GameMgr:OnInited]WorldBossMgr
+22:58:14.179882  [SCRIPT  ][DEBUG][GameMgr:OnInited]RouletteMgr
+22:58:14.179904  [SCRIPT  ][DEBUG][FlyDragonMgr:OnInited]UserCount=1
+22:58:14.298397  [DEBUG   ][CWorldBase::TableSelectCallback]eid=100663302
+22:58:14.298464  [DEBUG   ][CWorldBase::TableSelectCallback]strCallBackFunc=onAvatarSelectResp;strEntity=Avatar;nFieldNum=2
+22:58:14.299356  [DEBUG   ][CWorldBase::TableSelectCallback end]size=1
+22:58:14.299420  [SCRIPT  ][DEBUG][NameMgr:OnInited]
+22:58:14.904363  [SCRIPT  ][DEBUG][NameDataMgr:InitByDB]571827
+22:58:14.929588  [SCRIPT  ][DEBUG][GameMgr:OnInited]UserMgr
+22:58:14.929700  [SCRIPT  ][DEBUG][GameMgr:OnInited]NameMgr
+22:58:14.929725  [SCRIPT  ][DEBUG][GameMgr:OnInited]FlyDragonMgr
+22:58:14.929823  [SCRIPT  ][INFO][GameMgr.all_mgrs_inited]
+22:58:23.203968  [INFO    ][SetBaseData]key=4;value={1=3,2=1009006,3={1=30}};type=1
+23:00:00.551396  [WARNING ][CPluto::resize]msg=12310;old=256;new=4096
+23:00:00.551511  [WARNING ][CPluto::resize]msg=12310;old=256;new=4096
+23:00:00.551560  [WARNING ][CPluto::resize]msg=12310;old=256;new=4096
+23:00:00.551596  [WARNING ][CPluto::resize]msg=12310;old=256;new=4096
+23:00:00.551627  [WARNING ][CPluto::resize]msg=12310;old=256;new=4096
+23:00:00.551660  [WARNING ][CPluto::resize]msg=12310;old=256;new=4096
+23:00:00.551693  [WARNING ][CPluto::resize]msg=12310;old=256;new=4096
+23:00:00.603369  [DEBUG   ][CWorldBase::TableSelectCallback]eid=100663300
+23:00:00.603430  [DEBUG   ][CWorldBase::TableSelectCallback]strCallBackFunc=LoadingFightForceRankCallback;strEntity=Avatar;nFieldNum=6
+23:00:00.603567  [DEBUG   ][CWorldBase::TableSelectCallback end]size=1
+23:00:00.603683  [DEBUG   ][CWorldBase::TableSelectCallback]eid=100663300
+23:00:00.603704  [DEBUG   ][CWorldBase::TableSelectCallback]strCallBackFunc=LoadingLevelRankCallback;strEntity=Avatar;nFieldNum=6
+23:00:00.603815  [DEBUG   ][CWorldBase::TableSelectCallback end]size=1
+23:00:00.603915  [DEBUG   ][CWorldBase::TableSelectCallback]eid=100663300
+23:00:00.603936  [DEBUG   ][CWorldBase::TableSelectCallback]strCallBackFunc=LoadingArenicCreditRankCallback;strEntity=Avatar;nFieldNum=7
+23:00:00.603963  [DEBUG   ][CWorldBase::TableSelectCallback end]size=1
+23:00:00.603999  [DEBUG   ][CWorldBase::TableSelectCallback]eid=100663300
+23:00:00.604015  [DEBUG   ][CWorldBase::TableSelectCallback]strCallBackFunc=LoadingTowerHighestFloorRankCallback;strEntity=Avatar;nFieldNum=7
+23:00:00.604039  [DEBUG   ][CWorldBase::TableSelectCallback end]size=1
+23:00:00.604072  [DEBUG   ][CWorldBase::TableSelectCallback]eid=100663300
+23:00:00.604088  [DEBUG   ][CWorldBase::TableSelectCallback]strCallBackFunc=LoadingMissionSScoresRankCallback;strEntity=Avatar;nFieldNum=7
+23:00:00.604164  [DEBUG   ][CWorldBase::TableSelectCallback end]size=1
+23:00:00.604236  [DEBUG   ][CWorldBase::TableSelectCallback]eid=100663300
+23:00:00.604254  [DEBUG   ][CWorldBase::TableSelectCallback]strCallBackFunc=LoadingArenicScoreRankCallback;strEntity=RankListData;nFieldNum=7
+23:00:00.604277  [DEBUG   ][CWorldBase::TableSelectCallback end]size=1
+23:00:00.604310  [DEBUG   ][CWorldBase::TableSelectCallback]eid=100663300
+23:00:00.604326  [DEBUG   ][CWorldBase::TableSelectCallback]strCallBackFunc=LoadingSanctuaryRankCallback;strEntity=RankListData;nFieldNum=7
+23:00:00.604346  [DEBUG   ][CWorldBase::TableSelectCallback end]size=1
+23:01:31.944955  [INFO    ][on_fd_closed]fd=15
+23:01:31.945026  [WARNING ][CWorldBase::OnFdClosed no fd]fd=15
+23:01:31.945050  [DEBUG   ][CEpollServer::removeFd]fd=15;fd_type=3;addr=192.168.1.102;port=54325
+23:01:31.945102  [INFO    ][on_fd_closed]fd=8
+23:01:31.945120  [WARNING ][CWorldBase::OnFdClosed no fd]fd=8
+23:01:31.945133  [DEBUG   ][CEpollServer::removeFd]fd=8;fd_type=2;addr=192.168.1.102;port=8001
+23:01:31.945183  [DEBUG   ][CEpollServer::addFdAndMb]fd=4;fd_type=2;addr=192.168.1.102;port=8001;authz=0
+23:01:31.945236  [WARNING ][CMailBox::sendAll error]mb=1;10_-1,111;Connection refused
+23:01:31.945254  [INFO    ][on_fd_closed]fd=4
+23:01:31.945265  [WARNING ][CWorldBase::OnFdClosed no fd]fd=4
+23:01:31.945283  [DEBUG   ][CEpollServer::removeFd]fd=4;fd_type=2;addr=192.168.1.102;port=8001
+23:01:31.950668  [INFO    ][on_fd_closed]fd=16
+23:01:31.950747  [WARNING ][CWorldBase::OnFdClosed no fd]fd=16
+23:01:31.950768  [DEBUG   ][CEpollServer::removeFd]fd=16;fd_type=3;addr=192.168.1.102;port=54329
+23:01:31.950817  [INFO    ][on_fd_closed]fd=10
+23:01:31.950834  [WARNING ][CWorldBase::OnFdClosed no fd]fd=10
+23:01:31.950847  [DEBUG   ][CEpollServer::removeFd]fd=10;fd_type=2;addr=192.168.1.102;port=8003
+23:01:31.950896  [DEBUG   ][CEpollServer::addFdAndMb]fd=4;fd_type=2;addr=192.168.1.102;port=8003;authz=0
+23:01:31.950929  [WARNING ][handle_message_err]failed, 111,'Connection refused'
+23:01:31.950947 23:41:19.209286  [INFO    ][CWorldBase::init()]
+23:41:19.229105  [WARNING ][init_cfg]warning:missed section:server_8
+23:41:19.229201  [WARNING ][init_cfg]warning:missed section:server_9
+23:41:19.229242  [WARNING ][init_cfg]warning:missed section:server_10
+23:41:19.229279  [WARNING ][init_cfg]warning:missed section:server_11
+23:41:19.229315  [WARNING ][init_cfg]warning:missed section:server_12
+23:41:19.229351  [WARNING ][init_cfg]warning:missed section:server_13
+23:41:19.229388  [WARNING ][init_cfg]warning:missed section:server_14
+23:41:19.229426  [WARNING ][init_cfg]warning:missed section:server_15
+23:41:19.229464  [WARNING ][init_cfg]warning:missed section:server_16
+23:41:19.229502  [WARNING ][init_cfg]warning:missed section:server_17
+23:41:19.229540  [WARNING ][init_cfg]warning:missed section:server_18
+23:41:19.229578  [WARNING ][init_cfg]warning:missed section:server_19
+23:41:19.229616  [WARNING ][init_cfg]warning:missed section:server_20
+23:41:19.229653  [WARNING ][init_cfg]warning:missed section:server_21
+23:41:19.229688  [WARNING ][init_cfg]warning:missed section:server_22
+23:41:19.229780  [WARNING ][init_cfg]warning:missed section:server_23
+23:41:19.229850  [WARNING ][init_cfg]warning:missed section:server_24
+23:41:19.229889  [WARNING ][init_cfg]warning:missed section:server_25
+23:41:19.229924  [WARNING ][init_cfg]warning:missed section:server_26
+23:41:19.229959  [WARNING ][init_cfg]warning:missed section:server_27
+23:41:19.229998  [WARNING ][init_cfg]warning:missed section:server_28
+23:41:19.230032  [WARNING ][init_cfg]warning:missed section:server_29
+23:41:19.231034  [DEBUG   ][CDefParser::init]==========
+23:41:19.309397  [DEBUG   ][CDefParser::init]m_EntityDefMd5 = e5a2d6e9b88cff1622d5b58a25f71496
+23:41:19.331035  [SCRIPT  ][INFO][add_all_lua_path]begin=====================================================
+23:41:19.331104  [SCRIPT  ][INFO][package.path]/usr/local/share/lua/5.2/?.lua;/usr/local/share/lua/5.2/?/init.lua;/usr/local/lib/lua/5.2/?.lua;/usr/local/lib/lua/5.2/?/init.lua;./?.lua;/root/server/scripts//base/?.lua;/root/server/scripts//base/?.luac
+23:41:19.331123  [SCRIPT  ][INFO][G_LUA_ROOTPATH]/root/server/scripts/
+23:41:19.331255  [SCRIPT  ][INFO][package.path]/usr/local/share/lua/5.2/?.lua;/usr/local/share/lua/5.2/?/init.lua;/usr/local/lib/lua/5.2/?.lua;/usr/local/lib/lua/5.2/?/init.lua;./?.lua;/root/server/scripts//base/?.lua;/root/server/scripts//base/?.luac;/root/server/scripts//common/?.lua;/root/server/scripts//common/?.luac;/root/server/scripts//common/data/?.lua;/root/server/scripts//common/data/?.luac;/root/server/scripts//base/mgr/?.lua;/root/server/scripts//base/mgr/?.luac;/root/server/scripts//test/?.lua;/root/server/scripts//test/?.luac;/root/server/scripts//base/SubSystem/?.lua;/root/server/scripts//base/SubSystem/?.luac;/root/server/scripts//base/SubSystem/GM/?.lua;/root/server/scripts//base/SubSystem/GM/?.luac;/root/server/scripts//base/SpaceLoader/?.lua;/root/server/scripts//base/SpaceLoader/?.luac;/root/server/scripts//lualibs/?.lua;/root/server/scripts//lualibs/?.luac
+23:41:19.331287  [SCRIPT  ][INFO][add_all_lua_path]end=======================================================
+23:41:20.931746  [INFO    ][read_bm]bm_loaded,map=50003;file=/root/server/scripts//data/blockmap/test.bm
+23:41:20.932109  [INFO    ][read_bm]bm_loaded,map=10601;file=/root/server/scripts//data/blockmap/test.bm
+23:41:20.932393  [INFO    ][read_bm]bm_loaded,map=10602;file=/root/server/scripts//data/blockmap/test.bm
+23:41:20.932535  [INFO    ][read_bm]bm_loaded,map=22222;file=/root/server/scripts//data/blockmap/test.bm
+23:41:20.932864  [INFO    ][read_bm]bm_loaded,map=40002;file=/root/server/scripts//data/blockmap/test.bm
+23:41:20.933572  [INFO    ][read_bm]bm_loaded,map=40006;file=/root/server/scripts//data/blockmap/test.bm
+23:41:20.934015  [INFO    ][read_bm]bm_loaded,map=10606;file=/root/server/scripts//data/blockmap/test.bm
+23:41:20.934536  [INFO    ][read_bm]bm_loaded,map=10607;file=/root/server/scripts//data/blockmap/test.bm
+23:41:20.934968  [INFO    ][read_bm]bm_loaded,map=10100;file=/root/server/scripts//data/blockmap/test.bm
+23:41:20.935522  [INFO    ][read_bm]bm_loaded,map=10609;file=/root/server/scripts//data/blockmap/test.bm
+23:41:20.936330  [INFO    ][read_bm]bm_loaded,map=10102;file=/root/server/scripts//data/blockmap/test.bm
+23:41:20.936653  [INFO    ][read_bm]bm_loaded,map=10103;file=/root/server/scripts//data/blockmap/test.bm
+23:41:20.937119  [INFO    ][read_bm]bm_loaded,map=10104;file=/root/server/scripts//data/blockmap/test.bm
+23:41:20.937486  [INFO    ][read_bm]bm_loaded,map=10105;file=/root/server/scripts//data/blockmap/test.bm
+23:41:20.937777  [INFO    ][read_bm]bm_loaded,map=10106;file=/root/server/scripts//data/blockmap/test.bm
+23:41:20.938309  [INFO    ][read_bm]bm_loaded,map=10107;file=/root/server/scripts//data/blockmap/test.bm
+23:41:20.939010  [INFO    ][read_bm]bm_loaded,map=10108;file=/root/server/scripts//data/blockmap/test.bm
+23:41:20.939259  [INFO    ][read_bm]bm_loaded,map=10109;file=/root/server/scripts//data/blockmap/test.bm
+23:41:20.939481  [INFO    ][read_bm]bm_loaded,map=30001;file=/root/server/scripts//data/blockmap/test.bm
+23:41:20.939562  [SCRIPT  ][DEBUG][load_space_data]map_id=50000;spaceName=nil
+23:41:20.940091  [INFO    ][read_bm]bm_loaded,map=10501;file=/root/server/scripts//data/blockmap/test.bm
+23:41:20.940516  [INFO    ][read_bm]bm_loaded,map=10502;file=/root/server/scripts//data/blockmap/test.bm
+23:41:20.940996  [INFO    ][read_bm]bm_loaded,map=10503;file=/root/server/scripts//data/blockmap/test.bm
+23:41:20.941473  [INFO    ][read_bm]bm_loaded,map=10504;file=/root/server/scripts//data/blockmap/test.bm
+23:41:20.942527  [INFO    ][read_bm]bm_loaded,map=10505;file=/root/server/scripts//data/blockmap/test.bm
+23:41:20.942999  [INFO    ][read_bm]bm_loaded,map=10506;file=/root/server/scripts//data/blockmap/test.bm
+23:41:20.944180  [INFO    ][read_bm]bm_loaded,map=10507;file=/root/server/scripts//data/blockmap/test.bm
+23:41:20.945103  [INFO    ][read_bm]bm_loaded,map=10508;file=/root/server/scripts//data/blockmap/test.bm
+23:41:20.945396  [INFO    ][read_bm]bm_loaded,map=20002;file=/root/server/scripts//data/blockmap/test.bm
+23:41:20.946078  [INFO    ][read_bm]bm_loaded,map=40007;file=/root/server/scripts//data/blockmap/test.bm
+23:41:20.946217  [INFO    ][read_bm]bm_loaded,map=20006;file=/root/server/scripts//data/blockmap/test.bm
+23:41:20.946239  [SCRIPT  ][DEBUG][load_space_data]map_id=10004;spaceName=nil
+23:41:20.946337  [INFO    ][read_bm]bm_loaded,map=20010;file=/root/server/scripts//data/blockmap/test.bm
+23:41:20.946447  [INFO    ][read_bm]bm_loaded,map=20012;file=/root/server/scripts//data/blockmap/test.bm
+23:41:20.946737  [INFO    ][read_bm]bm_loaded,map=911;file=/root/server/scripts//data/blockmap/test.bm
+23:41:20.947103  [INFO    ][read_bm]bm_loaded,map=10401;file=/root/server/scripts//data/blockmap/test.bm
+23:41:20.947405  [INFO    ][read_bm]bm_loaded,map=10402;file=/root/server/scripts//data/blockmap/test.bm
+23:41:20.947621  [INFO    ][read_bm]bm_loaded,map=10403;file=/root/server/scripts//data/blockmap/test.bm
+23:41:20.947944  [INFO    ][read_bm]bm_loaded,map=10404;file=/root/server/scripts//data/blockmap/test.bm
+23:41:20.948246  [INFO    ][read_bm]bm_loaded,map=50001;file=/root/server/scripts//data/blockmap/test.bm
+23:41:20.948457  [INFO    ][read_bm]bm_loaded,map=10406;file=/root/server/scripts//data/blockmap/test.bm
+23:41:20.948739  [INFO    ][read_bm]bm_loaded,map=10407;file=/root/server/scripts//data/blockmap/test.bm
+23:41:20.949065  [INFO    ][read_bm]bm_loaded,map=10408;file=/root/server/scripts//data/blockmap/test.bm
+23:41:20.949242  [INFO    ][read_bm]bm_loaded,map=41000;file=/root/server/scripts//data/blockmap/test.bm
+23:41:20.949523  [INFO    ][read_bm]bm_loaded,map=10405;file=/root/server/scripts//data/blockmap/test.bm
+23:41:20.949665  [INFO    ][read_bm]bm_loaded,map=22221;file=/root/server/scripts//data/blockmap/test.bm
+23:41:20.950010  [INFO    ][read_bm]bm_loaded,map=10604;file=/root/server/scripts//data/blockmap/test.bm
+23:41:20.950339  [INFO    ][read_bm]bm_loaded,map=40004;file=/root/server/scripts//data/blockmap/test.bm
+23:41:20.950660  [INFO    ][read_bm]bm_loaded,map=40008;file=/root/server/scripts//data/blockmap/test.bm
+23:41:20.950691  [SCRIPT  ][DEBUG][load_space_data]map_id=914;spaceName=nil
+23:41:20.950703  [SCRIPT  ][DEBUG][load_space_data]map_id=913;spaceName=nil
+23:41:20.950901  [INFO    ][read_bm]bm_loaded,map=20001;file=/root/server/scripts//data/blockmap/test.bm
+23:41:20.951506  [INFO    ][read_bm]bm_loaded,map=10101;file=/root/server/scripts//data/blockmap/test.bm
+23:41:20.951818  [INFO    ][read_bm]bm_loaded,map=31000;file=/root/server/scripts//data/blockmap/test.bm
+23:41:20.951931  [SCRIPT  ][DEBUG][load_space_data]map_id=10002;spaceName=nil
+23:41:20.952135  [INFO    ][read_bm]bm_loaded,map=20008;file=/root/server/scripts//data/blockmap/test.bm
+23:41:20.952659  [INFO    ][read_bm]bm_loaded,map=10608;file=/root/server/scripts//data/blockmap/test.bm
+23:41:20.952850  [INFO    ][read_bm]bm_loaded,map=20005;file=/root/server/scripts//data/blockmap/test.bm
+23:41:20.952917  [SCRIPT  ][DEBUG][load_space_data]map_id=10003;spaceName=nil
+23:41:20.955228  [INFO    ][read_bm]bm_loaded,map=42000;file=/root/server/scripts//data/blockmap/test.bm
+23:41:20.956439  [INFO    ][read_bm]bm_loaded,map=10704;file=/root/server/scripts//data/blockmap/test.bm
+23:41:20.956802  [INFO    ][read_bm]bm_loaded,map=10301;file=/root/server/scripts//data/blockmap/test.bm
+23:41:20.962726  [INFO    ][read_bm]bm_loaded,map=30002;file=/root/server/scripts//data/blockmap/test.bm
+23:41:20.963760  [INFO    ][read_bm]bm_loaded,map=10303;file=/root/server/scripts//data/blockmap/test.bm
+23:41:20.964466  [INFO    ][read_bm]bm_loaded,map=10304;file=/root/server/scripts//data/blockmap/test.bm
+23:41:20.965024  [INFO    ][read_bm]bm_loaded,map=10305;file=/root/server/scripts//data/blockmap/test.bm
+23:41:20.965180  [INFO    ][read_bm]bm_loaded,map=10306;file=/root/server/scripts//data/blockmap/test.bm
+23:41:20.965456  [INFO    ][read_bm]bm_loaded,map=10307;file=/root/server/scripts//data/blockmap/test.bm
+23:41:20.965814  [INFO    ][read_bm]bm_loaded,map=10308;file=/root/server/scripts//data/blockmap/test.bm
+23:41:20.965985  [INFO    ][read_bm]bm_loaded,map=10309;file=/root/server/scripts//data/blockmap/test.bm
+23:41:20.966257  [INFO    ][read_bm]bm_loaded,map=50002;file=/root/server/scripts//data/blockmap/test.bm
+23:41:20.966357  [INFO    ][read_bm]bm_loaded,map=20003;file=/root/server/scripts//data/blockmap/test.bm
+23:41:20.966455  [INFO    ][read_bm]bm_loaded,map=20004;file=/root/server/scripts//data/blockmap/test.bm
+23:41:20.966659  [INFO    ][read_bm]bm_loaded,map=10509;file=/root/server/scripts//data/blockmap/test.bm
+23:41:20.967012  [INFO    ][read_bm]bm_loaded,map=10302;file=/root/server/scripts//data/blockmap/test.bm
+23:41:20.967348  [INFO    ][read_bm]bm_loaded,map=40003;file=/root/server/scripts//data/blockmap/test.bm
+23:41:20.967561  [INFO    ][read_bm]bm_loaded,map=10603;file=/root/server/scripts//data/blockmap/test.bm
+23:41:20.967767  [INFO    ][read_bm]bm_loaded,map=10409;file=/root/server/scripts//data/blockmap/test.bm
+23:41:20.968273  [INFO    ][read_bm]bm_loaded,map=40001;file=/root/server/scripts//data/blockmap/test.bm
+23:41:20.969640  [INFO    ][read_bm]bm_loaded,map=40005;file=/root/server/scripts//data/blockmap/test.bm
+23:41:20.970614  [INFO    ][read_bm]bm_loaded,map=10701;file=/root/server/scripts//data/blockmap/test.bm
+23:41:20.971487  [INFO    ][read_bm]bm_loaded,map=20007;file=/root/server/scripts//data/blockmap/test.bm
+23:41:20.972387  [INFO    ][read_bm]bm_loaded,map=10703;file=/root/server/scripts//data/blockmap/test.bm
+23:41:20.973065  [INFO    ][read_bm]bm_loaded,map=20011;file=/root/server/scripts//data/blockmap/test.bm
+23:41:20.973633  [INFO    ][read_bm]bm_loaded,map=10705;file=/root/server/scripts//data/blockmap/test.bm
+23:41:20.974163  [INFO    ][read_bm]bm_loaded,map=10706;file=/root/server/scripts//data/blockmap/test.bm
+23:41:20.974200  [SCRIPT  ][DEBUG][load_space_data]map_id=10001;spaceName=nil
+23:41:20.974756  [INFO    ][read_bm]bm_loaded,map=40009;file=/root/server/scripts//data/blockmap/test.bm
+23:41:20.975342  [INFO    ][read_bm]bm_loaded,map=10201;file=/root/server/scripts//data/blockmap/test.bm
+23:41:20.976000  [INFO    ][read_bm]bm_loaded,map=10202;file=/root/server/scripts//data/blockmap/test.bm
+23:41:20.976554  [INFO    ][read_bm]bm_loaded,map=10203;file=/root/server/scripts//data/blockmap/test.bm
+23:41:20.977457  [INFO    ][read_bm]bm_loaded,map=10204;file=/root/server/scripts//data/blockmap/test.bm
+23:41:20.978058  [INFO    ][read_bm]bm_loaded,map=10205;file=/root/server/scripts//data/blockmap/test.bm
+23:41:20.978364  [INFO    ][read_bm]bm_loaded,map=10206;file=/root/server/scripts//data/blockmap/test.bm
+23:41:20.978949  [INFO    ][read_bm]bm_loaded,map=10207;file=/root/server/scripts//data/blockmap/test.bm
+23:41:20.979992  [INFO    ][read_bm]bm_loaded,map=10208;file=/root/server/scripts//data/blockmap/test.bm
+23:41:20.980519  [INFO    ][read_bm]bm_loaded,map=10209;file=/root/server/scripts//data/blockmap/test.bm
+23:41:20.980883  [INFO    ][read_bm]bm_loaded,map=20009;file=/root/server/scripts//data/blockmap/test.bm
+23:41:20.981354  [INFO    ][read_bm]bm_loaded,map=10605;file=/root/server/scripts//data/blockmap/test.bm
+23:41:20.981688  [INFO    ][read_bm]bm_loaded,map=10702;file=/root/server/scripts//data/blockmap/test.bm
+23:41:20.982182  [INFO    ][read_bm]bm_loaded,map=912;file=/root/server/scripts//data/blockmap/test.bm
+23:41:22.998618  [SCRIPT  ][DEBUG][WBConfig:initData]WBConfig={s013SAVE_PER_TIME=300,s009HP_CHANGE=1,s013SAVE_INTERVEL=300,s008WB_TIMES={12=30},s012SEC_PER_WEEK=604800,s013BossHpSynMode=1,s010SHOW_TOP_N=5,s010SUMMON_MOD=1,s012SYN_INTERVEL=5,s006SPACES={1=40001,2=40002,3=40003,4=40004,5=40005,6=40006,7=40007,8=40008,9=40009},s012SUMMON_LIMIT=30,s025HP_SELF_DECREASE_INTERVAL=1,s013PRE_OPEN_TIME=5,s012WDAY_REFRESH=2,s017HOUR_WEEK_REFRESH=0,s011SPAWN_POINT=99,s011SYN_HP_TIME=5000,s011BossBasicHp=200000000,s007HP_LEFT=10,s024HP_SELF_DECREASE_PERCENT=1,s013WorldBossTime=1800,s003LVS={1=20,2=25,3=30,4=35,5=40,6=45,7=50,8=55,9=60}}
+23:41:22.998989  [SCRIPT  ][DEBUG][GuildDataMgr:initGragonData]data={}
+23:41:22.999130  [SCRIPT  ][DEBUG][GuildDataMgr:initGuildSkill]data={}
+23:41:23.240777  [SCRIPT  ][DEBUG][FumoData:initData]
+23:41:23.695630  [INFO    ][world::initNextEntityId]init_id=100663296
+23:41:23.695784  [DEBUG   ][CEpollServer::AddFdAndMb]serverName=
+23:41:23.695836  [DEBUG   ][CEpollServer::addFdAndMb]fd=6;fd_type=1;addr=;port=8006;authz=0
+23:41:23.695845  [DEBUG   ][start_server]:8006,success.
+23:41:23.695968  [DEBUG   ][CEpollServer::addFdAndMb]fd=8;fd_type=2;addr=192.168.1.102;port=8001;authz=0
+23:41:23.696007  [DEBUG   ][try_to_connect_mailbox]server=192.168.1.102;port=8001
+23:41:23.696184  [DEBUG   ][CEpollServer::addFdAndMb]fd=9;fd_type=2;addr=192.168.1.102;port=8002;authz=0
+23:41:23.696200  [DEBUG   ][try_to_connect_mailbox]server=192.168.1.102;port=8002
+23:41:23.696281  [DEBUG   ][CEpollServer::addFdAndMb]fd=10;fd_type=2;addr=192.168.1.102;port=8003;authz=0
+23:41:23.696302  [DEBUG   ][try_to_connect_mailbox]server=192.168.1.102;port=8003
+23:41:23.696378  [DEBUG   ][CEpollServer::addFdAndMb]fd=11;fd_type=2;addr=192.168.1.102;port=8004;authz=0
+23:41:23.696399  [DEBUG   ][try_to_connect_mailbox]server=192.168.1.102;port=8004
+23:41:23.696472  [DEBUG   ][CEpollServer::addFdAndMb]fd=12;fd_type=2;addr=192.168.1.102;port=8005;authz=0
+23:41:23.696492  [DEBUG   ][try_to_connect_mailbox]server=192.168.1.102;port=8005
+23:41:23.696576  [DEBUG   ][CEpollServer::addFdAndMb]fd=13;fd_type=2;addr=192.168.1.102;port=8007;authz=0
+23:41:23.696597  [DEBUG   ][try_to_connect_mailbox]server=192.168.1.102;port=8007
+23:41:23.696609  [SCRIPT  ][INFO][init.onServerReady]
+23:41:23.696855  [SCRIPT  ][INFO][GameMgr:__ctor__]
+23:41:23.696992  [INFO    ][connected_2_mb]mb fd = 8 connected severName = 192.168.1.102, port = 8001,
+23:41:23.697011  [INFO    ][connected_2_mb]mb fd = 9 connected severName = 192.168.1.102, port = 8002,
+23:41:23.697020  [INFO    ][connected_2_mb]mb fd = 10 connected severName = 192.168.1.102, port = 8003,
+23:41:23.697028  [INFO    ][connected_2_mb]mb fd = 11 connected severName = 192.168.1.102, port = 8004,
+23:41:23.697036  [INFO    ][connected_2_mb]mb fd = 12 connected severName = 192.168.1.102, port = 8005,
+23:41:23.697076  [INFO    ][connected_2_mb]mb fd = 13 connected severName = 192.168.1.102, port = 8007,
+23:41:24.060908  [INFO    ][new_connection]connected from 192.168.1.102:35916, assigned socket is:14
+23:41:24.060939  [DEBUG   ][CEpollServer::AddFdAndMb]serverName=192.168.1.102
+23:41:24.060951  [DEBUG   ][CEpollServer::AddFdAndMb]client_trusted, serverName=192.168.1.102
+23:41:24.060964  [DEBUG   ][CEpollServer::addFdAndMb]fd=14;fd_type=3;addr=192.168.1.102;port=35916;authz=15
+23:41:24.061413  [SCRIPT  ][INFO][GameMgr:on_registered]
+23:41:24.061501  [INFO    ][SetBaseData]key=GAME_START_TIME;value=1425652884;type=4
+23:41:24.061591  [SCRIPT  ][DEBUG][global_data.onBaseData]key=GAME_START_TIME;value=1425652884
+23:41:24.061967  [SCRIPT  ][INFO][OfflineMgr:__ctor__]========
+23:41:24.062373  [SCRIPT  ][INFO][OfflineMgr:on_registered]
+23:41:24.062413  [SCRIPT  ][INFO][OfflineMgr:onSelectResp]avatar_loaded=0
+23:41:24.062457  [SCRIPT  ][DEBUG][OfflineMgr:onSelectResp]addTimer Clean
+23:41:24.062530  [SCRIPT  ][INFO][GameMgr:OnMgrLoaded]mgr_name = OfflineMgr
+23:41:24.062557  [SCRIPT  ][INFO][GameMgr:OnMgrLoaded]mgr_name = OfflineMgr loaded.
+23:41:24.062834  [SCRIPT  ][INFO][MapMgr:__ctor__]
+23:41:24.063883  [SCRIPT  ][DEBUG][MapMgr:__ctor__]SpaceLoaderCount={50003={},10601={},10602={},22222={},40002={},40006={},10606={},10607={},10608={},10609={},10102={},10103={},10104={},10105={},10106={},10107={},10108={},10109={},30001={},50000={},10501={},10502={},10503={},10504={},10505={},10506={},10507={},10508={},20002={},40007={},10003={},20008={},20010={},20012={},911={},10401={},10402={},10403={},10404={},50001={},10406={},10407={},10408={},41000={},912={},22221={},10702={},40004={},40008={},10605={},20009={},10004={},42000={},31000={},10002={},10405={},10303={},20003={},20004={},10509={},10302={},10301={},30002={},913={},10304={},10305={},10306={},10307={},10308={},10309={},50002={},40009={},10001={},10409={},40001={},20011={},40005={},10701={},20001={},914={},20005={},20007={},10703={},10704={},10705={},10706={},10603={},40003={},10201={},10202={},10203={},10204={},10205={},10206={},10207={},10208={},10209={},20006={},10100={},10101={},10604={}};BusySpecialMapPool={50003={},10601={},10602={},22222
+23:41:24.064100  [SCRIPT  ][INFO][UserMgr:__ctor__]
+23:41:24.064164  [SCRIPT  ][DEBUG][MailMgr:__ctor__]
+23:41:24.064244  [SCRIPT  ][INFO][NameMgr:__ctor__]========
+23:41:24.064287  [SCRIPT  ][INFO][Collector:__ctor__]
+23:41:24.064328  [SCRIPT  ][DEBUG][OblivionGateMgr:__ctor__]
+23:41:24.064389  [SCRIPT  ][DEBUG][GuildMgr:__ctor__]
+23:41:24.064432  [SCRIPT  ][INFO][EventMgr:__ctor__]
+23:41:24.064465  [SCRIPT  ][DEBUG][MissionMgr:__ctor__]
+23:41:24.064501  [SCRIPT  ][DEBUG][ActivityMgr:__ctor__]
+23:41:24.064532  [SCRIPT  ][DEBUG][FlyDragonMgr:__ctor__]
+23:41:24.064562  [SCRIPT  ][INFO][mgr_compensate:__ctor__]
+23:41:24.065742  [INFO    ][CEntityParent::lWriteToDB]etype=36;id=100663310;dbid=0;ref=12
+23:41:24.065822  [SCRIPT  ][INFO][ChargeMgr:__ctor__]
+23:41:24.065850  [INFO    ][CEntityParent::lWriteToDB]etype=37;id=100663311;dbid=0;ref=13
+23:41:24.065882  [SCRIPT  ][DEBUG][DefensePvPMgr:__ctor__]
+23:41:24.066214  [SCRIPT  ][INFO][MapMgr:on_registered]
+23:41:24.066243  [SCRIPT  ][INFO][MapMgr:LoadAllSpace]
+23:41:24.072873  [INFO    ][new_connection]connected from 192.168.1.102:35921, assigned socket is:15
+23:41:24.072913  [DEBUG   ][CEpollServer::AddFdAndMb]serverName=192.168.1.102
+23:41:24.072925  [DEBUG   ][CEpollServer::AddFdAndMb]client_trusted, serverName=192.168.1.102
+23:41:24.072936  [DEBUG   ][CEpollServer::addFdAndMb]fd=15;fd_type=3;addr=192.168.1.102;port=35921;authz=15
+23:41:24.073060  [SCRIPT  ][INFO][UserMgr:on_registered]
+23:41:24.073190  [SCRIPT  ][DEBUG][RegisterGloballyCB]MailMgr
+23:41:24.073244  [SCRIPT  ][DEBUG][NameMgr:__ctor__]RegisterCallback
+23:41:24.073260  [SCRIPT  ][DEBUG][NameMgr:OnRegistered]
+23:41:24.073271  [SCRIPT  ][DEBUG][NameDataMgr:initData]
+23:41:24.165932  [SCRIPT  ][DEBUG][NameDataMgr:initData]over.
+23:41:24.166104  [SCRIPT  ][INFO][Collector:on_registered]
+23:41:24.166203  [SCRIPT  ][DEBUG][OblivionGateMgr:OnRegistered]
+23:41:24.166255  [SCRIPT  ][DEBUG][RegisterGloballyCB]
+23:41:24.166305  [SCRIPT  ][DEBUG][GuildMgr:OnRegistered]
+23:41:24.166420  [SCRIPT  ][INFO][EventMgr:on_registered]
+23:41:24.174318  [SCRIPT  ][DEBUG][RegisterGloballyCB]
+23:41:24.174469  [SCRIPT  ][DEBUG][FlyDragonMgr:OnRegistered]
+23:41:24.174504  [SCRIPT  ][DEBUG][DefensePvPMgr:OnRegistered]
+23:41:24.174679  [SCRIPT  ][INFO][GameMgr:OnMgrLoaded]mgr_name = NameMgr
+23:41:24.174726  [SCRIPT  ][INFO][GameMgr:OnMgrLoaded]mgr_name = Collector
+23:41:24.174752  [SCRIPT  ][INFO][GameMgr:OnMgrLoaded]mgr_name = OblivionGateMgr
+23:41:24.174775  [SCRIPT  ][INFO][GameMgr:OnMgrLoaded]mgr_name = EventMgr
+23:41:24.174798  [SCRIPT  ][INFO][GameMgr:OnMgrLoaded]mgr_name = ActivityMgr
+23:41:24.174820  [SCRIPT  ][INFO][GameMgr:OnMgrLoaded]mgr_name = FlyDragonMgr
+23:41:24.174842  [SCRIPT  ][INFO][GameMgr:OnMgrLoaded]mgr_name = DefensePvPMgr
+23:41:24.175141  [INFO    ][new_connection]connected from 192.168.1.102:35927, assigned socket is:16
+23:41:24.175171  [DEBUG   ][CEpollServer::AddFdAndMb]serverName=192.168.1.102
+23:41:24.175183  [DEBUG   ][CEpollServer::AddFdAndMb]client_trusted, serverName=192.168.1.102
+23:41:24.175194  [DEBUG   ][CEpollServer::addFdAndMb]fd=16;fd_type=3;addr=192.168.1.102;port=35927;authz=15
+23:41:24.217365  [INFO    ][new_connection]connected from 192.168.1.102:35930, assigned socket is:17
+23:41:24.217516  [DEBUG   ][CEpollServer::AddFdAndMb]serverName=192.168.1.102
+23:41:24.217545  [DEBUG   ][CEpollServer::AddFdAndMb]client_trusted, serverName=192.168.1.102
+23:41:24.217768  [DEBUG   ][CEpollServer::addFdAndMb]fd=17;fd_type=3;addr=192.168.1.102;port=35930;authz=15
+23:41:24.217815  [INFO    ][new_connection]connected from 192.168.1.102:35934, assigned socket is:18
+23:41:24.217835  [DEBUG   ][CEpollServer::AddFdAndMb]serverName=192.168.1.102
+23:41:24.217850  [DEBUG   ][CEpollServer::AddFdAndMb]client_trusted, serverName=192.168.1.102
+23:41:24.217887  [DEBUG   ][CEpollServer::addFdAndMb]fd=18;fd_type=3;addr=192.168.1.102;port=35934;authz=15
+23:41:24.218044  [DEBUG   ][CWorldBase::InsertEntityCallback]eid=100663310;newid=79;ref=12;pszDbErr=
+23:41:24.218095  [SCRIPT  ][INFO][create_mgr_compensate_success]
+23:41:24.218189  [DEBUG   ][CWorldBase::InsertEntityCallback]eid=100663311;newid=79;ref=13;pszDbErr=
+23:41:24.218216  [SCRIPT  ][INFO][create_ChargeMgr_success]
+23:41:24.218333  [INFO    ][SelectEntityCallback]entity type=26;type2=ArenaMgr;dbid=4294967296
+23:41:24.218407  [SCRIPT  ][INFO][ArenaMgr:__ctor__]
+23:41:24.218471  [INFO    ][SelectEntityCallback]entity type=22;type2=WorldBossMgr;dbid=4294967296
+23:41:24.218542  [SCRIPT  ][INFO][WorldBossMgr:__ctor__]
+23:41:24.218603  [INFO    ][SelectEntityCallback]entity type=29;type2=GlobalDataMgr;dbid=4294967296
+23:41:24.218649  [SCRIPT  ][DEBUG][GlobalDataMgr:__ctor__]
+23:41:24.218715  [INFO    ][SelectEntityCallback]entity type=40;type2=RouletteMgr;dbid=4294967296
+23:41:24.218759  [SCRIPT  ][INFO][RouletteMgr:__ctor__]
+23:41:24.227191  [DEBUG   ][CWorldBase::TableSelectCallback]eid=100663300
+23:41:24.227233  [DEBUG   ][CWorldBase::TableSelectCallback]strCallBackFunc=onAvatarSelectCountResp;strEntity=Avatar;nFieldNum=1
+23:41:24.227289  [DEBUG   ][CWorldBase::TableSelectCallback end]size=1
+23:41:24.227405  [SCRIPT  ][DEBUG][UserMgr:onAvatarSelectCountResp]rst={1={}};times=1
+23:41:24.227514  [SCRIPT  ][DEBUG][UserMgr:onAvatarSelectCountResp]sql=SELECT `id`, `sm_name`, `sm_accountName`, `sm_gender`, `sm_idol`, `sm_vocation`, `sm_level`, `sm_offlineTime`, `sm_skillBag`, `sm_body`, `sm_arenicGrade`, `sm_equipeds`, `sm_rune`, `sm_friends`, `sm_gm_setting`, `sm_fumoinfo`, `sm_elfAreaTearProg`, `sm_wingBag`  FROM tbl_Avatar ORDER BY `sm_level` DESC LIMIT 0, 1000
+23:41:24.227576  [WARNING ][CPluto::resize]msg=12310;old=256;new=4096
+23:41:24.227618  [DEBUG   ][CWorldBase::TableSelectCallback]eid=100663301
+23:41:24.227640  [DEBUG   ][CWorldBase::TableSelectCallback]strCallBackFunc=OnPublicLoad;strEntity=mail_public;nFieldNum=12
+23:41:24.227678  [DEBUG   ][CWorldBase::TableSelectCallback end]size=1
+23:41:24.227750  [SCRIPT  ][INFO][Guild.onEntitiesLoaded]count=0
+23:41:24.227860  [SCRIPT  ][DEBUG][MissionRecord:__ctor__]id=50331653
+23:41:24.227962  [SCRIPT  ][DEBUG][MissionMgr:RegisterToMission]MissionId=10101;Difficulty=1;PlayerDbid=4294967296;PlayerName=吃惊的水蜜桃;PassTime=242;Combo=64;Point=6263;TimeStamp=1425647957
+23:41:24.228229  [SCRIPT  ][DEBUG][MissionRecord:__ctor__]id=50331654
+23:41:24.228326  [SCRIPT  ][DEBUG][MissionMgr:RegisterToMission]MissionId=10102;Difficulty=1;PlayerDbid=4294967296;PlayerName=吃惊的水蜜桃;PassTime=169;Combo=130;Point=7474;TimeStamp=1425648176
+23:41:24.228383  [SCRIPT  ][INFO][MissionRecord.onEntitiesLoaded]count=2
+23:41:24.228435  [SCRIPT  ][INFO][GameMgr:OnMgrLoaded]mgr_name = MailMgr
+23:41:24.228487  [SCRIPT  ][INFO][GuildMgr:OnGuildsLoaded]count=0
+23:41:24.228540  [SCRIPT  ][INFO][GameMgr:OnMgrLoaded]mgr_name = MissionMgr
+23:41:24.228586  [SCRIPT  ][INFO][GameMgr:OnMgrLoaded]mgr_name = MissionMgr
+23:41:24.228630  [SCRIPT  ][INFO][MissionMgr:OnMissionRecordLoaded]count=2
+23:41:24.228682  [SCRIPT  ][INFO][GameMgr:OnMgrLoaded]mgr_name = GuildMgr
+23:41:24.228726  [SCRIPT  ][INFO][GameMgr:OnMgrLoaded]mgr_name = MissionMgr
+23:41:24.233713  [SCRIPT  ][INFO][ChargeMgr:OnRegistered]
+23:41:24.233849  [SCRIPT  ][DEBUG][WorldBossMgr:on_registered]1
+23:41:24.233911  [SCRIPT  ][DEBUG][BossHpMgr:new]
+23:41:24.233937  [SCRIPT  ][DEBUG][WorldBossMgr:on_registered]2
+23:41:24.233962  [SCRIPT  ][DEBUG][WorldBossMgr:EnableWBActivity]
+23:41:24.234073  [SCRIPT  ][DEBUG][WorldBossMgr:Init]addTimer 11
+23:41:24.234109  [SCRIPT  ][DEBUG][WorldBossMgr:Init]addTimer 5
+23:41:24.234142  [SCRIPT  ][DEBUG][GlobalDataMgr:on_registered]
+23:41:24.234203  [SCRIPT  ][INFO][RouletteMgr:OnRegistered]
+23:41:24.234238  [SCRIPT  ][INFO][GameMgr:OnMgrLoaded]mgr_name = GlobalDataMgr
+23:41:24.234265  [INFO    ][SetBaseData]key=forbidden_ips;value={};type=1
+23:41:24.234287  [INFO    ][SetBaseData]key=forbidden_accounts;value={};type=1
+23:41:24.234306  [SCRIPT  ][INFO][GameMgr:OnMgrLoaded]mgr_name = RouletteMgr
+23:41:24.285955  [DEBUG   ][CWorldBase::TableSelectCallback]eid=100663300
+23:41:24.286072  [DEBUG   ][CWorldBase::TableSelectCallback]strCallBackFunc=onAvatarSelectResp;strEntity=Avatar;nFieldNum=18
+23:41:24.286372  [DEBUG   ][CWorldBase::TableSelectCallback end]size=1
+23:41:24.286532  [SCRIPT  ][INFO][UserMgr:onAvatarSelectResp]AllPlayersCount=1
+23:41:24.300633  [WARNING ][CPluto::resize]msg=12310;old=256;new=4096
+23:41:24.300714  [WARNING ][CPluto::resize]msg=12310;old=256;new=4096
+23:41:24.300745  [WARNING ][CPluto::resize]msg=12310;old=256;new=4096
+23:41:24.300771  [WARNING ][CPluto::resize]msg=12310;old=256;new=4096
+23:41:24.300793  [WARNING ][CPluto::resize]msg=12310;old=256;new=4096
+23:41:24.300820  [WARNING ][CPluto::resize]msg=12310;old=256;new=4096
+23:41:24.300842  [WARNING ][CPluto::resize]msg=12310;old=256;new=4096
+23:41:24.300922  [DEBUG   ][CWorldBase::TableSelectCallback]eid=100663310
+23:41:24.300939  [DEBUG   ][CWorldBase::TableSelectCallback]strCallBackFunc=OnLoad;strEntity=last_server_account;nFieldNum=3
+23:41:24.300955  [DEBUG   ][CWorldBase::TableSelectCallback end]size=1
+23:41:24.301188  [SCRIPT  ][DEBUG][ChargeMgr:onTblSelectResp]
+23:41:24.301236  [SCRIPT  ][INFO][ChargeMgr:onTblSelectResp]rec_loaded=0
+23:41:24.301278  [SCRIPT  ][INFO][ArenaData.onEntitiesLoaded]count=0
+23:41:24.301317  [SCRIPT  ][INFO][WorldBossData.onEntitiesLoaded]count=0
+23:41:24.301369  [SCRIPT  ][INFO][GameMgr:OnMgrLoaded]mgr_name = mgr_compensate
+23:41:24.301416  [SCRIPT  ][INFO][GameMgr:OnMgrLoaded]mgr_name = ChargeMgr
+23:41:24.301459  [SCRIPT  ][DEBUG][ArenaMgr:SetArenaDataCount]max=0;loaded=0
+23:41:24.301490  [SCRIPT  ][DEBUG][ArenaMgr:on_arenadata_loaded]
+23:41:24.301518  [SCRIPT  ][DEBUG][ArenaMgr:on_arenadata_loaded]day timer start sec = 1116
+23:41:24.301565  [SCRIPT  ][DEBUG][ArenaMgr:on_arenadata_loaded]week timer start sec = 173916
+23:41:24.301684  [SCRIPT  ][INFO][GameMgr:OnMgrLoaded]mgr_name = ArenaMgr
+23:41:24.301733  [SCRIPT  ][INFO][GameMgr:OnMgrLoaded]mgr_name = WorldBossMgr
+23:41:24.354373  [SCRIPT  ][DEBUG][UserMgr:_init_redis_data]4294967296
+23:41:24.356262  [DEBUG   ][CWorldBase::TableSelectCallback]eid=100663300
+23:41:24.356443  [DEBUG   ][CWorldBase::TableSelectCallback]strCallBackFunc=LoadingFightForceRankCallback;strEntity=Avatar;nFieldNum=6
+23:41:24.356543  [DEBUG   ][CWorldBase::TableSelectCallback end]size=1
+23:41:24.356618  [DEBUG   ][CWorldBase::TableSelectCallback]eid=100663300
+23:41:24.356632  [DEBUG   ][CWorldBase::TableSelectCallback]strCallBackFunc=LoadingLevelRankCallback;strEntity=Avatar;nFieldNum=6
+23:41:24.356688  [DEBUG   ][CWorldBase::TableSelectCallback end]size=1
+23:41:24.356739  [DEBUG   ][CWorldBase::TableSelectCallback]eid=100663300
+23:41:24.356751  [DEBUG   ][CWorldBase::TableSelectCallback]strCallBackFunc=LoadingArenicCreditRankCallback;strEntity=Avatar;nFieldNum=7
+23:41:24.356768  [DEBUG   ][CWorldBase::TableSelectCallback end]size=1
+23:41:24.356791  [DEBUG   ][CWorldBase::TableSelectCallback]eid=100663300
+23:41:24.356802  [DEBUG   ][CWorldBase::TableSelectCallback]strCallBackFunc=LoadingMissionSScoresRankCallback;strEntity=Avatar;nFieldNum=7
+23:41:24.356856  [DEBUG   ][CWorldBase::TableSelectCallback end]size=1
+23:41:24.356905  [DEBUG   ][CWorldBase::TableSelectCallback]eid=100663300
+23:41:24.356917  [DEBUG   ][CWorldBase::TableSelectCallback]strCallBackFunc=LoadingTowerHighestFloorRankCallback;strEntity=Avatar;nFieldNum=7
+23:41:24.356933  [DEBUG   ][CWorldBase::TableSelectCallback end]size=1
+23:41:24.356957  [DEBUG   ][CWorldBase::TableSelectCallback]eid=100663300
+23:41:24.356967  [DEBUG   ][CWorldBase::TableSelectCallback]strCallBackFunc=LoadingSanctuaryRankCallback;strEntity=RankListData;nFieldNum=7
+23:41:24.356982  [DEBUG   ][CWorldBase::TableSelectCallback end]size=1
+23:41:24.357050  [SCRIPT  ][DEBUG][UserMgr:LoadingFFRLToReward]vals={}
+23:41:24.357079  [DEBUG   ][CWorldBase::TableSelectCallback]eid=100663300
+23:41:24.357090  [DEBUG   ][CWorldBase::TableSelectCallback]strCallBackFunc=LoadingArenicScoreRankCallback;strEntity=RankListData;nFieldNum=7
+23:41:24.357105  [DEBUG   ][CWorldBase::TableSelectCallback end]size=1
+23:41:24.357140  [SCRIPT  ][INFO][GameMgr:OnMgrLoaded]mgr_name = UserMgr
+23:41:27.087168  [INFO    ][new_connection]connected from 192.168.1.102:35935, assigned socket is:19
+23:41:27.087214  [DEBUG   ][CEpollServer::AddFdAndMb]serverName=192.168.1.102
+23:41:27.087228  [DEBUG   ][CEpollServer::AddFdAndMb]client_trusted, serverName=192.168.1.102
+23:41:27.087240  [DEBUG   ][CEpollServer::addFdAndMb]fd=19;fd_type=3;addr=192.168.1.102;port=35935;authz=15
+23:41:27.179524  [SCRIPT  ][INFO][MapMgr._STATE_MAP_LOADED]
+23:41:27.179614  [SCRIPT  ][INFO][GameMgr:OnMgrLoaded]mgr_name = MapMgr
+23:41:27.179637  [SCRIPT  ][INFO][GameMgr.all_mgrs_loaded]
+23:41:27.179655  [SCRIPT  ][DEBUG][GameMgr:_initMgr]
+23:41:27.179671  [SCRIPT  ][DEBUG][GameMgr:_initMgr]
+23:41:27.179688  [SCRIPT  ][DEBUG][GameMgr:_initMgr]
+23:41:27.179701  [SCRIPT  ][DEBUG][GameMgr:_initMgr]
+23:41:27.179715  [SCRIPT  ][DEBUG][GameMgr:_initMgr]
+23:41:27.179730  [SCRIPT  ][DEBUG][GameMgr:_initMgr]
+23:41:27.179744  [SCRIPT  ][DEBUG][GameMgr:_initMgr]
+23:41:27.179809  [SCRIPT  ][DEBUG][NameMgr:Init]
+23:41:27.179866  [SCRIPT  ][DEBUG][FlyDragonMgr:Init]
+23:41:27.179914  [SCRIPT  ][DEBUG][GuildMgr:Init]self.guilds={}
+23:41:27.179942  [SCRIPT  ][DEBUG][GameMgr:OnInited]ArenaMgr
+23:41:27.179965  [SCRIPT  ][DEBUG][GameMgr:OnInited]WorldBossMgr
+23:41:27.179986  [SCRIPT  ][DEBUG][GameMgr:OnInited]RouletteMgr
+23:41:27.180010  [SCRIPT  ][DEBUG][UserMgr:FlyDragonMgrGetPlayerCount]AllPlayersCount=1
+23:41:27.180034  [SCRIPT  ][DEBUG][GameMgr:OnInited]GuildMgr
+23:41:27.180057  [SCRIPT  ][DEBUG][FlyDragonMgr:OnInited]UserCount=1
+23:41:27.231431  [DEBUG   ][CWorldBase::TableSelectCallback]eid=100663302
+23:41:27.231478  [DEBUG   ][CWorldBase::TableSelectCallback]strCallBackFunc=onAvatarSelectResp;strEntity=Avatar;nFieldNum=2
+23:41:27.231513  [DEBUG   ][CWorldBase::TableSelectCallback end]size=1
+23:41:27.231547  [SCRIPT  ][DEBUG][NameMgr:OnInited]
+23:41:28.121227  [SCRIPT  ][DEBUG][NameDataMgr:InitByDB]571827
+23:41:28.264472  [SCRIPT  ][DEBUG][GameMgr:OnInited]NameMgr
+23:41:28.264557  [SCRIPT  ][DEBUG][GameMgr:OnInited]UserMgr
+23:41:28.264581  [SCRIPT  ][DEBUG][GameMgr:OnInited]FlyDragonMgr
+23:41:28.264597  [SCRIPT  ][INFO][GameMgr.all_mgrs_inited]
+23:51:31.200656  [INFO    ][CEntityParent::lWriteToDB]etype=29;id=50331651;dbid=0;ref=0
+23:51:31.200737  [INFO    ][CEntityParent::WriteToRedis db]etype=29;id=50331651;dbid=0
+23:53:53.076827  [INFO    ][SelectEntityCallback]entity type=1;type2=Account;dbid=4294967297
+23:53:53.077586  [SCRIPT  ][DEBUG][Account.__ctor__]id=50331655;name=111111@test
+23:53:53.077797  [DEBUG   ][CEntityBase::lNotifyClientToAttach]---------- lNotifyClientToAttach ------id=50331655;Account=111111@test
+23:53:53.077938  [DEBUG   ][CEntityBase::lNotifyClientToAttach]---------- MSGID_LOGINAPP_NOTIFY_CLIENT_TO_ATTACH ------pszAccount=111111@test; MailboxId=6; key.c_str()=94dec74bd3c3e1016345d5454ef9ab5e
+23:53:53.278118  [INFO    ][new_connection]connected from 192.168.1.22:55169, assigned socket is:4
+23:53:53.278231  [DEBUG   ][CEpollServer::AddFdAndMb]serverName=192.168.1.22
+23:53:53.278258  [DEBUG   ][CEpollServer::AddFdAndMb]client_trusted, serverName=192.168.1.22
+23:53:53.278277  [DEBUG   ][CEpollServer::addFdAndMb]fd=4;fd_type=3;addr=192.168.1.22;port=55169;authz=15
+23:53:53.373920  [DEBUG   ][CEntityBase::GiveClient]m_id=50331655;nRef=2095
+23:53:53.374045  [DEBUG   ][CEntityBase::GiveClient]s_clientReLoginKey=53b2c4df9dd653c0e7ab643529d877b5;m_id=50331655
+23:53:53.374071  [DEBUG   ][CEntityBase::PickleClientToPluto]m_etype=1;m_id=50331655;m_dbid=1
+23:53:53.374212  [SCRIPT  ][DEBUG][Account:onClientGetBase]dbid="4294967297";IP=192.168.1.22
+23:53:53.774626  [SCRIPT  ][DEBUG][Account:SetProgress]name=111111@test;platAccount=1111@test;OldProgress=3500;NewProgress=100
+23:54:07.345095  [SCRIPT  ][DEBUG][Account:SetProgress]name=111111@test;platAccount=1111@test;OldProgress=3500;NewProgress=200
+23:54:12.152750  [SCRIPT  ][DEBUG][Account:SetProgress]name=111111@test;platAccount=1111@test;OldProgress=3500;NewProgress=300
+23:54:21.628656  [WARNING ][handle_message_err]failed, 104,'Connection reset by peer'
+23:54:21.706586  [INFO    ][on_fd_closed]fd=4
+23:54:21.706680  [INFO    ][CEntityBase::remove_client]id=50331655
+23:54:21.706721  [SCRIPT  ][DEBUG][Account:onClientDeath]dbid="4294967297"
+23:54:21.706777  [DEBUG   ][CWorldBase::OnFdClosed]fd=4;m_id=50331655
+23:54:21.706799  [DEBUG   ][CEpollServer::removeFd]fd=4;fd_type=3;addr=192.168.1.22;port=55169
+23:54:21.757784  [SCRIPT  ][INFO][Account:onDestroy]dbid="4294967297";id=50331655;activeAvatarId=0;avatarsInfo={}
+23:54:21.757886  [INFO    ][CEntityParent::lWriteToDB]etype=1;id=50331655;dbid=1;ref=0

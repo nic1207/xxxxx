@@ -1,0 +1,226 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup Label="ProjectConfigurations">
+    <ProjectConfiguration Include="Debug|Win32">
+      <Configuration>Debug</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Release|Win32">
+      <Configuration>Release</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+  </ItemGroup>
+  <PropertyGroup Label="Globals">
+    <ProjectGuid>{64CA24EF-7650-4A2C-A3F0-E4D9A79CCBBF}</ProjectGuid>
+    <RootNamespace>mogo</RootNamespace>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>true</UseDebugLibraries>
+    <CharacterSet>MultiByte</CharacterSet>
+    <PlatformToolset>v110</PlatformToolset>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>false</UseDebugLibraries>
+    <WholeProgramOptimization>true</WholeProgramOptimization>
+    <CharacterSet>MultiByte</CharacterSet>
+    <PlatformToolset>v110</PlatformToolset>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.props" />
+  <ImportGroup Label="ExtensionSettings">
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <PropertyGroup Label="UserMacros" />
+  <PropertyGroup />
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <ClCompile>
+      <WarningLevel>Level3</WarningLevel>
+      <Optimization>Disabled</Optimization>
+    </ClCompile>
+    <Link>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <ClCompile>
+      <WarningLevel>Level3</WarningLevel>
+      <Optimization>MaxSpeed</Optimization>
+      <FunctionLevelLinking>true</FunctionLevelLinking>
+      <IntrinsicFunctions>true</IntrinsicFunctions>
+    </ClCompile>
+    <Link>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+      <EnableCOMDATFolding>true</EnableCOMDATFolding>
+      <OptimizeReferences>true</OptimizeReferences>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemGroup>
+    <ClInclude Include="..\base\baseapp.h" />
+    <ClInclude Include="..\base\entity_base.h" />
+    <ClInclude Include="..\base\lua_base.h" />
+    <ClInclude Include="..\base\world_base.h" />
+    <ClInclude Include="..\cell\aoi.h" />
+    <ClInclude Include="..\cell\cellapp.h" />
+    <ClInclude Include="..\cell\entity_cell.h" />
+    <ClInclude Include="..\cell\lua_cell.h" />
+    <ClInclude Include="..\cell\space.h" />
+    <ClInclude Include="..\cell\world_cell.h" />
+    <ClInclude Include="..\common\balance.h" />
+    <ClInclude Include="..\common\bitcryto.h" />
+    <ClInclude Include="..\common\cfg_reader.h" />
+    <ClInclude Include="..\common\cjson.h" />
+    <ClInclude Include="..\common\defparser.h" />
+    <ClInclude Include="..\common\entity.h" />
+    <ClInclude Include="..\common\entity_mgr.h" />
+    <ClInclude Include="..\common\epoll_server.h" />
+    <ClInclude Include="..\common\exception.h" />
+    <ClInclude Include="..\common\logger.h" />
+    <ClInclude Include="..\common\lua_mogo.h" />
+    <ClInclude Include="..\common\lua_mogo_impl.h" />
+    <ClInclude Include="..\common\mailbox.h" />
+    <ClInclude Include="..\common\mutex.h" />
+    <ClInclude Include="..\common\my_stl.h" />
+    <ClInclude Include="..\common\net_util.h" />
+    <ClInclude Include="..\common\path_founder.h" />
+    <ClInclude Include="..\common\pluto.h" />
+    <ClInclude Include="..\common\rpc_mogo.h" />
+    <ClInclude Include="..\common\timer.h" />
+    <ClInclude Include="..\common\type_mogo.h" />
+    <ClInclude Include="..\common\util.h" />
+    <ClInclude Include="..\common\win_adaptor.h" />
+    <ClInclude Include="..\common\world.h" />
+    <ClInclude Include="..\common\world_select.h" />
+    <ClInclude Include="..\common\xmsg.h" />
+    <ClInclude Include="..\common\xsem.h" />
+    <ClInclude Include="..\cwmd\cwmd.h" />
+    <ClInclude Include="..\cwmd\world_cwmd.h" />
+    <ClInclude Include="..\dbmgr\dbmgr.h" />
+    <ClInclude Include="..\dbmgr\dboper.h" />
+    <ClInclude Include="..\dbmgr\db_task.h" />
+    <ClInclude Include="..\dbmgr\myredis.h" />
+    <ClInclude Include="..\dbmgr\world_dbmgr.h" />
+    <ClInclude Include="..\logapp\dboper.h" />
+    <ClInclude Include="..\logapp\db_task.h" />
+    <ClInclude Include="..\logapp\other.h" />
+    <ClInclude Include="..\logapp\other_def.h" />
+    <ClInclude Include="..\logapp\threadpool.h" />
+    <ClInclude Include="..\logapp\world_other.h" />
+    <ClInclude Include="..\loginapp\loginapp.h" />
+    <ClInclude Include="..\loginapp\world_login.h" />
+    <ClInclude Include="..\timerd\timerd.h" />
+    <ClInclude Include="..\timerd\world_timerd.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="..\base\baseapp.cpp" />
+    <ClCompile Include="..\base\entity_base.cpp" />
+    <ClCompile Include="..\base\lua_base.cpp" />
+    <ClCompile Include="..\base\main.cpp" />
+    <ClCompile Include="..\base\world_base.cpp" />
+    <ClCompile Include="..\cell\aoi.cpp" />
+    <ClCompile Include="..\cell\cellapp.cpp" />
+    <ClCompile Include="..\cell\entity_cell.cpp" />
+    <ClCompile Include="..\cell\lua_cell.cpp" />
+    <ClCompile Include="..\cell\main.cpp" />
+    <ClCompile Include="..\cell\space.cpp" />
+    <ClCompile Include="..\cell\world_cell.cpp" />
+    <ClCompile Include="..\common\balance.cpp" />
+    <ClCompile Include="..\common\bitcryto.cpp" />
+    <ClCompile Include="..\common\cfg_reader.cpp" />
+    <ClCompile Include="..\common\cjson.cpp" />
+    <ClCompile Include="..\common\defparser.cpp" />
+    <ClCompile Include="..\common\entity.cpp" />
+    <ClCompile Include="..\common\entity_mgr.cpp" />
+    <ClCompile Include="..\common\epoll_server.cpp" />
+    <ClCompile Include="..\common\exception.cpp" />
+    <ClCompile Include="..\common\logger.cpp" />
+    <ClCompile Include="..\common\lua_mogo.cpp" />
+    <ClCompile Include="..\common\mailbox.cpp" />
+    <ClCompile Include="..\common\mutex.cpp" />
+    <ClCompile Include="..\common\net_util.cpp" />
+    <ClCompile Include="..\common\path_founder.cpp" />
+    <ClCompile Include="..\common\pluto.cpp" />
+    <ClCompile Include="..\common\rpc_mogo.cpp" />
+    <ClCompile Include="..\common\server_test.cpp" />
+    <ClCompile Include="..\common\timer.cpp" />
+    <ClCompile Include="..\common\type_mogo.cpp" />
+    <ClCompile Include="..\common\util.cpp" />
+    <ClCompile Include="..\common\win_adaptor.cpp" />
+    <ClCompile Include="..\common\world.cpp" />
+    <ClCompile Include="..\common\xmsg.cpp" />
+    <ClCompile Include="..\common\xsem.cpp" />
+    <ClCompile Include="..\cwmd\cwmd.cpp" />
+    <ClCompile Include="..\cwmd\main.cpp" />
+    <ClCompile Include="..\cwmd\world_cwmd.cpp" />
+    <ClCompile Include="..\dbmgr\dbmgr.cpp" />
+    <ClCompile Include="..\dbmgr\dboper.cpp" />
+    <ClCompile Include="..\dbmgr\db_task.cpp" />
+    <ClCompile Include="..\dbmgr\main.cpp" />
+    <ClCompile Include="..\dbmgr\myredis.cpp" />
+    <ClCompile Include="..\dbmgr\world_dbmgr.cpp" />
+    <ClCompile Include="..\logapp\api.cpp" />
+    <ClCompile Include="..\logapp\dboper.cpp" />
+    <ClCompile Include="..\logapp\db_task.cpp" />
+    <ClCompile Include="..\logapp\http.cpp" />
+    <ClCompile Include="..\logapp\main.cpp" />
+    <ClCompile Include="..\logapp\other.cpp" />
+    <ClCompile Include="..\logapp\threadpool.cpp" />
+    <ClCompile Include="..\logapp\world_other.cpp" />
+    <ClCompile Include="..\loginapp\loginapp.cpp" />
+    <ClCompile Include="..\loginapp\main.cpp" />
+    <ClCompile Include="..\loginapp\world_login.cpp" />
+    <ClCompile Include="..\syncdb\main.cpp" />
+    <ClCompile Include="..\test\main.cpp" />
+    <ClCompile Include="..\test\policy.cpp" />
+    <ClCompile Include="..\test\test_client.cpp" />
+    <ClCompile Include="..\test\winbaseapp.cpp" />
+    <ClCompile Include="..\test\world_client.cpp" />
+    <ClCompile Include="..\timerd\main.cpp" />
+    <ClCompile Include="..\timerd\timerd.cpp" />
+    <ClCompile Include="..\timerd\world_timerd.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="..\scripts\base\Account.lua" />
+    <None Include="..\scripts\base\Avatar.lua" />
+    <None Include="..\scripts\base\BaseEntity.lua" />
+    <None Include="..\scripts\base\GameMgr.lua" />
+    <None Include="..\scripts\base\global_data.lua" />
+    <None Include="..\scripts\base\init.lua" />
+    <None Include="..\scripts\base\MapMgr.lua" />
+    <None Include="..\scripts\base\mgr\mgr_action.lua" />
+    <None Include="..\scripts\base\mgr\mgr_channel.lua" />
+    <None Include="..\scripts\base\mgr\mgr_map.lua" />
+    <None Include="..\scripts\base\SpaceLoader.lua" />
+    <None Include="..\scripts\base\UserMgr.lua" />
+    <None Include="..\scripts\cell\Avatar.lua" />
+    <None Include="..\scripts\cell\CellEntity.lua" />
+    <None Include="..\scripts\cell\init.lua" />
+    <None Include="..\scripts\cell\Monster.lua" />
+    <None Include="..\scripts\cell\Pet.lua" />
+    <None Include="..\scripts\cell\SpaceLoader.lua" />
+    <None Include="..\scripts\common\action_config.lua" />
+    <None Include="..\scripts\common\error_code.lua" />
+    <None Include="..\scripts\common\lua_util.lua" />
+    <None Include="..\scripts\common\public_config.lua" />
+    <None Include="..\scripts\entity_defs\Account.def" />
+    <None Include="..\scripts\entity_defs\ArenaMgr.def" />
+    <None Include="..\scripts\entity_defs\Avatar.def" />
+    <None Include="..\scripts\entity_defs\entities.xml">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="..\scripts\entity_defs\GameMgr.def" />
+    <None Include="..\scripts\entity_defs\MapMgr.def" />
+    <None Include="..\scripts\entity_defs\SpaceLoader.def" />
+    <None Include="..\scripts\entity_defs\UserMgr.def" />
+    <None Include="..\scripts\test\base_test.lua" />
+  </ItemGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
+  <ImportGroup Label="ExtensionTargets">
+  </ImportGroup>
+</Project>

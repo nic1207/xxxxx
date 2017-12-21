@@ -1,0 +1,11 @@
+
+[config]
+host = 127.0.0.1
+user=mogo
+port=3306
+db=SerialNumber
+passwd=123456
+
+
+key=aiyou123456
+log=/data/server/cgi-bin/log/card

@@ -1,0 +1,418 @@
+01:30:30.012114  [INFO    ][CWorldCell::init()]
+01:30:30.039070  [WARNING ][init_cfg]warning:missed section:server_8
+01:30:30.039139  [WARNING ][init_cfg]warning:missed section:server_9
+01:30:30.039220  [WARNING ][init_cfg]warning:missed section:server_10
+01:30:30.039264  [WARNING ][init_cfg]warning:missed section:server_11
+01:30:30.039285  [WARNING ][init_cfg]warning:missed section:server_12
+01:30:30.039303  [WARNING ][init_cfg]warning:missed section:server_13
+01:30:30.039321  [WARNING ][init_cfg]warning:missed section:server_14
+01:30:30.039339  [WARNING ][init_cfg]warning:missed section:server_15
+01:30:30.039357  [WARNING ][init_cfg]warning:missed section:server_16
+01:30:30.039374  [WARNING ][init_cfg]warning:missed section:server_17
+01:30:30.039392  [WARNING ][init_cfg]warning:missed section:server_18
+01:30:30.039410  [WARNING ][init_cfg]warning:missed section:server_19
+01:30:30.039428  [WARNING ][init_cfg]warning:missed section:server_20
+01:30:30.039446  [WARNING ][init_cfg]warning:missed section:server_21
+01:30:30.039464  [WARNING ][init_cfg]warning:missed section:server_22
+01:30:30.039481  [WARNING ][init_cfg]warning:missed section:server_23
+01:30:30.039499  [WARNING ][init_cfg]warning:missed section:server_24
+01:30:30.039517  [WARNING ][init_cfg]warning:missed section:server_25
+01:30:30.039534  [WARNING ][init_cfg]warning:missed section:server_26
+01:30:30.039552  [WARNING ][init_cfg]warning:missed section:server_27
+01:30:30.039570  [WARNING ][init_cfg]warning:missed section:server_28
+01:30:30.039587  [WARNING ][init_cfg]warning:missed section:server_29
+01:30:30.040050  [DEBUG   ][CDefParser::init]==========
+01:30:30.066428  [DEBUG   ][CDefParser::init]m_EntityDefMd5 = e5a2d6e9b88cff1622d5b58a25f71496
+01:30:30.090886  [SCRIPT  ][INFO][add_all_lua_path]begin=====================================================
+01:30:30.090946  [SCRIPT  ][INFO][package.path]/usr/local/share/lua/5.2/?.lua;/usr/local/share/lua/5.2/?/init.lua;/usr/local/lib/lua/5.2/?.lua;/usr/local/lib/lua/5.2/?/init.lua;./?.lua;/root/server/scripts//cell/?.lua;/root/server/scripts//cell/?.luac
+01:30:30.091023  [SCRIPT  ][INFO][package.path]/usr/local/share/lua/5.2/?.lua;/usr/local/share/lua/5.2/?/init.lua;/usr/local/lib/lua/5.2/?.lua;/usr/local/lib/lua/5.2/?/init.lua;./?.lua;/root/server/scripts//cell/?.lua;/root/server/scripts//cell/?.luac;/root/server/scripts//common/?.lua;/root/server/scripts//common/?.luac;/root/server/scripts//common/data/?.lua;/root/server/scripts//common/data/?.luac;/root/server/scripts//cell/mgr/?.lua;/root/server/scripts//cell/mgr/?.luac;/root/server/scripts//cell/Skill/?.lua;/root/server/scripts//cell/Skill/?.luac;/root/server/scripts//ai/?.lua;/root/server/scripts//ai/?.luac;/root/server/scripts//cell/SpaceLoader/?.lua;/root/server/scripts//cell/SpaceLoader/?.luac;/root/server/scripts//lualibs/?.lua
+01:30:30.091044  [SCRIPT  ][INFO][add_all_lua_path]end=======================================================
+01:30:30.384893  [INFO    ][read_bm]bm_loaded,map=50003;file=/root/server/scripts//data/blockmap/test.bm
+01:30:30.404007  [INFO    ][read_bm]bm_loaded,map=10601;file=/root/server/scripts//data/blockmap/test.bm
+01:30:30.428696  [INFO    ][read_bm]bm_loaded,map=10602;file=/root/server/scripts//data/blockmap/test.bm
+01:30:30.429552  [INFO    ][read_bm]bm_loaded,map=22222;file=/root/server/scripts//data/blockmap/test.bm
+01:30:30.434554  [INFO    ][read_bm]bm_loaded,map=40002;file=/root/server/scripts//data/blockmap/test.bm
+01:30:30.458014  [INFO    ][read_bm]bm_loaded,map=40006;file=/root/server/scripts//data/blockmap/test.bm
+01:30:30.458930  [INFO    ][read_bm]bm_loaded,map=10606;file=/root/server/scripts//data/blockmap/test.bm
+01:30:30.460652  [INFO    ][read_bm]bm_loaded,map=10607;file=/root/server/scripts//data/blockmap/test.bm
+01:30:30.470063  [INFO    ][read_bm]bm_loaded,map=10100;file=/root/server/scripts//data/blockmap/test.bm
+01:30:30.470828  [INFO    ][read_bm]bm_loaded,map=10609;file=/root/server/scripts//data/blockmap/test.bm
+01:30:30.499821  [INFO    ][read_bm]bm_loaded,map=10102;file=/root/server/scripts//data/blockmap/test.bm
+01:30:30.502034  [INFO    ][read_bm]bm_loaded,map=10103;file=/root/server/scripts//data/blockmap/test.bm
+01:30:30.511571  [INFO    ][read_bm]bm_loaded,map=10104;file=/root/server/scripts//data/blockmap/test.bm
+01:30:30.512345  [INFO    ][read_bm]bm_loaded,map=10105;file=/root/server/scripts//data/blockmap/test.bm
+01:30:30.513128  [INFO    ][read_bm]bm_loaded,map=10106;file=/root/server/scripts//data/blockmap/test.bm
+01:30:30.528927  [INFO    ][read_bm]bm_loaded,map=10107;file=/root/server/scripts//data/blockmap/test.bm
+01:30:30.530448  [INFO    ][read_bm]bm_loaded,map=10108;file=/root/server/scripts//data/blockmap/test.bm
+01:30:30.530776  [INFO    ][read_bm]bm_loaded,map=10109;file=/root/server/scripts//data/blockmap/test.bm
+01:30:30.539653  [INFO    ][read_bm]bm_loaded,map=30001;file=/root/server/scripts//data/blockmap/test.bm
+01:30:30.539741  [SCRIPT  ][DEBUG][load_space_data]map_id=50000;spaceName=nil
+01:30:30.541102  [INFO    ][read_bm]bm_loaded,map=10501;file=/root/server/scripts//data/blockmap/test.bm
+01:30:30.542000  [INFO    ][read_bm]bm_loaded,map=10502;file=/root/server/scripts//data/blockmap/test.bm
+01:30:30.543164  [INFO    ][read_bm]bm_loaded,map=10503;file=/root/server/scripts//data/blockmap/test.bm
+01:30:30.543622  [INFO    ][read_bm]bm_loaded,map=10504;file=/root/server/scripts//data/blockmap/test.bm
+01:30:30.547812  [INFO    ][read_bm]bm_loaded,map=10505;file=/root/server/scripts//data/blockmap/test.bm
+01:30:30.549600  [INFO    ][read_bm]bm_loaded,map=10506;file=/root/server/scripts//data/blockmap/test.bm
+01:30:30.550159  [INFO    ][read_bm]bm_loaded,map=10507;file=/root/server/scripts//data/blockmap/test.bm
+01:30:30.550687  [INFO    ][read_bm]bm_loaded,map=10508;file=/root/server/scripts//data/blockmap/test.bm
+01:30:30.553386  [INFO    ][read_bm]bm_loaded,map=40003;file=/root/server/scripts//data/blockmap/test.bm
+01:30:30.553437  [SCRIPT  ][DEBUG][load_space_data]map_id=10002;spaceName=nil
+01:30:30.554466  [INFO    ][read_bm]bm_loaded,map=20006;file=/root/server/scripts//data/blockmap/test.bm
+01:30:30.555777  [INFO    ][read_bm]bm_loaded,map=20008;file=/root/server/scripts//data/blockmap/test.bm
+01:30:30.556422  [INFO    ][read_bm]bm_loaded,map=20010;file=/root/server/scripts//data/blockmap/test.bm
+01:30:30.561591  [INFO    ][read_bm]bm_loaded,map=20012;file=/root/server/scripts//data/blockmap/test.bm
+01:30:30.562769  [INFO    ][read_bm]bm_loaded,map=911;file=/root/server/scripts//data/blockmap/test.bm
+01:30:30.596849  [INFO    ][read_bm]bm_loaded,map=10401;file=/root/server/scripts//data/blockmap/test.bm
+01:30:30.598658  [INFO    ][read_bm]bm_loaded,map=10402;file=/root/server/scripts//data/blockmap/test.bm
+01:30:30.608320  [INFO    ][read_bm]bm_loaded,map=10403;file=/root/server/scripts//data/blockmap/test.bm
+01:30:30.650077  [INFO    ][read_bm]bm_loaded,map=10404;file=/root/server/scripts//data/blockmap/test.bm
+01:30:30.664153  [INFO    ][read_bm]bm_loaded,map=50001;file=/root/server/scripts//data/blockmap/test.bm
+01:30:30.665346  [INFO    ][read_bm]bm_loaded,map=10406;file=/root/server/scripts//data/blockmap/test.bm
+01:30:30.667877  [INFO    ][read_bm]bm_loaded,map=10407;file=/root/server/scripts//data/blockmap/test.bm
+01:30:30.669279  [INFO    ][read_bm]bm_loaded,map=10408;file=/root/server/scripts//data/blockmap/test.bm
+01:30:30.670240  [INFO    ][read_bm]bm_loaded,map=41000;file=/root/server/scripts//data/blockmap/test.bm
+01:30:30.672121  [INFO    ][read_bm]bm_loaded,map=40007;file=/root/server/scripts//data/blockmap/test.bm
+01:30:30.673252  [INFO    ][read_bm]bm_loaded,map=22221;file=/root/server/scripts//data/blockmap/test.bm
+01:30:30.673316  [SCRIPT  ][DEBUG][load_space_data]map_id=913;spaceName=nil
+01:30:30.675016  [INFO    ][read_bm]bm_loaded,map=40004;file=/root/server/scripts//data/blockmap/test.bm
+01:30:30.676901  [INFO    ][read_bm]bm_loaded,map=40008;file=/root/server/scripts//data/blockmap/test.bm
+01:30:30.677606  [INFO    ][read_bm]bm_loaded,map=10603;file=/root/server/scripts//data/blockmap/test.bm
+01:30:30.679751  [INFO    ][read_bm]bm_loaded,map=10605;file=/root/server/scripts//data/blockmap/test.bm
+01:30:30.682548  [INFO    ][read_bm]bm_loaded,map=10405;file=/root/server/scripts//data/blockmap/test.bm
+01:30:30.683567  [INFO    ][read_bm]bm_loaded,map=10409;file=/root/server/scripts//data/blockmap/test.bm
+01:30:30.683894  [INFO    ][read_bm]bm_loaded,map=31000;file=/root/server/scripts//data/blockmap/test.bm
+01:30:30.684589  [INFO    ][read_bm]bm_loaded,map=912;file=/root/server/scripts//data/blockmap/test.bm
+01:30:30.703924  [INFO    ][read_bm]bm_loaded,map=20003;file=/root/server/scripts//data/blockmap/test.bm
+01:30:30.704861  [INFO    ][read_bm]bm_loaded,map=10509;file=/root/server/scripts//data/blockmap/test.bm
+01:30:30.704916  [SCRIPT  ][DEBUG][load_space_data]map_id=10001;spaceName=nil
+01:30:30.706962  [INFO    ][read_bm]bm_loaded,map=10604;file=/root/server/scripts//data/blockmap/test.bm
+01:30:30.709161  [INFO    ][read_bm]bm_loaded,map=10302;file=/root/server/scripts//data/blockmap/test.bm
+01:30:30.710955  [INFO    ][read_bm]bm_loaded,map=10608;file=/root/server/scripts//data/blockmap/test.bm
+01:30:30.714342  [INFO    ][read_bm]bm_loaded,map=10301;file=/root/server/scripts//data/blockmap/test.bm
+01:30:30.722512  [INFO    ][read_bm]bm_loaded,map=30002;file=/root/server/scripts//data/blockmap/test.bm
+01:30:30.729716  [INFO    ][read_bm]bm_loaded,map=10303;file=/root/server/scripts//data/blockmap/test.bm
+01:30:30.734896  [INFO    ][read_bm]bm_loaded,map=10304;file=/root/server/scripts//data/blockmap/test.bm
+01:30:30.736503  [INFO    ][read_bm]bm_loaded,map=10305;file=/root/server/scripts//data/blockmap/test.bm
+01:30:30.737724  [INFO    ][read_bm]bm_loaded,map=10306;file=/root/server/scripts//data/blockmap/test.bm
+01:30:30.739358  [INFO    ][read_bm]bm_loaded,map=10307;file=/root/server/scripts//data/blockmap/test.bm
+01:30:30.741313  [INFO    ][read_bm]bm_loaded,map=10308;file=/root/server/scripts//data/blockmap/test.bm
+01:30:30.742774  [INFO    ][read_bm]bm_loaded,map=10309;file=/root/server/scripts//data/blockmap/test.bm
+01:30:30.744269  [INFO    ][read_bm]bm_loaded,map=50002;file=/root/server/scripts//data/blockmap/test.bm
+01:30:30.744321  [SCRIPT  ][DEBUG][load_space_data]map_id=10003;spaceName=nil
+01:30:30.746309  [INFO    ][read_bm]bm_loaded,map=10701;file=/root/server/scripts//data/blockmap/test.bm
+01:30:30.747912  [INFO    ][read_bm]bm_loaded,map=40005;file=/root/server/scripts//data/blockmap/test.bm
+01:30:30.749297  [INFO    ][read_bm]bm_loaded,map=10703;file=/root/server/scripts//data/blockmap/test.bm
+01:30:30.766204  [INFO    ][read_bm]bm_loaded,map=10704;file=/root/server/scripts//data/blockmap/test.bm
+01:30:30.771003  [INFO    ][read_bm]bm_loaded,map=40009;file=/root/server/scripts//data/blockmap/test.bm
+01:30:30.781367  [INFO    ][read_bm]bm_loaded,map=20002;file=/root/server/scripts//data/blockmap/test.bm
+01:30:30.814970  [INFO    ][read_bm]bm_loaded,map=20001;file=/root/server/scripts//data/blockmap/test.bm
+01:30:30.815075  [SCRIPT  ][DEBUG][load_space_data]map_id=914;spaceName=nil
+01:30:30.816758  [INFO    ][read_bm]bm_loaded,map=20005;file=/root/server/scripts//data/blockmap/test.bm
+01:30:30.819133  [INFO    ][read_bm]bm_loaded,map=10702;file=/root/server/scripts//data/blockmap/test.bm
+01:30:30.821494  [INFO    ][read_bm]bm_loaded,map=20009;file=/root/server/scripts//data/blockmap/test.bm
+01:30:30.822954  [INFO    ][read_bm]bm_loaded,map=20011;file=/root/server/scripts//data/blockmap/test.bm
+01:30:30.825460  [INFO    ][read_bm]bm_loaded,map=10705;file=/root/server/scripts//data/blockmap/test.bm
+01:30:30.829217  [INFO    ][read_bm]bm_loaded,map=10706;file=/root/server/scripts//data/blockmap/test.bm
+01:30:30.830603  [INFO    ][read_bm]bm_loaded,map=20004;file=/root/server/scripts//data/blockmap/test.bm
+01:30:30.857125  [INFO    ][read_bm]bm_loaded,map=42000;file=/root/server/scripts//data/blockmap/test.bm
+01:30:30.872368  [INFO    ][read_bm]bm_loaded,map=10201;file=/root/server/scripts//data/blockmap/test.bm
+01:30:30.876828  [INFO    ][read_bm]bm_loaded,map=10202;file=/root/server/scripts//data/blockmap/test.bm
+01:30:30.877964  [INFO    ][read_bm]bm_loaded,map=10203;file=/root/server/scripts//data/blockmap/test.bm
+01:30:30.880884  [INFO    ][read_bm]bm_loaded,map=10204;file=/root/server/scripts//data/blockmap/test.bm
+01:30:30.884050  [INFO    ][read_bm]bm_loaded,map=10205;file=/root/server/scripts//data/blockmap/test.bm
+01:30:30.884483  [INFO    ][read_bm]bm_loaded,map=10206;file=/root/server/scripts//data/blockmap/test.bm
+01:30:30.886875  [INFO    ][read_bm]bm_loaded,map=10207;file=/root/server/scripts//data/blockmap/test.bm
+01:30:30.890867  [INFO    ][read_bm]bm_loaded,map=10208;file=/root/server/scripts//data/blockmap/test.bm
+01:30:30.892181  [INFO    ][read_bm]bm_loaded,map=10209;file=/root/server/scripts//data/blockmap/test.bm
+01:30:30.894338  [INFO    ][read_bm]bm_loaded,map=40001;file=/root/server/scripts//data/blockmap/test.bm
+01:30:30.894405  [SCRIPT  ][DEBUG][load_space_data]map_id=10004;spaceName=nil
+01:30:30.895679  [INFO    ][read_bm]bm_loaded,map=20007;file=/root/server/scripts//data/blockmap/test.bm
+01:30:30.896296  [INFO    ][read_bm]bm_loaded,map=10101;file=/root/server/scripts//data/blockmap/test.bm
+01:30:32.671724  [SCRIPT  ][DEBUG][GuildDataMgr:initGragonData]data={}
+01:30:32.706447  [INFO    ][world::initNextEntityId]init_id=117440512
+01:30:32.706639  [DEBUG   ][CEpollServer::AddFdAndMb]serverName=
+01:30:32.706666  [DEBUG   ][CEpollServer::addFdAndMb]fd=4;fd_type=1;addr=;port=8007;authz=0
+01:30:32.706676  [DEBUG   ][start_server]:8007,success.
+01:30:32.706854  [DEBUG   ][CEpollServer::addFdAndMb]fd=6;fd_type=2;addr=192.168.1.102;port=8001;authz=0
+01:30:32.706871  [DEBUG   ][try_to_connect_mailbox]server=192.168.1.102;port=8001
+01:30:32.707013  [DEBUG   ][CEpollServer::addFdAndMb]fd=7;fd_type=2;addr=192.168.1.102;port=8002;authz=0
+01:30:32.707028  [DEBUG   ][try_to_connect_mailbox]server=192.168.1.102;port=8002
+01:30:32.707206  [DEBUG   ][CEpollServer::addFdAndMb]fd=8;fd_type=2;addr=192.168.1.102;port=8003;authz=0
+01:30:32.707222  [DEBUG   ][try_to_connect_mailbox]server=192.168.1.102;port=8003
+01:30:32.707389  [DEBUG   ][CEpollServer::addFdAndMb]fd=9;fd_type=2;addr=192.168.1.102;port=8004;authz=0
+01:30:32.707405  [DEBUG   ][try_to_connect_mailbox]server=192.168.1.102;port=8004
+01:30:32.707452  [DEBUG   ][CEpollServer::addFdAndMb]fd=10;fd_type=2;addr=192.168.1.102;port=8005;authz=0
+01:30:32.707467  [DEBUG   ][try_to_connect_mailbox]server=192.168.1.102;port=8005
+01:30:32.707495  [DEBUG   ][CEpollServer::addFdAndMb]fd=11;fd_type=2;addr=192.168.1.102;port=8006;authz=0
+01:30:32.707506  [DEBUG   ][try_to_connect_mailbox]server=192.168.1.102;port=8006
+01:30:32.811988  [SCRIPT  ][DEBUG][SrvEntityManager:ExpandIdle]expand Monster current: IdleMonster:800  IdleMercenary:0 BusyMonster:0 BusyMercenary:0 expandMonsterCount:1  expandMercenaryCount:0
+01:30:32.902499  [SCRIPT  ][DEBUG][SrvEntityManager:ExpandIdle]expand Mercenary current: IdleMonster:800  IdleMercenary:500 BusyMonster:0 BusyMercenary:0 expandMonsterCount:1  expandMercenaryCount:1
+01:30:32.902570  [INFO    ][connected_2_mb]mb fd = 6 connected severName = 192.168.1.102, port = 8001,
+01:30:32.902583  [INFO    ][connected_2_mb]mb fd = 7 connected severName = 192.168.1.102, port = 8002,
+01:30:32.902592  [INFO    ][connected_2_mb]mb fd = 8 connected severName = 192.168.1.102, port = 8003,
+01:30:32.902601  [INFO    ][connected_2_mb]mb fd = 9 connected severName = 192.168.1.102, port = 8004,
+01:30:32.902609  [INFO    ][connected_2_mb]mb fd = 10 connected severName = 192.168.1.102, port = 8005,
+01:30:32.902629  [INFO    ][connect_2_mb]connect 192.168.1.102:8006 error:111,Connection refused
+01:30:32.902639  [DEBUG   ][CEpollServer::removeFd]fd=11;fd_type=2;addr=192.168.1.102;port=8006
+01:30:33.226957  [INFO    ][new_connection]connected from 192.168.1.102:57063, assigned socket is:12
+01:30:33.226986  [DEBUG   ][CEpollServer::AddFdAndMb]serverName=192.168.1.102
+01:30:33.226997  [DEBUG   ][CEpollServer::AddFdAndMb]client_trusted, serverName=192.168.1.102
+01:30:33.227008  [DEBUG   ][CEpollServer::addFdAndMb]fd=12;fd_type=3;addr=192.168.1.102;port=57063;authz=15
+01:30:34.109218  [INFO    ][new_connection]connected from 192.168.1.102:57064, assigned socket is:13
+01:30:34.109555  [DEBUG   ][CEpollServer::AddFdAndMb]serverName=192.168.1.102
+01:30:34.109602  [DEBUG   ][CEpollServer::AddFdAndMb]client_trusted, serverName=192.168.1.102
+01:30:34.109629  [DEBUG   ][CEpollServer::addFdAndMb]fd=13;fd_type=3;addr=192.168.1.102;port=57064;authz=15
+01:30:34.116006  [INFO    ][new_connection]connected from 192.168.1.102:57068, assigned socket is:14
+01:30:34.116103  [DEBUG   ][CEpollServer::AddFdAndMb]serverName=192.168.1.102
+01:30:34.116132  [DEBUG   ][CEpollServer::AddFdAndMb]client_trusted, serverName=192.168.1.102
+01:30:34.116158  [DEBUG   ][CEpollServer::addFdAndMb]fd=14;fd_type=3;addr=192.168.1.102;port=57068;authz=15
+01:30:34.129230  [INFO    ][new_connection]connected from 192.168.1.102:57074, assigned socket is:15
+01:30:34.129324  [DEBUG   ][CEpollServer::AddFdAndMb]serverName=192.168.1.102
+01:30:34.129496  [DEBUG   ][CEpollServer::AddFdAndMb]client_trusted, serverName=192.168.1.102
+01:30:34.129523  [DEBUG   ][CEpollServer::addFdAndMb]fd=15;fd_type=3;addr=192.168.1.102;port=57074;authz=15
+01:30:34.140577  [INFO    ][new_connection]connected from 192.168.1.102:57079, assigned socket is:16
+01:30:34.140667  [DEBUG   ][CEpollServer::AddFdAndMb]serverName=192.168.1.102
+01:30:34.140694  [DEBUG   ][CEpollServer::AddFdAndMb]client_trusted, serverName=192.168.1.102
+01:30:34.140720  [DEBUG   ][CEpollServer::addFdAndMb]fd=16;fd_type=3;addr=192.168.1.102;port=57079;authz=15
+01:30:35.084916  [INFO    ][new_connection]connected from 192.168.1.102:57082, assigned socket is:17
+01:30:35.085011  [DEBUG   ][CEpollServer::AddFdAndMb]serverName=192.168.1.102
+01:30:35.085038  [DEBUG   ][CEpollServer::AddFdAndMb]client_trusted, serverName=192.168.1.102
+01:30:35.085064  [DEBUG   ][CEpollServer::addFdAndMb]fd=17;fd_type=3;addr=192.168.1.102;port=57082;authz=15
+01:30:37.120881  [DEBUG   ][CEpollServer::addFdAndMb]fd=11;fd_type=2;addr=192.168.1.102;port=8006;authz=0
+01:30:37.121018  [INFO    ][connected_2_mb]mb fd = 11 connected severName = 192.168.1.102, port = 8006,
+01:33:21.822045  [INFO    ][on_fd_closed]fd=14
+01:33:21.822136  [DEBUG   ][CEpollServer::removeFd]fd=14;fd_type=3;addr=192.168.1.102;port=57068
+01:33:21.822235  [INFO    ][on_fd_closed]fd=6
+01:33:21.822272  [DEBUG   ][CEpollServer::removeFd]fd=6;fd_type=2;addr=192.168.1.102;port=8001
+01:33:21.822344  [WARNING ][CEpollServer::addFdAndMb_err]desc=old_fd_mb;fd=6
+01:33:21.822374  [DEBUG   ][CEpollServer::addFdAndMb]fd=6;fd_type=2;addr=192.168.1.102;port=8001;authz=0
+01:33:21.822412  [WARNING ][handle_message_err]failed, 111,'Connection refused'
+01:33:21.822445  [INFO    ][on_fd_closed]fd=6
+01:33:21.822467  [DEBUG   ][CEpollServer::removeFd]fd=6;fd_type=2;addr=192.168.1.102;port=8001
+01:33:21.848047  [INFO    ][on_fd_closed]fd=13
+01:33:21.848081  [DEBUG   ][CEpollServer::removeFd]fd=13;fd_type=3;addr=192.168.1.102;port=57064
+01:33:21.848110  [INFO    ][on_fd_closed]fd=8
+01:33:21.848124  [DEBUG   ][CEpollServer::removeFd]fd=8;fd_type=2;addr=192.168.1.102;port=8003
+01:33:21.848162  [DEBUG   ][CEpollServer::addFdAndMb]fd=6;fd_type=2;addr=192.168.1.102;port=8003;authz=0
+01:33:21.848189  [WARNING ][handle_message_err]failed, 111,'Connection refused'
+01:33:21.848204  [INFO    ][on_fd_closed]fd=6
+01:33:21.848214  [DEBUG   ][CEpollServer::removeFd]fd=6;fd_type=2;addr=192.168.1.102;port=8003
+01:33:21.860269  [INFO    ][on_fd_closed]fd=15
+01:33:21.860303  [DEBUG   ][CEpollServer::removeFd]fd=15;fd_type=3;addr=192.168.1.102;port=57074
+01:33:21.860334  [INFO    ][on_fd_closed]fd=7
+01:33:21.860348  [DEBUG   ][CEpollServer::removeFd]fd=7;fd_type=2;addr=192.168.1.102;port=8002
+01:33:21.860381  [DEBUG   ][CEpollServer::addFdAndMb]fd=6;fd_type=2;addr=192.168.1.102;port=8002;authz=0
+01:33:21.860406  [WARNING ][handle_message_err]failed, 111,'Connection refused'
+01:33:21.860421  [INFO    ][on_fd_closed]fd=6
+01:33:21.860430  [DEBUG   ][CEpollServer::removeFd]fd=6;fd_type=2;addr=192.168.1.102;port=8002
+01:33:21.872136  [INFO    ][on_fd_closed]fd=16
+01:33:21.872171  [DEBUG   ][CEpollServer::removeFd]fd=16;fd_type=3;addr=192.168.1.102;port=57079
+01:33:21.872211  [INFO    ][on_fd_closed]fd=9
+01:33:21.872225  [DEBUG   ][CEpollServer::removeFd]fd=9;fd_type=2;addr=192.168.1.102;port=8004
+01:33:21.872263  [DEBUG   ][CEpollServer::addFdAndMb]fd=6;fd_type=2;addr=192.168.1.102;port=8004;authz=0
+01:33:21.872290  [WARNING ][handle_message_err]failed, 111,'Connection refused'
+01:33:21.872305  [INFO    ][on_fd_closed]fd=6
+01:33:21.872314  [DEBUG   ][CEpollServer::removeFd]fd=6;fd_type=2;addr=192.168.1.102;port=8004
+01:33:21.882844  [INFO    ][on_fd_closed]fd=17
+01:33:21.882898  [DEBUG   ][CEpollServer::removeFd]fd=17;fd_type=3;addr=192.168.1.102;port=57082
+01:33:21.882930  [INFO    ][on_fd_closed]fd=10
+01:33:21.882942  [DEBUG   ][CEpollServer::removeFd]fd=10;fd_type=2;addr=192.168.1.102;port=8005
+01:33:21.882982  [DEBUG   ][CEpollServer::addFdAndMb]fd=6;fd_type=2;addr=192.168.1.102;port=8005;authz=0
+01:33:21.883007  [WARNING ][handle_message_err]failed, 111,'Connection refused'
+01:33:21.883020  [INFO    ][on_fd_closed]fd=6
+01:33:21.883030  [DEBUG   ][CEpollServer::removeFd]fd=6;fd_type=2;addr=192.168.1.102;port=8005
+01:33:21.897159  [INFO    ][on_fd_closed]fd=12
+01:33:21.897218  [DEBUG   ][CEpollServer::removeFd]fd=12;fd_type=3;addr=192.168.1.102;port=57063
+01:33:21.897252  [INFO    ][on_fd_closed]fd=11
+01:33:21.897265  [DEBUG   ][CEpollServer::removeFd]fd=11;fd_type=2;addr=192.168.1.102;port=8006
+01:33:21.898088  [DEBUG   ][CEpollServer::addFdAndMb]fd=6;fd_type=2;addr=192.168.1.102;port=8006;authz=0
+01:33:21.898143  [WARNING ][handle_message_err]failed, 111,'Connection refused'
+01:33:21.898160  [INFO    ][on_fd_closed]fd=6
+01:33:21.898170  [DEBUG   ][CEpollServer::removeFd]fd=6;fd_type=2;addr=192.168.1.102;port=8006
+01:34:32.585428  [INFO    ][CWorldCell::init()]
+01:34:32.602269  [WARNING ][init_cfg]warning:missed section:server_8
+01:34:32.602329  [WARNING ][init_cfg]warning:missed section:server_9
+01:34:32.602352  [WARNING ][init_cfg]warning:missed section:server_10
+01:34:32.602371  [WARNING ][init_cfg]warning:missed section:server_11
+01:34:32.602389  [WARNING ][init_cfg]warning:missed section:server_12
+01:34:32.602407  [WARNING ][init_cfg]warning:missed section:server_13
+01:34:32.602424  [WARNING ][init_cfg]warning:missed section:server_14
+01:34:32.602442  [WARNING ][init_cfg]warning:missed section:server_15
+01:34:32.602460  [WARNING ][init_cfg]warning:missed section:server_16
+01:34:32.602477  [WARNING ][init_cfg]warning:missed section:server_17
+01:34:32.602495  [WARNING ][init_cfg]warning:missed section:server_18
+01:34:32.602512  [WARNING ][init_cfg]warning:missed section:server_19
+01:34:32.602530  [WARNING ][init_cfg]warning:missed section:server_20
+01:34:32.602548  [WARNING ][init_cfg]warning:missed section:server_21
+01:34:32.602565  [WARNING ][init_cfg]warning:missed section:server_22
+01:34:32.602603  [WARNING ][init_cfg]warning:missed section:server_23
+01:34:32.602629  [WARNING ][init_cfg]warning:missed section:server_24
+01:34:32.602647  [WARNING ][init_cfg]warning:missed section:server_25
+01:34:32.602665  [WARNING ][init_cfg]warning:missed section:server_26
+01:34:32.602682  [WARNING ][init_cfg]warning:missed section:server_27
+01:34:32.602699  [WARNING ][init_cfg]warning:missed section:server_28
+01:34:32.602717  [WARNING ][init_cfg]warning:missed section:server_29
+01:34:32.603069  [DEBUG   ][CDefParser::init]==========
+01:34:32.717071  [DEBUG   ][CDefParser::init]m_EntityDefMd5 = e5a2d6e9b88cff1622d5b58a25f71496
+01:34:32.734298  [SCRIPT  ][INFO][add_all_lua_path]begin=====================================================
+01:34:32.734347  [SCRIPT  ][INFO][package.path]/usr/local/share/lua/5.2/?.lua;/usr/local/share/lua/5.2/?/init.lua;/usr/local/lib/lua/5.2/?.lua;/usr/local/lib/lua/5.2/?/init.lua;./?.lua;/root/server/scripts//cell/?.lua;/root/server/scripts//cell/?.luac
+01:34:32.734423  [SCRIPT  ][INFO][package.path]/usr/local/share/lua/5.2/?.lua;/usr/local/share/lua/5.2/?/init.lua;/usr/local/lib/lua/5.2/?.lua;/usr/local/lib/lua/5.2/?/init.lua;./?.lua;/root/server/scripts//cell/?.lua;/root/server/scripts//cell/?.luac;/root/server/scripts//common/?.lua;/root/server/scripts//common/?.luac;/root/server/scripts//common/data/?.lua;/root/server/scripts//common/data/?.luac;/root/server/scripts//cell/mgr/?.lua;/root/server/scripts//cell/mgr/?.luac;/root/server/scripts//cell/Skill/?.lua;/root/server/scripts//cell/Skill/?.luac;/root/server/scripts//ai/?.lua;/root/server/scripts//ai/?.luac;/root/server/scripts//cell/SpaceLoader/?.lua;/root/server/scripts//cell/SpaceLoader/?.luac;/root/server/scripts//lualibs/?.lua
+01:34:32.734459  [SCRIPT  ][INFO][add_all_lua_path]end=======================================================
+01:34:32.808438  [INFO    ][read_bm]bm_loaded,map=50003;file=/root/server/scripts//data/blockmap/test.bm
+01:34:32.808903  [INFO    ][read_bm]bm_loaded,map=10601;file=/root/server/scripts//data/blockmap/test.bm
+01:34:32.809364  [INFO    ][read_bm]bm_loaded,map=10602;file=/root/server/scripts//data/blockmap/test.bm
+01:34:32.809556  [INFO    ][read_bm]bm_loaded,map=22222;file=/root/server/scripts//data/blockmap/test.bm
+01:34:32.810276  [INFO    ][read_bm]bm_loaded,map=40002;file=/root/server/scripts//data/blockmap/test.bm
+01:34:32.810652  [INFO    ][read_bm]bm_loaded,map=40006;file=/root/server/scripts//data/blockmap/test.bm
+01:34:32.810865  [INFO    ][read_bm]bm_loaded,map=10606;file=/root/server/scripts//data/blockmap/test.bm
+01:34:32.811144  [INFO    ][read_bm]bm_loaded,map=10607;file=/root/server/scripts//data/blockmap/test.bm
+01:34:32.811428  [INFO    ][read_bm]bm_loaded,map=10608;file=/root/server/scripts//data/blockmap/test.bm
+01:34:32.811754  [INFO    ][read_bm]bm_loaded,map=10101;file=/root/server/scripts//data/blockmap/test.bm
+01:34:32.812251  [INFO    ][read_bm]bm_loaded,map=10102;file=/root/server/scripts//data/blockmap/test.bm
+01:34:32.812475  [INFO    ][read_bm]bm_loaded,map=10103;file=/root/server/scripts//data/blockmap/test.bm
+01:34:32.812846  [INFO    ][read_bm]bm_loaded,map=10104;file=/root/server/scripts//data/blockmap/test.bm
+01:34:32.813172  [INFO    ][read_bm]bm_loaded,map=10105;file=/root/server/scripts//data/blockmap/test.bm
+01:34:32.813356  [INFO    ][read_bm]bm_loaded,map=10106;file=/root/server/scripts//data/blockmap/test.bm
+01:34:32.813797  [INFO    ][read_bm]bm_loaded,map=10107;file=/root/server/scripts//data/blockmap/test.bm
+01:34:32.814396  [INFO    ][read_bm]bm_loaded,map=10108;file=/root/server/scripts//data/blockmap/test.bm
+01:34:32.814634  [INFO    ][read_bm]bm_loaded,map=10109;file=/root/server/scripts//data/blockmap/test.bm
+01:34:32.814762  [INFO    ][read_bm]bm_loaded,map=30001;file=/root/server/scripts//data/blockmap/test.bm
+01:34:32.814790  [SCRIPT  ][DEBUG][load_space_data]map_id=50000;spaceName=nil
+01:34:32.815063  [INFO    ][read_bm]bm_loaded,map=10501;file=/root/server/scripts//data/blockmap/test.bm
+01:34:32.815302  [INFO    ][read_bm]bm_loaded,map=10502;file=/root/server/scripts//data/blockmap/test.bm
+01:34:32.815577  [INFO    ][read_bm]bm_loaded,map=10503;file=/root/server/scripts//data/blockmap/test.bm
+01:34:32.815873  [INFO    ][read_bm]bm_loaded,map=10504;file=/root/server/scripts//data/blockmap/test.bm
+01:34:32.816108  [INFO    ][read_bm]bm_loaded,map=10505;file=/root/server/scripts//data/blockmap/test.bm
+01:34:32.816269  [INFO    ][read_bm]bm_loaded,map=10506;file=/root/server/scripts//data/blockmap/test.bm
+01:34:32.816508  [INFO    ][read_bm]bm_loaded,map=10507;file=/root/server/scripts//data/blockmap/test.bm
+01:34:32.816773  [INFO    ][read_bm]bm_loaded,map=10508;file=/root/server/scripts//data/blockmap/test.bm
+01:34:32.816974  [INFO    ][read_bm]bm_loaded,map=10509;file=/root/server/scripts//data/blockmap/test.bm
+01:34:32.816993  [SCRIPT  ][DEBUG][load_space_data]map_id=10002;spaceName=nil
+01:34:32.817087  [INFO    ][read_bm]bm_loaded,map=20006;file=/root/server/scripts//data/blockmap/test.bm
+01:34:32.817104  [SCRIPT  ][DEBUG][load_space_data]map_id=10004;spaceName=nil
+01:34:32.817194  [INFO    ][read_bm]bm_loaded,map=20010;file=/root/server/scripts//data/blockmap/test.bm
+01:34:32.817293  [INFO    ][read_bm]bm_loaded,map=20012;file=/root/server/scripts//data/blockmap/test.bm
+01:34:32.817548  [INFO    ][read_bm]bm_loaded,map=911;file=/root/server/scripts//data/blockmap/test.bm
+01:34:32.817951  [INFO    ][read_bm]bm_loaded,map=10401;file=/root/server/scripts//data/blockmap/test.bm
+01:34:32.818239  [INFO    ][read_bm]bm_loaded,map=10402;file=/root/server/scripts//data/blockmap/test.bm
+01:34:32.818451  [INFO    ][read_bm]bm_loaded,map=10403;file=/root/server/scripts//data/blockmap/test.bm
+01:34:32.818751  [INFO    ][read_bm]bm_loaded,map=10404;file=/root/server/scripts//data/blockmap/test.bm
+01:34:32.819037  [INFO    ][read_bm]bm_loaded,map=50001;file=/root/server/scripts//data/blockmap/test.bm
+01:34:32.819237  [INFO    ][read_bm]bm_loaded,map=10406;file=/root/server/scripts//data/blockmap/test.bm
+01:34:32.819508  [INFO    ][read_bm]bm_loaded,map=10407;file=/root/server/scripts//data/blockmap/test.bm
+01:34:32.819798  [INFO    ][read_bm]bm_loaded,map=10408;file=/root/server/scripts//data/blockmap/test.bm
+01:34:32.819967  [INFO    ][read_bm]bm_loaded,map=41000;file=/root/server/scripts//data/blockmap/test.bm
+01:34:32.819986  [SCRIPT  ][DEBUG][load_space_data]map_id=10003;spaceName=nil
+01:34:32.820140  [INFO    ][read_bm]bm_loaded,map=22221;file=/root/server/scripts//data/blockmap/test.bm
+01:34:32.820235  [INFO    ][read_bm]bm_loaded,map=20003;file=/root/server/scripts//data/blockmap/test.bm
+01:34:32.820544  [INFO    ][read_bm]bm_loaded,map=40004;file=/root/server/scripts//data/blockmap/test.bm
+01:34:32.820884  [INFO    ][read_bm]bm_loaded,map=40008;file=/root/server/scripts//data/blockmap/test.bm
+01:34:32.821174  [INFO    ][read_bm]bm_loaded,map=10702;file=/root/server/scripts//data/blockmap/test.bm
+01:34:32.822050  [INFO    ][read_bm]bm_loaded,map=42000;file=/root/server/scripts//data/blockmap/test.bm
+01:34:32.822076  [SCRIPT  ][DEBUG][load_space_data]map_id=10001;spaceName=nil
+01:34:32.822195  [INFO    ][read_bm]bm_loaded,map=20009;file=/root/server/scripts//data/blockmap/test.bm
+01:34:32.822354  [INFO    ][read_bm]bm_loaded,map=31000;file=/root/server/scripts//data/blockmap/test.bm
+01:34:32.822687  [INFO    ][read_bm]bm_loaded,map=40003;file=/root/server/scripts//data/blockmap/test.bm
+01:34:32.822979  [INFO    ][read_bm]bm_loaded,map=10604;file=/root/server/scripts//data/blockmap/test.bm
+01:34:32.823179  [INFO    ][read_bm]bm_loaded,map=10409;file=/root/server/scripts//data/blockmap/test.bm
+01:34:32.823267  [INFO    ][read_bm]bm_loaded,map=20002;file=/root/server/scripts//data/blockmap/test.bm
+01:34:32.823536  [INFO    ][read_bm]bm_loaded,map=10302;file=/root/server/scripts//data/blockmap/test.bm
+01:34:32.823555  [SCRIPT  ][DEBUG][load_space_data]map_id=913;spaceName=nil
+01:34:32.823565  [SCRIPT  ][DEBUG][load_space_data]map_id=914;spaceName=nil
+01:34:32.823903  [INFO    ][read_bm]bm_loaded,map=10301;file=/root/server/scripts//data/blockmap/test.bm
+01:34:32.827021  [INFO    ][read_bm]bm_loaded,map=30002;file=/root/server/scripts//data/blockmap/test.bm
+01:34:32.827332  [INFO    ][read_bm]bm_loaded,map=10303;file=/root/server/scripts//data/blockmap/test.bm
+01:34:32.827669  [INFO    ][read_bm]bm_loaded,map=10304;file=/root/server/scripts//data/blockmap/test.bm
+01:34:32.827949  [INFO    ][read_bm]bm_loaded,map=10305;file=/root/server/scripts//data/blockmap/test.bm
+01:34:32.828082  [INFO    ][read_bm]bm_loaded,map=10306;file=/root/server/scripts//data/blockmap/test.bm
+01:34:32.828348  [INFO    ][read_bm]bm_loaded,map=10307;file=/root/server/scripts//data/blockmap/test.bm
+01:34:32.828725  [INFO    ][read_bm]bm_loaded,map=10308;file=/root/server/scripts//data/blockmap/test.bm
+01:34:32.828863  [INFO    ][read_bm]bm_loaded,map=10309;file=/root/server/scripts//data/blockmap/test.bm
+01:34:32.829106  [INFO    ][read_bm]bm_loaded,map=50002;file=/root/server/scripts//data/blockmap/test.bm
+01:34:32.829393  [INFO    ][read_bm]bm_loaded,map=10405;file=/root/server/scripts//data/blockmap/test.bm
+01:34:32.829749  [INFO    ][read_bm]bm_loaded,map=10704;file=/root/server/scripts//data/blockmap/test.bm
+01:34:32.829848  [INFO    ][read_bm]bm_loaded,map=20001;file=/root/server/scripts//data/blockmap/test.bm
+01:34:32.830162  [INFO    ][read_bm]bm_loaded,map=40009;file=/root/server/scripts//data/blockmap/test.bm
+01:34:32.830276  [INFO    ][read_bm]bm_loaded,map=20005;file=/root/server/scripts//data/blockmap/test.bm
+01:34:32.830511  [INFO    ][read_bm]bm_loaded,map=10609;file=/root/server/scripts//data/blockmap/test.bm
+01:34:32.830626  [INFO    ][read_bm]bm_loaded,map=20004;file=/root/server/scripts//data/blockmap/test.bm
+01:34:32.830940  [INFO    ][read_bm]bm_loaded,map=40001;file=/root/server/scripts//data/blockmap/test.bm
+01:34:32.831246  [INFO    ][read_bm]bm_loaded,map=40005;file=/root/server/scripts//data/blockmap/test.bm
+01:34:32.831526  [INFO    ][read_bm]bm_loaded,map=10701;file=/root/server/scripts//data/blockmap/test.bm
+01:34:32.831662  [INFO    ][read_bm]bm_loaded,map=20007;file=/root/server/scripts//data/blockmap/test.bm
+01:34:32.831934  [INFO    ][read_bm]bm_loaded,map=10703;file=/root/server/scripts//data/blockmap/test.bm
+01:34:32.832042  [INFO    ][read_bm]bm_loaded,map=20011;file=/root/server/scripts//data/blockmap/test.bm
+01:34:32.832344  [INFO    ][read_bm]bm_loaded,map=10705;file=/root/server/scripts//data/blockmap/test.bm
+01:34:32.832646  [INFO    ][read_bm]bm_loaded,map=10706;file=/root/server/scripts//data/blockmap/test.bm
+01:34:32.832755  [INFO    ][read_bm]bm_loaded,map=20008;file=/root/server/scripts//data/blockmap/test.bm
+01:34:32.832944  [INFO    ][read_bm]bm_loaded,map=10603;file=/root/server/scripts//data/blockmap/test.bm
+01:34:32.833173  [INFO    ][read_bm]bm_loaded,map=10201;file=/root/server/scripts//data/blockmap/test.bm
+01:34:32.833441  [INFO    ][read_bm]bm_loaded,map=10202;file=/root/server/scripts//data/blockmap/test.bm
+01:34:32.833686  [INFO    ][read_bm]bm_loaded,map=10203;file=/root/server/scripts//data/blockmap/test.bm
+01:34:32.834013  [INFO    ][read_bm]bm_loaded,map=10204;file=/root/server/scripts//data/blockmap/test.bm
+01:34:32.834307  [INFO    ][read_bm]bm_loaded,map=10205;file=/root/server/scripts//data/blockmap/test.bm
+01:34:32.834471  [INFO    ][read_bm]bm_loaded,map=10206;file=/root/server/scripts//data/blockmap/test.bm
+01:34:32.834769  [INFO    ][read_bm]bm_loaded,map=10207;file=/root/server/scripts//data/blockmap/test.bm
+01:34:32.835047  [INFO    ][read_bm]bm_loaded,map=10208;file=/root/server/scripts//data/blockmap/test.bm
+01:34:32.835302  [INFO    ][read_bm]bm_loaded,map=10209;file=/root/server/scripts//data/blockmap/test.bm
+01:34:32.835650  [INFO    ][read_bm]bm_loaded,map=40007;file=/root/server/scripts//data/blockmap/test.bm
+01:34:32.835820  [INFO    ][read_bm]bm_loaded,map=10100;file=/root/server/scripts//data/blockmap/test.bm
+01:34:32.836088  [INFO    ][read_bm]bm_loaded,map=10605;file=/root/server/scripts//data/blockmap/test.bm
+01:34:32.836494  [INFO    ][read_bm]bm_loaded,map=912;file=/root/server/scripts//data/blockmap/test.bm
+01:34:33.998857  [SCRIPT  ][DEBUG][GuildDataMgr:initGragonData]data={}
+01:34:34.002145  [INFO    ][world::initNextEntityId]init_id=117440512
+01:34:34.002238  [DEBUG   ][CEpollServer::AddFdAndMb]serverName=
+01:34:34.002257  [DEBUG   ][CEpollServer::addFdAndMb]fd=4;fd_type=1;addr=;port=8007;authz=0
+01:34:34.002267  [DEBUG   ][start_server]:8007,success.
+01:34:34.002524  [DEBUG   ][CEpollServer::addFdAndMb]fd=6;fd_type=2;addr=192.168.1.102;port=8001;authz=0
+01:34:34.002542  [DEBUG   ][try_to_connect_mailbox]server=192.168.1.102;port=8001
+01:34:34.002716  [DEBUG   ][CEpollServer::addFdAndMb]fd=7;fd_type=2;addr=192.168.1.102;port=8002;authz=0
+01:34:34.002732  [DEBUG   ][try_to_connect_mailbox]server=192.168.1.102;port=8002
+01:34:34.002795  [DEBUG   ][CEpollServer::addFdAndMb]fd=8;fd_type=2;addr=192.168.1.102;port=8003;authz=0
+01:34:34.002814  [DEBUG   ][try_to_connect_mailbox]server=192.168.1.102;port=8003
+01:34:34.002948  [DEBUG   ][CEpollServer::addFdAndMb]fd=9;fd_type=2;addr=192.168.1.102;port=8004;authz=0
+01:34:34.002964  [DEBUG   ][try_to_connect_mailbox]server=192.168.1.102;port=8004
+01:34:34.003108  [DEBUG   ][CEpollServer::addFdAndMb]fd=10;fd_type=2;addr=192.168.1.102;port=8005;authz=0
+01:34:34.003123  [DEBUG   ][try_to_connect_mailbox]server=192.168.1.102;port=8005
+01:34:34.003157  [DEBUG   ][CEpollServer::addFdAndMb]fd=11;fd_type=2;addr=192.168.1.102;port=8006;authz=0
+01:34:34.003177  [DEBUG   ][try_to_connect_mailbox]server=192.168.1.102;port=8006
+01:34:34.063988  [SCRIPT  ][DEBUG][SrvEntityManager:ExpandIdle]expand Monster current: IdleMonster:800  IdleMercenary:0 BusyMonster:0 BusyMercenary:0 expandMonsterCount:1  expandMercenaryCount:0
+01:34:34.113633  [SCRIPT  ][DEBUG][SrvEntityManager:ExpandIdle]expand Mercenary current: IdleMonster:800  IdleMercenary:500 BusyMonster:0 BusyMercenary:0 expandMonsterCount:1  expandMercenaryCount:1
+01:34:34.113824  [INFO    ][connected_2_mb]mb fd = 6 connected severName = 192.168.1.102, port = 8001,
+01:34:34.113844  [INFO    ][connected_2_mb]mb fd = 7 connected severName = 192.168.1.102, port = 8002,
+01:34:34.113859  [INFO    ][connected_2_mb]mb fd = 8 connected severName = 192.168.1.102, port = 8003,
+01:34:34.113873  [INFO    ][connected_2_mb]mb fd = 9 connected severName = 192.168.1.102, port = 8004,
+01:34:34.113887  [INFO    ][connected_2_mb]mb fd = 10 connected severName = 192.168.1.102, port = 8005,
+01:34:34.113917  [INFO    ][connect_2_mb]connect 192.168.1.102:8006 error:111,Connection refused
+01:34:34.113933  [DEBUG   ][CEpollServer::removeFd]fd=11;fd_type=2;addr=192.168.1.102;port=8006
+01:34:34.232306  [INFO    ][new_connection]connected from 192.168.1.102:57161, assigned socket is:12
+01:34:34.232336  [DEBUG   ][CEpollServer::AddFdAndMb]serverName=192.168.1.102
+01:34:34.232346  [DEBUG   ][CEpollServer::AddFdAndMb]client_trusted, serverName=192.168.1.102
+01:34:34.232357  [DEBUG   ][CEpollServer::addFdAndMb]fd=12;fd_type=3;addr=192.168.1.102;port=57161;authz=15
+01:34:37.036494  [INFO    ][new_connection]connected from 192.168.1.102:57162, assigned socket is:13
+01:34:37.036558  [DEBUG   ][CEpollServer::AddFdAndMb]serverName=192.168.1.102
+01:34:37.036583  [DEBUG   ][CEpollServer::AddFdAndMb]client_trusted, serverName=192.168.1.102
+01:34:37.036607  [DEBUG   ][CEpollServer::addFdAndMb]fd=13;fd_type=3;addr=192.168.1.102;port=57162;authz=15
+01:34:37.036647  [INFO    ][new_connection]connected from 192.168.1.102:57163, assigned socket is:14
+01:34:37.036672  [DEBUG   ][CEpollServer::AddFdAndMb]serverName=192.168.1.102
+01:34:37.036690  [DEBUG   ][CEpollServer::AddFdAndMb]client_trusted, serverName=192.168.1.102
+01:34:37.036709  [DEBUG   ][CEpollServer::addFdAndMb]fd=14;fd_type=3;addr=192.168.1.102;port=57163;authz=15
+01:34:37.036742  [INFO    ][new_connection]connected from 192.168.1.102:57171, assigned socket is:15
+01:34:37.036845  [DEBUG   ][CEpollServer::AddFdAndMb]serverName=192.168.1.102
+01:34:37.036876  [DEBUG   ][CEpollServer::AddFdAndMb]client_trusted, serverName=192.168.1.102
+01:34:37.036898  [DEBUG   ][CEpollServer::addFdAndMb]fd=15;fd_type=3;addr=192.168.1.102;port=57171;authz=15
+01:34:37.036934  [INFO    ][new_connection]connected from 192.168.1.102:57174, assigned socket is:16
+01:34:37.036959  [DEBUG   ][CEpollServer::AddFdAndMb]serverName=192.168.1.102
+01:34:37.036977  [DEBUG   ][CEpollServer::AddFdAndMb]client_trusted, serverName=192.168.1.102
+01:34:37.036995  [DEBUG   ][CEpollServer::addFdAndMb]fd=16;fd_type=3;addr=192.168.1.102;port=57174;authz=15
+01:34:37.297553  [INFO    ][new_connection]connected from 192.168.1.102:57176, assigned socket is:17
+01:34:37.297647  [DEBUG   ][CEpollServer::AddFdAndMb]serverName=192.168.1.102
+01:34:37.297673  [DEBUG   ][CEpollServer::AddFdAndMb]client_trusted, serverName=192.168.1.102
+01:34:37.297703  [DEBUG   ][CEpollServer::addFdAndMb]fd=17;fd_type=3;addr=192.168.1.102;port=57176;authz=15
+01:34:38.048412  [DEBUG   ][CEpollServer::addFdAndMb]fd=11;fd_type=2;addr=192.168.1.102;port=8006;authz=0
+01:34:38.048533  [INFO    ][connected_2_mb]mb fd = 11 connected severName = 192.168.1.102, port = 8006,
+03:00:42.497938  [INFO    ][on_fd_closed]fd=13
+03:00:42.498029  [DEBUG   ][CEpollServer::removeFd]fd=13;fd_type=3;addr=192.168.1.102;port=57162
+03:00:42.498088  [INFO    ][on_fd_closed]fd=6
+03:00:42.498107  [DEBUG   ][CEpollServer::removeFd]fd=6;fd_type=2;addr=192.168.1.102;port=8001
+03:00:42.498153  [WARNING ][CEpollServer::ad

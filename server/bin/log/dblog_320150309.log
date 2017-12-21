@@ -1,0 +1,1045 @@
+00:00:00.359318  [DEBUG   ][CDbMgrServer::AddRecvMsg]u.GenLen()=69
+00:00:00.359774  [DEBUG   ][CDbMgrServer::AddRecvMsg]u.GenLen()=295
+00:00:00.359820  [DEBUG   ][CDbMgrServer::AddRecvMsg]u.GenLen()=290
+00:00:00.359856  [DEBUG   ][CDbMgrServer::AddRecvMsg]u.GenLen()=325
+00:00:00.359883  [DEBUG   ][CDbMgrServer::AddRecvMsg]u.GenLen()=324
+00:00:00.359915  [DEBUG   ][CDbMgrServer::AddRecvMsg]u.GenLen()=345
+00:00:00.359953  [DEBUG   ][CDbMgrServer::AddRecvMsg]u.GenLen()=559
+00:00:00.359986  [DEBUG   ][CDbMgrServer::AddRecvMsg]u.GenLen()=585
+00:00:00.369647  [WARNING ][CPluto::resize]msg=24673;old=256;new=4096
+00:00:00.369829  [DEBUG   ][CDbOper::TableSelect]len=775
+00:00:00.370443  [WARNING ][CPluto::resize]msg=24673;old=256;new=4096
+00:00:00.370483  [DEBUG   ][CDbOper::TableSelect]len=118
+00:00:00.370612  [DEBUG   ][CDbOper::TableSelect]len=770
+00:00:00.371056  [DEBUG   ][CDbOper::TableSelect]len=128
+00:00:00.371073  [WARNING ][CPluto::resize]msg=24673;old=256;new=4096
+00:00:00.371595  [DEBUG   ][CDbOper::TableSelect]len=464
+00:00:00.371662  [DEBUG   ][CDbOper::TableSelect]len=120
+00:00:00.371914  [DEBUG   ][CDbOper::TableSelect]len=125
+00:00:00.410427  [DEBUG   ][CDbMgrServer::HandleSendPluto]--------dbmgr.cpp-------- u.GenLen()=775
+00:00:00.410554  [DEBUG   ][CDbMgrServer::HandleSendPluto]--------dbmgr.cpp-------- u.GenLen()=118
+00:00:00.410581  [DEBUG   ][CDbMgrServer::HandleSendPluto]--------dbmgr.cpp-------- u.GenLen()=770
+00:00:00.410603  [DEBUG   ][CDbMgrServer::HandleSendPluto]--------dbmgr.cpp-------- u.GenLen()=128
+00:00:00.410623  [DEBUG   ][CDbMgrServer::HandleSendPluto]--------dbmgr.cpp-------- u.GenLen()=464
+00:00:00.410644  [DEBUG   ][CDbMgrServer::HandleSendPluto]--------dbmgr.cpp-------- u.GenLen()=120
+00:00:00.410664  [DEBUG   ][CDbMgrServer::HandleSendPluto]--------dbmgr.cpp-------- u.GenLen()=125
+00:00:05.056026  [DEBUG   ][CDbMgrServer::AddRecvMsg]u.GenLen()=57
+00:00:05.056079  [DEBUG   ][CDbMgrServer::AddRecvMsg]u.GenLen()=50
+00:00:05.163533  [INFO    ][redis_UpdateEntity]type=WorldBossMgr;dbid=4294967296;ret=MISCONF Redis is configured to save RDB snapshots, but is currently not able to persist on disk. Commands that may modify the data set are disabled. Please check Redis logs for details about the error.
+00:00:05.168130  [INFO    ][redis_UpdateEntity]type=ArenaMgr;dbid=4294967296;ret=MISCONF Redis is configured to save RDB snapshots, but is currently not able to persist on disk. Commands that may modify the data set are disabled. Please check Redis logs for details about the error.
+01:00:04.956978  [DEBUG   ][CDbMgrServer::AddRecvMsg]u.GenLen()=295
+01:00:04.957095  [DEBUG   ][CDbMgrServer::AddRecvMsg]u.GenLen()=290
+01:00:04.957120  [DEBUG   ][CDbMgrServer::AddRecvMsg]u.GenLen()=325
+01:00:04.957137  [DEBUG   ][CDbMgrServer::AddRecvMsg]u.GenLen()=324
+01:00:04.957152  [DEBUG   ][CDbMgrServer::AddRecvMsg]u.GenLen()=345
+01:00:04.957167  [DEBUG   ][CDbMgrServer::AddRecvMsg]u.GenLen()=559
+01:00:04.957181  [DEBUG   ][CDbMgrServer::AddRecvMsg]u.GenLen()=585
+01:00:04.981630  [WARNING ][CPluto::resize]msg=24673;old=256;new=4096
+01:00:04.981701  [DEBUG   ][CDbOper::TableSelect]len=775
+01:00:04.981919  [WARNING ][CPluto::resize]msg=24673;old=256;new=4096
+01:00:04.981960  [DEBUG   ][CDbOper::TableSelect]len=770
+01:00:04.982194  [DEBUG   ][CDbOper::TableSelect]len=118
+01:00:04.982466  [WARNING ][CPluto::resize]msg=24673;old=256;new=4096
+01:00:04.982501  [DEBUG   ][CDbOper::TableSelect]len=464
+01:00:04.982720  [DEBUG   ][CDbOper::TableSelect]len=128
+01:00:04.983043  [DEBUG   ][CDbOper::TableSelect]len=120
+01:00:04.983412  [DEBUG   ][CDbOper::TableSelect]len=125
+01:00:05.008086  [DEBUG   ][CDbMgrServer::HandleSendPluto]--------dbmgr.cpp-------- u.GenLen()=775
+01:00:05.008154  [DEBUG   ][CDbMgrServer::HandleSendPluto]--------dbmgr.cpp-------- u.GenLen()=770
+01:00:05.008166  [DEBUG   ][CDbMgrServer::HandleSendPluto]--------dbmgr.cpp-------- u.GenLen()=118
+01:00:05.008176  [DEBUG   ][CDbMgrServer::HandleSendPluto]--------dbmgr.cpp-------- u.GenLen()=464
+01:00:05.008185  [DEBUG   ][CDbMgrServer::HandleSendPluto]--------dbmgr.cpp-------- u.GenLen()=128
+01:00:05.008213  [DEBUG   ][CDbMgrServer::HandleSendPluto]--------dbmgr.cpp-------- u.GenLen()=120
+01:00:05.008224  [DEBUG   ][CDbMgrServer::HandleSendPluto]--------dbmgr.cpp-------- u.GenLen()=125
+02:00:07.957587  [DEBUG   ][CDbMgrServer::AddRecvMsg]u.GenLen()=295
+02:00:07.957672  [DEBUG   ][CDbMgrServer::AddRecvMsg]u.GenLen()=290
+02:00:07.957690  [DEBUG   ][CDbMgrServer::AddRecvMsg]u.GenLen()=325
+02:00:07.957745  [DEBUG   ][CDbMgrServer::AddRecvMsg]u.GenLen()=324
+02:00:07.957764  [DEBUG   ][CDbMgrServer::AddRecvMsg]u.GenLen()=345
+02:00:07.957780  [DEBUG   ][CDbMgrServer::AddRecvMsg]u.GenLen()=559
+02:00:07.957793  [DEBUG   ][CDbMgrServer::AddRecvMsg]u.GenLen()=585
+02:00:07.968181  [WARNING ][CPluto::resize]msg=24673;old=256;new=4096
+02:00:07.968249  [DEBUG   ][CDbOper::TableSelect]len=775
+02:00:07.968499  [WARNING ][CPluto::resize]msg=24673;old=256;new=4096
+02:00:07.968533  [DEBUG   ][CDbOper::TableSelect]len=770
+02:00:07.968771  [DEBUG   ][CDbOper::TableSelect]len=118
+02:00:07.969023  [WARNING ][CPluto::resize]msg=24673;old=256;new=4096
+02:00:07.969053  [DEBUG   ][CDbOper::TableSelect]len=464
+02:00:07.969273  [DEBUG   ][CDbOper::TableSelect]len=128
+02:00:07.969517  [DEBUG   ][CDbOper::TableSelect]len=120
+02:00:07.969754  [DEBUG   ][CDbOper::TableSelect]len=125
+02:00:08.008813  [DEBUG   ][CDbMgrServer::HandleSendPluto]--------dbmgr.cpp-------- u.GenLen()=775
+02:00:08.008880  [DEBUG   ][CDbMgrServer::HandleSendPluto]--------dbmgr.cpp-------- u.GenLen()=770
+02:00:08.008892  [DEBUG   ][CDbMgrServer::HandleSendPluto]--------dbmgr.cpp-------- u.GenLen()=118
+02:00:08.008902  [DEBUG   ][CDbMgrServer::HandleSendPluto]--------dbmgr.cpp-------- u.GenLen()=464
+02:00:08.008911  [DEBUG   ][CDbMgrServer::HandleSendPluto]--------dbmgr.cpp-------- u.GenLen()=128
+02:00:08.008920  [DEBUG   ][CDbMgrServer::HandleSendPluto]--------dbmgr.cpp-------- u.GenLen()=120
+02:00:08.008930  [DEBUG   ][CDbMgrServer::HandleSendPluto]--------dbmgr.cpp-------- u.GenLen()=125
+03:00:11.157139  [DEBUG   ][CDbMgrServer::AddRecvMsg]u.GenLen()=295
+03:00:11.157225  [DEBUG   ][CDbMgrServer::AddRecvMsg]u.GenLen()=290
+03:00:11.157244  [DEBUG   ][CDbMgrServer::AddRecvMsg]u.GenLen()=325
+03:00:11.157259  [DEBUG   ][CDbMgrServer::AddRecvMsg]u.GenLen()=324
+03:00:11.157301  [DEBUG   ][CDbMgrServer::AddRecvMsg]u.GenLen()=345
+03:00:11.157312  [DEBUG   ][CDbMgrServer::AddRecvMsg]u.GenLen()=559
+03:00:11.157323  [DEBUG   ][CDbMgrServer::AddRecvMsg]u.GenLen()=585
+03:00:11.179850  [WARNING ][CPluto::resize]msg=24673;old=256;new=4096
+03:00:11.179930  [DEBUG   ][CDbOper::TableSelect]len=775
+03:00:11.179965  [WARNING ][CPluto::resize]msg=24673;old=256;new=4096
+03:00:11.180011  [DEBUG   ][CDbOper::TableSelect]len=770
+03:00:11.180059  [DEBUG   ][CDbOper::TableSelect]len=128
+03:00:11.180149  [WARNING ][CPluto::resize]msg=24673;old=256;new=4096
+03:00:11.180373  [DEBUG   ][CDbOper::TableSelect]len=464
+03:00:11.180222  [DEBUG   ][CDbOper::TableSelect]len=125
+03:00:11.180251  [DEBUG   ][CDbOper::TableSelect]len=120
+03:00:11.180254  [DEBUG   ][CDbOper::TableSelect]len=118
+03:00:11.208332  [DEBUG   ][CDbMgrServer::HandleSendPluto]--------dbmgr.cpp-------- u.GenLen()=775
+03:00:11.208396  [DEBUG   ][CDbMgrServer::HandleSendPluto]--------dbmgr.cpp-------- u.GenLen()=770
+03:00:11.208416  [DEBUG   ][CDbMgrServer::HandleSendPluto]--------dbmgr.cpp-------- u.GenLen()=128
+03:00:11.208432  [DEBUG   ][CDbMgrServer::HandleSendPluto]--------dbmgr.cpp-------- u.GenLen()=125
+03:00:11.208448  [DEBUG   ][CDbMgrServer::HandleSendPluto]--------dbmgr.cpp-------- u.GenLen()=120
+03:00:11.208463  [DEBUG   ][CDbMgrServer::HandleSendPluto]--------dbmgr.cpp-------- u.GenLen()=118
+03:00:11.208478  [DEBUG   ][CDbMgrServer::HandleSendPluto]--------dbmgr.cpp-------- u.GenLen()=464
+03:30:25.550855  [INFO    ][on_fd_closed]fd=23
+03:30:25.550981  [DEBUG   ][CEpollServer::removeFd]fd=23;fd_type=3;addr=192.168.1.102;port=49270
+03:30:25.860236  [INFO    ][on_fd_closed]fd=7
+03:30:25.860402  [DEBUG   ][CEpollServer::removeFd]fd=7;fd_type=2;addr=192.168.1.102;port=8001
+03:30:25.975690  [WARNING ][CEpollServer::addFdAndMb_err]desc=old_fd_mb;fd=7
+03:30:25.975785  [DEBUG   ][CEpollServer::addFdAndMb]fd=7;fd_type=2;addr=192.168.1.102;port=8001;authz=0
+03:30:25.975850  [WARNING ][handle_message_err]failed, 111,'Connection refused'
+03:30:25.975889  [INFO    ][on_fd_closed]fd=7
+03:30:25.975914  [DEBUG   ][CEpollServer::removeFd]fd=7;fd_type=2;addr=192.168.1.102;port=8001
+07:41:16.728698  [DEBUG   ][CWorldDbmgr::init()]a=1
+07:41:16.783523  [WARNING ][init_cfg]warning:missed section:server_8
+07:41:16.783606  [WARNING ][init_cfg]warning:missed section:server_9
+07:41:16.783633  [WARNING ][init_cfg]warning:missed section:server_10
+07:41:16.783655  [WARNING ][init_cfg]warning:missed section:server_11
+07:41:16.783677  [WARNING ][init_cfg]warning:missed section:server_12
+07:41:16.783697  [WARNING ][init_cfg]warning:missed section:server_13
+07:41:16.783718  [WARNING ][init_cfg]warning:missed section:server_14
+07:41:16.783738  [WARNING ][init_cfg]warning:missed section:server_15
+07:41:16.783759  [WARNING ][init_cfg]warning:missed section:server_16
+07:41:16.783779  [WARNING ][init_cfg]warning:missed section:server_17
+07:41:16.783800  [WARNING ][init_cfg]warning:missed section:server_18
+07:41:16.783820  [WARNING ][init_cfg]warning:missed section:server_19
+07:41:16.783840  [WARNING ][init_cfg]warning:missed section:server_20
+07:41:16.783860  [WARNING ][init_cfg]warning:missed section:server_21
+07:41:16.783880  [WARNING ][init_cfg]warning:missed section:server_22
+07:41:16.783900  [WARNING ][init_cfg]warning:missed section:server_23
+07:41:16.783920  [WARNING ][init_cfg]warning:missed section:server_24
+07:41:16.783940  [WARNING ][init_cfg]warning:missed section:server_25
+07:41:16.783960  [WARNING ][init_cfg]warning:missed section:server_26
+07:41:16.783980  [WARNING ][init_cfg]warning:missed section:server_27
+07:41:16.784001  [WARNING ][init_cfg]warning:missed section:server_28
+07:41:16.784021  [WARNING ][init_cfg]warning:missed section:server_29
+07:41:16.784525  [DEBUG   ][CDefParser::init]==========
+07:41:16.821109  [DEBUG   ][CDefParser::init]m_EntityDefMd5 = e5a2d6e9b88cff1622d5b58a25f71496
+07:41:16.821546  [DEBUG   ][CDefParser::init]==========
+07:41:16.847337  [DEBUG   ][CDefParser::init]m_EntityDefMd5 = e5a2d6e9b88cff1622d5b58a25f71496
+07:41:16.847564  [INFO    ][world::initNextEntityId]init_id=50331648
+07:41:16.848162  [DEBUG   ][CEpollServer::AddFdAndMb]serverName=
+07:41:16.848215  [DEBUG   ][CEpollServer::addFdAndMb]fd=4;fd_type=1;addr=;port=8003;authz=0
+07:41:16.848255  [DEBUG   ][start_server]:8003,success.
+07:41:16.848418  [DEBUG   ][CEpollServer::addFdAndMb]fd=7;fd_type=2;addr=192.168.1.102;port=8001;authz=0
+07:41:16.848438  [DEBUG   ][try_to_connect_mailbox]server=192.168.1.102;port=8001
+07:41:16.848522  [DEBUG   ][CEpollServer::addFdAndMb]fd=8;fd_type=2;addr=192.168.1.102;port=8002;authz=0
+07:41:16.848544  [DEBUG   ][try_to_connect_mailbox]server=192.168.1.102;port=8002
+07:41:16.848611  [DEBUG   ][CEpollServer::addFdAndMb]fd=9;fd_type=2;addr=192.168.1.102;port=8004;authz=0
+07:41:16.848632  [DEBUG   ][try_to_connect_mailbox]server=192.168.1.102;port=8004
+07:41:16.848782  [DEBUG   ][CEpollServer::addFdAndMb]fd=10;fd_type=2;addr=192.168.1.102;port=8005;authz=0
+07:41:16.848799  [DEBUG   ][try_to_connect_mailbox]server=192.168.1.102;port=8005
+07:41:16.848839  [DEBUG   ][CEpollServer::addFdAndMb]fd=12;fd_type=2;addr=192.168.1.102;port=8006;authz=0
+07:41:16.848854  [DEBUG   ][try_to_connect_mailbox]server=192.168.1.102;port=8006
+07:41:16.848880  [DEBUG   ][CEpollServer::addFdAndMb]fd=13;fd_type=2;addr=192.168.1.102;port=8007;authz=0
+07:41:16.848892  [DEBUG   ][try_to_connect_mailbox]server=192.168.1.102;port=8007
+07:41:16.848910  [INFO    ][connected_2_mb]mb fd = 7 connected severName = 192.168.1.102, port = 8001,
+07:41:16.848921  [INFO    ][connected_2_mb]mb fd = 8 connected severName = 192.168.1.102, port = 8002,
+07:41:16.848930  [INFO    ][connected_2_mb]mb fd = 9 connected severName = 192.168.1.102, port = 8004,
+07:41:16.848939  [INFO    ][connected_2_mb]mb fd = 10 connected severName = 192.168.1.102, port = 8005,
+07:41:16.848957  [INFO    ][connect_2_mb]connect 192.168.1.102:8006 error:111,Connection refused
+07:41:16.849032  [DEBUG   ][CEpollServer::removeFd]fd=12;fd_type=2;addr=192.168.1.102;port=8006
+07:41:16.849057  [INFO    ][connect_2_mb]connect 192.168.1.102:8007 error:111,Connection refused
+07:41:16.849067  [DEBUG   ][CEpollServer::removeFd]fd=13;fd_type=2;addr=192.168.1.102;port=8007
+07:41:16.851832  [INFO    ][redis_connect]SELECT 1
+07:41:16.852268  [INFO    ][redis_connect]SELECT 1
+07:41:16.852666  [INFO    ][redis_connect]SELECT 1
+07:41:16.852818  [INFO    ][redis_connect]SELECT 1
+07:41:20.105128  [INFO    ][new_connection]connected from 192.168.1.102:35863, assigned socket is:20
+07:41:20.105167  [DEBUG   ][CEpollServer::AddFdAndMb]serverName=192.168.1.102
+07:41:20.105219  [DEBUG   ][CEpollServer::AddFdAndMb]client_trusted, serverName=192.168.1.102
+07:41:20.105232  [DEBUG   ][CEpollServer::addFdAndMb]fd=20;fd_type=3;addr=192.168.1.102;port=35863;authz=15
+07:41:20.687208  [INFO    ][new_connection]connected from 192.168.1.102:35869, assigned socket is:21
+07:41:20.687243  [DEBUG   ][CEpollServer::AddFdAndMb]serverName=192.168.1.102
+07:41:20.687277  [DEBUG   ][CEpollServer::AddFdAndMb]client_trusted, serverName=192.168.1.102
+07:41:20.687292  [DEBUG   ][CEpollServer::addFdAndMb]fd=21;fd_type=3;addr=192.168.1.102;port=35869;authz=15
+07:41:21.096191  [DEBUG   ][CEpollServer::addFdAndMb]fd=13;fd_type=2;addr=192.168.1.102;port=8007;authz=0
+07:41:21.096380  [DEBUG   ][CEpollServer::addFdAndMb]fd=12;fd_type=2;addr=192.168.1.102;port=8006;authz=0
+07:41:21.096499  [INFO    ][new_connection]connected from 192.168.1.102:35875, assigned socket is:22
+07:41:21.096546  [DEBUG   ][CEpollServer::AddFdAndMb]serverName=192.168.1.102
+07:41:21.096570  [DEBUG   ][CEpollServer::AddFdAndMb]client_trusted, serverName=192.168.1.102
+07:41:21.096593  [DEBUG   ][CEpollServer::addFdAndMb]fd=22;fd_type=3;addr=192.168.1.102;port=35875;authz=15
+07:41:21.096705  [DEBUG   ][CDbMgrServer::AddRecvMsg]u.GenLen()=28
+07:41:21.096756  [DEBUG   ][CDbMgrServer::AddRecvMsg]u.GenLen()=22
+07:41:21.096783  [INFO    ][connected_2_mb]mb fd = 13 connected severName = 192.168.1.102, port = 8007,
+07:41:21.096805  [INFO    ][connected_2_mb]mb fd = 12 connected severName = 192.168.1.102, port = 8006,
+07:41:21.096850  [INFO    ][new_connection]connected from 192.168.1.102:35879, assigned socket is:23
+07:41:21.096881  [DEBUG   ][CEpollServer::AddFdAndMb]serverName=192.168.1.102
+07:41:21.096902  [DEBUG   ][CEpollServer::AddFdAndMb]client_trusted, serverName=192.168.1.102
+07:41:21.096923  [DEBUG   ][CEpollServer::addFdAndMb]fd=23;fd_type=3;addr=192.168.1.102;port=35879;authz=15
+07:41:21.096949  [DEBUG   ][CDbMgrServer::AddRecvMsg]u.GenLen()=31
+07:41:21.096973  [DEBUG   ][CDbMgrServer::AddRecvMsg]u.GenLen()=39
+07:41:21.096997  [DEBUG   ][CDbMgrServer::AddRecvMsg]u.GenLen()=41
+07:41:21.097020  [DEBUG   ][CDbMgrServer::AddRecvMsg]u.GenLen()=37
+07:41:21.097247  [INFO    ][new_connection]connected from 192.168.1.102:35883, assigned socket is:24
+07:41:21.097307  [DEBUG   ][CEpollServer::AddFdAndMb]serverName=192.168.1.102
+07:41:21.097332  [DEBUG   ][CEpollServer::AddFdAndMb]client_trusted, serverName=192.168.1.102
+07:41:21.097355  [DEBUG   ][CEpollServer::addFdAndMb]fd=24;fd_type=3;addr=192.168.1.102;port=35883;authz=15
+07:41:21.116702  [DEBUG   ][CWorldDbmgr::LookupEntityByName]----------LookupEntityByName---START-------------------
+07:41:21.118663  [DEBUG   ][CWorldDbmgr::LookupEntityByName]---------NON WIN32-------u.GenLen()=61
+07:41:21.118758  [DEBUG   ][CWorldDbmgr::LookupEntityByName]----------LookupEntityByName---START-------------------
+07:41:21.119243  [DEBUG   ][CWorldDbmgr::LookupEntityByName]---------NON WIN32-------u.GenLen()=72
+07:41:21.119318  [DEBUG   ][CWorldDbmgr::LookupEntityByName]----------LookupEntityByName---START-------------------
+07:41:21.119997  [DEBUG   ][CWorldDbmgr::LookupEntityByName]---------NON WIN32-------u.GenLen()=77
+07:41:21.120074  [DEBUG   ][CWorldDbmgr::LookupEntityByName]----------LookupEntityByName---START-------------------
+07:41:21.120570  [DEBUG   ][CWorldDbmgr::LookupEntityByName]---------NON WIN32-------u.GenLen()=67
+07:41:21.135994  [INFO    ][redis_UpdateEntity]type=mgr_compensate;dbid=4294967381;ret=OK
+07:41:21.136080  [DEBUG   ][CDbOper::InsertDB]u.GenLen()=30
+07:41:21.148030  [DEBUG   ][CDbMgrServer::HandleSendPluto]--------dbmgr.cpp-------- u.GenLen()=61
+07:41:21.148101  [DEBUG   ][CDbMgrServer::HandleSendPluto]--------dbmgr.cpp-------- u.GenLen()=72
+07:41:21.148123  [DEBUG   ][CDbMgrServer::HandleSendPluto]--------dbmgr.cpp-------- u.GenLen()=77
+07:41:21.148142  [DEBUG   ][CDbMgrServer::HandleSendPluto]--------dbmgr.cpp-------- u.GenLen()=67
+07:41:21.148160  [DEBUG   ][CDbMgrServer::HandleSendPluto]--------dbmgr.cpp-------- u.GenLen()=30
+07:41:21.160491  [INFO    ][redis_UpdateEntity]type=ChargeMgr;dbid=4294967381;ret=OK
+07:41:21.160577  [DEBUG   ][CDbOper::InsertDB]u.GenLen()=30
+07:41:21.198648  [DEBUG   ][CDbMgrServer::HandleSendPluto]--------dbmgr.cpp-------- u.GenLen()=30
+07:41:21.244019  [DEBUG   ][CDbMgrServer::AddRecvMsg]u.GenLen()=88
+07:41:21.244168  [DEBUG   ][CDbMgrServer::AddRecvMsg]u.GenLen()=239
+07:41:21.244256  [DEBUG   ][CDbMgrServer::AddRecvMsg]u.GenLen()=17
+07:41:21.244334  [DEBUG   ][CDbMgrServer::AddRecvMsg]u.GenLen()=25
+07:41:21.263761  [DEBUG   ][CDbOper::TableSelect]len=54
+07:41:21.264786  [DEBUG   ][CDbOper::TableSelect]len=136
+07:41:21.294598  [DEBUG   ][CDbMgrServer::HandleSendPluto]--------dbmgr.cpp-------- u.GenLen()=54
+07:41:21.294700  [DEBUG   ][CDbMgrServer::HandleSendPluto]--------dbmgr.cpp-------- u.GenLen()=136
+07:41:21.294734  [DEBUG   ][CDbMgrServer::HandleSendPluto]--------dbmgr.cpp-------- u.GenLen()=19
+07:41:21.294759  [DEBUG   ][CDbMgrServer::HandleSendPluto]--------dbmgr.cpp-------- u.GenLen()=86
+07:41:21.295110  [DEBUG   ][CDbMgrServer::HandleSendPluto]--------dbmgr.cpp-------- u.GenLen()=86
+07:41:21.295158  [DEBUG   ][CDbMgrServer::HandleSendPluto]--------dbmgr.cpp-------- u.GenLen()=27
+07:41:21.319873  [DEBUG   ][CDbMgrServer::AddRecvMsg]u.GenLen()=361
+07:41:21.329752  [DEBUG   ][CDbMgrServer::AddRecvMsg]u.GenLen()=21
+07:41:21.329841  [DEBUG   ][CDbMgrServer::AddRecvMsg]u.GenLen()=25
+07:41:21.329908  [DEBUG   ][CDbMgrServer::AddRecvMsg]u.GenLen()=104
+07:41:21.329972  [DEBUG   ][CDbMgrServer::AddRecvMsg]u.GenLen()=213
+07:41:21.338314  [WARNING ][CPluto::resize]msg=24673;old=256;new=4096
+07:41:21.338393  [DEBUG   ][CDbOper::TableSelect]len=1643
+07:41:21.339096  [DEBUG   ][CDbOper::TableSelect]len=63
+07:41:21.380198  [DEBUG   ][CDbMgrServer::HandleSendPluto]--------dbmgr.cpp-------- u.GenLen()=1643
+07:41:21.380274  [DEBUG   ][CDbMgrServer::HandleSendPluto]--------dbmgr.cpp-------- u.GenLen()=23
+07:41:21.380295  [DEBUG   ][CDbMgrServer::HandleSendPluto]--------dbmgr.cpp-------- u.GenLen()=27
+07:41:21.380311  [DEBUG   ][CDbMgrServer::HandleSendPluto]--------dbmgr.cpp-------- u.GenLen()=63
+07:41:21.380324  [DEBUG   ][CDbMgrServer::HandleSendPluto]--------dbmgr.cpp-------- u.GenLen()=158
+07:41:21.424452  [DEBUG   ][CDbMgrServer::AddRecvMsg]u.GenLen()=56
+07:41:21.424506  [DEBUG   ][CDbMgrServer::AddRecvMsg]u.GenLen()=56
+07:41:21.424529  [DEBUG   ][CDbMgrServer::AddRecvMsg]u.GenLen()=295
+07:41:21.424548  [DEBUG   ][CDbMgrServer::AddRecvMsg]u.GenLen()=290
+07:41:21.424566  [DEBUG   ][CDbMgrServer::AddRecvMsg]u.GenLen()=325
+07:41:21.424584  [DEBUG   ][CDbMgrServer::AddRecvMsg]u.GenLen()=324
+07:41:21.424601  [DEBUG   ][CDbMgrServer::AddRecvMsg]u.GenLen()=345
+07:41:21.424618  [DEBUG   ][CDbMgrServer::AddRecvMsg]u.GenLen()=559
+07:41:21.424735  [DEBUG   ][CDbMgrServer::AddRecvMsg]u.GenLen()=585
+07:41:21.424756  [DEBUG   ][CDbMgrServer::AddRecvMsg]u.GenLen()=72
+07:41:21.441459  [WARNING ][CPluto::resize]msg=24673;old=256;new=4096
+07:41:21.441533  [DEBUG   ][CDbOper::TableSelect]len=775
+07:41:21.441881  [WARNING ][CPluto::resize]msg=24673;old=256;new=4096
+07:41:21.441928  [DEBUG   ][CDbOper::TableSelect]len=770
+07:41:21.442222  [DEBUG   ][CDbOper::TableSelect]len=118
+07:41:21.445373  [DEBUG   ][CDbOper::TableSelect]len=120
+07:41:21.445542  [DEBUG   ][CDbOper::TableSelect]len=128
+07:41:21.446336  [DEBUG   ][CDbOper::TableSelect]len=125
+07:41:21.446711  [WARNING ][CPluto::resize]msg=24673;old=256;new=4096
+07:41:21.446806  [DEBUG   ][CDbOper::TableSelect]len=464
+07:41:21.475502  [DEBUG   ][CDbMgrServer::HandleSendPluto]--------dbmgr.cpp-------- u.GenLen()=40
+07:41:21.475574  [DEBUG   ][CDbMgrServer::HandleSendPluto]--------dbmgr.cpp-------- u.GenLen()=40
+07:41:21.475591  [DEBUG   ][CDbMgrServer::HandleSendPluto]--------dbmgr.cpp-------- u.GenLen()=775
+07:41:21.475605  [DEBUG   ][CDbMgrServer::HandleSendPluto]--------dbmgr.cpp-------- u.GenLen()=770
+07:41:21.475619  [DEBUG   ][CDbMgrServer::HandleSendPluto]--------dbmgr.cpp-------- u.GenLen()=118
+07:41:21.475633  [DEBUG   ][CDbMgrServer::HandleSendPluto]--------dbmgr.cpp-------- u.GenLen()=120
+07:41:21.475646  [DEBUG   ][CDbMgrServer::HandleSendPluto]--------dbmgr.cpp-------- u.GenLen()=128
+07:41:21.475659  [DEBUG   ][CDbMgrServer::HandleSendPluto]--------dbmgr.cpp-------- u.GenLen()=48
+07:41:21.475673  [DEBUG   ][CDbMgrServer::HandleSendPluto]--------dbmgr.cpp-------- u.GenLen()=125
+07:41:21.475686  [DEBUG   ][CDbMgrServer::HandleSendPluto]--------dbmgr.cpp-------- u.GenLen()=464
+07:41:21.705812  [INFO    ][new_connection]connected from 192.168.1.102:35890, assigned socket is:25
+07:41:21.705940  [DEBUG   ][CEpollServer::AddFdAndMb]serverName=192.168.1.102
+07:41:21.705967  [DEBUG   ][CEpollServer::AddFdAndMb]client_trusted, serverName=192.168.1.102
+07:41:21.705992  [DEBUG   ][CEpollServer::addFdAndMb]fd=25;fd_type=3;addr=192.168.1.102;port=35890;authz=15
+07:41:25.212672  [DEBUG   ][CDbMgrServer::AddRecvMsg]u.GenLen()=62
+07:41:25.212730  [DEBUG   ][CDbMgrServer::AddRecvMsg]u.GenLen()=62
+07:41:25.212747  [DEBUG   ][CDbMgrServer::AddRecvMsg]u.GenLen()=77
+07:41:25.212761  [DEBUG   ][CDbMgrServer::AddRecvMsg]u.GenLen()=66
+07:41:25.212774  [DEBUG   ][CDbMgrServer::AddRecvMsg]u.GenLen()=66
+07:41:25.214765  [DEBUG   ][CDbOper::TableSelect]len=106
+07:41:25.263824  [DEBUG   ][CDbMgrServer::HandleSendPluto]--------dbmgr.cpp-------- u.GenLen()=43
+07:41:25.263958  [DEBUG   ][CDbMgrServer::HandleSendPluto]--------dbmgr.cpp-------- u.GenLen()=43
+07:41:25.263985  [DEBUG   ][CDbMgrServer::HandleSendPluto]--------dbmgr.cpp-------- u.GenLen()=106
+07:41:25.264005  [DEBUG   ][CDbMgrServer::HandleSendPluto]--------dbmgr.cpp-------- u.GenLen()=45
+07:41:25.264024  [DEBUG   ][CDbMgrServer::HandleSendPluto]--------dbmgr.cpp-------- u.GenLen()=45
+07:44:14.213548  [DEBUG   ][CDbMgrServer::AddRecvMsg]u.GenLen()=40
+07:44:14.244075  [DEBUG   ][CWorldDbmgr::SelectAccount]--------------- SelectAccount Error ----- p->size()=3
+07:44:14.244143  [DEBUG   ][CWorldDbmgr::SelectAccount]-----------nServerId=1; nFd=18
+07:44:14.244154  [DEBUG   ][CWorldDbmgr::SelectAccount]--------------- s1=111111@test; s2=111111@test; nServerId=1; nFd=18
+07:44:14.244165  [DEBUG   ][CDbOper::SelectAccount]-------------- SelectAccount() --------------
+07:44:14.244174  [DEBUG   ][CDbOper::SelectAccount]------------- SelectAccount -------- szSql=select sm_name from tbl_Account where sm_name='111111@test'
+07:44:14.244769  [DEBUG   ][CDbOper::SelectAccount]---------------- MSGID_LOGINAPP_SELECT_ACCOUNT_CALLBACK ----------------
+07:44:14.244823  [DEBUG   ][CWorldDbmgr::SelectAccount]u.GenLen()=26
+07:44:14.244843  [WARNING ][from_rpc_call]------------- MSGID_DBMGR_SELECT_ACCOUNT ------- rmsg_id=12293;ret=0
+
+07:44:14.264285  [DEBUG   ][CDbMgrServer::HandleSendPluto]--------dbmgr.cpp-------- u.GenLen()=26
+07:44:14.270893  [DEBUG   ][CDbMgrServer::AddRecvMsg]u.GenLen()=33
+07:44:14.295450  [DEBUG   ][CWorldDbmgr::LookupEntityByName]----------LookupEntityByName---START-------------------
+07:44:14.296232  [DEBUG   ][CWorldDbmgr::LookupEntityByName]---------NON WIN32-------u.GenLen()=174
+07:44:14.321861  [DEBUG   ][CDbMgrServer::HandleSendPluto]--------dbmgr.cpp-------- u.GenLen()=174
+07:44:30.400299  [DEBUG   ][CDbMgrServer::AddRecvMsg]u.GenLen()=30
+07:44:30.405123  [WARNING ][CPluto::resize]msg=24581;old=256;new=4096
+07:44:30.405429  [DEBUG   ][CWorldDbmgr::LookupEntityByDbId]u.GenLen()=1775
+07:44:30.450617  [DEBUG   ][CDbMgrServer::HandleSendPluto]--------dbmgr.cpp-------- u.GenLen()=1775
+07:44:30.454222  [DEBUG   ][CDbMgrServer::AddRecvMsg]u.GenLen()=160
+07:44:30.460081  [DEBUG   ][CDbMgrServer::AddRecvMsg]u.GenLen()=62
+07:44:30.462135  [INFO    ][redis_UpdateEntity]type=Account;dbid=4294967297;ret=OK
+07:44:30.510600  [DEBUG   ][CDbMgrServer::HandleSendPluto]--------dbmgr.cpp-------- u.GenLen()=43
+07:44:30.511359  [DEBUG   ][CDbMgrServer::AddRecvMsg]u.GenLen()=229
+07:44:30.513119  [DEBUG   ][CDbOper::TableSelect]len=143
+07:44:30.561528  [DEBUG   ][CDbMgrServer::HandleSendPluto]--------dbmgr.cpp-------- u.GenLen()=143
+07:45:00.907100  [DEBUG   ][CDbMgrServer::AddRecvMsg]u.GenLen()=285
+07:45:00.936114  [DEBUG   ][CDbOper::InsertDB]u.GenLen()=20
+07:45:00.958139  [DEBUG   ][CDbMgrServer::HandleSendPluto]--------dbmgr.cpp-------- u.GenLen()=20
+07:49:38.405907  [DEBUG   ][CDbMgrServer::AddRecvMsg]u.GenLen()=40
+07:49:38.416384  [DEBUG   ][CWorldDbmgr::SelectAccount]--------------- SelectAccount Error ----- p->size()=3
+07:49:38.416471  [DEBUG   ][CWorldDbmgr::SelectAccount]-----------nServerId=1; nFd=18
+07:49:38.416485  [DEBUG   ][CWorldDbmgr::SelectAccount]--------------- s1=111111@test; s2=111111@test; nServerId=1; nFd=18
+07:49:38.416504  [DEBUG   ][CDbOper::SelectAccount]-------------- SelectAccount() --------------
+07:49:38.416518  [DEBUG   ][CDbOper::SelectAccount]------------- SelectAccount -------- szSql=select sm_name from tbl_Account where sm_name='111111@test'
+07:49:38.418103  [DEBUG   ][CDbOper::SelectAccount]---------------- MSGID_LOGINAPP_SELECT_ACCOUNT_CALLBACK ----------------
+07:49:38.418245  [DEBUG   ][CWorldDbmgr::SelectAccount]u.GenLen()=26
+07:49:38.418264  [WARNING ][from_rpc_call]------------- MSGID_DBMGR_SELECT_ACCOUNT ------- rmsg_id=12293;ret=0
+
+07:49:38.456322  [DEBUG   ][CDbMgrServer::HandleSendPluto]--------dbmgr.cpp-------- u.GenLen()=26
+07:49:38.457780  [DEBUG   ][CDbMgrServer::AddRecvMsg]u.GenLen()=33
+07:49:38.467362  [DEBUG   ][CWorldDbmgr::LookupEntityByName]----------LookupEntityByName---START-------------------
+07:49:38.467454  [INFO    ][CWorldDbmgr::LookEntityByName]-------------LookupEntityByName---------entity exists;key=111111@test;eid=50331655;baseapp=6
+07:49:38.467479  [DEBUG   ][CWorldDbmgr::LookupEntityByName]---------------LookupEntityByName-----u.GenLen()=12
+07:49:38.508298  [DEBUG   ][CDbMgrServer::HandleSendPluto]--------dbmgr.cpp-------- u.GenLen()=12
+07:49:38.512818  [DEBUG   ][CDbMgrServer::AddRecvMsg]u.GenLen()=1878
+07:49:38.570098  [INFO    ][redis_UpdateEntity]type=Avatar;dbid=4294967297;ret=MISCONF Redis is configured to save RDB snapshots, but is currently not able to persist on disk. Commands that may modify the data set are disabled. Please check Redis logs for details about the error.
+07:50:19.974223  [DEBUG   ][CDbMgrServer::AddRecvMsg]u.GenLen()=30
+07:50:20.017550  [WARNING ][CPluto::resize]msg=24581;old=256;new=4096
+07:50:20.017861  [DEBUG   ][CWorldDbmgr::LookupEntityByDbId]u.GenLen()=1874
+07:50:20.025457  [DEBUG   ][CDbMgrServer::HandleSendPluto]--------dbmgr.cpp-------- u.GenLen()=1874
+07:50:20.031007  [DEBUG   ][CDbMgrServer::AddRecvMsg]u.GenLen()=160
+07:50:20.078108  [INFO    ][redis_UpdateEntity]type=Account;dbid=4294967297;ret=MISCONF Redis is configured to save RDB snapshots, but is currently not able to persist on disk. Commands that may modify the data set are disabled. Please check Redis logs for details about the error.
+07:51:28.495672  [DEBUG   ][CDbMgrServer::AddRecvMsg]u.GenLen()=50
+07:51:28.495737  [DEBUG   ][CDbMgrServer::AddRecvMsg]u.GenLen()=57
+07:51:28.495757  [DEBUG   ][CDbMgrServer::AddRecvMsg]u.GenLen()=61
+07:51:28.502204  [INFO    ][redis_UpdateEntity]type=ArenaMgr;dbid=4294967296;ret=MISCONF Redis is configured to save RDB snapshots, but is currently not able to persist on disk. Commands that may modify the data set are disabled. Please check Redis logs for details about the error.
+07:51:28.504946  [INFO    ][redis_UpdateEntity]type=WorldBossMgr;dbid=4294967296;ret=MISCONF Redis is configured to save RDB snapshots, but is currently not able to persist on disk. Commands that may modify the data set are disabled. Please check Redis logs for details about the error.
+07:51:28.507400  [INFO    ][redis_UpdateEntity]type=GlobalDataMgr;dbid=4294967296;ret=MISCONF Redis is configured to save RDB snapshots, but is currently not able to persist on disk. Commands that may modify the data set are disabled. Please check Redis logs for details about the error.
+07:56:46.938890  [INFO    ][on_fd_closed]fd=23
+07:56:46.939038  [DEBUG   ][CEpollServer::removeFd]fd=23;fd_type=3;addr=192.168.1.102;port=35879
+07:56:46.941201  [INFO    ][on_fd_closed]fd=7
+07:56:46.941280  [DEBUG   ][CEpollServer::removeFd]fd=7;fd_type=2;addr=192.168.1.102;port=8001
+07:56:46.941373  [WARNING ][CEpollServer::addFdAndMb_err]desc=old_fd_mb;fd=7
+07:56:46.941408  [DEBUG   ][CEpollServer::addFdAndMb]fd=7;fd_type=2;addr=192.168.1.102;port=8001;authz=0
+07:56:46.941458  [WARNING ][handle_message_err]failed, 111,'Connection refused'
+07:56:46.941717  [INFO    ][on_fd_closed]fd=7
+07:56:46.941744  [DEBUG   ][CEpollServer::removeFd]fd=7;fd_type=2;addr=192.168.1.102;port=8001
+08:19:10.326685  [DEBUG   ][CWorldDbmgr::init()]a=1
+08:19:10.611356  [WARNING ][init_cfg]warning:missed section:server_8
+08:19:10.611886  [WARNING ][init_cfg]warning:missed section:server_9
+08:19:10.611942  [WARNING ][init_cfg]warning:missed section:server_10
+08:19:10.611982  [WARNING ][init_cfg]warning:missed section:server_11
+08:19:10.612024  [WARNING ][init_cfg]warning:missed section:server_12
+08:19:10.612062  [WARNING ][init_cfg]warning:missed section:server_13
+08:19:10.612103  [WARNING ][init_cfg]warning:missed section:server_14
+08:19:10.612145  [WARNING ][init_cfg]warning:missed section:server_15
+08:19:10.612184  [WARNING ][init_cfg]warning:missed section:server_16
+08:19:10.612225  [WARNING ][init_cfg]warning:missed section:server_17
+08:19:10.612265  [WARNING ][init_cfg]warning:missed section:server_18
+08:19:10.612305  [WARNING ][init_cfg]warning:missed section:server_19
+08:19:10.612345  [WARNING ][init_cfg]warning:missed section:server_20
+08:19:10.612409  [WARNING ][init_cfg]warning:missed section:server_21
+08:19:10.612455  [WARNING ][init_cfg]warning:missed section:server_22
+08:19:10.612494  [WARNING ][init_cfg]warning:missed section:server_23
+08:19:10.612534  [WARNING ][init_cfg]warning:missed section:server_24
+08:19:10.612574  [WARNING ][init_cfg]warning:missed section:server_25
+08:19:10.612614  [WARNING ][init_cfg]warning:missed section:server_26
+08:19:10.612654  [WARNING ][init_cfg]warning:missed section:server_27
+08:19:10.612694  [WARNING ][init_cfg]warning:missed section:server_28
+08:19:10.612734  [WARNING ][init_cfg]warning:missed section:server_29
+08:19:10.613452  [DEBUG   ][CDefParser::init]==========
+08:19:10.684190  [DEBUG   ][CDefParser::init]m_EntityDefMd5 = e5a2d6e9b88cff1622d5b58a25f71496
+08:19:10.684666  [DEBUG   ][CDefParser::init]==========
+08:19:10.720351  [DEBUG   ][CDefParser::init]m_EntityDefMd5 = e5a2d6e9b88cff1622d5b58a25f71496
+08:19:10.720634  [INFO    ][world::initNextEntityId]init_id=50331648
+08:19:10.721075  [DEBUG   ][CEpollServer::AddFdAndMb]serverName=
+08:19:10.721106  [DEBUG   ][CEpollServer::addFdAndMb]fd=4;fd_type=1;addr=;port=8003;authz=0
+08:19:10.721117  [DEBUG   ][start_server]:8003,success.
+08:19:10.721201  [DEBUG   ][CEpollServer::addFdAndMb]fd=7;fd_type=2;addr=192.168.1.102;port=8001;authz=0
+08:19:10.721226  [DEBUG   ][try_to_connect_mailbox]server=192.168.1.102;port=8001
+08:19:10.721400  [DEBUG   ][CEpollServer::addFdAndMb]fd=8;fd_type=2;addr=192.168.1.102;port=8002;authz=0
+08:19:10.721423  [DEBUG   ][try_to_connect_mailbox]server=192.168.1.102;port=8002
+08:19:10.721606  [DEBUG   ][CEpollServer::addFdAndMb]fd=9;fd_type=2;addr=192.168.1.102;port=8004;authz=0
+08:19:10.721624  [DEBUG   ][try_to_connect_mailbox]server=192.168.1.102;port=8004
+08:19:10.721765  [DEBUG   ][CEpollServer::addFdAndMb]fd=11;fd_type=2;addr=192.168.1.102;port=8005;authz=0
+08:19:10.721782  [DEBUG   ][try_to_connect_mailbox]server=192.168.1.102;port=8005
+08:19:10.721815  [DEBUG   ][CEpollServer::addFdAndMb]fd=12;fd_type=2;addr=192.168.1.102;port=8006;authz=0
+08:19:10.721830  [DEBUG   ][try_to_connect_mailbox]server=192.168.1.102;port=8006
+08:19:10.721907  [DEBUG   ][CEpollServer::addFdAndMb]fd=13;fd_type=2;addr=192.168.1.102;port=8007;authz=0
+08:19:10.721926  [DEBUG   ][try_to_connect_mailbox]server=192.168.1.102;port=8007
+08:19:10.721944  [INFO    ][connected_2_mb]mb fd = 7 connected severName = 192.168.1.102, port = 8001,
+08:19:10.721954  [INFO    ][connected_2_mb]mb fd = 8 connected severName = 192.168.1.102, port = 8002,
+08:19:10.721963  [INFO    ][connected_2_mb]mb fd = 9 connected severName = 192.168.1.102, port = 8004,
+08:19:10.721971  [INFO    ][connected_2_mb]mb fd = 11 connected severName = 192.168.1.102, port = 8005,
+08:19:10.721989  [INFO    ][connect_2_mb]connect 192.168.1.102:8006 error:111,Connection refused
+08:19:10.721999  [DEBUG   ][CEpollServer::removeFd]fd=12;fd_type=2;addr=192.168.1.102;port=8006
+08:19:10.722014  [INFO    ][connect_2_mb]connect 192.168.1.102:8007 error:111,Connection refused
+08:19:10.722023  [DEBUG   ][CEpollServer::removeFd]fd=13;fd_type=2;addr=192.168.1.102;port=8007
+08:19:10.724212  [INFO    ][redis_connect]SELECT 1
+08:19:10.724341  [INFO    ][redis_connect]SELECT 1
+08:19:10.724747  [INFO    ][redis_connect]SELECT 1
+08:19:10.724981  [INFO    ][redis_connect]SELECT 1
+08:19:13.927210  [INFO    ][new_connection]connected from 192.168.1.102:57461, assigned socket is:20
+08:19:13.927248  [DEBUG   ][CEpollServer::AddFdAndMb]serverName=192.168.1.102
+08:19:13.927259  [DEBUG   ][CEpollServer::AddFdAndMb]client_trusted, serverName=192.168.1.102
+08:19:13.927270  [DEBUG   ][CEpollServer::addFdAndMb]fd=20;fd_type=3;addr=192.168.1.102;port=57461;authz=15
+08:19:14.531840  [INFO    ][new_connection]connected from 192.168.1.102:57467, assigned socket is:21
+08:19:14.531930  [DEBUG   ][CEpollServer::AddFdAndMb]serverName=192.168.1.102
+08:19:14.531958  [DEBUG   ][CEpollServer::AddFdAndMb]client_trusted, serverName=192.168.1.102
+08:19:14.531984  [DEBUG   ][CEpollServer::addFdAndMb]fd=21;fd_type=3;addr=192.168.1.102;port=57467;authz=15
+08:19:15.102556  [DEBUG   ][CEpollServer::addFdAndMb]fd=13;fd_type=2;addr=192.168.1.102;port=8007;authz=0
+08:19:15.102922  [DEBUG   ][CEpollServer::addFdAndMb]fd=12;fd_type=2;addr=192.168.1.102;port=8006;authz=0
+08:19:15.103009  [INFO    ][new_connection]connected from 192.168.1.102:57473, assigned socket is:22
+08:19:15.103045  [DEBUG   ][CEpollServer::AddFdAndMb]serverName=192.168.1.102
+08:19:15.103068  [DEBUG   ][CEpollServer::AddFdAndMb]client_trusted, serverName=192.168.1.102
+08:19:15.103089  [DEBUG   ][CEpollServer::addFdAndMb]fd=22;fd_type=3;addr=192.168.1.102;port=57473;authz=15
+08:19:15.103112  [INFO    ][connected_2_mb]mb fd = 13 connected severName = 192.168.1.102, port = 8007,
+08:19:15.103133  [INFO    ][connected_2_mb]mb fd = 12 connected severName = 192.168.1.102, port = 8006,
+08:19:15.103172  [INFO    ][new_connection]connected from 192.168.1.102:57476, assigned socket is:23
+08:19:15.103200  [DEBUG   ][CEpollServer::AddFdAndMb]serverName=192.168.1.102
+08:19:15.103219  [DEBUG   ][CEpollServer::AddFdAndMb]client_trusted, serverName=192.168.1.102
+08:19:15.103239  [DEBUG   ][CEpollServer::addFdAndMb]fd=23;fd_type=3;addr=192.168.1.102;port=57476;authz=15
+08:19:15.103363  [DEBUG   ][CDbMgrServer::AddRecvMsg]u.GenLen()=31
+08:19:15.103419  [DEBUG   ][CDbMgrServer::AddRecvMsg]u.GenLen()=39
+08:19:15.103445  [DEBUG   ][CDbMgrServer::AddRecvMsg]u.GenLen()=41
+08:19:15.103469  [DEBUG   ][CDbMgrServer::AddRecvMsg]u.GenLen()=37
+08:19:15.113640  [INFO    ][new_connection]connected from 192.168.1.102:57482, assigned socket is:24
+08:19:15.113728  [DEBUG   ][CEpollServer::AddFdAndMb]serverName=192.168.1.102
+08:19:15.113755  [DEBUG   ][CEpollServer::AddFdAndMb]client_trusted, serverName=192.168.1.102
+08:19:15.113781  [DEBUG   ][CEpollServer::addFdAndMb]fd=24;fd_type=3;addr=192.168.1.102;port=57482;authz=15
+08:19:15.117737  [DEBUG   ][CDbMgrServer::AddRecvMsg]u.GenLen()=28
+08:19:15.117841  [DEBUG   ][CDbMgrServer::AddRecvMsg]u.GenLen()=22
+08:19:15.148916  [DEBUG   ][CWorldDbmgr::LookupEntityByName]----------LookupEntityByName---START-------------------
+08:19:15.149655  [DEBUG   ][CWorldDbmgr::LookupEntityByName]----------LookupEntityByName---START-------------------
+08:19:15.150208  [DEBUG   ][CWorldDbmgr::LookupEntityByName]----------LookupEntityByName---START-------------------
+08:19:15.151031  [DEBUG   ][CWorldDbmgr::LookupEntityByName]---------NON WIN32-------u.GenLen()=72
+08:19:15.151120  [DEBUG   ][CWorldDbmgr::LookupEntityByName]----------LookupEntityByName---START-------------------
+08:19:15.151361  [DEBUG   ][CWorldDbmgr::LookupEntityByName]---------NON WIN32-------u.GenLen()=77
+08:19:15.152490  [DEBUG   ][CWorldDbmgr::LookupEntityByName]---------NON WIN32-------u.GenLen()=61
+08:19:15.153174  [DEBUG   ][CWorldDbmgr::LookupEntityByName]---------NON WIN32-------u.GenLen()=67
+08:19:15.168711  [DEBUG   ][CDbMgrServer::HandleSendPluto]--------dbmgr.cpp-------- u.GenLen()=72
+08:19:15.168827  [DEBUG   ][CDbMgrServer::HandleSendPluto]--------dbmgr.cpp-------- u.GenLen()=77
+08:19:15.168851  [DEBUG   ][CDbMgrServer::HandleSendPluto]--------dbmgr.cpp-------- u.GenLen()=61
+08:19:15.168871  [DEBUG   ][CDbMgrServer::HandleSendPluto]--------dbmgr.cpp-------- u.GenLen()=67
+08:19:15.184994  [INFO    ][redis_UpdateEntity]type=ChargeMgr;dbid=4294967382;ret=OK
+08:19:15.185113  [DEBUG   ][CDbOper::InsertDB]u.GenLen()=30
+08:19:15.202976  [INFO    ][redis_UpdateEntity]type=mgr_compensate;dbid=4294967382;ret=OK
+08:19:15.203093  [DEBUG   ][CDbOper::InsertDB]u.GenLen()=30
+08:19:15.219806  [DEBUG   ][CDbMgrServer::HandleSendPluto]--------dbmgr.cpp-------- u.GenLen()=30
+08:19:15.219931  [DEBUG   ][CDbMgrServer::HandleSendPluto]--------dbmgr.cpp-------- u.GenLen()=30
+08:19:15.366302  [DEBUG   ][CDbMgrServer::AddRecvMsg]u.GenLen()=88
+08:19:15.366358  [DEBUG   ][CDbMgrServer::AddRecvMsg]u.GenLen()=239
+08:19:15.366377  [DEBUG   ][CDbMgrServer::AddRecvMsg]u.GenLen()=17
+08:19:15.366391  [DEBUG   ][CDbMgrServer::AddRecvMsg]u.GenLen()=25
+08:19:15.391133  [DEBUG   ][CDbOper::TableSelect]len=54
+08:19:15.391957  [DEBUG   ][CDbOper::TableSelect]len=136
+08:19:15.416563  [DEBUG   ][CDbMgrServer::HandleSendPluto]--------dbmgr.cpp-------- u.GenLen()=54
+08:19:15.416667  [DEBUG   ][CDbMgrServer::HandleSendPluto]--------dbmgr.cpp-------- u.GenLen()=136
+08:19:15.416691  [DEBUG   ][CDbMgrServer::HandleSendPluto]--------dbmgr.cpp-------- u.GenLen()=19
+08:19:15.416708  [DEBUG   ][CDbMgrServer::HandleSendPluto]--------dbmgr.cpp-------- u.GenLen()=86
+08:19:15.416725  [DEBUG   ][CDbMgrServer::HandleSendPluto]--------dbmgr.cpp-------- u.GenLen()=86
+08:19:15.416741  [DEBUG   ][CDbMgrServer::HandleSendPluto]--------dbmgr.cpp-------- u.GenLen()=27
+08:19:15.479106  [DEBUG   ][CDbMgrServer::AddRecvMsg]u.GenLen()=25
+08:19:15.479175  [DEBUG   ][CDbMgrServer::AddRecvMsg]u.GenLen()=21
+08:19:15.479191  [DEBUG   ][CDbMgrServer::AddRecvMsg]u.GenLen()=213
+08:19:15.479202  [DEBUG   ][CDbMgrServer::AddRecvMsg]u.GenLen()=104
+08:19:15.479213  [DEBUG   ][CDbMgrServer::AddRecvMsg]u.GenLen()=361
+08:19:15.493844  [DEBUG   ][CDbOper::TableSelect]len=63
+08:19:15.494302  [WARNING ][CPluto::resize]msg=24673;old=256;new=4096
+08:19:15.494341  [DEBUG   ][CDbOper::TableSelect]len=1643
+08:19:15.529419  [DEBUG   ][CDbMgrServer::HandleSendPluto]--------dbmgr.cpp-------- u.GenLen()=27
+08:19:15.529482  [DEBUG   ][CDbMgrServer::HandleSendPluto]--------dbmgr.cpp-------- u.GenLen()=23
+08:19:15.529492  [DEBUG   ][CDbMgrServer::HandleSendPluto]--------dbmgr.cpp-------- u.GenLen()=158
+08:19:15.529501  [DEBUG   ][CDbMgrServer::HandleSendPluto]--------dbmgr.cpp-------- u.GenLen()=63
+08:19:15.529509  [DEBUG   ][CDbMgrServer::HandleSendPluto]--------dbmgr.cpp-------- u.GenLen()=1643
+08:19:15.552298  [DEBUG   ][CDbMgrServer::AddRecvMsg]u.GenLen()=56
+08:19:15.552353  [DEBUG   ][CDbMgrServer::AddRecvMsg]u.GenLen()=56
+08:19:15.552376  [DEBUG   ][CDbMgrServer::AddRecvMsg]u.GenLen()=295
+08:19:15.552395  [DEBUG   ][CDbMgrServer::AddRecvMsg]u.GenLen()=290
+08:19:15.552413  [DEBUG   ][CDbMgrServer::AddRecvMsg]u.GenLen()=325
+08:19:15.552430  [DEBUG   ][CDbMgrServer::AddRecvMsg]u.GenLen()=324
+08:19:15.552448  [DEBUG   ][CDbMgrServer::AddRecvMsg]u.GenLen()=345
+08:19:15.552466  [DEBUG   ][CDbMgrServer::AddRecvMsg]u.GenLen()=559
+08:19:15.552493  [DEBUG   ][CDbMgrServer::AddRecvMsg]u.GenLen()=585
+08:19:15.552512  [DEBUG   ][CDbMgrServer::AddRecvMsg]u.GenLen()=72
+08:19:15.558404  [WARNING ][CPluto::resize]msg=24673;old=256;new=4096
+08:19:15.558482  [DEBUG   ][CDbOper::TableSelect]len=775
+08:19:15.559236  [WARNING ][CPluto::resize]msg=24673;old=256;new=4096
+08:19:15.559341  [DEBUG   ][CDbOper::TableSelect]len=464
+08:19:15.559747  [DEBUG   ][CDbOper::TableSelect]len=128
+08:19:15.560104  [WARNING ][CPluto::resize]msg=24673;old=256;new=4096
+08:19:15.560107  [DEBUG   ][CDbOper::TableSelect]len=118
+08:19:15.560184  [DEBUG   ][CDbOper::TableSelect]len=770
+08:19:15.562384  [DEBUG   ][CDbOper::TableSelect]len=125
+08:19:15.562420  [DEBUG   ][CDbOper::TableSelect]len=120
+08:19:15.602681  [DEBUG   ][CDbMgrServer::HandleSendPluto]--------dbmgr.cpp-------- u.GenLen()=775
+08:19:15.602756  [DEBUG   ][CDbMgrServer::HandleSendPluto]--------dbmgr.cpp-------- u.GenLen()=40
+08:19:15.602768  [DEBUG   ][CDbMgrServer::HandleSendPluto]--------dbmgr.cpp-------- u.GenLen()=40
+08:19:15.602777  [DEBUG   ][CDbMgrServer::HandleSendPluto]--------dbmgr.cpp-------- u.GenLen()=464
+08:19:15.602786  [DEBUG   ][CDbMgrServer::HandleSendPluto]--------dbmgr.cpp-------- u.GenLen()=128
+08:19:15.602794  [DEBUG   ][CDbMgrServer::HandleSendPluto]--------dbmgr.cpp-------- u.GenLen()=118
+08:19:15.602802  [DEBUG   ][CDbMgrServer::HandleSendPluto]--------dbmgr.cpp-------- u.GenLen()=770
+08:19:15.602810  [DEBUG   ][CDbMgrServer::HandleSendPluto]--------dbmgr.cpp-------- u.GenLen()=48
+08:19:15.602818  [DEBUG   ][CDbMgrServer::HandleSendPluto]--------dbmgr.cpp-------- u.GenLen()=125
+08:19:15.602826  [DEBUG   ][CDbMgrServer::HandleSendPluto]--------dbmgr.cpp-------- u.GenLen()=120
+08:19:16.366605  [INFO    ][new_connection]connected from 192.168.1.102:57488, assigned socket is:25
+08:19:16.366652  [DEBUG   ][CEpollServer::AddFdAndMb]serverName=192.168.1.102
+08:19:16.366670  [DEBUG   ][CEpollServer::AddFdAndMb]client_trusted, serverName=192.168.1.102
+08:19:16.366685  [DEBUG   ][CEpollServer::addFdAndMb]fd=25;fd_type=3;addr=192.168.1.102;port=57488;authz=15
+08:19:18.241667  [DEBUG   ][CDbMgrServer::AddRecvMsg]u.GenLen()=62
+08:19:18.241721  [DEBUG   ][CDbMgrServer::AddRecvMsg]u.GenLen()=62
+08:19:18.241780  [DEBUG   ][CDbMgrServer::AddRecvMsg]u.GenLen()=77
+08:19:18.241807  [DEBUG   ][CDbMgrServer::AddRecvMsg]u.GenLen()=66
+08:19:18.241826  [DEBUG   ][CDbMgrServer::AddRecvMsg]u.GenLen()=66
+08:19:18.280570  [DEBUG   ][CDbOper::TableSelect]len=106
+08:19:18.292842  [DEBUG   ][CDbMgrServer::HandleSendPluto]--------dbmgr.cpp-------- u.GenLen()=43
+08:19:18.292913  [DEBUG   ][CDbMgrServer::HandleSendPluto]--------dbmgr.cpp-------- u.GenLen()=43
+08:19:18.292927  [DEBUG   ][CDbMgrServer::HandleSendPluto]--------dbmgr.cpp-------- u.GenLen()=45
+08:19:18.292935  [DEBUG   ][CDbMgrServer::HandleSendPluto]--------dbmgr.cpp-------- u.GenLen()=106
+08:19:18.292944  [DEBUG   ][CDbMgrServer::HandleSendPluto]--------dbmgr.cpp-------- u.GenLen()=45
+08:19:30.033605  [DEBUG   ][CDbMgrServer::AddRecvMsg]u.GenLen()=40
+08:19:30.058626  [DEBUG   ][CWorldDbmgr::SelectAccount]--------------- SelectAccount Error ----- p->size()=3
+08:19:30.058741  [DEBUG   ][CWorldDbmgr::SelectAccount]-----------nServerId=1; nFd=18
+08:19:30.058765  [DEBUG   ][CWorldDbmgr::SelectAccount]--------------- s1=111111@test; s2=111111@test; nServerId=1; nFd=18
+08:19:30.058787  [DEBUG   ][CDbOper::SelectAccount]-------------- SelectAccount() --------------
+08:19:30.058807  [DEBUG   ][CDbOper::SelectAccount]------------- SelectAccount -------- szSql=select sm_name from tbl_Account where sm_name='111111@test'
+08:19:30.060099  [DEBUG   ][CDbOper::SelectAccount]---------------- MSGID_LOGINAPP_SELECT_ACCOUNT_CALLBACK ----------------
+08:19:30.060189  [DEBUG   ][CWorldDbmgr::SelectAccount]u.GenLen()=26
+08:19:30.060218  [WARNING ][from_rpc_call]------------- MSGID_DBMGR_SELECT_ACCOUNT ------- rmsg_id=12293;ret=0
+
+08:19:30.084593  [DEBUG   ][CDbMgrServer::HandleSendPluto]--------dbmgr.cpp-------- u.GenLen()=26
+08:19:30.087468  [DEBUG   ][CDbMgrServer::AddRecvMsg]u.GenLen()=33
+08:19:30.109758  [DEBUG   ][CWorldDbmgr::LookupEntityByName]----------LookupEntityByName---START-------------------
+08:19:30.111149  [DEBUG   ][CWorldDbmgr::LookupEntityByName]---------NON WIN32-------u.GenLen()=174
+08:19:30.138785  [DEBUG   ][CDbMgrServer::HandleSendPluto]--------dbmgr.cpp-------- u.GenLen()=174
+08:19:38.258845  [DEBUG   ][CDbMgrServer::AddRecvMsg]u.GenLen()=30
+08:19:38.263380  [WARNING ][CPluto::resize]msg=24581;old=256;new=4096
+08:19:38.263984  [DEBUG   ][CWorldDbmgr::LookupEntityByDbId]u.GenLen()=1874
+08:19:38.309912  [DEBUG   ][CDbMgrServer::HandleSendPluto]--------dbmgr.cpp-------- u.GenLen()=1874
+08:19:38.315347  [DEBUG   ][CDbMgrServer::AddRecvMsg]u.GenLen()=160
+08:19:38.323249  [DEBUG   ][CDbMgrServer::AddRecvMsg]u.GenLen()=62
+08:19:38.373854  [DEBUG   ][CDbMgrServer::HandleSendPluto]--------dbmgr.cpp-------- u.GenLen()=43
+08:19:38.400227  [DEBUG   ][CDbMgrServer::AddRecvMsg]u.GenLen()=229
+08:19:38.404333  [INFO    ][redis_UpdateEntity]type=Account;dbid=4294967297;ret=OK
+08:19:38.407165  [WARNING ][CPluto::resize]msg=24673;old=256;new=4096
+08:19:38.407250  [DEBUG   ][CDbOper::TableSelect]len=260
+08:19:38.450788  [DEBUG   ][CDbMgrServer::HandleSendPluto]--------dbmgr.cpp-------- u.GenLen()=260
+08:21:34.857895  [DEBUG   ][CDbMgrServer::AddRecvMsg]u.GenLen()=40
+08:21:34.861490  [DEBUG   ][CWorldDbmgr::SelectAccount]--------------- SelectAccount Error ----- p->size()=3
+08:21:34.861556  [DEBUG   ][CWorldDbmgr::SelectAccount]-----------nServerId=1; nFd=18
+08:21:34.861568  [DEBUG   ][CWorldDbmgr::SelectAccount]--------------- s1=111111@test; s2=111111@test; nServerId=1; nFd=18
+08:21:34.861579  [DEBUG   ][CDbOper::SelectAccount]-------------- SelectAccount() --------------
+08:21:34.861595  [DEBUG   ][CDbOper::SelectAccount]------------- SelectAccount -------- szSql=select sm_name from tbl_Account where sm_name='111111@test'
+08:21:34.862128  [DEBUG   ][CDbOper::SelectAccount]---------------- MSGID_LOGINAPP_SELECT_ACCOUNT_CALLBACK ----------------
+08:21:34.862173  [DEBUG   ][CWorldDbmgr::SelectAccount]u.GenLen()=26
+08:21:34.862188  [WARNING ][from_rpc_call]------------- MSGID_DBMGR_SELECT_ACCOUNT ------- rmsg_id=12293;ret=0
+
+08:21:34.908547  [DEBUG   ][CDbMgrServer::HandleSendPluto]--------dbmgr.cpp-------- u.GenLen()=26
+08:21:34.909641  [DEBUG   ][CDbMgrServer::AddRecvMsg]u.GenLen()=33
+08:21:34.912465  [DEBUG   ][CWorldDbmgr::LookupEntityByName]----------LookupEntityByName---START-------------------
+08:21:34.912575  [INFO    ][CWorldDbmgr::LookEntityByName]-------------LookupEntityByName---------entity exists;key=111111@test;eid=50331655;baseapp=6
+08:21:34.912596  [DEBUG   ][CWorldDbmgr::LookupEntityByName]---------------LookupEntityByName-----u.GenLen()=12
+08:21:34.962225  [DEBUG   ][CDbMgrServer::HandleSendPluto]--------dbmgr.cpp-------- u.GenLen()=12
+08:21:34.970095  [DEBUG   ][CDbMgrServer::AddRecvMsg]u.GenLen()=1928
+08:21:35.098831  [INFO    ][redis_UpdateEntity]type=Avatar;dbid=4294967297;ret=OK
+08:21:38.263526  [DEBUG   ][CDbMgrServer::AddRecvMsg]u.GenLen()=30
+08:21:38.271294  [WARNING ][CPluto::resize]msg=24581;old=256;new=4096
+08:21:38.271766  [DEBUG   ][CWorldDbmgr::LookupEntityByDbId]u.GenLen()=1924
+08:21:38.314523  [DEBUG   ][CDbMgrServer::HandleSendPluto]--------dbmgr.cpp-------- u.GenLen()=1924
+08:21:38.319511  [DEBUG   ][CDbMgrServer::AddRecvMsg]u.GenLen()=160
+08:21:38.336490  [INFO    ][redis_UpdateEntity]type=Account;dbid=4294967297;ret=OK
+08:22:25.730662  [INFO    ][on_fd_closed]fd=22
+08:22:25.730776  [DEBUG   ][CEpollServer::removeFd]fd=22;fd_type=3;addr=192.168.1.102;port=57473
+08:22:25.731332  [INFO    ][on_fd_closed]fd=7
+08:22:25.731383  [DEBUG   ][CEpollServer::removeFd]fd=7;fd_type=2;addr=192.168.1.102;port=8001
+08:22:25.731461  [WARNING ][CEpollServer::addFdAndMb_err]desc=old_fd_mb;fd=7
+08:22:25.731493  [DEBUG   ][CEpollServer::addFdAndMb]fd=7;fd_type=2;addr=192.168.1.102;port=8001;authz=0
+08:22:25.731641  [WARNING ][handle_message_err]failed, 111,'Connection refused'
+08:22:25.731718  [INFO    ][on_fd_closed]fd=7
+08:22:25.731754  [DEBUG   ][CEpollServer::removeFd]fd=7;fd_type=2;addr=192.168.1.102;port=8001
+08:25:29.919104  [DEBUG   ][CWorldDbmgr::init()]a=1
+08:25:30.053938  [WARNING ][init_cfg]warning:missed section:server_8
+08:25:30.054026  [WARNING ][init_cfg]warning:missed section:server_9
+08:25:30.054069  [WARNING ][init_cfg]warning:missed section:server_10
+08:25:30.054106  [WARNING ][init_cfg]warning:missed section:server_11
+08:25:30.054144  [WARNING ][init_cfg]warning:missed section:server_12
+08:25:30.054187  [WARNING ][init_cfg]warning:missed section:server_13
+08:25:30.054227  [WARNING ][init_cfg]warning:missed section:server_14
+08:25:30.054267  [WARNING ][init_cfg]warning:missed section:server_15
+08:25:30.054305  [WARNING ][init_cfg]warning:missed section:server_16
+08:25:30.054344  [WARNING ][init_cfg]warning:missed section:server_17
+08:25:30.054382  [WARNING ][init_cfg]warning:missed section:server_18
+08:25:30.054421  [WARNING ][init_cfg]warning:missed section:server_19
+08:25:30.054459  [WARNING ][init_cfg]warning:missed section:server_20
+08:25:30.054498  [WARNING ][init_cfg]warning:missed section:server_21
+08:25:30.054534  [WARNING ][init_cfg]warning:missed section:server_22
+08:25:30.054576  [WARNING ][init_cfg]warning:missed section:server_23
+08:25:30.054618  [WARNING ][init_cfg]warning:missed section:server_24
+08:25:30.054659  [WARNING ][init_cfg]warning:missed section:server_25
+08:25:30.054697  [WARNING ][init_cfg]warning:missed section:server_26
+08:25:30.054740  [WARNING ][init_cfg]warning:missed section:server_27
+08:25:30.054802  [WARNING ][init_cfg]warning:missed section:server_28
+08:25:30.054851  [WARNING ][init_cfg]warning:missed section:server_29
+08:25:30.055570  [DEBUG   ][CDefParser::init]==========
+08:25:30.098118  [DEBUG   ][CDefParser::init]m_EntityDefMd5 = e5a2d6e9b88cff1622d5b58a25f71496
+08:25:30.098405  [DEBUG   ][CDefParser::init]==========
+08:25:30.125414  [DEBUG   ][CDefParser::init]m_EntityDefMd5 = e5a2d6e9b88cff1622d5b58a25f71496
+08:25:30.125639  [INFO    ][world::initNextEntityId]init_id=50331648
+08:25:30.127200  [DEBUG   ][CEpollServer::AddFdAndMb]serverName=
+08:25:30.127269  [DEBUG   ][CEpollServer::addFdAndMb]fd=5;fd_type=1;addr=;port=8003;authz=0
+08:25:30.127282  [DEBUG   ][start_server]:8003,success.
+08:25:30.127388  [DEBUG   ][CEpollServer::addFdAndMb]fd=7;fd_type=2;addr=192.168.1.102;port=8001;authz=0
+08:25:30.127413  [DEBUG   ][try_to_connect_mailbox]server=192.168.1.102;port=8001
+08:25:30.127459  [DEBUG   ][CEpollServer::addFdAndMb]fd=8;fd_type=2;addr=192.168.1.102;port=8002;authz=0
+08:25:30.127475  [DEBUG   ][try_to_connect_mailbox]server=192.168.1.102;port=8002
+08:25:30.127511  [DEBUG   ][CEpollServer::addFdAndMb]fd=9;fd_type=2;addr=192.168.1.102;port=8004;authz=0
+08:25:30.127525  [DEBUG   ][try_to_connect_mailbox]server=192.168.1.102;port=8004
+08:25:30.127708  [DEBUG   ][CEpollServer::addFdAndMb]fd=10;fd_type=2;addr=192.168.1.102;port=8005;authz=0
+08:25:30.127735  [DEBUG   ][try_to_connect_mailbox]server=192.168.1.102;port=8005
+08:25:30.127795  [DEBUG   ][CEpollServer::addFdAndMb]fd=12;fd_type=2;addr=192.168.1.102;port=8006;authz=0
+08:25:30.127814  [DEBUG   ][try_to_connect_mailbox]server=192.168.1.102;port=8006
+08:25:30.127842  [DEBUG   ][CEpollServer::addFdAndMb]fd=13;fd_type=2;addr=192.168.1.102;port=8007;authz=0
+08:25:30.127854  [DEBUG   ][try_to_connect_mailbox]server=192.168.1.102;port=8007
+08:25:30.127872  [INFO    ][connected_2_mb]mb fd = 7 connected severName = 192.168.1.102, port = 8001,
+08:25:30.127883  [INFO    ][connected_2_mb]mb fd = 8 connected severName = 192.168.1.102, port = 8002,
+08:25:30.127902  [INFO    ][connect_2_mb]connect 192.168.1.102:8004 error:111,Connection refused
+08:25:30.127912  [DEBUG   ][CEpollServer::removeFd]fd=9;fd_type=2;addr=192.168.1.102;port=8004
+08:25:30.127926  [INFO    ][connected_2_mb]mb fd = 10 connected severName = 192.168.1.102, port = 8005,
+08:25:30.127937  [INFO    ][connect_2_mb]connect 192.168.1.102:8006 error:111,Connection refused
+08:25:30.127946  [DEBUG   ][CEpollServer::removeFd]fd=12;fd_type=2;addr=192.168.1.102;port=8006
+08:25:30.127957  [INFO    ][connect_2_mb]connect 192.168.1.102:8007 error:111,Connection refused
+08:25:30.128007  [DEBUG   ][CEpollServer::removeFd]fd=13;fd_type=2;addr=192.168.1.102;port=8007
+08:25:30.131405  [INFO    ][redis_connect]SELECT 1
+08:25:30.133684  [INFO    ][redis_connect]SELECT 1
+08:25:30.134562  [INFO    ][redis_connect]SELECT 1
+08:25:30.135123  [INFO    ][redis_connect]SELECT 1
+08:25:30.157673  [INFO    ][new_connection]connected from 192.168.1.102:35145, assigned socket is:20
+08:25:30.157815  [DEBUG   ][CEpollServer::AddFdAndMb]serverName=192.168.1.102
+08:25:30.157837  [DEBUG   ][CEpollServer::AddFdAndMb]client_trusted, serverName=192.168.1.102
+08:25:30.157849  [DEBUG   ][CEpollServer::addFdAndMb]fd=20;fd_type=3;addr=192.168.1.102;port=35145;authz=15
+08:25:32.695831  [INFO    ][new_connection]connected from 192.168.1.102:35151, assigned socket is:21
+08:25:32.695876  [DEBUG   ][CEpollServer::AddFdAndMb]serverName=192.168.1.102
+08:25:32.695888  [DEBUG   ][CEpollServer::AddFdAndMb]client_trusted, serverName=192.168.1.102
+08:25:32.695919  [DEBUG   ][CEpollServer::addFdAndMb]fd=21;fd_type=3;addr=192.168.1.102;port=35151;authz=15
+08:25:33.512493  [INFO    ][new_connection]connected from 192.168.1.102:35157, assigned socket is:22
+08:25:33.512527  [DEBUG   ][CEpollServer::AddFdAndMb]serverName=192.168.1.102
+08:25:33.512538  [DEBUG   ][CEpollServer::AddFdAndMb]client_trusted, serverName=192.168.1.102
+08:25:33.512549  [DEBUG   ][CEpollServer::addFdAndMb]fd=22;fd_type=3;addr=192.168.1.102;port=35157;authz=15
+08:25:34.074072  [INFO    ][new_connection]connected from 192.168.1.102:35165, assigned socket is:23
+08:25:34.074148  [DEBUG   ][CEpollServer::AddFdAndMb]serverName=192.168.1.102
+08:25:34.074175  [DEBUG   ][CEpollServer::AddFdAndMb]client_trusted, serverName=192.168.1.102
+08:25:34.074205  [DEBUG   ][CEpollServer::addFdAndMb]fd=23;fd_type=3;addr=192.168.1.102;port=35165;authz=15
+08:25:35.018348  [INFO    ][new_connection]connected from 192.168.1.102:35170, assigned socket is:24
+08:25:35.018412  [DEBUG   ][CEpollServer::AddFdAndMb]serverName=192.168.1.102
+08:25:35.018438  [DEBUG   ][CEpollServer::AddFdAndMb]client_trusted, serverName=192.168.1.102
+08:25:35.018459  [DEBUG   ][CEpollServer::addFdAndMb]fd=24;fd_type=3;addr=192.168.1.102;port=35170;authz=15
+08:25:35.052384  [DEBUG   ][CEpollServer::addFdAndMb]fd=13;fd_type=2;addr=192.168.1.102;port=8007;authz=0
+08:25:35.052488  [DEBUG   ][CEpollServer::addFdAndMb]fd=12;fd_type=2;addr=192.168.1.102;port=8006;authz=0
+08:25:35.052641  [DEBUG   ][CEpollServer::addFdAndMb]fd=9;fd_type=2;addr=192.168.1.102;port=8004;authz=0
+08:25:35.052672  [INFO    ][new_connection]connected from 192.168.1.102:35176, assigned socket is:25
+08:25:35.052687  [DEBUG   ][CEpollServer::AddFdAndMb]serverName=192.168.1.102
+08:25:35.052696  [DEBUG   ][CEpollServer::AddFdAndMb]client_trusted, serverName=192.168.1.102
+08:25:35.052706  [DEBUG   ][CEpollServer::addFdAndMb]fd=25;fd_type=3;addr=192.168.1.102;port=35176;authz=15
+08:25:35.052766  [DEBUG   ][CDbMgrServer::AddRecvMsg]u.GenLen()=31
+08:25:35.052790  [DEBUG   ][CDbMgrServer::AddRecvMsg]u.GenLen()=39
+08:25:35.052801  [DEBUG   ][CDbMgrServer::AddRecvMsg]u.GenLen()=41
+08:25:35.052811  [DEBUG   ][CDbMgrServer::AddRecvMsg]u.GenLen()=37
+08:25:35.052824  [DEBUG   ][CDbMgrServer::AddRecvMsg]u.GenLen()=28
+08:25:35.052835  [DEBUG   ][CDbMgrServer::AddRecvMsg]u.GenLen()=22
+08:25:35.052845  [INFO    ][connected_2_mb]mb fd = 13 connected severName = 192.168.1.102, port = 8007,
+08:25:35.052855  [INFO    ][connected_2_mb]mb fd = 12 connected severName = 192.168.1.102, port = 8006,
+08:25:35.052864  [INFO    ][connected_2_mb]mb fd = 9 connected severName = 192.168.1.102, port = 8004,
+08:25:35.077214  [DEBUG   ][CWorldDbmgr::LookupEntityByName]----------LookupEntityByName---START-------------------
+08:25:35.077324  [DEBUG   ][CWorldDbmgr::LookupEntityByName]----------LookupEntityByName---START-------------------
+08:25:35.077479  [DEBUG   ][CWorldDbmgr::LookupEntityByName]----------LookupEntityByName---START-------------------
+08:25:35.078454  [DEBUG   ][CWorldDbmgr::LookupEntityByName]---------NON WIN32-------u.GenLen()=61
+08:25:35.078479  [DEBUG   ][CWorldDbmgr::LookupEntityByName]---------NON WIN32-------u.GenLen()=72
+08:25:35.078688  [DEBUG   ][CWorldDbmgr::LookupEntityByName]---------NON WIN32-------u.GenLen()=77
+08:25:35.078580  [DEBUG   ][CWorldDbmgr::LookupEntityByName]----------LookupEntityByName---START-------------------
+08:25:35.079576  [DEBUG   ][CWorldDbmgr::LookupEntityByName]---------NON WIN32-------u.GenLen()=67
+08:25:35.104365  [DEBUG   ][CDbMgrServer::HandleSendPluto]--------dbmgr.cpp-------- u.GenLen()=61
+08:25:35.104450  [DEBUG   ][CDbMgrServer::HandleSendPluto]--------dbmgr.cpp-------- u.GenLen()=72
+08:25:35.104473  [DEBUG   ][CDbMgrServer::HandleSendPluto]--------dbmgr.cpp-------- u.GenLen()=77
+08:25:35.104490  [DEBUG   ][CDbMgrServer::HandleSendPluto]--------dbmgr.cpp-------- u.GenLen()=67
+08:25:35.114236  [INFO    ][redis_UpdateEntity]type=ChargeMgr;dbid=4294967383;ret=OK
+08:25:35.114297  [DEBUG   ][CDbOper::InsertDB]u.GenLen()=30
+08:25:35.130678  [INFO    ][redis_UpdateEntity]type=mgr_compensate;dbid=4294967383;ret=OK
+08:25:35.130756  [DEBUG   ][CDbOper::InsertDB]u.GenLen()=30
+08:25:35.155094  [DEBUG   ][CDbMgrServer::HandleSendPluto]--------dbmgr.cpp-------- u.GenLen()=30
+08:25:35.155173  [DEBUG   ][CDbMgrServer::HandleSendPluto]--------dbmgr.cpp-------- u.GenLen()=30
+08:25:35.168341  [DEBUG   ][CDbMgrServer::AddRecvMsg]u.GenLen()=88
+08:25:35.168379  [DEBUG   ][CDbMgrServer::AddRecvMsg]u.GenLen()=239
+08:25:35.168392  [DEBUG   ][CDbMgrServer::AddRecvMsg]u.GenLen()=17
+08:25:35.168402  [DEBUG   ][CDbMgrServer::AddRecvMsg]u.GenLen()=25
+08:25:35.181033  [DEBUG   ][CDbOper::TableSelect]len=54
+08:25:35.181743  [DEBUG   ][CDbOper::TableSelect]len=136
+08:25:35.219170  [DEBUG   ][CDbMgrServer::HandleSendPluto]--------dbmgr.cpp-------- u.GenLen()=54
+08:25:35.219246  [DEBUG   ][CDbMgrServer::HandleSendPluto]--------dbmgr.cpp-------- u.GenLen()=19
+08:25:35.219266  [DEBUG   ][CDbMgrServer::HandleSendPluto]--------dbmgr.cpp-------- u.GenLen()=136
+08:25:35.219282  [DEBUG   ][CDbMgrServer::HandleSendPluto]--------dbmgr.cpp-------- u.GenLen()=86
+08:25:35.219297  [DEBUG   ][CDbMgrServer::HandleSendPluto]--------dbmgr.cpp-------- u.GenLen()=86
+08:25:35.219311  [DEBUG   ][CDbMgrServer::HandleSendPluto]--------dbmgr.cpp-------- u.GenLen()=27
+08:25:35.259827  [DEBUG   ][CDbMgrServer::AddRecvMsg]u.GenLen()=21
+08:25:35.259909  [DEBUG   ][CDbMgrServer::AddRecvMsg]u.GenLen()=25
+08:25:35.259932  [DEBUG   ][CDbMgrServer::AddRecvMsg]u.GenLen()=213
+08:25:35.259950  [DEBUG   ][CDbMgrServer::AddRecvMsg]u.GenLen()=104
+08:25:35.261765  [DEBUG   ][CDbMgrServer::AddRecvMsg]u.GenLen()=361
+08:25:35.267086  [DEBUG   ][CDbOper::TableSelect]len=63
+08:25:35.267532  [WARNING ][CPluto::resize]msg=24673;old=256;new=4096
+08:25:35.267580  [DEBUG   ][CDbOper::TableSelect]len=1643
+08:25:35.312002  [DEBUG   ][CDbMgrServer::HandleSendPluto]--------dbmgr.cpp-------- u.GenLen()=23
+08:25:35.312102  [DEBUG   ][CDbMgrServer::HandleSendPluto]--------dbmgr.cpp-------- u.GenLen()=27
+08:25:35.312126  [DEBUG   ][CDbMgrServer::HandleSendPluto]--------dbmgr.cpp-------- u.GenLen()=158
+08:25:35.312144  [DEBUG   ][CDbMgrServer::HandleSendPluto]--------dbmgr.cpp-------- u.GenLen()=63
+08:25:35.312160  [DEBUG   ][CDbMgrServer::HandleSendPluto]--------dbmgr.cpp-------- u.GenLen()=1643
+08:25:35.325606  [DEBUG   ][CDbMgrServer::AddRecvMsg]u.GenLen()=56
+08:25:35.325724  [DEBUG   ][CDbMgrServer::AddRecvMsg]u.GenLen()=56
+08:25:35.325746  [DEBUG   ][CDbMgrServer::AddRecvMsg]u.GenLen()=295
+08:25:35.325758  [DEBUG   ][CDbMgrServer::AddRecvMsg]u.GenLen()=290
+08:25:35.325768  [DEBUG   ][CDbMgrServer::AddRecvMsg]u.GenLen()=325
+08:25:35.325779  [DEBUG   ][CDbMgrServer::AddRecvMsg]u.GenLen()=324
+08:25:35.325789  [DEBUG   ][CDbMgrServer::AddRecvMsg]u.GenLen()=345
+08:25:35.325798  [DEBUG   ][CDbMgrServer::AddRecvMsg]u.GenLen()=559
+08:25:35.325808  [DEBUG   ][CDbMgrServer::AddRecvMsg]u.GenLen()=585
+08:25:35.325818  [DEBUG   ][CDbMgrServer::AddRecvMsg]u.GenLen()=72
+08:25:35.334884  [WARNING ][CPluto::resize]msg=24673;old=256;new=4096
+08:25:35.334958  [DEBUG   ][CDbOper::TableSelect]len=775
+08:25:35.335398  [WARNING ][CPluto::resize]msg=24673;old=256;new=4096
+08:25:35.335440  [DEBUG   ][CDbOper::TableSelect]len=770
+08:25:35.335797  [WARNING ][CPluto::resize]msg=24673;old=256;new=4096
+08:25:35.335837  [DEBUG   ][CDbOper::TableSelect]len=464
+08:25:35.335944  [DEBUG   ][CDbOper::TableSelect]len=118
+08:25:35.336264  [DEBUG   ][CDbOper::TableSelect]len=128
+08:25:35.337817  [DEBUG   ][CDbOper::TableSelect]len=125
+08:25:35.337952  [DEBUG   ][CDbOper::TableSelect]len=120
+08:25:35.376164  [DEBUG   ][CDbMgrServer::HandleSendPluto]--------dbmgr.cpp-------- u.GenLen()=40
+08:25:35.376230  [DEBUG   ][CDbMgrServer::HandleSendPluto]--------dbmgr.cpp-------- u.GenLen()=775
+08:25:35.376243  [DEBUG   ][CDbMgrServer::HandleSendPluto]--------dbmgr.cpp-------- u.GenLen()=40
+08:25:35.376253  [DEBUG   ][CDbMgrServer::HandleSendPluto]--------dbmgr.cpp-------- u.GenLen()=770
+08:25:35.376262  [DEBUG   ][CDbMgrServer::HandleSendPluto]--------dbmgr.cpp-------- u.GenLen()=464
+08:25:35.376271  [DEBUG   ][CDbMgrServer::HandleSendPluto]--------dbmgr.cpp-------- u.GenLen()=118
+08:25:35.376279  [DEBUG   ][CDbMgrServer::HandleSendPluto]--------dbmgr.cpp-------- u.GenLen()=128
+08:25:35.376288  [DEBUG   ][CDbMgrServer::HandleSendPluto]--------dbmgr.cpp-------- u.GenLen()=125
+08:25:35.376297  [DEBUG   ][CDbMgrServer::HandleSendPluto]--------dbmgr.cpp-------- u.GenLen()=120
+08:25:35.376305  [DEBUG   ][CDbMgrServer::HandleSendPluto]--------dbmgr.cpp-------- u.GenLen()=48
+08:25:37.231200  [DEBUG   ][CDbMgrServer::AddRecvMsg]u.GenLen()=77
+08:25:37.231267  [DEBUG   ][CDbMgrServer::AddRecvMsg]u.GenLen()=62
+08:25:37.231288  [DEBUG   ][CDbMgrServer::AddRecvMsg]u.GenLen()=62
+08:25:37.231303  [DEBUG   ][CDbMgrServer::AddRecvMsg]u.GenLen()=66
+08:25:37.231317  [DEBUG   ][CDbMgrServer::AddRecvMsg]u.GenLen()=66
+08:25:37.257816  [DEBUG   ][CDbOper::TableSelect]len=106
+08:25:37.282429  [DEBUG   ][CDbMgrServer::HandleSendPluto]--------dbmgr.cpp-------- u.GenLen()=43
+08:25:37.282556  [DEBUG   ][CDbMgrServer::HandleSendPluto]--------dbmgr.cpp-------- u.GenLen()=45
+08:25:37.282580  [DEBUG   ][CDbMgrServer::HandleSendPluto]--------dbmgr.cpp-------- u.GenLen()=45
+08:25:37.282601  [DEBUG   ][CDbMgrServer::HandleSendPluto]--------dbmgr.cpp-------- u.GenLen()=43
+08:25:37.282621  [DEBUG   ][CDbMgrServer::HandleSendPluto]--------dbmgr.cpp-------- u.GenLen()=106
+08:25:50.665517  [DEBUG   ][CDbMgrServer::AddRecvMsg]u.GenLen()=40
+08:25:50.680036  [DEBUG   ][CWorldDbmgr::SelectAccount]--------------- SelectAccount Error ----- p->size()=3
+08:25:50.680255  [DEBUG   ][CWorldDbmgr::SelectAccount]-----------nServerId=1; nFd=18
+08:25:50.680309  [DEBUG   ][CWorldDbmgr::SelectAccount]--------------- s1=111111@test; s2=111111@test; nServerId=1; nFd=18
+08:25:50.680339  [DEBUG   ][CDbOper::SelectAccount]-------------- SelectAccount() --------------
+08:25:50.680360  [DEBUG   ][CDbOper::SelectAccount]------------- SelectAccount -------- szSql=select sm_name from tbl_Account where sm_name='111111@test'
+08:25:50.682002  [DEBUG   ][CDbOper::SelectAccount]---------------- MSGID_LOGINAPP_SELECT_ACCOUNT_CALLBACK ----------------
+08:25:50.682269  [DEBUG   ][CWorldDbmgr::SelectAccount]u.GenLen()=26
+08:25:50.682343  [WARNING ][from_rpc_call]------------- MSGID_DBMGR_SELECT_ACCOUNT ------- rmsg_id=12293;ret=0
+
+08:25:50.716247  [DEBUG   ][CDbMgrServer::HandleSendPluto]--------dbmgr.cpp-------- u.GenLen()=26
+08:25:50.717490  [DEBUG   ][CDbMgrServer::AddRecvMsg]u.GenLen()=33
+08:25:50.733009  [DEBUG   ][CWorldDbmgr::LookupEntityByName]----------LookupEntityByName---START-------------------
+08:25:50.734300  [DEBUG   ][CWorldDbmgr::LookupEntityByName]---------NON WIN32-------u.GenLen()=174
+08:25:50.768130  [DEBUG   ][CDbMgrServer::HandleSendPluto]--------dbmgr.cpp-------- u.GenLen()=174
+08:25:54.300936  [DEBUG   ][CDbMgrServer::AddRecvMsg]u.GenLen()=30
+08:25:54.312910  [WARNING ][CPluto::resize]msg=24581;old=256;new=4096
+08:25:54.313586  [DEBUG   ][CWorldDbmgr::LookupEntityByDbId]u.GenLen()=1924
+08:25:54.352254  [DEBUG   ][CDbMgrServer::HandleSendPluto]--------dbmgr.cpp-------- u.GenLen()=1924
+08:25:54.358012  [DEBUG   ][CDbMgrServer::AddRecvMsg]u.GenLen()=160
+08:25:54.369356  [DEBUG   ][CDbMgrServer::AddRecvMsg]u.GenLen()=62
+08:25:54.459848  [INFO    ][redis_UpdateEntity]type=Account;dbid=4294967297;ret=OK
+08:25:54.492138  [DEBUG   ][CDbMgrServer::HandleSendPluto]--------dbmgr.cpp-------- u.GenLen()=43
+08:25:54.510546  [DEBUG   ][CDbMgrServer::AddRecvMsg]u.GenLen()=229
+08:25:54.544652  [WARNING ][CPluto::resize]msg=24673;old=256;new=4096
+08:25:54.544714  [DEBUG   ][CDbOper::TableSelect]len=260
+08:25:54.561039  [DEBUG   ][CDbMgrServer::HandleSendPluto]--------dbmgr.cpp-------- u.GenLen()=260
+08:35:42.058639  [DEBUG   ][CDbMgrServer::AddRecvMsg]u.GenLen()=61
+08:35:42.116618  [INFO    ][redis_UpdateEntity]type=GlobalDataMgr;dbid=4294967296;ret=OK
+08:35:44.667301  [INFO    ][on_fd_closed]fd=23
+08:35:44.667432  [DEBUG   ][CEpollServer::removeFd]fd=23;fd_type=3;addr=192.168.1.102;port=35165
+08:35:44.668809  [INFO    ][on_fd_closed]fd=7
+08:35:44.668872  [DEBUG   ][CEpollServer::removeFd]fd=7;fd_type=2;addr=192.168.1.102;port=8001
+08:35:44.668947  [WARNING ][CEpollServer::addFdAndMb_err]desc=old_fd_mb;fd=7
+08:35:44.668978  [DEBUG   ][CEpollServer::addFdAndMb]fd=7;fd_type=2;addr=192.168.1.102;port=8001;authz=0
+08:35:44.669026  [WARNING ][handle_message_err]failed, 111,'Connection refused'
+08:35:44.669062  [INFO    ][on_fd_closed]fd=7
+08:35:44.669139  [DEBUG   ][CEpollServer::removeFd]fd=7;fd_type=2;addr=192.168.1.102;port=8001
+08:38:34.693296  [DEBUG   ][CWorldDbmgr::init()]a=1
+08:38:34.749484  [WARNING ][init_cfg]warning:missed section:server_8
+08:38:34.749921  [WARNING ][init_cfg]warning:missed section:server_9
+08:38:34.750060  [WARNING ][init_cfg]warning:missed section:server_10
+08:38:34.750144  [WARNING ][init_cfg]warning:missed section:server_11
+08:38:34.750227  [WARNING ][init_cfg]warning:missed section:server_12
+08:38:34.750318  [WARNING ][init_cfg]warning:missed section:server_13
+08:38:34.750399  [WARNING ][init_cfg]warning:missed section:server_14
+08:38:34.750482  [WARNING ][init_cfg]warning:missed section:server_15
+08:38:34.750558  [WARNING ][init_cfg]warning:missed section:server_16
+08:38:34.750692  [WARNING ][init_cfg]warning:missed section:server_17
+08:38:34.750806  [WARNING ][init_cfg]warning:missed section:server_18
+08:38:34.750893  [WARNING ][init_cfg]warning:missed section:server_19
+08:38:34.750976  [WARNING ][init_cfg]warning:missed section:server_20
+08:38:34.751048  [WARNING ][init_cfg]warning:missed section:server_21
+08:38:34.751135  [WARNING ][init_cfg]warning:missed section:server_22
+08:38:34.751213  [WARNING ][init_cfg]warning:missed section:server_23
+08:38:34.751299  [WARNING ][init_cfg]warning:missed section:server_24
+08:38:34.751379  [WARNING ][init_cfg]warning:missed section:server_25
+08:38:34.751457  [WARNING ][init_cfg]warning:missed section:server_26
+08:38:34.751544  [WARNING ][init_cfg]warning:missed section:server_27
+08:38:34.751616  [WARNING ][init_cfg]warning:missed section:server_28
+08:38:34.751765  [WARNING ][init_cfg]warning:missed section:server_29
+08:38:34.753249  [DEBUG   ][CDefParser::init]==========
+08:38:34.828595  [DEBUG   ][CDefParser::init]m_EntityDefMd5 = e5a2d6e9b88cff1622d5b58a25f71496
+08:38:34.829051  [DEBUG   ][CDefParser::init]==========
+08:38:34.887791  [DEBUG   ][CDefParser::init]m_EntityDefMd5 = e5a2d6e9b88cff1622d5b58a25f71496
+08:38:34.888030  [INFO    ][world::initNextEntityId]init_id=50331648
+08:38:34.888504  [DEBUG   ][CEpollServer::AddFdAndMb]serverName=
+08:38:34.888559  [DEBUG   ][CEpollServer::addFdAndMb]fd=4;fd_type=1;addr=;port=8003;authz=0
+08:38:34.888570  [DEBUG   ][start_server]:8003,success.
+08:38:34.888628  [DEBUG   ][CEpollServer::addFdAndMb]fd=6;fd_type=2;addr=192.168.1.102;port=8001;authz=0
+08:38:34.888645  [DEBUG   ][try_to_connect_mailbox]server=192.168.1.102;port=8001
+08:38:34.888835  [DEBUG   ][CEpollServer::addFdAndMb]fd=7;fd_type=2;addr=192.168.1.102;port=8002;authz=0
+08:38:34.888853  [DEBUG   ][try_to_connect_mailbox]server=192.168.1.102;port=8002
+08:38:34.888980  [DEBUG   ][CEpollServer::addFdAndMb]fd=8;fd_type=2;addr=192.168.1.102;port=8004;authz=0
+08:38:34.889089  [DEBUG   ][try_to_connect_mailbox]server=192.168.1.102;port=8004
+08:38:34.889275  [DEBUG   ][CEpollServer::addFdAndMb]fd=9;fd_type=2;addr=192.168.1.102;port=8005;authz=0
+08:38:34.889292  [DEBUG   ][try_to_connect_mailbox]server=192.168.1.102;port=8005
+08:38:34.889328  [DEBUG   ][CEpollServer::addFdAndMb]fd=10;fd_type=2;addr=192.168.1.102;port=8006;authz=0
+08:38:34.889341  [DEBUG   ][try_to_connect_mailbox]server=192.168.1.102;port=8006
+08:38:34.889364  [DEBUG   ][CEpollServer::addFdAndMb]fd=11;fd_type=2;addr=192.168.1.102;port=8007;authz=0
+08:38:34.889375  [DEBUG   ][try_to_connect_mailbox]server=192.168.1.102;port=8007
+08:38:34.889405  [INFO    ][connect_2_mb]connect 192.168.1.102:8001 error:111,Connection refused
+08:38:34.889415  [DEBUG   ][CEpollServer::removeFd]fd=6;fd_type=2;addr=192.168.1.102;port=8001
+08:38:34.889429  [INFO    ][connected_2_mb]mb fd = 7 connected severName = 192.168.1.102, port = 8002,
+08:38:34.889438  [INFO    ][connected_2_mb]mb fd = 8 connected severName = 192.168.1.102, port = 8004,
+08:38:34.889446  [INFO    ][connected_2_mb]mb fd = 9 connected severName = 192.168.1.102, port = 8005,
+08:38:34.889455  [INFO    ][connect_2_mb]connect 192.168.1.102:8006 error:111,Connection refused
+08:38:34.889463  [DEBUG   ][CEpollServer::removeFd]fd=10;fd_type=2;addr=192.168.1.102;port=8006
+08:38:34.889473  [INFO    ][connect_2_mb]connect 192.168.1.102:8007 error:111,Connection refused
+08:38:34.889481  [DEBUG   ][CEpollServer::removeFd]fd=11;fd_type=2;addr=192.168.1.102;port=8007
+08:38:34.892013  [INFO    ][redis_connect]SELECT 1
+08:38:34.892427  [INFO    ][new_connection]connected from 192.168.1.102:47683, assigned socket is:15
+08:38:34.892476  [DEBUG   ][CEpollServer::AddFdAndMb]serverName=192.168.1.102
+08:38:34.892487  [DEBUG   ][CEpollServer::AddFdAndMb]client_trusted, serverName=192.168.1.102
+08:38:34.892498  [DEBUG   ][CEpollServer::addFdAndMb]fd=15;fd_type=3;addr=192.168.1.102;port=47683;authz=15
+08:38:34.893051  [INFO    ][redis_connect]SELECT 1
+08:38:34.893993  [INFO    ][redis_connect]SELECT 1
+08:38:34.895600  [INFO    ][redis_connect]SELECT 1
+08:38:38.404784  [INFO    ][new_connection]connected from 192.168.1.102:47695, assigned socket is:21
+08:38:38.404852  [DEBUG   ][CEpollServer::AddFdAndMb]serverName=192.168.1.102
+08:38:38.404877  [DEBUG   ][CEpollServer::AddFdAndMb]client_trusted, serverName=192.168.1.102
+08:38:38.404889  [DEBUG   ][CEpollServer::addFdAndMb]fd=21;fd_type=3;addr=192.168.1.102;port=47695;authz=15
+08:38:39.018259  [DEBUG   ][CEpollServer::addFdAndMb]fd=11;fd_type=2;addr=192.168.1.102;port=8007;authz=0
+08:38:39.018444  [DEBUG   ][CEpollServer::addFdAndMb]fd=10;fd_type=2;addr=192.168.1.102;port=8006;authz=0
+08:38:39.018548  [DEBUG   ][CEpollServer::addFdAndMb]fd=6;fd_type=2;addr=192.168.1.102;port=8001;authz=0
+08:38:39.018594  [INFO    ][connected_2_mb]mb fd = 11 connected severName = 192.168.1.102, port = 8007,
+08:38:39.018624  [INFO    ][connect_2_mb]connect 192.168.1.102:8006 error:111,Connection refused
+08:38:39.018645  [DEBUG   ][CEpollServer::removeFd]fd=10;fd_type=2;addr=192.168.1.102;port=8006
+08:38:39.018669  [INFO    ][connected_2_mb]mb fd = 6 connected severName = 192.168.1.102, port = 8001,
+08:38:39.033212  [INFO    ][new_connection]connected from 192.168.1.102:47706, assigned socket is:22
+08:38:39.033253  [DEBUG   ][CEpollServer::AddFdAndMb]serverName=192.168.1.102
+08:38:39.033268  [DEBUG   ][CEpollServer::AddFdAndMb]client_trusted, serverName=192.168.1.102
+08:38:39.033284  [DEBUG   ][CEpollServer::addFdAndMb]fd=22;fd_type=3;addr=192.168.1.102;port=47706;authz=15
+08:38:39.042445  [INFO    ][new_connection]connected from 192.168.1.102:47710, assigned socket is:23
+08:38:39.042487  [DEBUG   ][CEpollServer::AddFdAndMb]serverName=192.168.1.102
+08:38:39.042504  [DEBUG   ][CEpollServer::AddFdAndMb]client_trusted, serverName=192.168.1.102
+08:38:39.042521  [DEBUG   ][CEpollServer::addFdAndMb]fd=23;fd_type=3;addr=192.168.1.102;port=47710;authz=15
+08:38:39.216448  [INFO    ][new_connection]connected from 192.168.1.102:47716, assigned socket is:24
+08:38:39.216551  [DEBUG   ][CEpollServer::AddFdAndMb]serverName=192.168.1.102
+08:38:39.216576  [DEBUG   ][CEpollServer::AddFdAndMb]client_trusted, serverName=192.168.1.102
+08:38:39.216613  [DEBUG   ][CEpollServer::addFdAndMb]fd=24;fd_type=3;addr=192.168.1.102;port=47716;authz=15
+08:38:39.525824  [INFO    ][new_connection]connected from 192.168.1.102:47721, assigned socket is:25
+08:38:39.525977  [DEBUG   ][CEpollServer::AddFdAndMb]serverName=192.168.1.102
+08:38:39.526020  [DEBUG   ][CEpollServer::AddFdAndMb]client_trusted, serverName=192.168.1.102
+08:38:39.526047  [DEBUG   ][CEpollServer::addFdAndMb]fd=25;fd_type=3;addr=192.168.1.102;port=47721;authz=15
+08:38:44.014589  [DEBUG   ][CEpollServer::addFdAndMb]fd=10;fd_type=2;addr=192.168.1.102;port=8006;authz=0
+08:38:44.014717  [INFO    ][connected_2_mb]mb fd = 10 connected severName = 192.168.1.102, port = 8006,
+08:38:44.020205  [DEBUG   ][CDbMgrServer::AddRecvMsg]u.GenLen()=31
+08:38:44.020527  [DEBUG   ][CDbMgrServer::AddRecvMsg]u.GenLen()=39
+08:38:44.020581  [DEBUG   ][CDbMgrServer::AddRecvMsg]u.GenLen()=41
+08:38:44.020624  [DEBUG   ][CDbMgrServer::AddRecvMsg]u.GenLen()=37
+08:38:44.059326  [DEBUG   ][CDbMgrServer::AddRecvMsg]u.GenLen()=28
+08:38:44.059477  [DEBUG   ][CDbMgrServer::AddRecvMsg]u.GenLen()=22
+08:38:44.065377  [DEBUG   ][CWorldDbmgr::LookupEntityByName]----------LookupEntityByName---START-------------------
+08:38:44.065772  [DEBUG   ][CWorldDbmgr::LookupEntityByName]----------LookupEntityByName---START-------------------
+08:38:44.065833  [DEBUG   ][CWorldDbmgr::LookupEntityByName]----------LookupEntityByName---START-------------------
+08:38:44.065979  [DEBUG   ][CWorldDbmgr::LookupEntityByName]----------LookupEntityByName---START-------------------
+08:38:44.067402  [DEBUG   ][CWorldDbmgr::LookupEntityByName]---------NON WIN32-------u.GenLen()=72
+08:38:44.067911  [DEBUG   ][CWorldDbmgr::LookupEntityByName]---------NON WIN32-------u.GenLen()=77
+08:38:44.068531  [DEBUG   ][CWorldDbmgr::LookupEntityByName]---------NON WIN32-------u.GenLen()=67
+08:38:44.068676  [DEBUG   ][CWorldDbmgr::LookupEntityByName]---------NON WIN32-------u.GenLen()=61
+08:38:44.079469  [INFO    ][redis_UpdateEntity]type=ChargeMgr;dbid=4294967384;ret=OK
+08:38:44.079576  [DEBUG   ][CDbOper::InsertDB]u.GenLen()=30
+08:38:44.109866  [DEBUG   ][CDbMgrServer::HandleSendPluto]--------dbmgr.cpp-------- u.GenLen()=72
+08:38:44.109984  [DEBUG   ][CDbMgrServer::HandleSendPluto]--------dbmgr.cpp-------- u.GenLen()=77
+08:38:44.110008  [DEBUG   ][CDbMgrServer::HandleSendPluto]--------dbmgr.cpp-------- u.GenLen()=67
+08:38:44.110028  [DEBUG   ][CDbMgrServer::HandleSendPluto]--------dbmgr.cpp-------- u.GenLen()=61
+08:38:44.110047  [DEBUG   ][CDbMgrServer::HandleSendPluto]--------dbmgr.cpp-------- u.GenLen()=30
+08:38:44.127797  [INFO    ][redis_UpdateEntity]type=mgr_compensate;dbid=4294967384;ret=OK
+08:38:44.127935  [DEBUG   ][CDbOper::InsertDB]u.GenLen()=30
+08:38:44.161519  [DEBUG   ][CDbMgrServer::HandleSendPluto]--------dbmgr.cpp-------- u.GenLen()=30
+08:38:44.262909  [DEBUG   ][CDbMgrServer::AddRecvMsg]u.GenLen()=88
+08:38:44.262985  [DEBUG   ][CDbMgrServer::AddRecvMsg]u.GenLen()=239
+08:38:44.263013  [DEBUG   ][CDbMgrServer::AddRecvMsg]u.GenLen()=17
+08:38:44.263036  [DEBUG   ][CDbMgrServer::AddRecvMsg]u.GenLen()=25
+08:38:44.274150  [DEBUG   ][CDbOper::TableSelect]len=54
+08:38:44.274207  [DEBUG   ][CDbOper::TableSelect]len=136
+08:38:44.313486  [DEBUG   ][CDbMgrServer::HandleSendPluto]--------dbmgr.cpp-------- u.GenLen()=54
+08:38:44.313526  [DEBUG   ][CDbMgrServer::HandleSendPluto]--------dbmgr.cpp-------- u.GenLen()=136
+08:38:44.313540  [DEBUG   ][CDbMgrServer::HandleSendPluto]--------dbmgr.cpp-------- u.GenLen()=19
+08:38:44.313552  [DEBUG   ][CDbMgrServer::HandleSendPluto]--------dbmgr.cpp-------- u.GenLen()=86
+08:38:44.313564  [DEBUG   ][CDbMgrServer::HandleSendPluto]--------dbmgr.cpp-------- u.GenLen()=86
+08:38:44.313575  [DEBUG   ][CDbMgrServer::HandleSendPluto]--------dbmgr.cpp-------- u.GenLen()=27
+08:38:44.358238  [DEBUG   ][CDbMgrServer::AddRecvMsg]u.GenLen()=25
+08:38:44.358322  [DEBUG   ][CDbMgrServer::AddRecvMsg]u.GenLen()=21
+08:38:44.358430  [DEBUG   ][CDbMgrServer::AddRecvMsg]u.GenLen()=213
+08:38:44.358469  [DEBUG   ][CDbMgrServer::AddRecvMsg]u.GenLen()=104
+08:38:44.367658  [DEBUG   ][CDbMgrServer::AddRecvMsg]u.GenLen()=361
+08:38:44.376965  [DEBUG   ][CDbOper::TableSelect]len=63
+08:38:44.377424  [WARNING ][CPluto::resize]msg=24673;old=256;new=4096
+08:38:44.377460  [DEBUG   ][CDbOper::TableSelect]len=1643
+08:38:44.418168  [DEBUG   ][CDbMgrServer::HandleSendPluto]--------dbmgr.cpp-------- u.GenLen()=27
+08:38:44.418231  [DEBUG   ][CDbMgrServer::HandleSendPluto]--------dbmgr.cpp-------- u.GenLen()=23
+08:38:44.418242  [DEBUG   ][CDbMgrServer::HandleSendPluto]--------dbmgr.cpp-------- u.GenLen()=158
+08:38:44.418250  [DEBUG   ][CDbMgrServer::HandleSendPluto]--------dbmgr.cpp-------- u.GenLen()=63
+08:38:44.418258  [DEBUG   ][CDbMgrServer::HandleSendPluto]--------dbmgr.cpp-------- u.GenLen()=1643
+08:38:44.493898  [DEBUG   ][CDbMgrServer::AddRecvMsg]u.GenLen()=56
+08:38:44.493970  [DEBUG   ][CDbMgrServer::AddRecvMsg]u.GenLen()=56
+08:38:44.494010  [DEBUG   ][CDbMgrServer::AddRecvMsg]u.GenLen()=295
+08:38:44.494045  [DEBUG   ][CDbMgrServer::AddRecvMsg]u.GenLen()=290
+08:38:44.494079  [DEBUG   ][CDbMgrServer::AddRecvMsg]u.GenLen()=325
+08:38:44.494136  [DEBUG   ][CDbMgrServer::AddRecvMsg]u.GenLen()=324
+08:38:44.494177  [DEBUG   ][CDbMgrServer::AddRecvMsg]u.GenLen()=345
+08:38:44.494210  [DEBUG   ][CDbMgrServer::AddRecvMsg]u.GenLen()=559
+08:38:44.494241  [DEBUG   ][CDbMgrServer::AddRecvMsg]u.GenLen()=585
+08:38:44.494274  [DEBUG   ][CDbMgrServer::AddRecvMsg]u.GenLen()=72
+08:38:44.531160  [WARNING ][CPluto::resize]msg=24673;old=256;new=4096
+08:38:44.531216  [DEBUG   ][CDbOper::TableSelect]len=775
+08:38:44.531613  [DEBUG   ][CDbOper::TableSelect]len=118
+08:38:44.531883  [WARNING ][CPluto::resize]msg=24673;old=256;new=4096
+08:38:44.531924  [DEBUG   ][CDbOper::TableSelect]len=770
+08:38:44.531933  [WARNING ][CPluto::resize]msg=24673;old=256;new=4096
+08:38:44.531962  [DEBUG   ][CDbOper::TableSelect]len=464
+08:38:44.532179  [DEBUG   ][CDbOper::TableSelect]len=128
+08:38:44.533825  [DEBUG   ][CDbOper::TableSelect]len=125
+08:38:44.533920  [DEBUG   ][CDbOper::TableSelect]len=120
+08:38:44.545243  [DEBUG   ][CDbMgrServer::HandleSendPluto]--------dbmgr.cpp-------- u.GenLen()=40
+08:38:44.545323  [DEBUG   ][CDbMgrServer::HandleSendPluto]--------dbmgr.cpp-------- u.GenLen()=40
+08:38:44.545347  [DEBUG   ][CDbMgrServer::HandleSendPluto]--------dbmgr.cpp-------- u.GenLen()=775
+08:38:44.545364  [DEBUG   ][CDbMgrServer::HandleSendPluto]--------dbmgr.cpp-------- u.GenLen()=118
+08:38:44.545380  [DEBUG   ][CDbMgrServer::HandleSendPluto]--------dbmgr.cpp-------- u.GenLen()=770
+08:38:44.545396  [DEBUG   ][CDbMgrServer::HandleSendPluto]--------dbmgr.cpp-------- u.GenLen()=464
+08:38:44.545412  [DEBUG   ][CDbMgrServer::HandleSendPluto]--------dbmgr.cpp-------- u.GenLen()=128
+08:38:44.545428  [DEBUG   ][CDbMgrServer::HandleSendPluto]--------dbmgr.cpp-------- u.GenLen()=125
+08:38:44.545443  [DEBUG   ][CDbMgrServer::HandleSendPluto]--------dbmgr.cpp-------- u.GenLen()=120
+08:38:44.545458  [DEBUG   ][CDbMgrServer::HandleSendPluto]--------dbmgr.cpp-------- u.GenLen()=48
+08:38:44.592358  [DEBUG   ][CDbMgrServer::AddRecvMsg]u.GenLen()=62
+08:38:44.592405  [DEBUG   ][CDbMgrServer::AddRecvMsg]u.GenLen()=62
+08:38:44.592419  [DEBUG   ][CDbMgrServer::AddRecvMsg]u.GenLen()=77
+08:38:44.592445  [DEBUG   ][CDbMgrServer::AddRecvMsg]u.GenLen()=66
+08:38:44.592461  [DEBUG   ][CDbMgrServer::AddRecvMsg]u.GenLen()=66
+08:38:44.635095  [DEBUG   ][CDbOper::TableSelect]len=106
+08:38:44.643301  [DEBUG   ][CDbMgrServer::HandleSendPluto]--------dbmgr.cpp-------- u.GenLen()=43
+08:38:44.643367  [DEBUG   ][CDbMgrServer::HandleSendPluto]--------dbmgr.cpp-------- u.GenLen()=43
+08:38:44.643378  [DEBUG   ][CDbMgrServer::HandleSendPluto]--------dbmgr.cpp-------- u.GenLen()=106
+08:38:44.643386  [DEBUG   ][CDbMgrServer::HandleSendPluto]--------dbmgr.cpp-------- u.GenLen()=45
+08:38:44.643394  [DEBUG   ][CDbMgrServer::HandleSendPluto]--------dbmgr.cpp-------- u.GenLen()=45
+08:38:54.768268  [DEBUG   ][CDbMgrServer::AddRecvMsg]u.GenLen()=40
+08:38:54.772949  [DEBUG   ][CWorldDbmgr::SelectAccount]--------------- SelectAccount Error ----- p->size()=3
+08:38:54.773088  [DEBUG   ][CWorldDbmgr::SelectAccount]-----------nServerId=1; nFd=18
+08:38:54.773124  [DEBUG   ][CWorldDbmgr::SelectAccount]--------------- s1=111111@test; s2=111111@test; nServerId=1; nFd=18
+08:38:54.773157  [DEBUG   ][CDbOper::SelectAccount]-------------- SelectAccount() --------------
+08:38:54.773187  [DEBUG   ][CDbOper::SelectAccount]------------- SelectAccount -------- szSql=select sm_name from tbl_Account where sm_name='111111@test'
+08:38:54.774293  [DEBUG   ][CDbOper::SelectAccount]---------------- MSGID_LOGINAPP_SELECT_ACCOUNT_CALLBACK ----------------
+08:38:54.774394  [DEBUG   ][CWorldDbmgr::SelectAccount]u.GenLen()=26
+08:38:54.774436  [WARNING ][from_rpc_call]------------- MSGID_DBMGR_SELECT_ACCOUNT ------- rmsg_id=12293;ret=0
+
+08:38:54.818898  [DEBUG   ][CDbMgrServer::HandleSendPluto]--------dbmgr.cpp-------- u.GenLen()=26
+08:38:54.828053  [DEBUG   ][CDbMgrServer::AddRecvMsg]u.GenLen()=33
+08:38:54.851842  [DEBUG   ][CWorldDbmgr::LookupEntityByName]----------LookupEntityByName---START-------------------
+08:38:54.853264  [DEBUG   ][CWorldDbmgr::LookupEntityByName]---------NON WIN32-------u.GenLen()=174
+08:38:54.878977  [DEBUG   ][CDbMgrServer::HandleSendPluto]--------dbmgr.cpp-------- u.GenLen()=174
+08:39:42.320399  [DEBUG   ][CDbMgrServer::AddRecvMsg]u.GenLen()=30
+08:39:42.326691  [WARNING ][CPluto::resize]msg=24581;old=256;new=4096
+08:39:42.327438  [DEBUG   ][CWorldDbmgr::LookupEntityByDbId]u.GenLen()=1924
+08:39:42.371138  [DEBUG   ][CDbMgrServer::HandleSendPluto]--------dbmgr.cpp-------- u.GenLen()=1924
+08:39:42.378132  [DEBUG   ][CDbMgrServer::AddRecvMsg]u.GenLen()=160
+08:39:42.384031  [DEBUG   ][CDbMgrServer::AddRecvMsg]u.GenLen()=62
+08:39:42.401631  [INFO    ][redis_UpdateEntity]type=Account;dbid=4294967297;ret=OK
+08:39:42.453286  [DEBUG   ][CDbMgrServer::HandleSendPluto]--------dbmgr.cpp-------- u.GenLen()=43
+08:39:42.454235  [DEBUG   ][CDbMgrServer::AddRecvMsg]u.GenLen()=229
+08:39:42.458722  [WARNING ][CPluto::resize]msg=24673;old=256;new=4096
+08:39:42.458802  [DEBUG   ][CDbOper::TableSelect]len=260
+08:39:42.504949  [DEBUG   ][CDbMgrServer::HandleSendPluto]--------dbmgr.cpp-------- u.GenLen()=260
+08:46:29.490704  [DEBUG   ][CDbMgrServer::AddRecvMsg]u.GenLen()=30
+08:46:29.542123  [DEBUG   ][CDbMgrServer::HandleSendPluto]--------dbmgr.cpp-------- u.GenLen()=12
+08:46:29.543822  [DEBUG   ][CDbMgrServer::AddRecvMsg]u.GenLen()=160
+08:46:29.550342  [DEBUG   ][CDbMgrServer::AddRecvMsg]u.GenLen()=1928
+08:46:29.561433  [INFO    ][redis_UpdateEntity]type=Account;dbid=4294967297;ret=OK
+08:46:29.587413  [INFO    ][redis_UpdateEntity]type=Avatar;dbid=4294967297;ret=OK
+08:48:46.591197  [DEBUG   ][CDbMgrServer::AddRecvMsg]u.GenLen()=61
+08:48:46.649801  [INFO    ][redis_UpdateEntity]type=GlobalDataMgr;dbid=4294967296;ret=OK
+09:00:00.690348  [DEBUG   ][CDbMgrServer::AddRecvMsg]u.GenLen()=295
+09:00:00.690416  [DEBUG   ][CDbMgrServer::AddRecvMsg]u.GenLen()=290
+09:00:00.690436  [DEBUG   ][CDbMgrServer::AddRecvMsg]u.GenLen()=325
+09:00:00.690449  [DEBUG   ][CDbMgrServer::AddRecvMsg]u.GenLen()=324
+09:00:00.690460  [DEBUG   ][CDbMgrServer::AddRecvMsg]u.GenLen()=345
+09:00:00.690470  [DEBUG   ][CDbMgrServer::AddRecvMsg]u.GenLen()=559
+09:00:00.690480  [DEBUG   ][CDbMgrServer::AddRecvMsg]u.GenLen()=585
+09:00:00.727266  [WARNING ][CPluto::resize]msg=24673;old=256;new=4096
+09:00:00.727349  [DEBUG   ][CDbOper::TableSelect]len=770
+09:00:00.727558  [WARNING ][CPluto::resize]msg=24673;old=256;new=4096
+09:00:00.727629  [DEBUG   ][CDbOper::TableSelect]len=775
+09:00:00.728022  [DEBUG   ][CDbOper::TableSelect]len=118
+09:00:00.728124  [DEBUG   ][CDbOper::TableSelect]len=128
+09:00:00.728800  [WARNING ][CPluto::resize]msg=24673;old=256;new=4096
+09:00:00.728842  [DEBUG   ][CDbOper::TableSelect]len=464
+09:00:00.728908  [DEBUG   ][CDbOper::TableSelect]len=120
+09:00:00.729137  [DEBUG   ][CDbOper::TableSelect]len=125
+09:00:00.741002  [DEBUG   ][CDbMgrServer::HandleSendPluto]--------dbmgr.cpp-------- u.GenLen()=770
+09:00:00.741066  [DEBUG   ][CDbMgrServer::HandleSendPluto]--------dbmgr.cpp-------- u.GenLen()=775
+09:00:00.741086  [DEBUG   ][CDbMgrServer::HandleSendPluto]--------dbmgr.cpp-------- u.GenLen()=118
+09:00:00.741095  [DEBUG   ][CDbMgrServer::HandleSendPluto]--------dbmgr.cpp-------- u.GenLen()=128
+09:00:00.741103  [DEBUG   ][CDbMgrServer::HandleSendPluto]--------dbmgr.cpp-------- u.GenLen()=464
+09:00:00.741111  [DEBUG   ][CDbMgrServer::HandleSendPluto]--------dbmgr.cpp-------- u.GenLen()=120
+09:00:00.741119  [DEBUG   ][CDbMgrServer::HandleSendPluto]--------dbmgr.cpp-------- u.GenLen()=125
+09:04:28.730535  [INFO    ][on_fd_closed]fd=15
+09:04:28.730579  [DEBUG   ][CEpollServer::removeFd]fd=15;fd_type=3;addr=192.168.1.102;port=47683
+09:04:28.730614  [INFO    ][on_fd_closed]fd=6
+09:04:28.730632  [DEBUG   ][CEpollServer::removeFd]fd=6;fd_type=2;addr=192.168.1.102;port=8001
+09:04:28.730819  [WARNING ][CEpollServer::addFdAndMb_err]desc=old_fd_mb;fd=6
+09:04:28.730837  [DEBUG   ][CEpollServer::addFdAndMb]fd=6;fd_type=2;addr=192.168.1.102;port=8001;authz=0
+09:04:28.730862  [WARNING ][handle_message_err]failed, 111,'Connection refused'
+09:04:28.730879  [INFO    ][on_fd_closed]fd=6
+09:04:28.730889  [DEBUG   ][CEpollServer::removeFd]fd=6;fd_type=2;addr=192.168.1.102;port=8001

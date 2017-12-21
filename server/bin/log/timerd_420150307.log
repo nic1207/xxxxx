@@ -1,0 +1,217 @@
+01:30:29.959000  [WARNING ][init_cfg]warning:missed section:server_8
+01:30:29.959284  [WARNING ][init_cfg]warning:missed section:server_9
+01:30:29.959314  [WARNING ][init_cfg]warning:missed section:server_10
+01:30:29.959334  [WARNING ][init_cfg]warning:missed section:server_11
+01:30:29.959351  [WARNING ][init_cfg]warning:missed section:server_12
+01:30:29.959368  [WARNING ][init_cfg]warning:missed section:server_13
+01:30:29.959385  [WARNING ][init_cfg]warning:missed section:server_14
+01:30:29.959402  [WARNING ][init_cfg]warning:missed section:server_15
+01:30:29.959419  [WARNING ][init_cfg]warning:missed section:server_16
+01:30:29.959436  [WARNING ][init_cfg]warning:missed section:server_17
+01:30:29.959454  [WARNING ][init_cfg]warning:missed section:server_18
+01:30:29.959471  [WARNING ][init_cfg]warning:missed section:server_19
+01:30:29.959488  [WARNING ][init_cfg]warning:missed section:server_20
+01:30:29.959505  [WARNING ][init_cfg]warning:missed section:server_21
+01:30:29.959522  [WARNING ][init_cfg]warning:missed section:server_22
+01:30:29.959539  [WARNING ][init_cfg]warning:missed section:server_23
+01:30:29.959556  [WARNING ][init_cfg]warning:missed section:server_24
+01:30:29.959572  [WARNING ][init_cfg]warning:missed section:server_25
+01:30:29.959589  [WARNING ][init_cfg]warning:missed section:server_26
+01:30:29.959606  [WARNING ][init_cfg]warning:missed section:server_27
+01:30:29.959623  [WARNING ][init_cfg]warning:missed section:server_28
+01:30:29.959640  [WARNING ][init_cfg]warning:missed section:server_29
+01:30:29.960064  [DEBUG   ][CDefParser::init]==========
+01:30:29.987685  [DEBUG   ][CDefParser::init]m_EntityDefMd5 = e5a2d6e9b88cff1622d5b58a25f71496
+01:30:29.987803  [INFO    ][world::initNextEntityId]init_id=67108864
+01:30:29.988017  [DEBUG   ][CEpollServer::AddFdAndMb]serverName=
+01:30:29.988076  [DEBUG   ][CEpollServer::addFdAndMb]fd=4;fd_type=1;addr=;port=8004;authz=0
+01:30:29.988097  [DEBUG   ][start_server]:8004,success.
+01:30:29.988301  [DEBUG   ][CEpollServer::addFdAndMb]fd=6;fd_type=2;addr=192.168.1.102;port=8001;authz=0
+01:30:29.988334  [DEBUG   ][try_to_connect_mailbox]server=192.168.1.102;port=8001
+01:30:29.988524  [DEBUG   ][CEpollServer::addFdAndMb]fd=7;fd_type=2;addr=192.168.1.102;port=8002;authz=0
+01:30:29.988545  [DEBUG   ][try_to_connect_mailbox]server=192.168.1.102;port=8002
+01:30:29.988748  [DEBUG   ][CEpollServer::addFdAndMb]fd=8;fd_type=2;addr=192.168.1.102;port=8003;authz=0
+01:30:29.988770  [DEBUG   ][try_to_connect_mailbox]server=192.168.1.102;port=8003
+01:30:29.988820  [DEBUG   ][CEpollServer::addFdAndMb]fd=9;fd_type=2;addr=192.168.1.102;port=8005;authz=0
+01:30:29.988842  [DEBUG   ][try_to_connect_mailbox]server=192.168.1.102;port=8005
+01:30:29.988947  [DEBUG   ][CEpollServer::addFdAndMb]fd=10;fd_type=2;addr=192.168.1.102;port=8006;authz=0
+01:30:29.988974  [DEBUG   ][try_to_connect_mailbox]server=192.168.1.102;port=8006
+01:30:29.989013  [DEBUG   ][CEpollServer::addFdAndMb]fd=11;fd_type=2;addr=192.168.1.102;port=8007;authz=0
+01:30:29.989031  [DEBUG   ][try_to_connect_mailbox]server=192.168.1.102;port=8007
+01:30:29.989056  [INFO    ][connected_2_mb]mb fd = 6 connected severName = 192.168.1.102, port = 8001,
+01:30:29.989072  [INFO    ][connected_2_mb]mb fd = 7 connected severName = 192.168.1.102, port = 8002,
+01:30:29.989086  [INFO    ][connected_2_mb]mb fd = 8 connected severName = 192.168.1.102, port = 8003,
+01:30:29.989111  [INFO    ][connect_2_mb]connect 192.168.1.102:8005 error:111,Connection refused
+01:30:29.989128  [DEBUG   ][CEpollServer::removeFd]fd=9;fd_type=2;addr=192.168.1.102;port=8005
+01:30:29.989149  [INFO    ][connect_2_mb]connect 192.168.1.102:8006 error:111,Connection refused
+01:30:29.989206  [DEBUG   ][CEpollServer::removeFd]fd=10;fd_type=2;addr=192.168.1.102;port=8006
+01:30:29.989575  [INFO    ][connect_2_mb]connect 192.168.1.102:8007 error:111,Connection refused
+01:30:29.989602  [DEBUG   ][CEpollServer::removeFd]fd=11;fd_type=2;addr=192.168.1.102;port=8007
+01:30:30.038272  [INFO    ][new_connection]connected from 192.168.1.102:53041, assigned socket is:12
+01:30:30.038315  [DEBUG   ][CEpollServer::AddFdAndMb]serverName=192.168.1.102
+01:30:30.038380  [DEBUG   ][CEpollServer::AddFdAndMb]client_trusted, serverName=192.168.1.102
+01:30:30.038408  [DEBUG   ][CEpollServer::addFdAndMb]fd=12;fd_type=3;addr=192.168.1.102;port=53041;authz=15
+01:30:32.707311  [INFO    ][new_connection]connected from 192.168.1.102:53049, assigned socket is:13
+01:30:32.707348  [DEBUG   ][CEpollServer::AddFdAndMb]serverName=192.168.1.102
+01:30:32.707358  [DEBUG   ][CEpollServer::AddFdAndMb]client_trusted, serverName=192.168.1.102
+01:30:32.707369  [DEBUG   ][CEpollServer::addFdAndMb]fd=13;fd_type=3;addr=192.168.1.102;port=53049;authz=15
+01:30:33.226535  [INFO    ][new_connection]connected from 192.168.1.102:53055, assigned socket is:14
+01:30:33.226566  [DEBUG   ][CEpollServer::AddFdAndMb]serverName=192.168.1.102
+01:30:33.226577  [DEBUG   ][CEpollServer::AddFdAndMb]client_trusted, serverName=192.168.1.102
+01:30:33.226587  [DEBUG   ][CEpollServer::addFdAndMb]fd=14;fd_type=3;addr=192.168.1.102;port=53055;authz=15
+01:30:34.110156  [INFO    ][new_connection]connected from 192.168.1.102:53061, assigned socket is:15
+01:30:34.110220  [DEBUG   ][CEpollServer::AddFdAndMb]serverName=192.168.1.102
+01:30:34.110243  [DEBUG   ][CEpollServer::AddFdAndMb]client_trusted, serverName=192.168.1.102
+01:30:34.110268  [DEBUG   ][CEpollServer::addFdAndMb]fd=15;fd_type=3;addr=192.168.1.102;port=53061;authz=15
+01:30:34.140502  [DEBUG   ][CEpollServer::addFdAndMb]fd=11;fd_type=2;addr=192.168.1.102;port=8007;authz=0
+01:30:34.140683  [DEBUG   ][CEpollServer::addFdAndMb]fd=10;fd_type=2;addr=192.168.1.102;port=8006;authz=0
+01:30:34.140807  [DEBUG   ][CEpollServer::addFdAndMb]fd=9;fd_type=2;addr=192.168.1.102;port=8005;authz=0
+01:30:34.140870  [INFO    ][new_connection]connected from 192.168.1.102:53065, assigned socket is:16
+01:30:34.140902  [DEBUG   ][CEpollServer::AddFdAndMb]serverName=192.168.1.102
+01:30:34.140922  [DEBUG   ][CEpollServer::AddFdAndMb]client_trusted, serverName=192.168.1.102
+01:30:34.140942  [DEBUG   ][CEpollServer::addFdAndMb]fd=16;fd_type=3;addr=192.168.1.102;port=53065;authz=15
+01:30:34.140964  [INFO    ][connected_2_mb]mb fd = 11 connected severName = 192.168.1.102, port = 8007,
+01:30:34.140983  [INFO    ][connected_2_mb]mb fd = 10 connected severName = 192.168.1.102, port = 8006,
+01:30:34.141000  [INFO    ][connected_2_mb]mb fd = 9 connected severName = 192.168.1.102, port = 8005,
+01:30:34.141112  [INFO    ][new_connection]connected from 192.168.1.102:53071, assigned socket is:17
+01:30:34.141159  [DEBUG   ][CEpollServer::AddFdAndMb]serverName=192.168.1.102
+01:30:34.141178  [DEBUG   ][CEpollServer::AddFdAndMb]client_trusted, serverName=192.168.1.102
+01:30:34.141198  [DEBUG   ][CEpollServer::addFdAndMb]fd=17;fd_type=3;addr=192.168.1.102;port=53071;authz=15
+01:33:21.821113  [INFO    ][on_fd_closed]fd=16
+01:33:21.821194  [DEBUG   ][CEpollServer::removeFd]fd=16;fd_type=3;addr=192.168.1.102;port=53065
+01:33:21.822680  [INFO    ][on_fd_closed]fd=6
+01:33:21.822746  [DEBUG   ][CEpollServer::removeFd]fd=6;fd_type=2;addr=192.168.1.102;port=8001
+01:33:21.822820  [WARNING ][CEpollServer::addFdAndMb_err]desc=old_fd_mb;fd=6
+01:33:21.822850  [DEBUG   ][CEpollServer::addFdAndMb]fd=6;fd_type=2;addr=192.168.1.102;port=8001;authz=0
+01:33:21.822889  [WARNING ][handle_message_err]failed, 111,'Connection refused'
+01:33:21.822919  [INFO    ][on_fd_closed]fd=6
+01:33:21.822941  [DEBUG   ][CEpollServer::removeFd]fd=6;fd_type=2;addr=192.168.1.102;port=8001
+01:33:21.847593  [INFO    ][on_fd_closed]fd=15
+01:33:21.847638  [DEBUG   ][CEpollServer::removeFd]fd=15;fd_type=3;addr=192.168.1.102;port=53061
+01:33:21.847671  [INFO    ][on_fd_closed]fd=8
+01:33:21.847686  [DEBUG   ][CEpollServer::removeFd]fd=8;fd_type=2;addr=192.168.1.102;port=8003
+01:33:21.847722  [DEBUG   ][CEpollServer::addFdAndMb]fd=6;fd_type=2;addr=192.168.1.102;port=8003;authz=0
+01:33:21.847745  [WARNING ][handle_message_err]failed, 111,'Connection refused'
+01:33:21.847759  [INFO    ][on_fd_closed]fd=6
+01:33:21.847768  [DEBUG   ][CEpollServer::removeFd]fd=6;fd_type=2;addr=192.168.1.102;port=8003
+01:33:21.859684  [INFO    ][on_fd_closed]fd=17
+01:33:21.859743  [DEBUG   ][CEpollServer::removeFd]fd=17;fd_type=3;addr=192.168.1.102;port=53071
+01:33:21.859775  [INFO    ][on_fd_closed]fd=7
+01:33:21.859787  [DEBUG   ][CEpollServer::removeFd]fd=7;fd_type=2;addr=192.168.1.102;port=8002
+01:33:21.859831  [DEBUG   ][CEpollServer::addFdAndMb]fd=6;fd_type=2;addr=192.168.1.102;port=8002;authz=0
+01:33:21.859854  [WARNING ][handle_message_err]failed, 111,'Connection refused'
+01:33:21.859950  [INFO    ][on_fd_closed]fd=6
+01:33:21.859971  [DEBUG   ][CEpollServer::removeFd]fd=6;fd_type=2;addr=192.168.1.102;port=8002
+01:34:32.594482  [WARNING ][init_cfg]warning:missed section:server_8
+01:34:32.594746  [WARNING ][init_cfg]warning:missed section:server_9
+01:34:32.594791  [WARNING ][init_cfg]warning:missed section:server_10
+01:34:32.594825  [WARNING ][init_cfg]warning:missed section:server_11
+01:34:32.594875  [WARNING ][init_cfg]warning:missed section:server_12
+01:34:32.594895  [WARNING ][init_cfg]warning:missed section:server_13
+01:34:32.594913  [WARNING ][init_cfg]warning:missed section:server_14
+01:34:32.594931  [WARNING ][init_cfg]warning:missed section:server_15
+01:34:32.594949  [WARNING ][init_cfg]warning:missed section:server_16
+01:34:32.594967  [WARNING ][init_cfg]warning:missed section:server_17
+01:34:32.594985  [WARNING ][init_cfg]warning:missed section:server_18
+01:34:32.595003  [WARNING ][init_cfg]warning:missed section:server_19
+01:34:32.595020  [WARNING ][init_cfg]warning:missed section:server_20
+01:34:32.595038  [WARNING ][init_cfg]warning:missed section:server_21
+01:34:32.595056  [WARNING ][init_cfg]warning:missed section:server_22
+01:34:32.595074  [WARNING ][init_cfg]warning:missed section:server_23
+01:34:32.595092  [WARNING ][init_cfg]warning:missed section:server_24
+01:34:32.595110  [WARNING ][init_cfg]warning:missed section:server_25
+01:34:32.595128  [WARNING ][init_cfg]warning:missed section:server_26
+01:34:32.595145  [WARNING ][init_cfg]warning:missed section:server_27
+01:34:32.595163  [WARNING ][init_cfg]warning:missed section:server_28
+01:34:32.595181  [WARNING ][init_cfg]warning:missed section:server_29
+01:34:32.595475  [DEBUG   ][CDefParser::init]==========
+01:34:32.696119  [DEBUG   ][CDefParser::init]m_EntityDefMd5 = e5a2d6e9b88cff1622d5b58a25f71496
+01:34:32.696274  [INFO    ][world::initNextEntityId]init_id=67108864
+01:34:32.696398  [DEBUG   ][CEpollServer::AddFdAndMb]serverName=
+01:34:32.696436  [DEBUG   ][CEpollServer::addFdAndMb]fd=4;fd_type=1;addr=;port=8004;authz=0
+01:34:32.696457  [DEBUG   ][start_server]:8004,success.
+01:34:32.696550  [DEBUG   ][CEpollServer::addFdAndMb]fd=6;fd_type=2;addr=192.168.1.102;port=8001;authz=0
+01:34:32.696602  [DEBUG   ][try_to_connect_mailbox]server=192.168.1.102;port=8001
+01:34:32.696676  [DEBUG   ][CEpollServer::addFdAndMb]fd=7;fd_type=2;addr=192.168.1.102;port=8002;authz=0
+01:34:32.696707  [DEBUG   ][try_to_connect_mailbox]server=192.168.1.102;port=8002
+01:34:32.696756  [DEBUG   ][CEpollServer::addFdAndMb]fd=8;fd_type=2;addr=192.168.1.102;port=8003;authz=0
+01:34:32.696781  [DEBUG   ][try_to_connect_mailbox]server=192.168.1.102;port=8003
+01:34:32.696891  [DEBUG   ][CEpollServer::addFdAndMb]fd=9;fd_type=2;addr=192.168.1.102;port=8005;authz=0
+01:34:32.696924  [DEBUG   ][try_to_connect_mailbox]server=192.168.1.102;port=8005
+01:34:32.696971  [DEBUG   ][CEpollServer::addFdAndMb]fd=10;fd_type=2;addr=192.168.1.102;port=8006;authz=0
+01:34:32.696997  [DEBUG   ][try_to_connect_mailbox]server=192.168.1.102;port=8006
+01:34:32.697093  [DEBUG   ][CEpollServer::addFdAndMb]fd=11;fd_type=2;addr=192.168.1.102;port=8007;authz=0
+01:34:32.697125  [DEBUG   ][try_to_connect_mailbox]server=192.168.1.102;port=8007
+01:34:32.697171  [INFO    ][connect_2_mb]connect 192.168.1.102:8001 error:111,Connection refused
+01:34:32.697194  [DEBUG   ][CEpollServer::removeFd]fd=6;fd_type=2;addr=192.168.1.102;port=8001
+01:34:32.697220  [INFO    ][connect_2_mb]connect 192.168.1.102:8002 error:111,Connection refused
+01:34:32.697239  [DEBUG   ][CEpollServer::removeFd]fd=7;fd_type=2;addr=192.168.1.102;port=8002
+01:34:32.697261  [INFO    ][connect_2_mb]connect 192.168.1.102:8003 error:111,Connection refused
+01:34:32.697289  [DEBUG   ][CEpollServer::removeFd]fd=8;fd_type=2;addr=192.168.1.102;port=8003
+01:34:32.697311  [INFO    ][connect_2_mb]connect 192.168.1.102:8005 error:111,Connection refused
+01:34:32.697327  [DEBUG   ][CEpollServer::removeFd]fd=9;fd_type=2;addr=192.168.1.102;port=8005
+01:34:32.697343  [INFO    ][connect_2_mb]connect 192.168.1.102:8006 error:111,Connection refused
+01:34:32.697358  [DEBUG   ][CEpollServer::removeFd]fd=10;fd_type=2;addr=192.168.1.102;port=8006
+01:34:32.697377  [INFO    ][connect_2_mb]connect 192.168.1.102:8007 error:111,Connection refused
+01:34:32.697393  [DEBUG   ][CEpollServer::removeFd]fd=11;fd_type=2;addr=192.168.1.102;port=8007
+01:34:32.709699  [INFO    ][new_connection]connected from 192.168.1.102:53110, assigned socket is:12
+01:34:32.709765  [DEBUG   ][CEpollServer::AddFdAndMb]serverName=192.168.1.102
+01:34:32.709790  [DEBUG   ][CEpollServer::AddFdAndMb]client_trusted, serverName=192.168.1.102
+01:34:32.709811  [DEBUG   ][CEpollServer::addFdAndMb]fd=12;fd_type=3;addr=192.168.1.102;port=53110;authz=15
+01:34:32.725318  [INFO    ][new_connection]connected from 192.168.1.102:53116, assigned socket is:13
+01:34:32.725365  [DEBUG   ][CEpollServer::AddFdAndMb]serverName=192.168.1.102
+01:34:32.725383  [DEBUG   ][CEpollServer::AddFdAndMb]client_trusted, serverName=192.168.1.102
+01:34:32.725400  [DEBUG   ][CEpollServer::addFdAndMb]fd=13;fd_type=3;addr=192.168.1.102;port=53116;authz=15
+01:34:32.749883  [INFO    ][new_connection]connected from 192.168.1.102:53123, assigned socket is:14
+01:34:32.749927  [DEBUG   ][CEpollServer::AddFdAndMb]serverName=192.168.1.102
+01:34:32.749948  [DEBUG   ][CEpollServer::AddFdAndMb]client_trusted, serverName=192.168.1.102
+01:34:32.749965  [DEBUG   ][CEpollServer::addFdAndMb]fd=14;fd_type=3;addr=192.168.1.102;port=53123;authz=15
+01:34:32.788111  [INFO    ][new_connection]connected from 192.168.1.102:53141, assigned socket is:15
+01:34:32.788143  [DEBUG   ][CEpollServer::AddFdAndMb]serverName=192.168.1.102
+01:34:32.788154  [DEBUG   ][CEpollServer::AddFdAndMb]client_trusted, serverName=192.168.1.102
+01:34:32.788164  [DEBUG   ][CEpollServer::addFdAndMb]fd=15;fd_type=3;addr=192.168.1.102;port=53141;authz=15
+01:34:34.002876  [INFO    ][new_connection]connected from 192.168.1.102:53147, assigned socket is:16
+01:34:34.002906  [DEBUG   ][CEpollServer::AddFdAndMb]serverName=192.168.1.102
+01:34:34.002917  [DEBUG   ][CEpollServer::AddFdAndMb]client_trusted, serverName=192.168.1.102
+01:34:34.002928  [DEBUG   ][CEpollServer::addFdAndMb]fd=16;fd_type=3;addr=192.168.1.102;port=53147;authz=15
+01:34:34.232052  [INFO    ][new_connection]connected from 192.168.1.102:53153, assigned socket is:17
+01:34:34.232080  [DEBUG   ][CEpollServer::AddFdAndMb]serverName=192.168.1.102
+01:34:34.232091  [DEBUG   ][CEpollServer::AddFdAndMb]client_trusted, serverName=192.168.1.102
+01:34:34.232101  [DEBUG   ][CEpollServer::addFdAndMb]fd=17;fd_type=3;addr=192.168.1.102;port=53153;authz=15
+01:34:37.297513  [DEBUG   ][CEpollServer::addFdAndMb]fd=11;fd_type=2;addr=192.168.1.102;port=8007;authz=0
+01:34:37.297830  [DEBUG   ][CEpollServer::addFdAndMb]fd=10;fd_type=2;addr=192.168.1.102;port=8006;authz=0
+01:34:37.297979  [DEBUG   ][CEpollServer::addFdAndMb]fd=9;fd_type=2;addr=192.168.1.102;port=8005;authz=0
+01:34:37.298102  [DEBUG   ][CEpollServer::addFdAndMb]fd=8;fd_type=2;addr=192.168.1.102;port=8003;authz=0
+01:34:37.298305  [DEBUG   ][CEpollServer::addFdAndMb]fd=7;fd_type=2;addr=192.168.1.102;port=8002;authz=0
+01:34:37.298528  [DEBUG   ][CEpollServer::addFdAndMb]fd=6;fd_type=2;addr=192.168.1.102;port=8001;authz=0
+01:34:37.298594  [INFO    ][connected_2_mb]mb fd = 11 connected severName = 192.168.1.102, port = 8007,
+01:34:37.298619  [INFO    ][connected_2_mb]mb fd = 10 connected severName = 192.168.1.102, port = 8006,
+01:34:37.298640  [INFO    ][connected_2_mb]mb fd = 9 connected severName = 192.168.1.102, port = 8005,
+01:34:37.298659  [INFO    ][connected_2_mb]mb fd = 8 connected severName = 192.168.1.102, port = 8003,
+01:34:37.298696  [INFO    ][connected_2_mb]mb fd = 7 connected severName = 192.168.1.102, port = 8002,
+01:34:37.298717  [INFO    ][connected_2_mb]mb fd = 6 connected severName = 192.168.1.102, port = 8001,
+03:00:42.497761  [INFO    ][on_fd_closed]fd=13
+03:00:42.497832  [DEBUG   ][CEpollServer::removeFd]fd=13;fd_type=3;addr=192.168.1.102;port=53116
+03:00:42.498589  [INFO    ][on_fd_closed]fd=6
+03:00:42.498619  [DEBUG   ][CEpollServer::removeFd]fd=6;fd_type=2;addr=192.168.1.102;port=8001
+03:00:42.498667  [WARNING ][CEpollServer::addFdAndMb_err]desc=old_fd_mb;fd=6
+03:00:42.498684  [DEBUG   ][CEpollServer::addFdAndMb]fd=6;fd_type=2;addr=192.168.1.102;port=8001;authz=0
+03:00:42.498706  [WARNING ][handle_message_err]failed, 111,'Connection refused'
+03:00:42.498724  [INFO    ][on_fd_closed]fd=6
+03:00:42.498735  [DEBUG   ][CEpollServer::removeFd]fd=6;fd_type=2;addr=192.168.1.102;port=8001
+03:00:42.526128  [INFO    ][on_fd_closed]fd=14
+03:00:42.526164  [DEBUG   ][CEpollServer::removeFd]fd=14;fd_type=3;addr=192.168.1.102;port=53123
+03:00:42.527836  [INFO    ][on_fd_closed]fd=8
+03:00:42.527866  [DEBUG   ][CEpollServer::removeFd]fd=8;fd_type=2;addr=192.168.1.102;port=8003
+03:00:42.527908  [DEBUG   ][CEpollServer::addFdAndMb]fd=6;fd_type=2;addr=192.168.1.102;port=8003;authz=0
+03:00:42.527932  [WARNING ][handle_message_err]failed, 111,'Connection refused'
+03:00:42.527948  [INFO    ][on_fd_closed]fd=6
+03:00:42.527958  [DEBUG   ][CEpollServer::removeFd]fd=6;fd_type=2;addr=192.168.1.102;port=8003
+03:00:42.542521  [INFO    ][on_fd_closed]fd=12
+03:00:42.542609  [DEBUG   ][CEpollServer::removeFd]fd=12;fd_type=3;addr=192.168.1.102;port=53110
+03:00:42.542662  [INFO    ][on_fd_closed]fd=7
+03:00:42.542678  [DEBUG   ][CEpollServer::removeFd]fd=7;fd_type=2;addr=192.168.1.102;port=8002
+03:00:42.542729  [DEBUG   ][CEpollServer::addFdAndMb]fd=6;fd_type=2;addr=192.168.1.102;port=8002;authz=0
+03:00:42.542753  [WARNING ][handle_message_err]failed, 111,'Connection refused'
+03:00:42.542767  [INFO    ][on_fd_closed]fd=6
+03:00:42.542777  [DEBUG   ][CEpollServer::removeFd]fd=6;fd_type=2;addr=192.168.1.102;port=8002

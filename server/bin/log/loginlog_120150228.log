@@ -1,0 +1,117 @@
+01:29:36.313741  [WARNING ][init_cfg]warning:missed section:server_8
+01:29:36.313881  [WARNING ][init_cfg]warning:missed section:server_9
+01:29:36.313910  [WARNING ][init_cfg]warning:missed section:server_10
+01:29:36.313933  [WARNING ][init_cfg]warning:missed section:server_11
+01:29:36.313955  [WARNING ][init_cfg]warning:missed section:server_12
+01:29:36.313978  [WARNING ][init_cfg]warning:missed section:server_13
+01:29:36.313999  [WARNING ][init_cfg]warning:missed section:server_14
+01:29:36.314021  [WARNING ][init_cfg]warning:missed section:server_15
+01:29:36.314043  [WARNING ][init_cfg]warning:missed section:server_16
+01:29:36.314065  [WARNING ][init_cfg]warning:missed section:server_17
+01:29:36.314087  [WARNING ][init_cfg]warning:missed section:server_18
+01:29:36.314109  [WARNING ][init_cfg]warning:missed section:server_19
+01:29:36.314131  [WARNING ][init_cfg]warning:missed section:server_20
+01:29:36.314153  [WARNING ][init_cfg]warning:missed section:server_21
+01:29:36.314175  [WARNING ][init_cfg]warning:missed section:server_22
+01:29:36.314196  [WARNING ][init_cfg]warning:missed section:server_23
+01:29:36.314218  [WARNING ][init_cfg]warning:missed section:server_24
+01:29:36.314240  [WARNING ][init_cfg]warning:missed section:server_25
+01:29:36.314262  [WARNING ][init_cfg]warning:missed section:server_26
+01:29:36.314283  [WARNING ][init_cfg]warning:missed section:server_27
+01:29:36.314305  [WARNING ][init_cfg]warning:missed section:server_28
+01:29:36.314327  [WARNING ][init_cfg]warning:missed section:server_29
+01:29:36.314642  [DEBUG   ][CDefParser::init]==========
+01:29:36.395675  [DEBUG   ][CDefParser::init]m_EntityDefMd5 = e5a2d6e9b88cff1622d5b58a25f71496
+01:29:36.395767  [INFO    ][world::initNextEntityId]init_id=16777216
+01:29:36.395838  [DEBUG   ][CEpollServer::AddFdAndMb]serverName=
+01:29:36.395868  [DEBUG   ][CEpollServer::addFdAndMb]fd=4;fd_type=1;addr=;port=8001;authz=0
+01:29:36.395882  [DEBUG   ][start_server]:8001,success.
+01:29:36.395993  [DEBUG   ][CEpollServer::addFdAndMb]fd=6;fd_type=2;addr=192.168.200.102;port=8002;authz=0
+01:29:36.396018  [DEBUG   ][try_to_connect_mailbox]server=192.168.200.102;port=8002
+01:29:36.396056  [DEBUG   ][CEpollServer::addFdAndMb]fd=7;fd_type=2;addr=192.168.200.102;port=8003;authz=0
+01:29:36.396074  [DEBUG   ][try_to_connect_mailbox]server=192.168.200.102;port=8003
+01:29:36.396233  [DEBUG   ][CEpollServer::addFdAndMb]fd=8;fd_type=2;addr=192.168.200.102;port=8004;authz=0
+01:29:36.396253  [DEBUG   ][try_to_connect_mailbox]server=192.168.200.102;port=8004
+01:29:36.396288  [DEBUG   ][CEpollServer::addFdAndMb]fd=9;fd_type=2;addr=192.168.200.102;port=8005;authz=0
+01:29:36.396304  [DEBUG   ][try_to_connect_mailbox]server=192.168.200.102;port=8005
+01:29:36.396335  [DEBUG   ][CEpollServer::addFdAndMb]fd=10;fd_type=2;addr=192.168.200.102;port=8006;authz=0
+01:29:36.396351  [DEBUG   ][try_to_connect_mailbox]server=192.168.200.102;port=8006
+01:29:36.396388  [DEBUG   ][CEpollServer::addFdAndMb]fd=11;fd_type=2;addr=192.168.200.102;port=8007;authz=0
+01:29:36.396405  [DEBUG   ][try_to_connect_mailbox]server=192.168.200.102;port=8007
+01:29:36.396426  [INFO    ][connected_2_mb]mb fd = 6 connected severName = 192.168.200.102, port = 8002,
+01:29:36.396450  [INFO    ][connect_2_mb]connect 192.168.200.102:8003 error:111,Connection refused
+01:29:36.396464  [DEBUG   ][CEpollServer::removeFd]fd=7;fd_type=2;addr=192.168.200.102;port=8003
+01:29:36.396481  [INFO    ][connected_2_mb]mb fd = 8 connected severName = 192.168.200.102, port = 8004,
+01:29:36.396496  [INFO    ][connect_2_mb]connect 192.168.200.102:8005 error:111,Connection refused
+01:29:36.396508  [DEBUG   ][CEpollServer::removeFd]fd=9;fd_type=2;addr=192.168.200.102;port=8005
+01:29:36.396524  [INFO    ][connect_2_mb]connect 192.168.200.102:8006 error:111,Connection refused
+01:29:36.396537  [DEBUG   ][CEpollServer::removeFd]fd=10;fd_type=2;addr=192.168.200.102;port=8006
+01:29:36.396552  [INFO    ][connect_2_mb]connect 192.168.200.102:8007 error:111,Connection refused
+01:29:36.396564  [DEBUG   ][CEpollServer::removeFd]fd=11;fd_type=2;addr=192.168.200.102;port=8007
+01:29:36.423485  [INFO    ][new_connection]connected from 192.168.200.102:40089, assigned socket is:12
+01:29:36.423522  [DEBUG   ][CEpollServer::AddFdAndMb]serverName=192.168.200.102
+01:29:36.423538  [DEBUG   ][CEpollServer::AddFdAndMb]client_trusted, serverName=192.168.200.102
+01:29:36.423552  [DEBUG   ][CEpollServer::addFdAndMb]fd=12;fd_type=3;addr=192.168.200.102;port=40089;authz=15
+01:29:36.430021  [INFO    ][new_connection]connected from 192.168.200.102:40096, assigned socket is:13
+01:29:36.430055  [DEBUG   ][CEpollServer::AddFdAndMb]serverName=192.168.200.102
+01:29:36.430070  [DEBUG   ][CEpollServer::AddFdAndMb]client_trusted, serverName=192.168.200.102
+01:29:36.430085  [DEBUG   ][CEpollServer::addFdAndMb]fd=13;fd_type=3;addr=192.168.200.102;port=40096;authz=15
+01:29:37.518771  [INFO    ][new_connection]connected from 192.168.200.102:40113, assigned socket is:14
+01:29:37.518809  [DEBUG   ][CEpollServer::AddFdAndMb]serverName=192.168.200.102
+01:29:37.518826  [DEBUG   ][CEpollServer::AddFdAndMb]client_trusted, serverName=192.168.200.102
+01:29:37.518841  [DEBUG   ][CEpollServer::addFdAndMb]fd=14;fd_type=3;addr=192.168.200.102;port=40113;authz=15
+01:29:37.719599  [INFO    ][new_connection]connected from 192.168.200.102:40119, assigned socket is:15
+01:29:37.719676  [DEBUG   ][CEpollServer::AddFdAndMb]serverName=192.168.200.102
+01:29:37.719694  [DEBUG   ][CEpollServer::AddFdAndMb]client_trusted, serverName=192.168.200.102
+01:29:37.719709  [DEBUG   ][CEpollServer::addFdAndMb]fd=15;fd_type=3;addr=192.168.200.102;port=40119;authz=15
+01:29:41.024583  [DEBUG   ][CEpollServer::addFdAndMb]fd=11;fd_type=2;addr=192.168.200.102;port=8007;authz=0
+01:29:41.024712  [DEBUG   ][CEpollServer::addFdAndMb]fd=10;fd_type=2;addr=192.168.200.102;port=8006;authz=0
+01:29:41.024789  [DEBUG   ][CEpollServer::addFdAndMb]fd=9;fd_type=2;addr=192.168.200.102;port=8005;authz=0
+01:29:41.024894  [DEBUG   ][CEpollServer::addFdAndMb]fd=7;fd_type=2;addr=192.168.200.102;port=8003;authz=0
+01:29:41.024925  [INFO    ][connected_2_mb]mb fd = 11 connected severName = 192.168.200.102, port = 8007,
+01:29:41.024939  [INFO    ][connected_2_mb]mb fd = 10 connected severName = 192.168.200.102, port = 8006,
+01:29:41.024952  [INFO    ][connected_2_mb]mb fd = 9 connected severName = 192.168.200.102, port = 8005,
+01:29:41.024964  [INFO    ][connected_2_mb]mb fd = 7 connected severName = 192.168.200.102, port = 8003,
+01:29:41.025203  [INFO    ][new_connection]connected from 192.168.200.102:40139, assigned socket is:16
+01:29:41.025226  [DEBUG   ][CEpollServer::AddFdAndMb]serverName=192.168.200.102
+01:29:41.025270  [DEBUG   ][CEpollServer::AddFdAndMb]client_trusted, serverName=192.168.200.102
+01:29:41.025295  [DEBUG   ][CEpollServer::addFdAndMb]fd=16;fd_type=3;addr=192.168.200.102;port=40139;authz=15
+01:29:41.026106  [INFO    ][new_connection]connected from 192.168.200.102:40144, assigned socket is:17
+01:29:41.026130  [DEBUG   ][CEpollServer::AddFdAndMb]serverName=192.168.200.102
+01:29:41.026144  [DEBUG   ][CEpollServer::AddFdAndMb]client_trusted, serverName=192.168.200.102
+01:29:41.026158  [DEBUG   ][CEpollServer::addFdAndMb]fd=17;fd_type=3;addr=192.168.200.102;port=40144;authz=15
+01:29:42.785515  [INFO    ][CWorldLogin::ModifyLoginFlag]input=1;flag=1
+01:29:42.785556  [DEBUG   ][CWorldLogin::FromRpcCall]-------------------MSGID_LOGINAPP_MODIFY_LOGIN_FLAG------- nRet=0
+01:30:04.056631  [INFO    ][new_connection]connected from 192.168.200.1:3734, assigned socket is:18
+01:30:04.056710  [DEBUG   ][CEpollServer::AddFdAndMb]serverName=192.168.200.1
+01:30:04.056729  [DEBUG   ][CEpollServer::AddFdAndMb]client_trusted, serverName=192.168.200.1
+01:30:04.056745  [DEBUG   ][CEpollServer::addFdAndMb]fd=18;fd_type=3;addr=192.168.200.1;port=3734;authz=15
+01:30:04.212388  [DEBUG   ][CWorldLogin::_AccountLoginImpl]--------------_AccountLoginImpl------
+01:30:04.212453  [DEBUG   ][CWorldLogin::_AccountLoginImpl]-----------_AccountLoginImpl---p->size()=7
+01:30:04.212467  [DEBUG   ][CWorldLogin::_AccountLoginImpl]-----------_AccountLoginImpl;p1=˜{î;p2=˜œî;p3=ØSä
+01:30:04.212483  [INFO    ][CWorldLogin::account_login]----------------- client attempt to login;account=111111@test;passwd=111111@test;fd=6
+01:30:04.212515  [INFO    ][CWorldLogin::account_login]-------------- MSGID_DBMGR_SELECT_ACCOUNT----;pszAccount=111111@test; pszPasswd=111111@test; nFd=6
+01:30:04.212532  [DEBUG   ][CWorldLogin::FromRpcCall]-----------------MSGID_LOGINAPP_LOGIN--------- nRet=0
+01:30:04.264091  [INFO    ][CWorldLogin::select_account_callback]----------------- SelectAccountCallback 1 ------
+01:30:04.264134  [INFO    ][CWorldLogin::select_account_callback]----------------- SelectAccountCallback 2 ------
+01:30:04.264147  [INFO    ][CWorldLogin::select_account_callback]----------- account=111111@test;fd=6;ret=1
+01:30:04.264160  [INFO    ][CWorldLogin::select_account_callback]----------------- MAILBOX_CLIENT_AUTHZ ------
+01:30:04.264172  [INFO    ][CWorldLogin::select_account_callback]----------------- ENUM_LOGIN_SUCCESS ------
+01:30:04.264184  [INFO    ][CWorldLogin::select_account_callback]----------------- MSGID_BASEAPPMGR_CREATEBASE_FROM_NAME_ANYWHERE 1 ------
+01:30:04.264198  [INFO    ][CWorldLogin::select_account_callback]-------dbmgr ----- MSGID_BASEAPPMGR_CREATEBASE_FROM_NAME_ANYWHERE 2 ------
+01:30:04.264209  [DEBUG   ][CWorldLogin::SelectAccountCallback]u.GenLen()=9
+01:30:04.264220  [DEBUG   ][CWorldLogin::FromRpcCall]-----------------MSGID_LOGINAPP_SELECT_ACCOUNT_CALLBACK--------- nRet=0
+01:30:04.317351  [DEBUG   ][NotifyClientToAttach]------------- NotifyClientToAttach ------------ pszAccount=111111@test;baseapp_id=6;pszKey=8654cdfd1608f6e7c444536511c15377
+01:30:04.317415  [DEBUG   ][NotifyClientToAttach]account=111111@test;fd=6
+01:30:04.317455  [DEBUG   ][NotifyClientToAttach]----------------NotifyClientToAttach-------- MSGID_CLIENT_NOTIFY_ATTACH_BASEAPP=2; GetServerName=192.168.200.102; GetServerPort=8006; baseapp_id=6
+01:30:04.317476  [DEBUG   ][CWorldLogin::FromRpcCall]-------------------NotifyClientToAttach------- nRet=0
+01:31:52.803192  [WARNING ][handle_message_err]failed, 104,'Connection reset by peer'
+01:31:52.803307  [INFO    ][on_fd_closed]fd=18
+01:31:52.803336  [DEBUG   ][CEpollServer::removeFd]fd=18;fd_type=3;addr=192.168.200.1;port=3734
+01:31:52.836045  [INFO    ][new_connection]connected from 192.168.200.1:3736, assigned socket is:18
+01:31:52.836117  [DEBUG   ][CEpollServer::AddFdAndMb]serverName=192.168.200.1
+01:31:52.836133  [DEBUG   ][CEpollServer::AddFdAndMb]client_trusted, serverName=192.168.200.1
+01:31:52.836149  [DEBUG   ][CEpollServer::addFdAndMb]fd=18;fd_type=3;addr=192.168.200.1;port=3736;authz=15
+01:31:59.101494  [WARNING ][handle_message_err]failed, 104,'Connection reset by peer'
+01:31:59.101584  [INFO    ][on_fd_closed]fd=18
+01:31:59.101608  [DEBUG   ][CEpollServer::removeFd]fd=18;fd_type=3;addr=192.168.200.1;port=3736

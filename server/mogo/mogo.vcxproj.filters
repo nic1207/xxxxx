@@ -1,0 +1,518 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="base">
+      <UniqueIdentifier>{af212116-5659-46e5-a907-2a98fe198162}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="cell">
+      <UniqueIdentifier>{d240054d-174c-4d08-a3b6-b616a71dce87}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="common">
+      <UniqueIdentifier>{de96def5-452f-4ba1-b7e5-37081bbaff1d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="dbmgr">
+      <UniqueIdentifier>{f2622738-890a-487f-a633-793445cc9ffb}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="loginapp">
+      <UniqueIdentifier>{670d5554-dca1-40ad-92e3-1af7beb3bf4b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="cwmd">
+      <UniqueIdentifier>{6a9a956c-3e92-4577-a618-51f35b709688}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="syncdb">
+      <UniqueIdentifier>{5f330627-92d1-493b-b949-bdfcfb32e26b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="timerd">
+      <UniqueIdentifier>{da670364-bba9-4fa1-9d8d-80738050a149}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="scripts">
+      <UniqueIdentifier>{0b3d3172-2caa-4e7b-a035-a1d1ed0a9129}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="test">
+      <UniqueIdentifier>{b810d59a-c9f4-4fd5-9f26-0a9c41c6dcc9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="scripts\base">
+      <UniqueIdentifier>{16ad210e-4cd2-4c7e-a386-a65fa07435fb}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="scripts\base\mgr">
+      <UniqueIdentifier>{3c25e2b6-22d7-4da9-b667-7e051fb2daf4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="scripts\cell">
+      <UniqueIdentifier>{b0f4b459-c58b-4170-bf26-ab885c6bda45}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="scripts\common">
+      <UniqueIdentifier>{75ca0f01-2e9d-44c7-ac98-3dc3965ab92f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="scripts\data">
+      <UniqueIdentifier>{58cdcfcf-3b81-481c-bc27-3067679cef27}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="scripts\entity_defs">
+      <UniqueIdentifier>{21976cae-067c-4aa2-a250-a2d987ef0b97}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="scripts\test">
+      <UniqueIdentifier>{d9a3db76-87ca-48ca-a9c2-93d74f657699}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="logapp">
+      <UniqueIdentifier>{3304c449-f475-46be-9e92-df8df7e900ab}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\base\world_base.h">
+      <Filter>base</Filter>
+    </ClInclude>
+    <ClInclude Include="..\base\baseapp.h">
+      <Filter>base</Filter>
+    </ClInclude>
+    <ClInclude Include="..\base\entity_base.h">
+      <Filter>base</Filter>
+    </ClInclude>
+    <ClInclude Include="..\base\lua_base.h">
+      <Filter>base</Filter>
+    </ClInclude>
+    <ClInclude Include="..\cell\entity_cell.h">
+      <Filter>cell</Filter>
+    </ClInclude>
+    <ClInclude Include="..\cell\lua_cell.h">
+      <Filter>cell</Filter>
+    </ClInclude>
+    <ClInclude Include="..\cell\space.h">
+      <Filter>cell</Filter>
+    </ClInclude>
+    <ClInclude Include="..\cell\world_cell.h">
+      <Filter>cell</Filter>
+    </ClInclude>
+    <ClInclude Include="..\cell\aoi.h">
+      <Filter>cell</Filter>
+    </ClInclude>
+    <ClInclude Include="..\cell\cellapp.h">
+      <Filter>cell</Filter>
+    </ClInclude>
+    <ClInclude Include="..\common\balance.h">
+      <Filter>common</Filter>
+    </ClInclude>
+    <ClInclude Include="..\common\bitcryto.h">
+      <Filter>common</Filter>
+    </ClInclude>
+    <ClInclude Include="..\common\cfg_reader.h">
+      <Filter>common</Filter>
+    </ClInclude>
+    <ClInclude Include="..\common\defparser.h">
+      <Filter>common</Filter>
+    </ClInclude>
+    <ClInclude Include="..\common\entity.h">
+      <Filter>common</Filter>
+    </ClInclude>
+    <ClInclude Include="..\common\entity_mgr.h">
+      <Filter>common</Filter>
+    </ClInclude>
+    <ClInclude Include="..\common\epoll_server.h">
+      <Filter>common</Filter>
+    </ClInclude>
+    <ClInclude Include="..\common\exception.h">
+      <Filter>common</Filter>
+    </ClInclude>
+    <ClInclude Include="..\common\logger.h">
+      <Filter>common</Filter>
+    </ClInclude>
+    <ClInclude Include="..\common\lua_mogo.h">
+      <Filter>common</Filter>
+    </ClInclude>
+    <ClInclude Include="..\common\lua_mogo_impl.h">
+      <Filter>common</Filter>
+    </ClInclude>
+    <ClInclude Include="..\common\mailbox.h">
+      <Filter>common</Filter>
+    </ClInclude>
+    <ClInclude Include="..\common\my_stl.h">
+      <Filter>common</Filter>
+    </ClInclude>
+    <ClInclude Include="..\common\net_util.h">
+      <Filter>common</Filter>
+    </ClInclude>
+    <ClInclude Include="..\common\path_founder.h">
+      <Filter>common</Filter>
+    </ClInclude>
+    <ClInclude Include="..\common\pluto.h">
+      <Filter>common</Filter>
+    </ClInclude>
+    <ClInclude Include="..\common\rpc_mogo.h">
+      <Filter>common</Filter>
+    </ClInclude>
+    <ClInclude Include="..\common\timer.h">
+      <Filter>common</Filter>
+    </ClInclude>
+    <ClInclude Include="..\common\type_mogo.h">
+      <Filter>common</Filter>
+    </ClInclude>
+    <ClInclude Include="..\common\util.h">
+      <Filter>common</Filter>
+    </ClInclude>
+    <ClInclude Include="..\common\win_adaptor.h">
+      <Filter>common</Filter>
+    </ClInclude>
+    <ClInclude Include="..\common\world.h">
+      <Filter>common</Filter>
+    </ClInclude>
+    <ClInclude Include="..\common\world_select.h">
+      <Filter>common</Filter>
+    </ClInclude>
+    <ClInclude Include="..\common\xmsg.h">
+      <Filter>common</Filter>
+    </ClInclude>
+    <ClInclude Include="..\common\xsem.h">
+      <Filter>common</Filter>
+    </ClInclude>
+    <ClInclude Include="..\cwmd\cwmd.h">
+      <Filter>cwmd</Filter>
+    </ClInclude>
+    <ClInclude Include="..\cwmd\world_cwmd.h">
+      <Filter>cwmd</Filter>
+    </ClInclude>
+    <ClInclude Include="..\dbmgr\world_dbmgr.h">
+      <Filter>dbmgr</Filter>
+    </ClInclude>
+    <ClInclude Include="..\dbmgr\db_task.h">
+      <Filter>dbmgr</Filter>
+    </ClInclude>
+    <ClInclude Include="..\dbmgr\dbmgr.h">
+      <Filter>dbmgr</Filter>
+    </ClInclude>
+    <ClInclude Include="..\dbmgr\dboper.h">
+      <Filter>dbmgr</Filter>
+    </ClInclude>
+    <ClInclude Include="..\dbmgr\myredis.h">
+      <Filter>dbmgr</Filter>
+    </ClInclude>
+    <ClInclude Include="..\loginapp\world_login.h">
+      <Filter>loginapp</Filter>
+    </ClInclude>
+    <ClInclude Include="..\loginapp\loginapp.h">
+      <Filter>loginapp</Filter>
+    </ClInclude>
+    <ClInclude Include="..\timerd\timerd.h">
+      <Filter>timerd</Filter>
+    </ClInclude>
+    <ClInclude Include="..\timerd\world_timerd.h">
+      <Filter>timerd</Filter>
+    </ClInclude>
+    <ClInclude Include="..\common\mutex.h">
+      <Filter>common</Filter>
+    </ClInclude>
+    <ClInclude Include="..\logapp\db_task.h">
+      <Filter>logapp</Filter>
+    </ClInclude>
+    <ClInclude Include="..\logapp\dboper.h">
+      <Filter>logapp</Filter>
+    </ClInclude>
+    <ClInclude Include="..\logapp\other.h">
+      <Filter>logapp</Filter>
+    </ClInclude>
+    <ClInclude Include="..\logapp\other_def.h">
+      <Filter>logapp</Filter>
+    </ClInclude>
+    <ClInclude Include="..\logapp\threadpool.h">
+      <Filter>logapp</Filter>
+    </ClInclude>
+    <ClInclude Include="..\logapp\world_other.h">
+      <Filter>logapp</Filter>
+    </ClInclude>
+    <ClInclude Include="..\common\cjson.h">
+      <Filter>common</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="..\base\baseapp.cpp">
+      <Filter>base</Filter>
+    </ClCompile>
+    <ClCompile Include="..\base\entity_base.cpp">
+      <Filter>base</Filter>
+    </ClCompile>
+    <ClCompile Include="..\base\lua_base.cpp">
+      <Filter>base</Filter>
+    </ClCompile>
+    <ClCompile Include="..\base\main.cpp">
+      <Filter>base</Filter>
+    </ClCompile>
+    <ClCompile Include="..\base\world_base.cpp">
+      <Filter>base</Filter>
+    </ClCompile>
+    <ClCompile Include="..\cell\aoi.cpp">
+      <Filter>cell</Filter>
+    </ClCompile>
+    <ClCompile Include="..\cell\cellapp.cpp">
+      <Filter>cell</Filter>
+    </ClCompile>
+    <ClCompile Include="..\cell\entity_cell.cpp">
+      <Filter>cell</Filter>
+    </ClCompile>
+    <ClCompile Include="..\cell\lua_cell.cpp">
+      <Filter>cell</Filter>
+    </ClCompile>
+    <ClCompile Include="..\cell\main.cpp">
+      <Filter>cell</Filter>
+    </ClCompile>
+    <ClCompile Include="..\cell\space.cpp">
+      <Filter>cell</Filter>
+    </ClCompile>
+    <ClCompile Include="..\cell\world_cell.cpp">
+      <Filter>cell</Filter>
+    </ClCompile>
+    <ClCompile Include="..\common\server_test.cpp">
+      <Filter>common</Filter>
+    </ClCompile>
+    <ClCompile Include="..\common\timer.cpp">
+      <Filter>common</Filter>
+    </ClCompile>
+    <ClCompile Include="..\common\type_mogo.cpp">
+      <Filter>common</Filter>
+    </ClCompile>
+    <ClCompile Include="..\common\util.cpp">
+      <Filter>common</Filter>
+    </ClCompile>
+    <ClCompile Include="..\common\win_adaptor.cpp">
+      <Filter>common</Filter>
+    </ClCompile>
+    <ClCompile Include="..\common\world.cpp">
+      <Filter>common</Filter>
+    </ClCompile>
+    <ClCompile Include="..\common\xmsg.cpp">
+      <Filter>common</Filter>
+    </ClCompile>
+    <ClCompile Include="..\common\xsem.cpp">
+      <Filter>common</Filter>
+    </ClCompile>
+    <ClCompile Include="..\common\balance.cpp">
+      <Filter>common</Filter>
+    </ClCompile>
+    <ClCompile Include="..\common\bitcryto.cpp">
+      <Filter>common</Filter>
+    </ClCompile>
+    <ClCompile Include="..\common\cfg_reader.cpp">
+      <Filter>common</Filter>
+    </ClCompile>
+    <ClCompile Include="..\common\defparser.cpp">
+      <Filter>common</Filter>
+    </ClCompile>
+    <ClCompile Include="..\common\entity.cpp">
+      <Filter>common</Filter>
+    </ClCompile>
+    <ClCompile Include="..\common\entity_mgr.cpp">
+      <Filter>common</Filter>
+    </ClCompile>
+    <ClCompile Include="..\common\epoll_server.cpp">
+      <Filter>common</Filter>
+    </ClCompile>
+    <ClCompile Include="..\common\exception.cpp">
+      <Filter>common</Filter>
+    </ClCompile>
+    <ClCompile Include="..\common\logger.cpp">
+      <Filter>common</Filter>
+    </ClCompile>
+    <ClCompile Include="..\common\lua_mogo.cpp">
+      <Filter>common</Filter>
+    </ClCompile>
+    <ClCompile Include="..\common\mailbox.cpp">
+      <Filter>common</Filter>
+    </ClCompile>
+    <ClCompile Include="..\common\net_util.cpp">
+      <Filter>common</Filter>
+    </ClCompile>
+    <ClCompile Include="..\common\path_founder.cpp">
+      <Filter>common</Filter>
+    </ClCompile>
+    <ClCompile Include="..\common\pluto.cpp">
+      <Filter>common</Filter>
+    </ClCompile>
+    <ClCompile Include="..\common\rpc_mogo.cpp">
+      <Filter>common</Filter>
+    </ClCompile>
+    <ClCompile Include="..\cwmd\cwmd.cpp">
+      <Filter>cwmd</Filter>
+    </ClCompile>
+    <ClCompile Include="..\cwmd\main.cpp">
+      <Filter>cwmd</Filter>
+    </ClCompile>
+    <ClCompile Include="..\cwmd\world_cwmd.cpp">
+      <Filter>cwmd</Filter>
+    </ClCompile>
+    <ClCompile Include="..\dbmgr\db_task.cpp">
+      <Filter>dbmgr</Filter>
+    </ClCompile>
+    <ClCompile Include="..\dbmgr\dbmgr.cpp">
+      <Filter>dbmgr</Filter>
+    </ClCompile>
+    <ClCompile Include="..\dbmgr\dboper.cpp">
+      <Filter>dbmgr</Filter>
+    </ClCompile>
+    <ClCompile Include="..\dbmgr\main.cpp">
+      <Filter>dbmgr</Filter>
+    </ClCompile>
+    <ClCompile Include="..\dbmgr\myredis.cpp">
+      <Filter>dbmgr</Filter>
+    </ClCompile>
+    <ClCompile Include="..\dbmgr\world_dbmgr.cpp">
+      <Filter>dbmgr</Filter>
+    </ClCompile>
+    <ClCompile Include="..\loginapp\loginapp.cpp">
+      <Filter>loginapp</Filter>
+    </ClCompile>
+    <ClCompile Include="..\loginapp\main.cpp">
+      <Filter>loginapp</Filter>
+    </ClCompile>
+    <ClCompile Include="..\loginapp\world_login.cpp">
+      <Filter>loginapp</Filter>
+    </ClCompile>
+    <ClCompile Include="..\syncdb\main.cpp">
+      <Filter>syncdb</Filter>
+    </ClCompile>
+    <ClCompile Include="..\test\policy.cpp">
+      <Filter>test</Filter>
+    </ClCompile>
+    <ClCompile Include="..\test\test_client.cpp">
+      <Filter>test</Filter>
+    </ClCompile>
+    <ClCompile Include="..\test\world_client.cpp">
+      <Filter>test</Filter>
+    </ClCompile>
+    <ClCompile Include="..\test\main.cpp">
+      <Filter>test</Filter>
+    </ClCompile>
+    <ClCompile Include="..\timerd\timerd.cpp">
+      <Filter>timerd</Filter>
+    </ClCompile>
+    <ClCompile Include="..\timerd\world_timerd.cpp">
+      <Filter>timerd</Filter>
+    </ClCompile>
+    <ClCompile Include="..\timerd\main.cpp">
+      <Filter>timerd</Filter>
+    </ClCompile>
+    <ClCompile Include="..\common\mutex.cpp">
+      <Filter>common</Filter>
+    </ClCompile>
+    <ClCompile Include="..\logapp\world_other.cpp">
+      <Filter>logapp</Filter>
+    </ClCompile>
+    <ClCompile Include="..\logapp\db_task.cpp">
+      <Filter>logapp</Filter>
+    </ClCompile>
+    <ClCompile Include="..\logapp\dboper.cpp">
+      <Filter>logapp</Filter>
+    </ClCompile>
+    <ClCompile Include="..\logapp\http.cpp">
+      <Filter>logapp</Filter>
+    </ClCompile>
+    <ClCompile Include="..\logapp\main.cpp">
+      <Filter>logapp</Filter>
+    </ClCompile>
+    <ClCompile Include="..\logapp\other.cpp">
+      <Filter>logapp</Filter>
+    </ClCompile>
+    <ClCompile Include="..\logapp\threadpool.cpp">
+      <Filter>logapp</Filter>
+    </ClCompile>
+    <ClCompile Include="..\logapp\api.cpp">
+      <Filter>logapp</Filter>
+    </ClCompile>
+    <ClCompile Include="..\common\cjson.cpp">
+      <Filter>common</Filter>
+    </ClCompile>
+    <ClCompile Include="..\test\winbaseapp.cpp">
+      <Filter>test</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="..\scripts\base\Account.lua">
+      <Filter>scripts\base</Filter>
+    </None>
+    <None Include="..\scripts\base\Avatar.lua">
+      <Filter>scripts\base</Filter>
+    </None>
+    <None Include="..\scripts\base\BaseEntity.lua">
+      <Filter>scripts\base</Filter>
+    </None>
+    <None Include="..\scripts\base\GameMgr.lua">
+      <Filter>scripts\base</Filter>
+    </None>
+    <None Include="..\scripts\base\global_data.lua">
+      <Filter>scripts\base</Filter>
+    </None>
+    <None Include="..\scripts\base\init.lua">
+      <Filter>scripts\base</Filter>
+    </None>
+    <None Include="..\scripts\base\MapMgr.lua">
+      <Filter>scripts\base</Filter>
+    </None>
+    <None Include="..\scripts\base\SpaceLoader.lua">
+      <Filter>scripts\base</Filter>
+    </None>
+    <None Include="..\scripts\base\UserMgr.lua">
+      <Filter>scripts\base</Filter>
+    </None>
+    <None Include="..\scripts\base\mgr\mgr_action.lua">
+      <Filter>scripts\base\mgr</Filter>
+    </None>
+    <None Include="..\scripts\base\mgr\mgr_channel.lua">
+      <Filter>scripts\base\mgr</Filter>
+    </None>
+    <None Include="..\scripts\base\mgr\mgr_map.lua">
+      <Filter>scripts\base\mgr</Filter>
+    </None>
+    <None Include="..\scripts\cell\init.lua">
+      <Filter>scripts\cell</Filter>
+    </None>
+    <None Include="..\scripts\cell\Monster.lua">
+      <Filter>scripts\cell</Filter>
+    </None>
+    <None Include="..\scripts\cell\Pet.lua">
+      <Filter>scripts\cell</Filter>
+    </None>
+    <None Include="..\scripts\cell\SpaceLoader.lua">
+      <Filter>scripts\cell</Filter>
+    </None>
+    <None Include="..\scripts\cell\Avatar.lua">
+      <Filter>scripts\cell</Filter>
+    </None>
+    <None Include="..\scripts\cell\CellEntity.lua">
+      <Filter>scripts\cell</Filter>
+    </None>
+    <None Include="..\scripts\common\error_code.lua">
+      <Filter>scripts\common</Filter>
+    </None>
+    <None Include="..\scripts\common\lua_util.lua">
+      <Filter>scripts\common</Filter>
+    </None>
+    <None Include="..\scripts\common\public_config.lua">
+      <Filter>scripts\common</Filter>
+    </None>
+    <None Include="..\scripts\common\action_config.lua">
+      <Filter>scripts\common</Filter>
+    </None>
+    <None Include="..\scripts\entity_defs\entities.xml">
+      <Filter>scripts\entity_defs</Filter>
+    </None>
+    <None Include="..\scripts\entity_defs\GameMgr.def">
+      <Filter>scripts\entity_defs</Filter>
+    </None>
+    <None Include="..\scripts\entity_defs\MapMgr.def">
+      <Filter>scripts\entity_defs</Filter>
+    </None>
+    <None Include="..\scripts\entity_defs\SpaceLoader.def">
+      <Filter>scripts\entity_defs</Filter>
+    </None>
+    <None Include="..\scripts\entity_defs\UserMgr.def">
+      <Filter>scripts\entity_defs</Filter>
+    </None>
+    <None Include="..\scripts\entity_defs\Account.def">
+      <Filter>scripts\entity_defs</Filter>
+    </None>
+    <None Include="..\scripts\entity_defs\ArenaMgr.def">
+      <Filter>scripts\entity_defs</Filter>
+    </None>
+    <None Include="..\scripts\entity_defs\Avatar.def">
+      <Filter>scripts\entity_defs</Filter>
+    </None>
+    <None Include="..\scripts\test\base_test.lua">
+      <Filter>scripts\test</Filter>
+    </None>
+  </ItemGroup>
+</Project>
